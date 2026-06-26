@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Lokale, datenschutzfreundliche Trainingskommentare direkt auf dem Gerät der Athleten",
+      "kontext": "Tools wie Cotypist zeigen, dass leistungsfähige Sprachmodelle inzwischen komplett offline auf Apple Silicon laufen — ohne dass Daten in die Cloud müssen.",
+      "umsetzung": "Contoura könnte eine On-Device-Variante anbieten, die nach jedem Training automatisch kurze, persönliche Kommentare zu Split-Zeiten und Fehlermustern direkt auf dem Smartphone der Athletinnen und Athleten generiert — relevant für Vereine und Verbände, die sensible Leistungsdaten ungern in der Cloud verarbeiten lassen wollen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Deep-Think-Reasoning für saisonübergreifende Fehlermuster-Analyse",
+      "kontext": "Googles neuer Gemini 2.5 Pro Deep-Think-Modus erreicht Bestwerte bei komplexem, mehrstufigem Reasoning — genau die Art von Analyse, die nötig ist, um über viele Trainingseinheiten hinweg wiederkehrende Fehlermuster zu erkennen.",
+      "umsetzung": "Contoura könnte Deep-Think-fähige Modelle nutzen, um aus Fehlerstatistiken und Split-Zeiten über eine ganze Saison hinweg subtile Muster herauszuarbeiten — etwa systematische Schwächen bei bestimmten Geländetypen oder Tageszeiten — und daraus konkrete Trainingsempfehlungen abzuleiten.",
+      "aufwand": "hoch",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Server für Contoura: Trainingsdaten direkt für Coaching-Agenten zugänglich machen",
+      "kontext": "Die kommende MCP-Spezifikation macht Remote-Server zustandslos und leichter skalierbar, wodurch sich ein eigener MCP-Server für Trainingsdaten deutlich einfacher betreiben lässt als bisher.",
+      "umsetzung": "Contoura könnte einen schlanken MCP-Server bereitstellen, über den Trainer per Claude oder einem anderen Agenten direkt auf Performance-Index, Split-Zeiten und Fehlerstatistiken einzelner Athleten zugreifen und automatisch Trainingspläne anpassen lassen können.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

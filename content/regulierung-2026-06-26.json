@@ -1,0 +1,21 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Parlament billigt Verzögerungen und Vereinfachungen beim AI Act",
+      "region": "EU",
+      "detail": "Am 16. Juni 2026 hat das EU-Parlament finale Änderungen am AI Act verabschiedet: Pflichten für eigenständige Hochrisiko-KI-Systeme nach Anhang III verschieben sich um 16 Monate auf den 2. Dezember 2027, Wasserzeichen-Pflichten für vor August 2026 platzierte Systeme auf Dezember 2026, und die Pflicht der Mitgliedstaaten zu nationalen Regulierungs-Sandboxes wandert auf August 2027. Gleichzeitig werden „Nudifying“-Apps (Erzeugung nicht-einvernehmlicher sexueller Inhalte) ab Dezember 2026 EU-weit verboten. Für Unternehmen bedeutet das mehr Zeit zur Vorbereitung, aber auch neue rote Linien.",
+      "url": "https://www.morganlewis.com/pubs/2026/06/eu-approves-delays-and-other-amendments-to-certain-eu-ai-act-obligations-what-businesses-should-know",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Colorado ersetzt KI-Verbrauchergesetz durch neue ADMT-Regulierung",
+      "region": "USA",
+      "detail": "Der ursprüngliche Colorado AI Act (SB 24-205), der eigentlich am 30. Juni 2026 in Kraft treten sollte, wurde nie wirksam: Mit SB 26-189 hat der Bundesstaat im Mai 2026 eine deutlich engere Regulierung speziell für „Automated Decision-Making Technology“ (ADMT) beschlossen, die stattdessen am 1. Januar 2027 startet. Verstöße gelten künftig als unlautere Geschäftspraktiken mit Bußgeldern bis 20.000 Dollar pro Verstoß, durchgesetzt vom Attorney General.",
+      "url": "https://www.bhfs.com/insight/colorados-landmark-ai-law-coming-online-what-developers-and-deployers-should-know/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

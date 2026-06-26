@@ -1,0 +1,45 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI und Broadcom stellen eigenen KI-Inferenz-Chip „Jalapeño“ vor",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "zusammenfassung": "OpenAI hat zusammen mit Broadcom seinen ersten eigenen KI-Beschleuniger namens Jalapeño vorgestellt, der speziell für LLM-Inferenz optimiert ist. Der Chip wurde in nur neun Monaten von Design bis zur Fertigung entwickelt und soll ab Ende 2026 in Rechenzentren im Gigawatt-Maßstab eingesetzt werden. Damit reduziert OpenAI seine Abhängigkeit von Nvidia und baut den eigenen Hardware-Stack weiter aus.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nobelpreisträger John Jumper verlässt Google DeepMind für Anthropic",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-06-19/nobel-winner-john-jumper-to-leave-google-deepmind-for-anthropic",
+      "zusammenfassung": "AlphaFold-Erfinder und Chemie-Nobelpreisträger John Jumper verlässt nach fast neun Jahren Google DeepMind und wechselt zu Anthropic. Der Schritt sorgte für Aufsehen in der Branche und ließ die Alphabet-Aktie merklich fallen. Jumper will sich vor seinem Start bei Anthropic zunächst eine Auszeit nehmen.",
+      "kategorie": "Talent & Strategie",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta plant eigene KI-Prognosemarkt-App „Arena“",
+      "quelle": "Isla Public",
+      "quelleUrl": "https://www.islapublic.org/2026-06-25/meta-plans-to-release-ai-powered-prediction-market-app-documents-show",
+      "zusammenfassung": "Internen Dokumenten zufolge baut Meta eine eigenständige Prognosemarkt-App namens Arena auf, um mit Anbietern wie Kalshi und Polymarket zu konkurrieren. Llama soll automatisch Fragen aus Trending-Themen generieren, personalisierte Markt-Empfehlungen geben und sogar Märkte selbst auflösen. CEO Mark Zuckerberg treibt das Projekt persönlich voran.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Apple öffnet Siri für Claude, Gemini und ChatGPT über neues „Extensions“-System",
+      "quelle": "TechRadar",
+      "quelleUrl": "https://www.techradar.com/ai-platforms-assistants/apple-intelligence/apple-is-about-to-let-you-replace-its-ai-with-chatgpt-gemini-and-claude-and-it-could-change-the-iphone-forever",
+      "zusammenfassung": "Mit iOS 27, iPadOS 27 und macOS 27 führt Apple ein offenes Extensions-Framework ein, mit dem Nutzer ihren bevorzugten KI-Anbieter für Apple Intelligence und Siri wählen können — darunter Claude, Gemini, ChatGPT und Grok. Nutzer könnten künftig je nach Aufgabe unterschiedliche Modelle einsetzen, etwa Claude für Coding-Hilfe und Gemini für Recherche. Die Funktion soll im Herbst 2026 erscheinen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

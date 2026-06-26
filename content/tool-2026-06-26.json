@@ -1,0 +1,12 @@
+{
+  "datum": "2026-06-26",
+  "name": "Cotypist",
+  "tagline": "Lokale KI-Autovervollständigung in deinem eigenen Schreibstil, überall auf dem Mac",
+  "beschreibung": "Cotypist ist eine macOS-App, die ein Sprachmodell vollständig lokal auf Apple Silicon ausführt und systemweite Textvorschläge liefert — egal ob in Mail, Notion, Slack oder im Terminal. Da alles offline auf dem Gerät verarbeitet wird, verlassen keine Texte den Rechner, was Datenschutz und Geschwindigkeit deutlich verbessert. Das Tool lernt dabei den individuellen Schreibstil der Nutzer und passt Vorschläge entsprechend an. Es war am 23. Juni 2026 eines der meistbeachteten Produkte auf Product Hunt.",
+  "useCase": "Ein Freelancer schreibt täglich viele E-Mails und Angebote — Cotypist schlägt passende Satzenden im eigenen Tonfall vor und spart so spürbar Zeit, ganz ohne dass sensible Geschäftsdaten in die Cloud geschickt werden.",
+  "url": "https://cotypist.app/",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["macOS", "On-Device-KI", "Autocomplete", "Datenschutz"]
+}

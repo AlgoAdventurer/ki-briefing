@@ -1,0 +1,32 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 2.5 Pro",
+      "version": "Deep Think",
+      "anbieter": "Google",
+      "detail": "Google hat einen neuen Deep-Think-Reasoning-Modus für Gemini 2.5 Pro veröffentlicht, der mit 82,4% auf GPQA Diamond und 89,8% auf MMLU-Pro die bislang höchsten Werte aller öffentlich verfügbaren Modelle in wissenschaftlichem und akademischem Reasoning erreicht. Damit übernimmt Google die Führung bei Graduate-Level-Reasoning-Aufgaben, während Anthropics Fable 5 weiterhin bei Software-Engineering und langwierigen Agentic-Coding-Aufgaben vorne liegt.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-io-2026-all-our-announcements/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "GPT-5.5-Cyber",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat die Fähigkeiten seines spezialisierten Cybersecurity-Modells GPT-5.5-Cyber deutlich erweitert. Es erzielt mit 85,6% auf CyberGym und 39,5% auf ExploitGym neue Bestwerte und kann eigenständig große Codebasen analysieren, Schwachstellen identifizieren und Patches entwickeln. Der Zugriff bleibt über das „Trusted Access for Cyber“-Programm auf verifizierte Sicherheitsteams und Behörden beschränkt.",
+      "url": "https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 3,
+      "name": "Frontier-Modell von Cursor",
+      "version": "1,5 Billionen Parameter (in Training)",
+      "anbieter": "Cursor (Anysphere)",
+      "detail": "Cursor trainiert erstmals ein komplett eigenes Frontier-Modell von Grund auf — mit 1,5 Billionen Parametern auf xAIs Colossus-Supercomputer-Cluster. Bisher setzte Cursor ausschließlich auf fremde Modelle wie GPT oder Claude; mit dem eigenen Modell will das Unternehmen Coding-Workflows direkt auf die eigene Plattform zuschneiden. Ein Release wird laut Unternehmen in den kommenden Wochen erwartet.",
+      "url": "https://www.techtimes.com/articles/318974/20260624/cursor-trains-first-frontier-model-scratch-colossus-15-trillion-parameters.htm",
+      "bild": ""
+    }
+  ]
+}

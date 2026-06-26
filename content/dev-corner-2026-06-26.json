@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird „stateless“",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate der Model Context Protocol-Spezifikation macht den Protokollkern zustandslos und ergänzt ein Extensions-Framework, ein Tasks-System, MCP Apps sowie strengere Autorisierungs- und Deprecation-Regeln. Praktisch bedeutet das: Ein Remote-MCP-Server, der bisher Sticky Sessions und einen geteilten Session-Store brauchte, kann künftig hinter einem einfachen Round-Robin-Load-Balancer laufen und Tool-Listen client-seitig cachen. Die finale Spezifikation wird für den 28. Juli 2026 erwartet — relevant für alle, die eigene MCP-Server für Claude oder andere Agenten bauen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Hugging Face veröffentlicht neue Open-Source-Modelle: MiniMax-M3-VL, PP-OCRv6, Parakeet-RNNT",
+      "typ": "Open Source",
+      "detail": "Mit Version 5.12.0 der Transformers-Bibliothek hat Hugging Face Unterstützung für drei neue Open-Source-Modelle ergänzt: MiniMax-M3-VL für Vision-Language-Aufgaben mit Sparse-Attention, das edge-taugliche OCR-System PP-OCRv6 sowie Parakeet-RNNT für Echtzeit-Spracherkennung. Alle drei Modelle lassen sich direkt über die Transformers-Pipeline laden und sind für den produktiven Einsatz auf eigener Infrastruktur gedacht.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "codebeispiel": "from transformers import pipeline\npipe = pipeline(\"automatic-speech-recognition\", model=\"nvidia/parakeet-rnnt\")"
+    },
+    {
+      "id": 3,
+      "titel": "Microsoft Foundry Local erreicht General Availability",
+      "typ": "SDK",
+      "detail": "Microsofts On-Device-Inferenz-Plattform Foundry Local ist für Windows, macOS und Linux allgemein verfügbar. Entwickler können damit komplette KI-Inferenz und Agent-Ausführung lokal laufen lassen, ganz ohne Cloud-Abhängigkeit und ohne Per-Token-Kosten — interessant für Latenz-kritische oder datenschutzsensible Anwendungen.",
+      "url": "https://devblogs.microsoft.com/foundry/foundry-local-ga/",
+      "codebeispiel": ""
+    }
+  ]
+}

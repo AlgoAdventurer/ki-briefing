@@ -1,0 +1,32 @@
+{
+  "datum": "2026-06-26",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Assort Health",
+      "betrag": "$120M",
+      "runde": "Series C",
+      "investoren": "Menlo Ventures",
+      "beschreibung": "Assort Health baut KI-Agenten für Patient-Access-Workflows im Gesundheitswesen, etwa für Terminvereinbarung und Anrufabwicklung in Arztpraxen und Kliniken. Die Runde reiht sich in einen klaren Trend ein: Investoren setzen zunehmend auf „Production AI“ in regulierten Branchen mit nachweisbaren Kennzahlen statt auf allgemeines KI-Potenzial.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Taktile",
+      "betrag": "$110M",
+      "runde": "Series C",
+      "investoren": "Goldman Sachs Alternatives",
+      "beschreibung": "Taktile automatisiert finanzielle Entscheidungsprozesse für Banken und Versicherer, etwa Kreditvergabe und Risikoprüfung. Die Series-C-Runde unterstreicht das wachsende Investoreninteresse an KI-Infrastruktur für stark regulierte Finanzdienstleister.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Flourish",
+      "betrag": "$500M",
+      "runde": "Seed",
+      "investoren": "Jeff Bezos, Lux Capital, GV, Catalio Capital",
+      "beschreibung": "Flourish erforscht über Connectomics das „Kernalgorithmus“ des menschlichen Gehirns, um daraus energieeffiziente KI-Systeme abzuleiten. Das als Cortex AI bezeichnete Zielsystem soll mit 20 bis 50 Watt auskommen — vergleichbar mit dem Energiebedarf eines menschlichen Gehirns und damit ein möglicher Ausweg aus der wachsenden Stromkrise der KI-Branche. Die Runde bewertet das noch produktlose Unternehmen mit 2,5 Milliarden Dollar.",
+      "bild": ""
+    }
+  ]
+}
