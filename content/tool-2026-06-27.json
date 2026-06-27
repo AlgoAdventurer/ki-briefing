@@ -1,0 +1,12 @@
+{
+  "datum": "2026-06-27",
+  "name": "Wispr Flow",
+  "tagline": "KI-Diktier-App, die gesprochene Sprache direkt in formatierten, fertigen Text verwandelt",
+  "beschreibung": "Wispr Flow ist eine cloudbasierte Diktier-App für macOS, Windows, iOS und Android, die Sprache nicht nur transkribiert, sondern kontextabhängig umschreibt: Füllwörter werden entfernt, Ton und Formatierung passen sich automatisch an die jeweilige Anwendung an. Mit dem „Command Mode“ lassen sich Texte per Sprachbefehl bearbeiten, etwa „lösche den letzten Satz“ oder „kürze diesen Absatz“. Die App unterstützt über 100 Sprachen inklusive Sprachwechsel mitten im Satz und stand am 25. Juni 2026 auf Platz 1 des Product-Hunt-Tagesrankings.",
+  "useCase": "Entwickler diktieren Prompts für LLMs, Commit-Messages oder Doku-Texte per Sprache statt zu tippen — Wispr Flow formatiert das Ergebnis automatisch passend zur Zielanwendung (z. B. Code-Kommentar vs. Slack-Nachricht).",
+  "url": "https://wisprflow.ai",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Diktieren", "Voice-to-Text", "Productivity", "Mac", "Cross-Platform"]
+}

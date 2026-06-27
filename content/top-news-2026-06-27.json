@@ -1,0 +1,45 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI stellt GPT-5.6 mit den Modellen Sol, Terra und Luna vor",
+      "quelle": "MacRumors",
+      "quelleUrl": "https://www.macrumors.com/2026/06/26/openai-gpt-5-6-sol/",
+      "zusammenfassung": "OpenAI hat am 26. Juni die neue GPT-5.6-Familie angekündigt: Sol als neues Flaggschiff mit verbesserten agentischen Fähigkeiten in Coding, Biologie und Cybersicherheit, Terra als günstigere Alternative zu GPT-5.5 und Luna als schnellstes, preiswertestes Modell. Wegen Sicherheitsbedenken der US-Regierung startet zunächst nur eine eng begrenzte Vorschau für ausgewählte Partner, eine breitere Verfügbarkeit ist für die kommenden Wochen geplant.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic wirft Alibaba größte bekannte KI-Abschöpfungskampagne gegen Claude vor",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/06/24/anthropic-alibaba-distillation-campaign.html",
+      "zusammenfassung": "Anthropic hat dem US-Senat mitgeteilt, dass mit Alibaba und dessen KI-Labor Qwen verbundene Akteure rund 25.000 gefälschte Accounts nutzten, um zwischen April und Juni über 28,8 Millionen Anfragen an Claude zu stellen. Ziel war laut Anthropic „Distillation“ — das Trainieren eines günstigeren Konkurrenzmodells anhand der Claude-Ausgaben. Es handelt sich um die bisher größte von Anthropic aufgedeckte Abschöpfungskampagne, größer als die zuvor gemeldeten Fälle von DeepSeek, Moonshot AI und MiniMax zusammen.",
+      "kategorie": "Sicherheit & Geopolitik",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic startet „Claude Tag“ als persistenten KI-Kollegen in Slack",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/anthropic-launches-claude-tag-replacing-its-slack-app-with-a-persistent-ai-teammate-that-learns-monitors-and-works-autonomously",
+      "zusammenfassung": "Anthropic hat am 23. Juni Claude Tag als Beta für Enterprise- und Team-Kunden gestartet und ersetzt damit die bisherige Claude-Slack-App. Per @Claude-Erwähnung zerlegt das System Aufgaben in Schritte, arbeitet sie eigenständig ab und antwortet im Thread — dabei gibt es pro Kanal nur eine gemeinsame Claude-Instanz, die sich Kontext über Zeit merkt. Intern entstehen laut Anthropic bereits 65 % des Codes im Produktteam über dieses Tool.",
+      "kategorie": "Produktivität",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Slack_icon_2019.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Qualcomm verhandelt über Übernahme des KI-Chip-Start-ups Tenstorrent für bis zu 10 Mrd. Dollar",
+      "quelle": "Reuters / Yahoo Finance",
+      "quelleUrl": "https://finance.yahoo.com/technology/ai/articles/qualcomm-talks-acquire-ai-chip-230401789.html",
+      "zusammenfassung": "Qualcomm steht laut Reuters in fortgeschrittenen Gesprächen, das von Jim Keller gegründete KI-Chip-Start-up Tenstorrent für 8 bis 10 Milliarden Dollar zu übernehmen. Tenstorrent entwickelt KI-Beschleuniger auf Basis des offenen RISC-V-Standards. Zusammen mit der bereits bestätigten 3,9-Mrd.-Dollar-Übernahme von Modular würde Qualcomm damit über 14 Mrd. Dollar investieren, um Cloud-Anbietern eine Alternative zu Nvidia-Hardware zu bieten.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Qualcomm-Logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

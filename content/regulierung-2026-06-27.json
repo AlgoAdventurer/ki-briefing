@@ -1,0 +1,21 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Parlament billigt Verschiebung wichtiger AI-Act-Pflichten im Digital Omnibus",
+      "region": "EU",
+      "detail": "Das EU-Parlament hat am 16. Juni 2026 die im Digital Omnibus vereinbarten Änderungen am AI Act gebilligt. Die Pflichten für eigenständige Hochrisiko-KI-Systeme aus Anhang III verschieben sich um 16 Monate auf den 2. Dezember 2027, für Hochrisiko-Systeme in bereits regulierten Produkten auf den 2. August 2028. Gleichzeitig werden neue Verbote für „Nudifier“-Apps eingeführt, die nicht-einvernehmliche intime Inhalte erzeugen. Die formale Verabschiedung durch den Rat und Veröffentlichung im EU-Amtsblatt wird für Juli 2026 erwartet.",
+      "url": "https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "US-Regierung zwingt Anthropic zu Exportkontrollen für Claude Fable 5 und Mythos 5",
+      "region": "USA",
+      "detail": "Das US-Handelsministerium hat Anthropic per nationalen Sicherheitsbestimmungen angewiesen, den Zugang zu den leistungsstärksten Modellen Fable 5 und Mythos 5 für alle ausländischen Staatsangehörigen zu sperren — auch für nicht-US-Mitarbeiter von Anthropic selbst. Auslöser war laut Behörden eine entdeckte Methode, mit der sich Sicherheitsvorkehrungen von Fable 5 umgehen ließen. Es ist der erste Fall, in dem die US-Regierung ein bereits kommerziell verfügbares KI-Modell rückwirkend per Exportkontrolle einschränkt; Sicherheitsexperten kritisieren den Schritt scharf.",
+      "url": "https://fortune.com/2026/06/13/anthropic-disables-fable-mythos-export-controls-national-security-threat/",
+      "auswirkung": "hoch"
+    }
+  ]
+}

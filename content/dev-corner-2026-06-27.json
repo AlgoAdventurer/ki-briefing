@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP wird mit dem 2026-07-28 Release Candidate zustandslos",
+      "typ": "Protokoll-Update",
+      "detail": "Der neue Release Candidate des Model Context Protocol macht das Protokoll auf Transportebene zustandslos: Statt einer Session mit Mcp-Session-Id tragen einzelne Requests wie tools/call jetzt Protokollversion, Client-Infos und Capabilities direkt mit sich. Dadurch lassen sich Remote-MCP-Server hinter einem einfachen Round-Robin-Load-Balancer betreiben statt mit Sticky Sessions und Shared Session Store. Zusätzlich gibt es eine formale Deprecation-Policy, gehärtete OAuth-2.1-Autorisierung und standardisiertes Client-Side-Caching über ttlMs-Felder. Die finale Spezifikation erscheint am 28. Juli 2026.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Code 2.1.195: 37 % weniger CPU-Last beim Streaming",
+      "typ": "Tool-Update",
+      "detail": "Das neueste Claude-Code-Release bringt vor allem Performance- und Stabilitätsverbesserungen: Die CPU-Auslastung beim Streamen von Antworten sinkt durch Text-Update-Coalescing um rund 37 %, MCP-Server reconnecten jetzt automatisch bei 401/403-Fehlern, und ein neues Setting (autoMode.classifyAllShell) lässt sich nutzen, um alle Bash/PowerShell-Befehle durch den Auto-Mode-Klassifikator laufen zu lassen. Außerdem wurden mehrere Bugs bei Background-Agents und Plugin-Verwaltung behoben.",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Workload Identity Federation für die Claude API ist GA",
+      "typ": "API",
+      "detail": "Anthropic hat Workload Identity Federation (WIF) für die Claude-Plattform allgemein verfügbar gemacht. Workloads authentifizieren sich damit über kurzlebige OIDC-Tokens von AWS IAM, Google Cloud, GitHub Actions, Kubernetes oder Microsoft Entra ID statt über statische sk-ant-... API-Keys, die in CI-Pipelines landen und leaken können. Claude Code unterstützt WIF direkt, etwa über kurzlebige GitHub-Actions-Tokens in Build-Pipelines.",
+      "url": "https://platform.claude.com/docs/en/build-with-claude/workload-identity-federation",
+      "codebeispiel": ""
+    }
+  ]
+}

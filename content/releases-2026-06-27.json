@@ -1,0 +1,32 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.5-Cyber",
+      "version": "5.5",
+      "anbieter": "OpenAI",
+      "detail": "Über das invite-only Cybersecurity-Programm „Daybreak“ hat OpenAI eine verschärfte Version von GPT-5.5-Cyber veröffentlicht, die exklusiv auf Schwachstellenanalyse, Exploit-Generierung und Red-Teaming trainiert ist. Mit 85,6 % im CyberGym-Benchmark erreicht das Modell den bisher höchsten Wert eines einzelnen Modells und kann eigenständig große Codebasen analysieren, verwundbare Stellen identifizieren und Patches vorschlagen. Zugang erhalten nur verifizierte Verteidiger mit strengen Exportkontrollen.",
+      "url": "https://cybersecuritynews.com/gpt-5-5-cyber/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.5 Pro",
+      "version": "3.5",
+      "anbieter": "Google",
+      "detail": "Googles für Juni angekündigtes Flaggschiff-Modell mit 2-Millionen-Token-Kontextfenster und „Deep Think“-Reasoning-Modus befindet sich weiterhin nur in begrenzter Vorschau für ausgewählte Vertex-AI-Enterprise-Kunden. Eine breite Verfügbarkeit bis Ende Juni gilt laut Prognosemärkten nur noch als knapp wahrscheinlich, mehrere Berichte deuten auf eine Verschiebung in den Juli hin.",
+      "url": "https://www.techtimes.com/articles/317919/20260606/google-gemini-35-pro-nears-june-launch-2-million-token-context-deep-think-reasoning.htm",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Nemotron 3.5 ASR",
+      "version": "3.5",
+      "anbieter": "NVIDIA",
+      "detail": "NVIDIA hat ein offenes 600-Millionen-Parameter-Modell für Echtzeit-Spracherkennung veröffentlicht, das Streaming-Transkription in 40 Sprachen und Dialekten unterstützt. Das Modell ist cache-aware und damit für latenzkritische Anwendungen wie Sprachassistenten und Live-Untertitel ausgelegt und steht offen auf Hugging Face zum Fine-Tuning bereit.",
+      "url": "https://www.marktechpost.com/2026/06/06/nvidia-releases-nemotron-3-5-asr-a-600m-parameter-cache-aware-streaming-model-transcribing-40-language-locales-in-real-time/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/NVIDIA_logo.svg"
+    }
+  ]
+}

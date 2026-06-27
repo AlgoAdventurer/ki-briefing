@@ -1,0 +1,23 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Baseten",
+      "betrag": "$1,5 Mrd.",
+      "runde": "Series F",
+      "investoren": "Altimeter Capital, Conviction und Spark Capital (Lead), u. a. mit IVP, Greylock und Battery Ventures",
+      "beschreibung": "Baseten betreibt eine Plattform für KI-Inferenz, auf der Unternehmen wie Cursor, Lovable und Mercor ihre eigenen Modelle hosten und skalieren. Die Series F bewertet das Unternehmen mit bis zu 13 Mrd. Dollar und ist die vierte Finanzierungsrunde innerhalb von 18 Monaten — ein Zeichen für die stark wachsende Nachfrage nach Inferenz-Infrastruktur jenseits der großen Modellanbieter.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Mirendil",
+      "betrag": "$200 Mio.",
+      "runde": "Seed",
+      "investoren": "Andreessen Horowitz (Lead), Kleiner Perkins, Nvidia",
+      "beschreibung": "Das von ehemaligen Anthropic-, Google- und xAI-Forschern gegründete Start-up Mirendil will KI-Systeme bauen, die sich selbst beim Training neuer Frontier-Modelle automatisieren und damit ML-Forschung beschleunigen. Mit 200 Mio. Dollar bei 1 Mrd. Dollar Bewertung zählt die Runde zu den größten Seed-Finanzierungen, die ein KI-Start-up je erhalten hat — trotz fehlendem Produkt und fehlenden Umsätzen.",
+      "bild": ""
+    }
+  ]
+}

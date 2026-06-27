@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Sprachgesteuerte Trainingsprotokolle direkt nach dem Lauf",
+      "kontext": "NVIDIA hat mit Nemotron 3.5 ASR ein offenes, latenzarmes Streaming-Spracherkennungsmodell für 40 Sprachen veröffentlicht, das sich lokal oder günstig selbst hosten lässt.",
+      "umsetzung": "Athleten könnten direkt nach einem Orientierungslauf ihre Eindrücke und Splitzeiten einsprechen, statt sie manuell einzutippen — Contoura transkribiert per Nemotron 3.5 ASR und ordnet die Notizen automatisch dem passenden Training zu. Das senkt die Eintrittshürde für regelmäßige Trainingsdokumentation deutlich.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisch generierte Trainingskommentare mit agentischer KI",
+      "kontext": "GPT-5.6 Sol bringt einen „Ultra“-Modus mit Sub-Agenten für komplexe, mehrstufige Aufgaben und deutlich verbesserte agentische Fähigkeiten.",
+      "umsetzung": "Ein Agent könnte nach jedem Training automatisch Split-Zeiten, Fehlerstatistik und Performance-Index analysieren, mit früheren Läufen vergleichen und einen kurzen, individuellen Trainingskommentar inklusive konkreter Verbesserungsvorschläge generieren — ähnlich einem persönlichen Co-Trainer, der nie offline ist.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Contoura als MCP-Server für Coaches und KI-Assistenten",
+      "kontext": "Mit dem zustandslosen MCP-2026-07-28-Release-Candidate lassen sich MCP-Server jetzt einfacher und skalierbarer betreiben, ganz ohne Sticky Sessions oder eigene Session-Infrastruktur.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server anbieten, der Performance-Daten, Split-Zeiten und Fehlerstatistiken als Tools bereitstellt. Trainer könnten dann mit Claude, ChatGPT oder einem beliebigen MCP-fähigen Client direkt auf die Athletendaten zugreifen und Fragen wie „Wo verliert Athlet X die meiste Zeit bei Kontrollpunkten?“ stellen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}
