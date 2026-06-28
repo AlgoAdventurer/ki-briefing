@@ -1,40 +1,44 @@
 import Link from 'next/link'
 import { getLatestDate, THEMEN } from '@/lib/content'
+import SearchBar from './SearchBar'
 import MobileNav from './MobileNav'
 
 export default function Header() {
   const latestDate = getLatestDate()
 
   return (
-    <header className="sticky top-0 z-50 border-b border-zinc-900 bg-zinc-950/85 backdrop-blur-md">
-      <div className="max-w-4xl mx-auto px-5">
-        <div className="flex items-center justify-between h-16">
-          <Link href="/" className="flex items-baseline gap-2.5">
-            <span className="text-base font-semibold gradient-text tracking-tight">KI Briefing</span>
-            <span className="hidden sm:inline text-[11px] text-zinc-600 font-mono">täglich · 05:00</span>
-          </Link>
+    <header className="flex items-center justify-between gap-4">
+      <div className="flex items-center gap-5 min-w-0">
+        <Link href="/" className="flex items-center gap-2 shrink-0">
+          <span className="inline-flex h-7 w-7 items-center justify-center rounded-lg bg-gradient-to-br from-indigo-500 to-fuchsia-500 text-white text-[13px] font-bold">K</span>
+          <span className="text-[15px] font-semibold tracking-tight text-slate-900">KI Briefing</span>
+        </Link>
 
-          <nav className="hidden md:flex items-center gap-1">
-            {THEMEN.map(t => (
-              <Link
-                key={t.slug}
-                href={latestDate ? `/${t.slug}/${latestDate}` : '/'}
-                className="text-sm text-zinc-400 hover:text-zinc-100 px-2.5 py-1.5 rounded-lg hover:bg-zinc-900 transition-colors"
-              >
-                {t.label}
-              </Link>
-            ))}
+        <nav className="hidden lg:flex items-center gap-1.5">
+          {THEMEN.map(t => (
             <Link
-              href="/archiv"
-              className="ml-1.5 text-sm text-zinc-500 hover:text-zinc-200 px-2.5 py-1.5 rounded-lg hover:bg-zinc-900 transition-colors"
+              key={t.slug}
+              href={latestDate ? `/${t.slug}/${latestDate}` : '/'}
+              className="pill text-[13px] text-slate-600 hover:text-slate-900 px-3 py-1.5 transition-colors"
             >
-              Archiv
+              {t.short}
             </Link>
-          </nav>
+          ))}
+          <Link
+            href="/archiv"
+            className="text-[13px] text-slate-500 hover:text-slate-800 px-2.5 py-1.5 transition-colors"
+          >
+            Archiv
+          </Link>
+        </nav>
+      </div>
 
-          <div className="md:hidden">
-            <MobileNav latestDate={latestDate} />
-          </div>
+      <div className="flex items-center gap-3 shrink-0">
+        <div className="hidden sm:block">
+          <SearchBar />
+        </div>
+        <div className="lg:hidden">
+          <MobileNav latestDate={latestDate} />
         </div>
       </div>
     </header>

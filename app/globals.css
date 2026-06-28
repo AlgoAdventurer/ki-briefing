@@ -19,58 +19,75 @@
 
   body {
     font-size: 16px;
-    line-height: 1.7;
+    line-height: 1.6;
+    color: #1c1b29;
+    background:
+      radial-gradient(900px 500px at 50% -8%, #eaeafe 0%, rgba(234, 234, 254, 0) 60%),
+      radial-gradient(700px 500px at 90% 10%, #e7e3fb 0%, rgba(231, 227, 251, 0) 55%),
+      linear-gradient(180deg, #e8e7fb 0%, #eef0fc 35%, #f3f4fd 100%);
+    background-attachment: fixed;
+    min-height: 100vh;
   }
 
   h1, h2, h3, h4 {
     letter-spacing: -0.02em;
+    color: #0f0e1a;
   }
 
   ::selection {
-    background: rgba(129, 140, 248, 0.25);
-    color: #fff;
+    background: rgba(129, 140, 248, 0.28);
   }
 
-  ::-webkit-scrollbar {
-    width: 8px;
-  }
-  ::-webkit-scrollbar-track {
-    background: transparent;
-  }
-  ::-webkit-scrollbar-thumb {
-    background: #27272a;
-    border-radius: 4px;
-  }
-  ::-webkit-scrollbar-thumb:hover {
-    background: #3f3f46;
-  }
+  ::-webkit-scrollbar { width: 8px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb { background: #d7d7e6; border-radius: 4px; }
+  ::-webkit-scrollbar-thumb:hover { background: #c2c2d6; }
 }
 
 @layer components {
-  /* Flat surface — no blur, crisp hairline border. */
+  /* Floating frosted panel that holds the whole app. */
+  .app-shell {
+    background: rgba(255, 255, 255, 0.72);
+    border: 1px solid rgba(255, 255, 255, 0.9);
+    border-radius: 28px;
+    box-shadow:
+      0 40px 90px -30px rgba(79, 70, 229, 0.28),
+      0 10px 30px -16px rgba(79, 70, 229, 0.14);
+    backdrop-filter: blur(20px);
+  }
+
   .card {
-    background-color: rgba(24, 24, 27, 0.5);
-    border: 1px solid #27272a;
-    border-radius: 1rem;
+    background: #ffffff;
+    border: 1px solid #ebebf4;
+    border-radius: 18px;
   }
   .card-hover {
-    transition: border-color 0.2s ease, background-color 0.2s ease;
+    transition: box-shadow 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
   }
   .card-hover:hover {
-    border-color: #3f3f46;
-    background-color: rgba(24, 24, 27, 0.9);
+    box-shadow: 0 22px 45px -24px rgba(79, 70, 229, 0.30);
+    border-color: #ddd9f6;
+  }
+
+  .pill {
+    background: #ffffff;
+    border: 1px solid #ececf5;
+    border-radius: 9999px;
+    box-shadow: 0 1px 2px rgba(16, 16, 40, 0.04);
   }
 }
 
 @layer utilities {
   .gradient-text {
-    background: linear-gradient(120deg, #a5b4fc, #c4b5fd);
+    background: linear-gradient(120deg, #6366f1, #a855f7);
     -webkit-background-clip: text;
     background-clip: text;
     -webkit-text-fill-color: transparent;
   }
-  /* Subtle measure for long-form reading. */
-  .measure {
-    max-width: 42rem;
+  /* Soft decorative orb behind the hero. */
+  .orb {
+    background: radial-gradient(circle at 36% 34%, #c7b8fd 0%, #a9b4fc 34%, #f3b9e6 66%, rgba(255, 255, 255, 0) 72%);
+    filter: blur(6px);
   }
+  .measure { max-width: 38rem; }
 }

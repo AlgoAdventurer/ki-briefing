@@ -5,7 +5,7 @@ import { THEMEN } from '@/lib/themen'
 export default function MobileNav({ latestDate }: { latestDate: string | null }) {
   return (
     <select
-      className="bg-zinc-900 border border-zinc-800 text-zinc-300 text-sm rounded-lg px-3 py-1.5 focus:outline-none focus:border-zinc-600"
+      className="pill text-[13px] text-slate-600 px-3 py-2 focus:outline-none"
       onChange={(e) => { if (e.target.value) window.location.href = e.target.value }}
       defaultValue=""
       aria-label="Navigation"
