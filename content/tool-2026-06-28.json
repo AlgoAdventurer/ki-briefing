@@ -1,0 +1,12 @@
+{
+  "datum": "2026-06-28",
+  "name": "GLM-5.2",
+  "tagline": "Offenes Coding-Modell von Z.ai mit 1-Million-Token-Kontext unter MIT-Lizenz",
+  "beschreibung": "GLM-5.2 ist das neue Flaggschiff-Coding-Modell des chinesischen Anbieters Z.ai (Zhipu AI) mit rund 756 Milliarden Parametern als Mixture-of-Experts-Architektur. Dank einer neuen Technik namens IndexShare reduziert es den Rechenaufwand bei sehr langen Kontexten um das 2,9-Fache, wodurch ein stabiles 1-Millionen-Token-Kontextfenster praktikabel wird. Die Gewichte stehen unter der MIT-Lizenz offen zum Download bereit, ohne regionale oder kommerzielle Einschränkungen. Laut Z.ai übertrifft GLM-5.2 GPT-5.5 bei mehreren Langzeit-Coding-Benchmarks und kostet dabei nur etwa ein Sechstel.",
+  "useCase": "Entwicklerteams können GLM-5.2 selbst hosten und in eigene Coding-Agenten integrieren, um sehr große Codebasen oder ganze Repositories in einem einzigen Kontextfenster zu analysieren und automatisiert zu refactoren — ohne Lizenzkosten oder Abhängigkeit von einem proprietären API-Anbieter.",
+  "url": "https://www.z.ai",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Open Source", "Coding-Modell", "1M-Kontext", "MIT-Lizenz"]
+}

@@ -1,0 +1,45 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google verliert binnen einer Woche vier KI-Forscher an Anthropic und OpenAI — Alphabet-Aktie verliert $270 Mrd.",
+      "quelle": "Eastern Herald",
+      "quelleUrl": "https://easternherald.com/2026/06/26/google-deepmind-anthropic-ai-talent-exodus-alphabet/",
+      "zusammenfassung": "Innerhalb von sechs Tagen verließen vier hochrangige Google-DeepMind-Forscher das Unternehmen, darunter Nobelpreisträger John Jumper sowie Gemini-Co-Lead Noam Shazeer, die zu Anthropic und OpenAI wechselten. Die Nachrichten lösten den schlimmsten Handelstag von Alphabet seit einem Jahr aus und vernichteten rund 270 Milliarden Dollar an Marktkapitalisierung. Als Hauptgrund gilt die Aussicht auf lukrative Pre-IPO-Anteile bei den kleineren, forschungsfokussierten Laboren.",
+      "kategorie": "Talent & Strategie",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI startet limitierte Vorschau von GPT-5.6 mit drei Modellstufen — Zugriff vorerst nur für ausgewählte Partner",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "zusammenfassung": "OpenAI hat am 26. Juni eine begrenzte Vorschau der GPT-5.6-Familie veröffentlicht: Sol als leistungsstärkstes Flaggschiff-Modell, Terra als ausgewogenes Alltagsmodell und Luna als schnelle, günstige Variante für große Mengen. Wegen Sicherheitsbedenken der US-Regierung ist der Zugang vorerst auf eine kleine Gruppe vertrauenswürdiger Partner über API und Codex beschränkt, eine breitere Verfügbarkeit in ChatGPT soll in den kommenden Wochen folgen. Sol bringt zudem einen neuen „Ultra“-Modus mit Subagenten für komplexe Aufgaben.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic überholt OpenAI bei der Bewertung — $965-Mrd.-Finanzierungsrunde und vertrauliche IPO-Anmeldung",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/06/01/anthropic-confidentially-files-ipo-965-billion-valuation/",
+      "zusammenfassung": "Anthropic hat nach einer 65-Milliarden-Dollar-Finanzierungsrunde eine Bewertung von 965 Milliarden Dollar erreicht und damit erstmals OpenAI überholt. Gleichzeitig hat das Unternehmen vertraulich einen Entwurf für eine Börsennotierung (S-1) bei der US-Börsenaufsicht SEC eingereicht, ein konkretes Listing-Datum steht noch nicht fest. Die Jahresumsatzrate von Anthropic ist 2026 auf über 30 Milliarden Dollar gestiegen, gegenüber rund 9 Milliarden Dollar Ende 2025.",
+      "kategorie": "Business",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "GitHub macht Copilot zur eigenständigen Plattform — SDK, Desktop-App und neue CLI erreichen General Availability",
+      "quelle": "GitHub Changelog",
+      "quelleUrl": "https://github.blog/changelog/2026-06-23-copilot-cli-new-terminal-interface-is-generally-available/",
+      "zusammenfassung": "GitHub hat im Juni gleich drei Bausteine für agentenbasiertes Programmieren final veröffentlicht: das Copilot SDK für Node, Python, Go, .NET, Rust und Java, eine Desktop-App für macOS, Windows und Linux sowie ein neu gestaltetes Terminal-Interface für die Copilot CLI. Entwickler erhalten damit direkten, programmatischen Zugriff auf die Copilot-Agenten-Engine inklusive Planung, Tool-Aufrufen und Datei-Edits, ohne eine eigene Orchestrierungsschicht bauen zu müssen.",
+      "kategorie": "Developer Tools",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/GitHub_Invertocat_Logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

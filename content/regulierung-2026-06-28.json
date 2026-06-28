@@ -1,0 +1,21 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Parlament billigt Verzögerungen zentraler KI-Act-Pflichten",
+      "region": "EU",
+      "detail": "Das Europäische Parlament hat am 16. Juni endgültig Änderungen am AI Act beschlossen, die wichtige Pflichten für Hochrisiko-KI-Systeme verschieben und Regeln vereinfachen. Eigenständige Hochrisikosysteme nach Anhang III greifen nun erst ab dem 2. Dezember 2027 statt wie ursprünglich geplant ab dem 2. August 2026 — eine Verzögerung um 16 Monate. Auch die Kennzeichnungspflicht für KI-generierte Inhalte (Watermarking) wird für bereits am Markt befindliche Systeme bis zum 2. Dezember 2026 aufgeschoben.",
+      "url": "https://datamatters.sidley.com/2026/06/22/eu-lawmakers-reach-provisional-agreement-to-delay-key-eu-ai-act-obligations/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Kommission veröffentlicht Code of Practice zur Transparenz von KI-Inhalten",
+      "region": "EU",
+      "detail": "Am 10. Juni hat die EU-Kommission den lange erwarteten freiwilligen Code of Practice zur Transparenz KI-generierter Inhalte veröffentlicht. Er liefert praktische Hinweise, wie Anbieter und Betreiber die Transparenzpflichten des AI Act für synthetische Inhalte konkret umsetzen können, etwa bei Kennzeichnung und Offenlegung. Ergänzend hat die Kommission Anfang Juni ein 60-köpfiges wissenschaftliches Gremium sowie ein neues Advisory Forum berufen, die das KI-Büro und nationale Behörden bei der Durchsetzung unterstützen.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "auswirkung": "mittel"
+    }
+  ]
+}

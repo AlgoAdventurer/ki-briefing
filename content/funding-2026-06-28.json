@@ -1,0 +1,23 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Flourish",
+      "betrag": "$500M",
+      "runde": "Seed/Series A",
+      "investoren": "Jeff Bezos, Lux Capital, GV (Alphabet), Catalio Capital",
+      "beschreibung": "Flourish entwickelt mit „Cortex AI“ einen hirninspirierten KI-Ansatz, der über Connectomics-Forschung den „Kernalgorithmus“ des Gehirns nachbilden soll. Ziel ist eine drastisch energieeffizientere KI im Bereich von 20 bis 50 Watt — vergleichbar mit dem menschlichen Gehirn und weit unter dem heutigen Energiebedarf von GPU-Clustern. Die Runde bewertet das Startup mit 2,5 Milliarden Dollar.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "AlphaSense",
+      "betrag": "$350M",
+      "runde": "Growth",
+      "investoren": "Vitruvian Partners, Accenture Ventures, J.P. Morgan Asset Management",
+      "beschreibung": "Die KI-gestützte Marktintelligenz- und Workflow-Plattform AlphaSense erreicht mit der neuen Runde eine Bewertung von 7,5 Milliarden Dollar und hat im ersten Quartal 2026 die Marke von 600 Millionen Dollar Jahresumsatz überschritten — ein Anstieg gegenüber 500 Millionen Dollar im Oktober 2025.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Digitalisierung von Kontrollkarten und Split-Zetteln per OCR",
+      "kontext": "Mit PP-OCRv6 ist ein neues, für Edge- und Server-Einsatz optimiertes OCR-Modell erschienen, das handschriftliche und gedruckte Texte zuverlässig erkennt.",
+      "umsetzung": "Contoura könnte Fotos von handschriftlichen Split-Zetteln oder Wettkampf-Kontrollkarten per Smartphone-Kamera einlesen und automatisch in Split-Zeiten und Fehlerstatistiken überführen, statt dass Athleten Zeiten manuell eintippen müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Trainings- und Saisonkommentare über lange Zeiträume hinweg",
+      "kontext": "Modelle wie GLM-5.2 oder GPT-5.6 bieten jetzt stabile 1-Million-Token-Kontextfenster, mit denen sich eine komplette Trainings- und Wettkampfsaison eines Athleten in einem einzigen Durchlauf analysieren lässt.",
+      "umsetzung": "Contoura könnte am Saisonende automatisch einen Rückblick generieren, der Trainingsdokumentation, Split-Zeiten und Fehlerstatistiken über Monate hinweg zusammenfasst und konkrete Entwicklungstrends sowie Schwachstellen benennt — etwa eine wiederkehrende Fehlerquote bei Nachtläufen oder technischem Gelände.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Eigener MCP-Server für Athleten-Performance-Daten",
+      "kontext": "Das Model Context Protocol (MCP) hat sich als Standard etabliert, um externe Datenquellen direkt in Claude und andere KI-Assistenten einzubinden — Anthropics Verzeichnis zählt inzwischen über 300 Connectoren.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bereitstellen, über den Athleten und Trainer in Claude direkt Fragen zur Performance-Historie stellen können, z. B. „Wie hat sich mein Performance-Index in den letzten drei Monaten entwickelt?“ — ohne die Contoura-App öffnen zu müssen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

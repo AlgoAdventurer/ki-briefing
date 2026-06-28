@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GitHub Copilot SDK ist generally available",
+      "typ": "SDK",
+      "detail": "Das Copilot SDK gibt Entwicklern direkten, programmatischen Zugriff auf die Agenten-Engine hinter GitHub Copilot — inklusive Planung, Tool-Aufrufen, Datei-Edits, Streaming und Multi-Turn-Sessions. Verfügbar für Node/TypeScript, Python, Go, .NET, Rust und Java, lässt sich damit eine eigene Coding-Agenten-Erfahrung in eigene Apps und Services einbetten, ohne eine eigene Orchestrierungsschicht von Grund auf zu bauen.",
+      "url": "https://github.blog/changelog/2026-06-02-copilot-sdk-is-now-generally-available/",
+      "codebeispiel": "import { CopilotAgent } from \"@github/copilot-sdk\";\n\nconst agent = new CopilotAgent({ workdir: \"./repo\" });\nconst result = await agent.run(\"Refactor utils.ts to use async/await\");\nconsole.log(result.summary);"
+    },
+    {
+      "id": 2,
+      "titel": "Hugging Face Transformers v5.12 bringt MiniMax-M3-VL, PP-OCRv6 und Parakeet-RNNT",
+      "typ": "Open Source",
+      "detail": "Die Transformers-Bibliothek hat in Version 5.12 mehrere neue Modelle aufgenommen: das Vision-Language-Modell MiniMax-M3-VL mit sparsamer Attention-Architektur, das auf Edge- bis Server-Deployment optimierte OCR-System PP-OCRv6 sowie das Spracherkennungsmodell Parakeet-RNNT. Für Entwickler bedeutet das sofortigen Zugriff auf aktuelle multimodale und Audio-Modelle über die gewohnte `AutoModel`-API, ohne auf Custom-Code-Repos angewiesen zu sein.",
+      "url": "https://huggingface.co/blog",
+      "codebeispiel": "from transformers import AutoModel, AutoProcessor\n\nmodel = AutoModel.from_pretrained(\"MiniMaxAI/MiniMax-M3-VL\")\nprocessor = AutoProcessor.from_pretrained(\"MiniMaxAI/MiniMax-M3-VL\")"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropics MCP-Verzeichnis wächst auf über 300 Connectoren — eigene Server lassen sich jetzt direkt in Claude einreichen",
+      "typ": "MCP",
+      "detail": "Das Model Context Protocol (MCP) hat sich zu einem De-facto-Standard für die Anbindung externer Tools an LLM-Agenten entwickelt. Anthropic meldet inzwischen über 300 Drittanbieter-Connectoren im offiziellen Verzeichnis, die täglich von Millionen Nutzern verwendet werden. Neu ist, dass Entwickler ihren eigenen MCP-Server jetzt direkt aus Claude heraus zur Aufnahme in das Verzeichnis einreichen können, statt den Umweg über ein separates Portal zu gehen.",
+      "url": "https://www.anthropic.com/news/model-context-protocol",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-06-28",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 (Sol, Terra, Luna)",
+      "version": "Preview",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat drei neue Modellstufen in limitierter Vorschau vorgestellt: Sol als stärkstes Modell mit Fortschritten bei Software-Engineering, Computer-Use und Cybersecurity, Terra als ausgewogenes Alltagsmodell und Luna als besonders günstige Variante für Massenanwendungen. Preise liegen bei 5$/30$ (Sol), 2,50$/15$ (Terra) und 1$/6$ (Luna) je Million Token, Zugang gibt es vorerst nur über API und Codex für ausgewählte Partner.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "MAI-Thinking-1",
+      "version": "1T Parameter (35B aktiv)",
+      "anbieter": "Microsoft AI",
+      "detail": "Microsoft hat mit MAI-Thinking-1 sein erstes komplett selbst entwickeltes Reasoning-Modell vorgestellt — ein Mixture-of-Experts-Modell mit rund einer Billion Gesamt- und 35 Milliarden aktiven Parametern, trainiert auf 33 Billionen Token ohne Distillation von OpenAI, Anthropic oder anderen Drittanbietern. Es ist Teil einer Familie von sieben neuen MAI-Modellen, darunter das schlanke Coding-Modell MAI-Code-1-Flash für GitHub Copilot und die Bildgenerierungsmodelle MAI-Image-2.5.",
+      "url": "https://microsoft.ai/news/introducing-mai-thinking-1/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "GLM-5.2",
+      "version": "5.2",
+      "anbieter": "Z.ai (Zhipu AI)",
+      "detail": "Z.ai hat sein neues Flaggschiff-Coding-Modell GLM-5.2 unter MIT-Lizenz quelloffen veröffentlicht — mit 756 Milliarden Parametern, 1-Millionen-Token-Kontextfenster und einer neuen IndexShare-Technik, die den Rechenaufwand bei langen Kontexten fast verdreifacht reduziert. Laut eigenen Benchmarks übertrifft es GPT-5.5 bei Langzeit-Coding-Aufgaben zu rund einem Sechstel der Kosten und ist sofort auf Hugging Face sowie über mehr als 20 Coding-Umgebungen verfügbar.",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "bild": ""
+    }
+  ]
+}
