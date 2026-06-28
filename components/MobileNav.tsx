@@ -5,17 +5,18 @@ import { THEMEN } from '@/lib/themen'
 export default function MobileNav({ latestDate }: { latestDate: string | null }) {
   return (
     <select
-      className="bg-white/5 border border-white/10 text-gray-300 text-xs rounded-md px-2 py-1.5"
+      className="bg-zinc-900 border border-zinc-800 text-zinc-300 text-sm rounded-lg px-3 py-1.5 focus:outline-none focus:border-zinc-600"
       onChange={(e) => { if (e.target.value) window.location.href = e.target.value }}
       defaultValue=""
+      aria-label="Navigation"
     >
-      <option value="">Menu</option>
+      <option value="">Menü</option>
       {THEMEN.map(t => (
         <option key={t.slug} value={latestDate ? `/${t.slug}/${latestDate}` : '/'}>
-          {t.emoji} {t.label}
+          {t.label}
         </option>
       ))}
-      <option value="/archiv">📚 Archiv</option>
+      <option value="/archiv">Archiv</option>
     </select>
   )
 }

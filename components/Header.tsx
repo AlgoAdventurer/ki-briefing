@@ -6,12 +6,12 @@ export default function Header() {
   const latestDate = getLatestDate()
 
   return (
-    <header className="border-b border-white/5 mb-8 sticky top-0 z-50 bg-[#0a0a0f]/90 backdrop-blur-sm">
-      <div className="max-w-5xl mx-auto px-4">
-        <div className="flex items-center justify-between h-14">
-          <Link href="/" className="flex items-center gap-2">
-            <span className="text-lg font-bold gradient-text">KI Briefing</span>
-            <span className="text-xs text-gray-600 font-mono">täglich</span>
+    <header className="sticky top-0 z-50 border-b border-zinc-900 bg-zinc-950/85 backdrop-blur-md">
+      <div className="max-w-4xl mx-auto px-5">
+        <div className="flex items-center justify-between h-16">
+          <Link href="/" className="flex items-baseline gap-2.5">
+            <span className="text-base font-semibold gradient-text tracking-tight">KI Briefing</span>
+            <span className="hidden sm:inline text-[11px] text-zinc-600 font-mono">täglich · 05:00</span>
           </Link>
 
           <nav className="hidden md:flex items-center gap-1">
@@ -19,14 +19,14 @@ export default function Header() {
               <Link
                 key={t.slug}
                 href={latestDate ? `/${t.slug}/${latestDate}` : '/'}
-                className="text-xs text-gray-400 hover:text-white px-3 py-1.5 rounded-md hover:bg-white/5 transition-colors"
+                className="text-sm text-zinc-400 hover:text-zinc-100 px-2.5 py-1.5 rounded-lg hover:bg-zinc-900 transition-colors"
               >
-                {t.emoji} {t.label}
+                {t.label}
               </Link>
             ))}
             <Link
               href="/archiv"
-              className="text-xs text-gray-500 hover:text-gray-300 px-3 py-1.5 rounded-md hover:bg-white/5 transition-colors ml-2 border border-white/10"
+              className="ml-1.5 text-sm text-zinc-500 hover:text-zinc-200 px-2.5 py-1.5 rounded-lg hover:bg-zinc-900 transition-colors"
             >
               Archiv
             </Link>

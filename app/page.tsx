@@ -1,7 +1,20 @@
-import { getLatestDate, getAllDates, getTopNews, getTool, getReleases, getDevCorner, getFunding, getReguliering, getContoura, THEMEN } from '@/lib/content'
+import { getLatestDate, getAllDates, getTopNews, getTool, getReleases, getDevCorner, getFunding, getReguliering, getContoura } from '@/lib/content'
 import Link from 'next/link'
 import { format, parseISO } from 'date-fns'
 import { de } from 'date-fns/locale'
+
+function SectionHeader({ title, href }: { title: string; href?: string }) {
+  return (
+    <div className="flex items-end justify-between mb-6">
+      <h2 className="text-lg font-semibold text-zinc-100">{title}</h2>
+      {href && (
+        <Link href={href} className="text-sm text-indigo-400 hover:text-indigo-300 transition-colors">
+          Alle anzeigen →
+        </Link>
+      )}
+    </div>
+  )
+}
 
 export default function Home() {
   const latestDate = getLatestDate()
@@ -9,10 +22,10 @@ export default function Home() {
 
   if (!latestDate) {
     return (
-      <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4">
+      <div className="flex flex-col items-center justify-center min-h-[60vh] gap-4 text-center">
         <div className="text-5xl">📡</div>
-        <h1 className="text-xl font-semibold text-gray-300">Erstes Briefing noch unterwegs</h1>
-        <p className="text-sm text-gray-600">Die Routine läuft täglich um 05:00 Uhr.</p>
+        <h1 className="text-xl font-semibold text-zinc-200">Erstes Briefing noch unterwegs</h1>
+        <p className="text-sm text-zinc-500">Die Routine läuft täglich um 05:00 Uhr.</p>
       </div>
     )
   }
@@ -25,213 +38,203 @@ export default function Home() {
   const regulierung = getReguliering(latestDate)
   const contoura = getContoura(latestDate)
 
-  const dateFormatted = format(parseISO(latestDate), "EEEE, d. MMMM yyyy", { locale: de })
+  const dateFormatted = format(parseISO(latestDate), 'EEEE, d. MMMM yyyy', { locale: de })
+
+  const feature = topNews?.items?.[0]
+  const restNews = topNews?.items?.slice(1) ?? []
 
   return (
     <div>
       {/* Hero */}
-      <div className="py-8 mb-8">
-        <div className="flex items-center gap-2 mb-2">
-          <span className="inline-flex items-center gap-1.5 text-xs font-mono text-indigo-400 bg-indigo-950/40 border border-indigo-800/30 px-2.5 py-1 rounded-full">
-            <span className="w-1.5 h-1.5 bg-indigo-400 rounded-full animate-pulse"></span>
-            Live — {dateFormatted}
-          </span>
+      <section className="py-12 md:py-16 border-b border-zinc-900">
+        <div className="flex items-center gap-2 mb-5 text-xs font-mono text-zinc-500">
+          <span className="w-1.5 h-1.5 rounded-full bg-indigo-400 animate-pulse" />
+          <span className="text-indigo-300/90">Live</span>
+          <span className="text-zinc-700">·</span>
+          <span>{dateFormatted}</span>
         </div>
-        <h1 className="text-3xl md:text-4xl font-bold text-white mb-2">
+        <h1 className="text-4xl md:text-5xl font-bold text-white tracking-tight leading-[1.05]">
           KI &amp; Tech Briefing
         </h1>
-        <p className="text-gray-500 text-sm">
-          Täglich kuratiert · ~10 Minuten lesen · Schweizer Perspektive
+        <p className="text-zinc-400 mt-4 text-base measure">
+          Die wichtigsten Entwicklungen aus KI und Technologie — täglich kuratiert,
+          kompakt zusammengefasst, in rund zehn Minuten gelesen.
         </p>
-      </div>
+      </section>
 
-      {/* Themen-Schnellnavigation */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-2 mb-10">
-        {THEMEN.map(t => (
-          <Link
-            key={t.slug}
-            href={`/${t.slug}/${latestDate}`}
-            className="glass glass-hover rounded-xl p-3 flex items-center gap-2 group"
-          >
-            <span className="text-lg">{t.emoji}</span>
-            <span className="text-xs text-gray-400 group-hover:text-white transition-colors">{t.label}</span>
+      {/* Top News */}
+      {feature && (
+        <section className="py-14 border-b border-zinc-900">
+          <SectionHeader title="Top News" href={`/top-news/${latestDate}`} />
+
+          <Link href={`/top-news/${latestDate}`} className="group block">
+            {feature.bild && (
+              <div className="mb-6 overflow-hidden rounded-2xl border border-zinc-800">
+                {/* eslint-disable-next-line @next/next/no-img-element */}
+                <img src={feature.bild} alt={feature.titel} className="w-full h-56 md:h-72 object-cover opacity-90 group-hover:opacity-100 transition-opacity" />
+              </div>
+            )}
+            <div className="text-xs font-mono text-indigo-400/90 mb-3">{feature.kategorie}</div>
+            <h3 className="text-2xl md:text-3xl font-semibold text-zinc-50 leading-snug group-hover:text-white transition-colors">
+              {feature.titel}
+            </h3>
+            <p className="text-zinc-400 leading-relaxed mt-4 measure">{feature.zusammenfassung}</p>
+            <div className="text-sm text-zinc-500 mt-4">{feature.quelle}</div>
           </Link>
-        ))}
-      </div>
 
-      {/* Top News — gross */}
-      {topNews && topNews.items.length > 0 && (
-        <section className="mb-10">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">🔥 Top News</h2>
-            <Link href={`/top-news/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">
-              Alle →
-            </Link>
-          </div>
-          <div className="grid md:grid-cols-3 gap-3">
-            {topNews.items.slice(0, 3).map((item, i) => (
-              <Link key={item.id} href={`/top-news/${latestDate}`} className={`glass glass-hover rounded-xl overflow-hidden group ${i === 0 ? 'md:col-span-2 md:row-span-1' : ''}`}>
-                {item.bild && (
-                  <div className="relative h-36 overflow-hidden">
-                    <img src={item.bild} alt={item.titel} className="w-full h-full object-cover opacity-60 group-hover:opacity-80 transition-opacity" />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
-                    <span className="absolute bottom-2 left-3 text-xs text-indigo-300 bg-indigo-950/60 px-2 py-0.5 rounded">{item.kategorie}</span>
+          {restNews.length > 0 && (
+            <div className="mt-10 border-t border-zinc-900">
+              {restNews.map(item => (
+                <Link
+                  key={item.id}
+                  href={`/top-news/${latestDate}`}
+                  className="group flex items-start gap-5 py-5 border-b border-zinc-900"
+                >
+                  <div className="flex-1 min-w-0">
+                    <h4 className="text-base font-medium text-zinc-200 group-hover:text-white transition-colors">
+                      {item.titel}
+                    </h4>
+                    <p className="text-sm text-zinc-500 mt-1 line-clamp-1">{item.zusammenfassung}</p>
                   </div>
-                )}
-                <div className="p-4">
-                  {!item.bild && <span className="inline-block text-xs text-indigo-300 bg-indigo-950/40 px-2 py-0.5 rounded mb-2">{item.kategorie}</span>}
-                  <h3 className="text-sm font-semibold text-gray-100 group-hover:text-white mb-1 line-clamp-2">{item.titel}</h3>
-                  <p className="text-xs text-gray-500 line-clamp-2">{item.zusammenfassung}</p>
-                  <p className="text-xs text-gray-600 mt-2">{item.quelle}</p>
-                </div>
-              </Link>
-            ))}
-          </div>
+                  <span className="shrink-0 text-[11px] font-mono text-zinc-600 pt-1">{item.kategorie}</span>
+                </Link>
+              ))}
+            </div>
+          )}
         </section>
       )}
 
       {/* Tool des Tages */}
       {tool && (
-        <section className="mb-10">
-          <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider mb-4">🛠 Tool des Tages</h2>
-          <Link href={`/tool/${latestDate}`} className="glass glass-hover rounded-xl p-5 flex gap-4 items-start group block">
+        <section className="py-14 border-b border-zinc-900">
+          <SectionHeader title="Tool des Tages" href={`/tool/${latestDate}`} />
+          <Link href={`/tool/${latestDate}`} className="card card-hover group flex items-start gap-5 p-6">
             {tool.bild && (
-              <img src={tool.bild} alt={tool.name} className="w-12 h-12 rounded-lg object-contain bg-white/5 p-1 flex-shrink-0" />
+              // eslint-disable-next-line @next/next/no-img-element
+              <img src={tool.bild} alt={tool.name} className="w-12 h-12 rounded-xl object-contain bg-zinc-800/60 p-1.5 shrink-0" />
             )}
             <div className="flex-1 min-w-0">
-              <div className="flex items-center gap-2 mb-1">
-                <span className="font-semibold text-white group-hover:gradient-text">{tool.name}</span>
-                {tool.kostenlos && <span className="text-xs bg-green-950/50 text-green-400 border border-green-800/30 px-2 py-0.5 rounded-full">Kostenlos</span>}
-                <span className="text-xs text-gray-600 bg-white/5 px-2 py-0.5 rounded">{tool.kategorie}</span>
+              <div className="flex flex-wrap items-center gap-2.5 mb-1.5">
+                <span className="text-lg font-semibold text-zinc-100 group-hover:text-white transition-colors">{tool.name}</span>
+                {tool.kostenlos && (
+                  <span className="text-[11px] text-emerald-300 bg-emerald-500/10 border border-emerald-500/20 px-2 py-0.5 rounded-full">Kostenlos</span>
+                )}
+                <span className="text-[11px] text-zinc-400 bg-zinc-800/60 px-2 py-0.5 rounded-full">{tool.kategorie}</span>
               </div>
-              <p className="text-sm text-gray-400">{tool.tagline}</p>
+              <p className="text-zinc-400">{tool.tagline}</p>
             </div>
-            <span className="text-gray-600 group-hover:text-indigo-400 transition-colors text-lg flex-shrink-0">↗</span>
+            <span className="shrink-0 text-zinc-600 group-hover:text-indigo-400 transition-colors text-lg">↗</span>
           </Link>
         </section>
       )}
 
-      {/* 2-Spalten: Releases + Dev Corner */}
-      <div className="grid md:grid-cols-2 gap-6 mb-10">
-        {releases && releases.items.length > 0 && (
-          <section>
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">📦 Releases</h2>
-              <Link href={`/releases/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
+      {/* Releases + Dev Corner */}
+      {((releases && releases.items.length > 0) || (devCorner && devCorner.items.length > 0)) && (
+        <section className="py-14 border-b border-zinc-900 grid md:grid-cols-2 gap-12">
+          {releases && releases.items.length > 0 && (
+            <div>
+              <SectionHeader title="Releases" href={`/releases/${latestDate}`} />
+              <div className="-mt-1">
+                {releases.items.slice(0, 4).map(r => (
+                  <Link key={r.id} href={`/releases/${latestDate}`} className="group flex items-baseline gap-3 py-3 border-b border-zinc-900">
+                    <div className="min-w-0">
+                      <span className="text-[15px] font-medium text-zinc-200 group-hover:text-white transition-colors">{r.name}</span>
+                      {r.version && <span className="ml-2 text-xs font-mono text-indigo-400">v{r.version}</span>}
+                      <p className="text-sm text-zinc-500 line-clamp-1 mt-0.5">{r.detail}</p>
+                    </div>
+                  </Link>
+                ))}
+              </div>
             </div>
-            <div className="space-y-2">
-              {releases.items.slice(0, 3).map(r => (
-                <Link key={r.id} href={`/releases/${latestDate}`} className="glass glass-hover rounded-lg p-3 flex items-start gap-3 group block">
-                  {r.bild ? <img src={r.bild} alt={r.name} className="w-8 h-8 rounded object-contain flex-shrink-0" /> : <span className="w-8 h-8 rounded bg-white/5 flex-shrink-0" />}
-                  <div className="min-w-0">
-                    <div className="text-sm font-medium text-gray-200 group-hover:text-white">{r.name} {r.version && <span className="text-xs text-indigo-400 font-mono">v{r.version}</span>}</div>
-                    <div className="text-xs text-gray-500 line-clamp-2">{r.detail}</div>
-                  </div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
+          )}
 
-        {devCorner && devCorner.items.length > 0 && (
-          <section>
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">💻 Dev Corner</h2>
-              <Link href={`/dev-corner/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
+          {devCorner && devCorner.items.length > 0 && (
+            <div>
+              <SectionHeader title="Developer Corner" href={`/dev-corner/${latestDate}`} />
+              <div className="-mt-1">
+                {devCorner.items.slice(0, 4).map(d => (
+                  <Link key={d.id} href={`/dev-corner/${latestDate}`} className="group block py-3 border-b border-zinc-900">
+                    <div className="flex items-center gap-2.5">
+                      <span className="text-[11px] font-mono text-violet-300 bg-violet-500/10 px-1.5 py-0.5 rounded">{d.typ}</span>
+                      <span className="text-[15px] font-medium text-zinc-200 group-hover:text-white transition-colors">{d.titel}</span>
+                    </div>
+                    <p className="text-sm text-zinc-500 line-clamp-1 mt-1">{d.detail}</p>
+                  </Link>
+                ))}
+              </div>
             </div>
-            <div className="space-y-2">
-              {devCorner.items.slice(0, 3).map(d => (
-                <Link key={d.id} href={`/dev-corner/${latestDate}`} className="glass glass-hover rounded-lg p-3 group block">
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className="text-xs text-purple-400 bg-purple-950/40 px-2 py-0.5 rounded font-mono">{d.typ}</span>
-                    <span className="text-sm font-medium text-gray-200 group-hover:text-white">{d.titel}</span>
-                  </div>
-                  <p className="text-xs text-gray-500 line-clamp-2">{d.detail}</p>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
-      </div>
+          )}
+        </section>
+      )}
 
-      {/* 2-Spalten: Funding + Regulierung */}
-      <div className="grid md:grid-cols-2 gap-6 mb-10">
-        {funding && funding.items.length > 0 && (
-          <section>
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">💰 Funding</h2>
-              <Link href={`/funding/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
+      {/* Funding + Regulierung */}
+      {((funding && funding.items.length > 0) || (regulierung && regulierung.items.length > 0)) && (
+        <section className="py-14 border-b border-zinc-900 grid md:grid-cols-2 gap-12">
+          {funding && funding.items.length > 0 && (
+            <div>
+              <SectionHeader title="Startups & Funding" href={`/funding/${latestDate}`} />
+              <div className="-mt-1">
+                {funding.items.map(f => (
+                  <Link key={f.id} href={`/funding/${latestDate}`} className="group flex items-baseline justify-between gap-3 py-3 border-b border-zinc-900">
+                    <div className="min-w-0">
+                      <span className="text-[15px] font-medium text-zinc-200 group-hover:text-white transition-colors">{f.firma}</span>
+                      <p className="text-sm text-zinc-500 line-clamp-1 mt-0.5">{f.runde} · {f.investoren}</p>
+                    </div>
+                    <span className="shrink-0 text-[15px] font-semibold text-emerald-400 font-mono">{f.betrag}</span>
+                  </Link>
+                ))}
+              </div>
             </div>
-            <div className="space-y-2">
-              {funding.items.map(f => (
-                <Link key={f.id} href={`/funding/${latestDate}`} className="glass glass-hover rounded-lg p-3 group block">
-                  <div className="flex items-center justify-between mb-1">
-                    <span className="text-sm font-semibold text-gray-200 group-hover:text-white">{f.firma}</span>
-                    <span className="text-sm font-bold text-green-400 font-mono">{f.betrag}</span>
-                  </div>
-                  <div className="text-xs text-gray-500">{f.runde} · {f.investoren}</div>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
+          )}
 
-        {regulierung && regulierung.items.length > 0 && (
-          <section>
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">⚖️ Regulierung</h2>
-              <Link href={`/regulierung/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
+          {regulierung && regulierung.items.length > 0 && (
+            <div>
+              <SectionHeader title="Regulierung" href={`/regulierung/${latestDate}`} />
+              <div className="-mt-1">
+                {regulierung.items.map(r => (
+                  <Link key={r.id} href={`/regulierung/${latestDate}`} className="group block py-3 border-b border-zinc-900">
+                    <div className="flex items-center gap-2.5 mb-1">
+                      <span className={`text-[11px] font-mono px-1.5 py-0.5 rounded ${r.auswirkung === 'hoch' ? 'bg-red-500/10 text-red-300' : r.auswirkung === 'mittel' ? 'bg-amber-500/10 text-amber-300' : 'bg-zinc-800 text-zinc-400'}`}>{r.auswirkung}</span>
+                      <span className="text-xs text-zinc-500">{r.region}</span>
+                    </div>
+                    <p className="text-[15px] text-zinc-300 group-hover:text-white transition-colors line-clamp-2">{r.titel}</p>
+                  </Link>
+                ))}
+              </div>
             </div>
-            <div className="space-y-2">
-              {regulierung.items.map(r => (
-                <Link key={r.id} href={`/regulierung/${latestDate}`} className="glass glass-hover rounded-lg p-3 group block">
-                  <div className="flex items-center gap-2 mb-1">
-                    <span className={`text-xs px-2 py-0.5 rounded font-mono ${r.auswirkung === 'hoch' ? 'bg-red-950/40 text-red-400' : r.auswirkung === 'mittel' ? 'bg-yellow-950/40 text-yellow-400' : 'bg-gray-900 text-gray-500'}`}>{r.auswirkung}</span>
-                    <span className="text-xs text-gray-500">{r.region}</span>
-                  </div>
-                  <p className="text-sm text-gray-300 group-hover:text-white line-clamp-2">{r.titel}</p>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
-      </div>
+          )}
+        </section>
+      )}
 
-      {/* Contoura Chancen */}
+      {/* Contoura */}
       {contoura && contoura.items.length > 0 && (
-        <section className="mb-10">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">🎯 Contoura Chancen</h2>
-            <Link href={`/contoura/${latestDate}`} className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
-          </div>
-          <div className="grid md:grid-cols-2 gap-3">
+        <section className="py-14 border-b border-zinc-900">
+          <SectionHeader title="Chancen für Contoura" href={`/contoura/${latestDate}`} />
+          <div className="grid md:grid-cols-2 gap-4">
             {contoura.items.map(c => (
-              <Link key={c.id} href={`/contoura/${latestDate}`} className="glass glass-hover rounded-xl p-4 group block border-l-2 border-indigo-800/50">
-                <div className="flex items-center gap-2 mb-2">
-                  <span className={`text-xs px-2 py-0.5 rounded font-mono ${c.prioritaet === 'hoch' ? 'bg-indigo-950/60 text-indigo-300' : 'bg-gray-900 text-gray-500'}`}>{c.prioritaet}</span>
-                  <span className="text-xs text-gray-600">{c.aufwand} Aufwand</span>
+              <Link key={c.id} href={`/contoura/${latestDate}`} className="card card-hover group p-5">
+                <div className="flex items-center gap-2.5 mb-2.5">
+                  <span className={`text-[11px] font-mono px-1.5 py-0.5 rounded ${c.prioritaet === 'hoch' ? 'bg-indigo-500/15 text-indigo-300' : 'bg-zinc-800 text-zinc-400'}`}>Priorität: {c.prioritaet}</span>
+                  <span className="text-[11px] text-zinc-500">Aufwand: {c.aufwand}</span>
                 </div>
-                <h3 className="text-sm font-semibold text-gray-200 group-hover:text-white mb-1">{c.titel}</h3>
-                <p className="text-xs text-gray-500">{c.kontext}</p>
+                <h3 className="text-[15px] font-medium text-zinc-100 group-hover:text-white transition-colors">{c.titel}</h3>
+                <p className="text-sm text-zinc-500 mt-1.5 line-clamp-2">{c.kontext}</p>
               </Link>
             ))}
           </div>
         </section>
       )}
 
-      {/* Ältere Ausgaben (kompakt) */}
+      {/* Frühere Ausgaben */}
       {allDates.length > 1 && (
-        <section>
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-sm font-semibold text-gray-400 uppercase tracking-wider">📚 Frühere Ausgaben</h2>
-            <Link href="/archiv" className="text-xs text-indigo-400 hover:text-indigo-300">Alle →</Link>
-          </div>
+        <section className="py-14">
+          <SectionHeader title="Frühere Ausgaben" href="/archiv" />
           <div className="flex flex-wrap gap-2">
-            {allDates.slice(1, 8).map(d => (
+            {allDates.slice(1, 10).map(d => (
               <Link
                 key={d}
                 href={`/top-news/${d}`}
-                className="text-xs font-mono text-gray-500 hover:text-gray-300 bg-white/5 hover:bg-white/8 border border-white/5 px-3 py-1.5 rounded-lg transition-colors"
+                className="text-sm font-mono text-zinc-500 hover:text-zinc-200 bg-zinc-900/60 hover:bg-zinc-900 border border-zinc-800 hover:border-zinc-700 px-3 py-1.5 rounded-lg transition-colors"
               >
                 {d}
               </Link>
