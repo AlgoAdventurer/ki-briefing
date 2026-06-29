@@ -1,0 +1,21 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Trump-Regierung lässt OpenAI GPT-5.6 zunächst nur an 20 „vertrauenswürdige Partner“ ausliefern",
+      "region": "USA",
+      "detail": "Auf Bitten des Office of the National Cyber Director und des Office of Science and Technology Policy beschränkt OpenAI den Start seiner neuen GPT-5.6-Modellreihe (Sol, Terra, Luna) zunächst auf rund 20 ausgewählte Partner, deren Teilnahme der Regierung gemeldet wurde – unter anderem über Amazon Bedrock. Es ist das erste Mal, dass die US-Regierung ein amerikanisches KI-Unternehmen präventiv, also vor dem Release, zu einer eingeschränkten Modellveröffentlichung bewegt. OpenAI selbst betont, breiten Zugang grundsätzlich zu befürworten und an einer baldigen allgemeinen Verfügbarkeit zu arbeiten.",
+      "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Trump unterzeichnet Dekret „AI Innovation and Security“",
+      "region": "USA",
+      "detail": "Mit Executive Order 14409 verpflichtet die US-Regierung Bundesbehörden zu schnelleren Cybersicherheits-Updates, richtet eine gemeinsame Sicherheits-Clearingstelle von Finanz-, Verteidigungs- und Heimatschutzministerium ein und schafft ein freiwilliges Rahmenwerk, über das KI-Entwickler ihre Frontier-Modelle vor der Veröffentlichung mit der Regierung abstimmen können. Ausdrücklich ausgeschlossen wird dabei eine verpflichtende staatliche Lizenzierung oder Vorabgenehmigung für die Entwicklung von KI-Modellen.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

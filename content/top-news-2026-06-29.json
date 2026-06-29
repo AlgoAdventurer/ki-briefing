@@ -1,0 +1,55 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "KI-Talent-Exodus bei Google DeepMind weitet sich aus – Alphabet verliert rund 270 Milliarden Dollar an Marktwert",
+      "quelle": "Tech Times",
+      "quelleUrl": "https://www.techtimes.com/articles/319219/20260628/google-deepminds-coding-pivot-lost-six-researchers-meta-openai-anthropic.htm",
+      "zusammenfassung": "Binnen einer Woche haben gleich fünf hochrangige Google-DeepMind-Forscher das Unternehmen verlassen – darunter Gemini-Mitentwickler Noam Shazeer (zu OpenAI) sowie die Pretraining- und Coding-Spezialisten Jonas Adler, Alexander Pritzel und Arthur Conmy (alle zu Anthropic). Die Abwanderungswelle löste den stärksten Tagesverlust der Alphabet-Aktie seit über einem Jahr aus. Als Auslöser gelten interne Kämpfe um GPU-Ressourcen sowie die Aussicht auf eine Anthropic-Beteiligung vor dem geplanten Börsengang.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "US-Regierung gibt Anthropics Mythos 5 für rund 100 Firmen und Behörden frei",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/06/27/anthropic-mythos-5-ai-model-us-commerce-department-clearance-fable/",
+      "zusammenfassung": "Nachdem die US-Regierung Anthropics fortschrittlichstes Modell Mythos 5 Mitte Juni per Exportkontroll-Direktive blockiert hatte, dürfen nun rund 100 ausgewählte Unternehmen und Bundesbehörden wieder darauf zugreifen. Das US-Handelsministerium hat dafür eine Liste freigegebener Organisationen (Annex A) erstellt, für die keine Exportlizenz mehr nötig ist. Für alle anderen Nutzer – auch viele internationale Kunden – bleibt der Zugriff weiterhin gesperrt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "GPT-4.5 nach 30-tägiger Übergangsfrist endgültig aus ChatGPT entfernt – ChatGPT knackt 900 Millionen wöchentliche Nutzer",
+      "quelle": "Build Fast with AI",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "zusammenfassung": "Wie bereits im Mai angekündigt, hat OpenAI GPT-4.5 am 27. Juni endgültig aus ChatGPT entfernt; bestehende Unterhaltungen wandern automatisch zum entsprechenden GPT-5.5-Modell. Parallel meldet OpenAI einen neuen Meilenstein: ChatGPT zählt inzwischen mehr als 900 Millionen wöchentliche Nutzer, wobei rund ein Fünftel der Anfragen bereits eine direkte kommerzielle Absicht erkennen lässt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Apple verteilt KI-Funktionen tief in iOS 27 – von Rechnungsteilung bis automatischem Passwort-Reset",
+      "quelle": "Build Fast with AI",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-27-2026",
+      "zusammenfassung": "Apple integriert KI nicht mehr nur in Siri, sondern direkt in Alltagsfunktionen von iOS 27: automatische Rechnungsteilung beim Essen, selbstständiger Passwort-Austausch nach Datenlecks, intelligente Nachrichtenvorschläge, Kalendereinträge per natürlicher Sprache und smartere Shortcuts-Automatisierungen. Der Fokus liegt klar auf praktischem Nutzen im Hintergrund statt auf einem sichtbaren Chatbot.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Österreich wirbt bei der EU dafür, Anthropics KI-Modelle in Europa zu hosten",
+      "quelle": "Bloomberg (via WHBL)",
+      "quelleUrl": "https://whbl.com/2026/06/28/austria-lobbies-eu-to-host-anthropic-ai-after-us-curbs-bloomberg-news-reports/",
+      "zusammenfassung": "Als Reaktion auf die US-Exportbeschränkungen für Anthropics fortschrittlichste Modelle lobbyiert Österreich bei der EU dafür, eine europäische Hosting-Lösung für Anthropic-Systeme aufzubauen. Damit will man europäischen Nutzern und Behörden unabhängigen Zugang zu den Spitzenmodellen sichern und gleichzeitig die digitale Souveränität der EU stärken.",
+      "kategorie": "Politik",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "name": "Mistral OCR 4",
+      "version": "4",
+      "anbieter": "Mistral AI",
+      "detail": "Mistral hat sein Dokumenten-KI-Modell OCR 4 veröffentlicht, das strukturierte Datenextraktion samt Bounding Boxes, Block-Klassifikation und Konfidenzwerten liefert. Das Modell unterstützt 170 Sprachen, läuft komplett selbst gehostet in einem einzigen Container und erzielt mit einem Gewinnanteil von 72% gegenüber konkurrierenden OCR-Systemen sowie dem Bestwert auf OlmOCRBench (85,20) Spitzenwerte. Damit zielt Mistral gezielt auf regulierte Branchen, die sensible Dokumente nicht in die Cloud geben wollen.",
+      "url": "https://www.techtimes.com/articles/318978/20260624/mistral-ocr-4-ships-structure-aware-document-ai-runs-your-own-infrastructure.htm",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Mistral_AI_logo_(2025%E2%80%93).svg"
+    },
+    {
+      "id": 2,
+      "name": "GPT-5.5 Instant",
+      "version": "Enhanced (medizinisches Reasoning)",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat eine verbesserte Version von GPT-5.5 Instant veröffentlicht, die gezielt für medizinische Anwendungsfälle optimiert wurde: stärkeres klinisches Reasoning und vorsichtigeres Sicherheitsverhalten bei Gesundheitsfragen. Die Aktualisierung richtet sich an Entwickler, die ChatGPT oder die API für Gesundheits- und Wellness-Anwendungen einsetzen.",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 3,
+      "name": "Grok Imagine Video",
+      "version": "1.5",
+      "anbieter": "xAI",
+      "detail": "xAI hat Grok Imagine Video 1.5 nach der Preview-Phase in die allgemeine Verfügbarkeit überführt – verfügbar über die Imagine API, grok.com sowie die iOS- und Android-Apps. Das Modell gilt aktuell als bestplatzierter Bild-zu-Video-Generator und kostet mit 4,20 Dollar pro Minute rund 86% weniger als Sora 2 Pro.",
+      "url": "https://www.techtimes.com/articles/318635/20260618/grok-imagine-video-15-goes-live-xai-tops-ai-video-leaderboard-86-percent-below-sora.htm",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Grok_logo.svg"
+    },
+    {
+      "id": 4,
+      "name": "Kimi K2.6",
+      "version": "2.6",
+      "anbieter": "Moonshot AI",
+      "detail": "Als Antrieb hinter dem neuen Desktop-Agenten Kimi Work hat Moonshot AI sein Agentenmodell K2.6 vorgestellt, einen Nachfolger der K2-Serie aus früher 2026. K2.6 ist speziell auf langlebige, mehrstufige Agenten-Workflows zugeschnitten und kann laut Anbieter bis zu 300 Sub-Agenten parallel koordinieren.",
+      "url": "https://www.marktechpost.com/2026/06/12/moonshot-ai-launches-kimi-work-a-local-desktop-agent-reportedly-running-on-kimi-k2-6-with-a-300-sub-agent-agent-swarm/",
+      "bild": ""
+    }
+  ]
+}

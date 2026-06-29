@@ -1,0 +1,23 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Baseten",
+      "betrag": "$1,5 Mrd.",
+      "runde": "Series F",
+      "investoren": "Altimeter Capital, Conviction, Spark Capital (Co-Leads: Sands Capital, Wellington Management)",
+      "beschreibung": "Baseten betreibt eine Plattform für KI-Inferenz und verarbeitet nach eigenen Angaben über eine Milliarde Inferenz-Anfragen täglich über 87 Cluster in 18 Cloud-Umgebungen weltweit. Die Series F bewertet das Unternehmen mit bis zu 13 Milliarden Dollar – eine Steigerung von 160% gegenüber der erst fünf Monate zuvor abgeschlossenen Series E. Die Runde unterstreicht, wie sehr Inferenz-Infrastruktur inzwischen als eigenes, hart umkämpftes Schlachtfeld im KI-Markt gilt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "AlphaSense",
+      "betrag": "$350 Mio.",
+      "runde": "Wachstumsrunde",
+      "investoren": "Vitruvian Partners, Accenture Ventures, J.P. Morgan Asset Management",
+      "beschreibung": "AlphaSense bietet eine KI-gestützte Markt- und Recherche-Plattform für Finanz- und Unternehmensanalysten und hat mit der neuen Runde eine Bewertung von 7,5 Milliarden Dollar erreicht – deutlich über den 4 Milliarden Dollar der letzten Runde 2024. Das Unternehmen meldet inzwischen über 600 Millionen Dollar jährlich wiederkehrenden Umsatz.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-06-29",
+  "name": "Kimi Work",
+  "tagline": "Lokaler Desktop-Agent von Moonshot AI, der bis zu 300 Sub-Agenten parallel auf deinen eigenen Dateien arbeiten lässt",
+  "beschreibung": "Kimi Work ist eine herunterladbare Desktop-App für macOS und Windows, die auf Moonshots K2.6-Agentenmodell läuft und direkt auf dem eigenen Rechner Dateien liest, den Browser steuert und Aufgaben nach Zeitplan ausführt. Das Herzstück ist ein „Agent Swarm“, der eine große Aufgabe in bis zu 300 Teilaufgaben zerlegt und parallel von Sub-Agenten bearbeiten lässt. Eine Browser-Automatisierung namens WebBridge erlaubt dabei den Zugriff auf bereits angemeldete Web-Sitzungen, ein 24/7-Scheduler hält Aufgaben auch nach dem Abmelden am Laufen. Damit positioniert sich Kimi Work als vollwertige digitale Arbeitsumgebung statt als reiner Chatbot.",
+  "useCase": "Eine Analystin lässt Kimi Work über Nacht hunderte Recherche- und Auswertungsschritte zu einem Marktbericht parallel abarbeiten und findet am nächsten Morgen eine fertig aufbereitete Zusammenfassung inklusive Quellenbelegen vor – ganz ohne dass sensible Firmendaten die eigene Maschine verlassen.",
+  "url": "https://www.kimi.com/",
+  "kategorie": "Productivity / Agents",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Desktop-Agent", "Multi-Agent", "Moonshot AI", "Automatisierung"]
+}

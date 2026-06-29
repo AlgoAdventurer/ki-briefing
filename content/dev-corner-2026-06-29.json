@@ -1,0 +1,37 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MAI-Code-1-Flash: Microsofts eigenes Coding-Modell jetzt allgemein verfügbar in GitHub Copilot",
+      "typ": "SDK",
+      "detail": "GitHub hat MAI-Code-1-Flash, das hauseigene Coding-Modell von Microsoft AI, für Copilot Business und Copilot Enterprise freigegeben. Das Modell ist auf niedrige Latenz und hohen Durchsatz optimiert und eignet sich damit besonders für iterative, agentische Coding-Workflows mit vielen schnellen Anfragen hintereinander. Entwickler können es direkt im Modell-Picker von Copilot auswählen.",
+      "url": "https://github.blog/news-insights/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GitHub Copilot for Jira erreicht General Availability",
+      "typ": "Tool",
+      "detail": "Nach der Public Preview im März ist GitHub Copilot for Jira nun allgemein verfügbar. Neu hinzugekommen sind Modellauswahl, Confluence-Kontext über MCP, eigene Agenten, benutzerdefinierte Felder, Space-Level-Guidance sowie Benachrichtigungen bei Review-Anfragen direkt in Jira – damit lassen sich Agenten-Sessions jetzt deutlich gezielter steuern und nachvollziehen.",
+      "url": "https://github.blog/news-insights/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub Desktop: Copilot läuft jetzt auf dem Copilot SDK, inklusive Bring-your-own-key",
+      "typ": "Tool",
+      "detail": "Copilot in GitHub Desktop basiert nun auf dem Copilot SDK und bekommt einen Modell-Picker für jede Funktion. Über Bring-your-own-key (BYOK) lässt sich außerdem ein beliebiger Drittanbieter oder ein lokal laufendes Modell anbinden – relevant für Teams, die nicht an einen festen Modell-Anbieter gebunden sein wollen.",
+      "url": "https://github.blog/news-insights/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 4,
+      "titel": "Claude als Server-Modell in Apples Foundation-Models-Framework",
+      "typ": "SDK",
+      "detail": "Mit dem neuen Swift-Paket „Claude for Foundation Models“ lässt sich Claude über dieselbe LanguageModelSession-API ansprechen, die Apple für sein On-Device-Modell auf iOS 27, iPadOS 27, macOS 27, visionOS 27 und watchOS 27 vorsieht – inklusive Streaming, geführter Generierung und Tool-Calling. Anfragen gehen dabei direkt von der App an die Claude API, Apple sieht weder Prompts noch Antworten; abgerechnet wird über den eigenen Anthropic-API-Zugang.",
+      "url": "https://claude.com/blog/claude-for-foundation-models",
+      "codebeispiel": ""
+    }
+  ]
+}

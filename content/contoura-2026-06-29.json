@@ -1,0 +1,29 @@
+{
+  "datum": "2026-06-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Handschriftliche Wettkampf- und Trainingsprotokolle automatisch digitalisieren",
+      "kontext": "Mistral OCR 4 extrahiert strukturierte Daten aus Dokumenten mit hoher Genauigkeit, läuft komplett selbst gehostet und unterstützt 170 Sprachen.",
+      "umsetzung": "Viele OL-Vereine und Trainer führen Split-Zeiten, Fehlerprotokolle oder Wettkampfkarten noch handschriftlich. Contoura könnte ein Upload-Feature anbieten, das solche Scans oder Fotos per OCR-Modell automatisch in strukturierte Trainingsdaten umwandelt und direkt in den Performance-Index einspeist – ganz ohne manuelle Nacherfassung.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Agent-Swarm für komplette Saison- und Team-Auswertungen über Nacht",
+      "kontext": "Neue Desktop-Agenten wie Kimi Work zeigen, dass sich große Auswertungsaufgaben in hunderte parallele Teilaufgaben zerlegen und automatisiert abarbeiten lassen.",
+      "umsetzung": "Contoura könnte für Vereine und Verbände eine Funktion anbieten, die über Nacht die Daten aller Athletinnen und Athleten eines Kaders parallel auswertet – etwa um teamweite Fehlermuster, Formkurven oder Trainingsrückstände zu erkennen – und am nächsten Morgen einen fertigen Report für die Trainer bereitstellt.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Datenschutzfreundliche, lokale Trainingskommentare über Claude auf Apple-Geräten",
+      "kontext": "Mit dem neuen Swift-Paket für Apples Foundation-Models-Framework lässt sich Claude direkt in iOS- und macOS-Apps einbinden, ohne dass Apple Prompts oder Antworten sieht.",
+      "umsetzung": "Contoura könnte eine iOS-Funktion bauen, die nach jedem Training über die Foundation-Models-API automatisch kurze, persönliche Kommentare zu Split-Zeiten und Fehlermustern generiert – mit klar nachvollziehbarem Datenfluss direkt zu Anthropic statt über eine zusätzliche Cloud-Infrastruktur von Contoura selbst.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    }
+  ]
+}
