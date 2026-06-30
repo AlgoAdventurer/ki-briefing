@@ -1,0 +1,23 @@
+{
+  "datum": "2026-06-30",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Supabase",
+      "betrag": "$500 Mio.",
+      "runde": "Wachstumsrunde",
+      "investoren": "GIC (Lead)",
+      "beschreibung": "Der Anbieter der offenen Open-Source-Plattform für Entwickler und KI-App-Bauer hat mit der neuen Runde eine Bewertung von 10,5 Milliarden Dollar erreicht. Supabase positioniert sich zunehmend als Backend-Infrastruktur für KI-gestützte App-Entwicklung und profitiert vom Boom der No-Code- und Vibe-Coding-Tools.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Suno",
+      "betrag": "$400 Mio.",
+      "runde": "Series D",
+      "investoren": "Bond (Lead)",
+      "beschreibung": "Der Anbieter von KI-Tools zur Musikerstellung erreicht mit der neuen Runde eine Bewertung von 5,4 Milliarden Dollar. Die Finanzierung unterstreicht das anhaltend hohe Investoreninteresse an generativer KI für kreative Branchen jenseits von Text und Bild.",
+      "bild": ""
+    }
+  ]
+}

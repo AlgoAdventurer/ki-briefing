@@ -1,0 +1,12 @@
+{
+  "datum": "2026-06-30",
+  "name": "Google AI Studio – Vibe Coding",
+  "tagline": "Kostenlos vollständige Web- und Android-Apps allein durch Beschreibung in natürlicher Sprache bauen",
+  "beschreibung": "Vibe Coding ist ein neuer Modus in Google AI Studio, bei dem man Gemini einfach das gewünschte Projekt beschreibt – etwa einen Budget-Tracker oder Reiseplaner – und das Modell Oberfläche, Logik und Datenanbindung automatisch erstellt. Mit dem neuen Annotation Mode lassen sich einzelne Bereiche der fertigen App markieren und gezielt per Sprachanweisung ändern, statt Code manuell zu suchen. Über AI Chips können zusätzliche Fähigkeiten wie Bildgenerierung oder Google-Maps-Daten direkt ins Projekt eingebunden werden. Fertige Apps lassen sich speichern, teilen und als echter, eigener Code exportieren.",
+  "useCase": "Ein Produktmanager ohne Entwicklerteam beschreibt in wenigen Sätzen ein internes Tool zur Erfassung von Kundenfeedback, lässt Gemini eine funktionierende Web-App dazu bauen und passt anschließend per Annotation Mode einzelne Formularfelder direkt im Browser an – fertig nutzbar innerhalb weniger Minuten.",
+  "url": "https://aistudio.google.com/vibe-code",
+  "kategorie": "Coding / No-Code",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Vibe Coding", "Gemini", "No-Code", "Google AI Studio"]
+}

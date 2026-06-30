@@ -1,0 +1,21 @@
+{
+  "datum": "2026-06-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige, selbstgehostete KI-Trainingskommentare dank offener Modelle wie GLM-5.2",
+      "kontext": "Z.ai hat mit GLM-5.2 ein leistungsfähiges Open-Weight-Modell unter MIT-Lizenz veröffentlicht, das bei Coding- und Reasoning-Aufgaben nahe an Spitzenmodelle wie GPT-5.5 herankommt – zu einem Bruchteil der API-Kosten.",
+      "umsetzung": "Statt für jede automatisch generierte Trainingsanalyse oder jeden Fehlerkommentar teure API-Aufrufe an ein geschlossenes Spitzenmodell zu zahlen, könnte Contoura ein offenes Modell wie GLM-5.2 selbst hosten oder über einen günstigen Drittanbieter ansprechen. Das würde automatisierte Auswertungen für deutlich mehr Athletinnen und Athleten wirtschaftlich tragbar machen, ohne bei der Qualität der Texte große Abstriche zu machen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Interne Trainer-Tools per Vibe Coding ohne eigenes Frontend-Team bauen",
+      "kontext": "Mit Vibe Coding in Google AI Studio lassen sich kostenlos vollständige Web-Apps allein durch Beschreibung in natürlicher Sprache erstellen und per Annotation Mode gezielt anpassen.",
+      "umsetzung": "Contoura könnte kleine interne Werkzeuge – etwa ein Dashboard für Vereinstrainer zur schnellen Sichtung von Fehlerstatistiken einzelner Athleten oder ein Formular zur manuellen Nacherfassung alter Wettkampfdaten – direkt per Vibe Coding prototypisch bauen, bevor entschieden wird, ob sich ein fest codiertes Feature lohnt.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

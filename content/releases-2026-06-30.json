@@ -1,0 +1,41 @@
+{
+  "datum": "2026-06-30",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 (Sol, Terra, Luna)",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Dreistufige Modellfamilie: Sol als Flaggschiff für komplexe Coding- und Security-Aufgaben, Terra als preisgünstigere Variante für Business-Workflows und Luna für schnelle, kostengünstige Routineaufgaben. Neu sind die Reasoning-Stufe „max“ sowie „ultra“, das Teilaufgaben über mehrere Subagenten parallelisiert. Aktuell nur für rund 20 von der US-Regierung freigegebene Partner verfügbar.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.2",
+      "version": "5.2",
+      "anbieter": "Z.ai (Zhipu)",
+      "detail": "753-Milliarden-Parameter-Modell (Mixture-of-Experts mit 40 aktiven Milliarden Parametern) mit einem Kontextfenster von einer Million Token – mehr als verfünffacht gegenüber GLM-5.1. Die neue IndexShare-Architektur senkt den Rechenaufwand pro Token bei langem Kontext um das 2,9-Fache. Die Gewichte stehen unter MIT-Lizenz frei auf Hugging Face und über mehr als 20 Drittanbieter-Umgebungen zur Verfügung.",
+      "url": "https://simonwillison.net/2026/jun/17/glm-52/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Jalapeño",
+      "version": "Generation 1",
+      "anbieter": "OpenAI / Broadcom",
+      "detail": "Erster eigens für LLM-Inferenz entwickelter Chip von OpenAI, gemeinsam mit Broadcom in nur neun Monaten von Design bis Tape-out gebracht. Der „Intelligence Processor“ adressiert gezielt Datenbewegung, Speicherbalance und Netzwerkeffizienz und soll laut Broadcom rund 50% günstiger als klassische GPUs laufen. Einsatz im großen Maßstab ist für Ende 2026 geplant.",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Claude in Microsoft Foundry",
+      "version": "GA",
+      "anbieter": "Anthropic / Microsoft",
+      "detail": "Claude-Modelle sind jetzt allgemein verfügbar in Microsoft Foundry auf Azure – inklusive Azure-nativer Identitäts-, Abrechnungs- und Governance-Anbindung sowie optionaler US-Datenzone. Damit können Unternehmen Claude direkt über ihre bestehende Azure-Infrastruktur einsetzen, ohne separate Anthropic-Verträge aufzusetzen.",
+      "url": "https://claude.com/blog/claude-in-microsoft-foundry",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    }
+  ]
+}

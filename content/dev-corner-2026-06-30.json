@@ -1,0 +1,37 @@
+{
+  "datum": "2026-06-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude führt Enterprise-Managed MCP-Connector-Zugriff über Okta ein",
+      "typ": "API",
+      "detail": "Mit dem offenen ID-JAG-Standard (Identity JWT Authorization Grant) können IT-Admins MCP-Integrationen wie Asana, Atlassian, Figma, Linear oder Supabase einmal zentral über Okta freischalten – Mitarbeitende erhalten beim ersten Login automatisch Zugriff, ganz ohne einzelne OAuth-Freigaben. Da ID-JAG ein offener Standard ist, können künftig auch andere Identity-Provider und MCP-Anbieter die Funktion implementieren.",
+      "url": "https://www.techtimes.com/articles/318704/20260619/claude-mcp-connectors-now-provision-through-okta-employees-inherit-access-login.htm",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI bringt Codex Plugins – Skills, App-Integrationen und MCP-Configs in einem installierbaren Paket",
+      "typ": "SDK",
+      "detail": "Codex Plugins bündeln wiederverwendbare Skills, App-Anbindungen und vorkonfigurierte MCP-Server-Verbindungen in einem einzigen Installationspaket. Entwickler können damit komplette Agenten-Setups – etwa für ein bestimmtes Framework oder einen bestimmten Workflow – mit einem Befehl weitergeben, statt jede Komponente einzeln einzurichten.",
+      "url": "https://openai.com/index/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub MCP Server: Secret Scanning jetzt GA, neues Tool search_commits",
+      "typ": "Tool",
+      "detail": "Der offizielle GitHub MCP Server bietet Secret-Scanning-Funktionen jetzt allgemein verfügbar an, sodass KI-Agenten Sicherheitsfunde direkt programmatisch abrufen und Remediation-Workflows automatisieren können. Der Remote-Server umfasst inzwischen 56 Tools über 20 Toolset-Kategorien, zuletzt ergänzt um das Tool search_commits.",
+      "url": "https://github.blog/changelog/2026-05-05-secret-scanning-with-github-mcp-server-is-now-generally-available/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 4,
+      "titel": "Hugging Face Transformers 5.12.0 unterstützt MiniMax-M3-VL, PP-OCRv6 und Parakeet-RNNT",
+      "typ": "Open Source",
+      "detail": "Das neue Transformers-Release bringt First-Class-Support für das Vision-Language-Modell MiniMax-M3-VL mit sparsamer Attention-Architektur, das für Edge- bis Server-Einsatz optimierte OCR-System PP-OCRv6 sowie Parakeet-RNNT für Echtzeit-Spracherkennung – drei direkt einsatzbereite Bausteine für multimodale und sprachbasierte Anwendungen.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

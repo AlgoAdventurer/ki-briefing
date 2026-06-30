@@ -1,0 +1,55 @@
+{
+  "datum": "2026-06-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI zeigt GPT-5.6 Sol, Terra und Luna – vorerst nur für rund 20 von der Regierung freigegebene Partner",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/openai-unveils-gpt-5-6-sol-terra-and-luna-models-but-only-accessible-to-limited-preview-partners-for-now-per-us-gov",
+      "zusammenfassung": "OpenAI hat mit Sol, Terra und Luna eine dreistufige GPT-5.6-Modellfamilie vorgestellt: Sol für die schwierigsten Coding- und Sicherheitsaufgaben, Terra als günstigere Variante für Business-Workflows und Luna für schnelle Routineaufgaben. Wegen behördlicher Auflagen ist der Zugriff zunächst auf rund 20 geprüfte Partnerunternehmen beschränkt, eine breitere Verfügbarkeit in ChatGPT, Codex und der API ist für die kommenden Wochen angekündigt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Chinas Z.ai veröffentlicht GLM-5.2 als offenes Gewicht – schlägt GPT-5.5 bei Coding-Benchmarks zu einem Sechstel der Kosten",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "zusammenfassung": "Z.ai hat sein 753-Milliarden-Parameter-Modell GLM-5.2 unter freier MIT-Lizenz veröffentlicht und liegt bei mehreren Langzeit-Coding-Benchmarks vor GPT-5.5 – bei deutlich geringeren Kosten. Mit einem Kontextfenster von einer Million Token und einer neuen IndexShare-Architektur gilt GLM-5.2 als bislang leistungsfähigstes frei verfügbares Sprachmodell und zeigt, wie stark chinesische Anbieter im offenen KI-Bereich aufgeholt haben.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI und Broadcom stellen Jalapeño vor – ersten eigenen KI-Inferenz-Chip von OpenAI",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "zusammenfassung": "Nach nur neun Monaten Entwicklungszeit haben OpenAI und Broadcom mit Jalapeño einen speziell für LLM-Inferenz entwickelten Chip vorgestellt, der gezielt Datenbewegung, Speicherbalance und Netzwerkeffizienz optimiert. Laut Broadcom-CEO Hock Tan sollen damit rund 50% der Kosten gegenüber klassischen GPUs eingespart werden; der Einsatz im großen Maßstab ist für Ende 2026 geplant.",
+      "kategorie": "Hardware",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Googles Gemini 3.5 Pro verpasst erneut den angekündigten Veröffentlichungstermin",
+      "quelle": "Build Fast with AI",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-june-29-2026",
+      "zusammenfassung": "Sundar Pichais auf der Google I/O gegebenes Versprechen, Gemini 3.5 Pro noch im Juni allgemein verfügbar zu machen, wurde erneut nicht eingehalten – das Modell mit 2-Millionen-Token-Kontext und neuem Deep-Think-Reasoning verschiebt sich nun auf Juli. Die Verzögerung fällt zusammen mit dem Abgang mehrerer leitender Gemini-Forscher und nährt Zweifel an Googles Entwicklungstempo im KI-Wettrennen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Google drosselt Metas Zugriff auf Gemini-Modelle wegen Kapazitätsengpässen",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/06/29/top-tech-news-today-june-29-2026/",
+      "zusammenfassung": "Weil Meta deutlich mehr Rechenkapazität für Gemini-Modelle angefragt hatte, als Google liefern konnte, hat Google den Zugriff seit März spürbar eingeschränkt – mit Auswirkungen auf mehrere interne KI-Projekte von Meta. Der Fall zeigt, wie eng selbst die größten Tech-Konzerne inzwischen um knappe GPU- und Cloud-Kapazitäten konkurrieren, auch untereinander.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
