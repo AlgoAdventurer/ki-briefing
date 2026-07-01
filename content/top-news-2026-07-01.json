@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic veröffentlicht Claude Science – KI-Werkbank für Forschung und Pharma",
+      "quelle": "MIT Technology Review",
+      "quelleUrl": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+      "zusammenfassung": "Anthropic hat mit Claude Science eine neue Plattform vorgestellt, die über 60 wissenschaftliche Datenbanken und Rechenwerkzeuge bündelt und Forschende bei Aufgaben wie Proteinstruktur-Vorhersage, CRISPR-Screen-Design und der Analyse klinischer Studiendaten unterstützt. In einer Demo identifizierte das System eigenständig neue Wirkstoffkandidaten gegen die seltene Stoffwechselkrankheit Phenylketonurie. Anthropic betont zugleich, dass alle KI-generierten Ergebnisse von Forschenden unabhängig verifiziert werden müssen.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "SpaceX least Rechenkapazität für bis zu 6,3 Milliarden Dollar an Open-Source-KI-Start-up Reflection AI",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "zusammenfassung": "Ab dem 1. Juli zahlt Reflection AI monatlich 150 Millionen Dollar für Zugang zu Nvidia-GB300-Chips in SpaceX' Colossus-2-Rechenzentrum bei Memphis – bei voller Vertragslaufzeit bis 2029 macht das bis zu 6,3 Milliarden Dollar. Reflection AI, mitgegründet von früheren DeepMind-Forschern, positioniert sich mit offenen Modellgewichten als Gegenpol zu geschlossenen US-Anbietern. Für SpaceX ist es bereits der dritte große Colossus-Rechenleistungsdeal nach Anthropic und Google.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "xAI testet Grok 4.5 mit neuem 1,5-Billionen-Parameter-Modell V9 exklusiv bei SpaceX und Tesla",
+      "quelle": "Crypto Briefing",
+      "quelleUrl": "https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/",
+      "zusammenfassung": "xAI hat am 28. Juni Grok 4.5 angekündigt, das auf der neuen V9-Basisarchitektur mit 1,5 Billionen Parametern läuft – etwa dreimal so groß wie das bisherige V8-small-Modell. Das Modell befindet sich zunächst in einer privaten Betaphase exklusiv bei den Elon-Musk-Firmen SpaceX und Tesla, bevor eine breitere Verfügbarkeit folgen soll.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI bringt GPT-5.6 Sol im Juli auf Cerebras-Hardware – bis zu 750 Token pro Sekunde",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "zusammenfassung": "OpenAI will sein Flaggschiffmodell GPT-5.6 Sol im Juli auf spezialisierter Cerebras-Wafer-Scale-Hardware anbieten und verspricht dabei eine Inferenzgeschwindigkeit von bis zu 750 Token pro Sekunde – etwa das 15-Fache des aktuellen Standard-Tempos. Der Zugang bleibt zunächst auf ausgewählte Kunden beschränkt, während OpenAI die Kapazität schrittweise ausbaut.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic startet Claude Apps Gateway und erreicht allgemeine Verfügbarkeit in Microsoft Foundry",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "zusammenfassung": "Mit dem neuen Claude Apps Gateway können Unternehmen Claude Code zentral über eine selbst gehostete Kontrollebene mit Single-Sign-on, rollenbasierten Rechten und Kosten-Tracking pro Nutzer betreiben – über Amazon Bedrock, Google Cloud und Microsoft Foundry hinweg. Parallel ist Claude in Microsoft Foundry auf Azure jetzt allgemein verfügbar, inklusive nativer Azure-Governance und optionaler US-Datenzone.",
+      "kategorie": "Developer Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

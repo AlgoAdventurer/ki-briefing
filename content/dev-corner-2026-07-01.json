@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GitHub MCP Server: Issue-Field-Support und CSV-Output hinter Feature-Flags",
+      "typ": "Tool",
+      "detail": "Der offizielle GitHub MCP Server unterstützt jetzt hinter dem Flag remote_mcp_issue_fields das Auflisten, Filtern und Schreiben von benutzerdefinierten Issue-Feldern – im Insiders-Modus automatisch aktiviert. Parallel liefert das Flag csv_output eine kompaktere CSV-Darstellung für list_*-Tools, was den Token-Verbrauch bei großen Ergebnismengen deutlich senkt.",
+      "url": "https://github.com/github/github-mcp-server/releases",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Mistral erweitert Connectors um Scoped API-Keys, Debugger und Multi-Account-Support",
+      "typ": "SDK",
+      "detail": "Mistral hat sein Connectors-System für sichere Enterprise-Integrationen ausgebaut: neue Admin-Kontrollen, projektspezifisch eingeschränkte API-Keys, Unterstützung für mehrere Konten pro Connector sowie ein integrierter Debugger. Die Connectors lassen sich jetzt auch direkt in Vibe Code und Mistral Workflows einbinden.",
+      "url": "https://mistral.ai/news/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Claude Apps Gateway: Selbst gehostete Kontrollebene übersetzt zwischen Bedrock, Google Cloud und Foundry",
+      "typ": "API",
+      "detail": "Der neue Claude Apps Gateway ist ein selbst gehosteter Proxy, der zwischen Claude-Code-Clients und den Modell-Anbietern sitzt: Clients sprechen einheitlich die Anthropic Messages API, der Gateway übersetzt sie je nach Backend für Amazon Bedrock, Google Clouds Agent Platform oder Microsoft Foundry – inklusive automatischem Failover zwischen den Anbietern. Unternehmen erhalten so Corporate-SSO, zentrale Policy-Durchsetzung und Kosten-Tracking pro Nutzer, ohne einzelne API-Keys verteilen zu müssen.",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "codebeispiel": ""
+    }
+  ]
+}

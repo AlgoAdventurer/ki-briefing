@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Seltz",
+      "betrag": "$12,5 Mio.",
+      "runde": "Seed",
+      "investoren": "Speedinvest, B Capital (Lead)",
+      "beschreibung": "Das erst im Oktober gegründete Start-up baut eine komplett eigene Suchinfrastruktur speziell für KI-Agenten statt bestehende Suchmaschinen zu verpacken – inklusive eigenem Webcrawler, Suchindex und Ranking. Das System durchsucht täglich hunderte Millionen Seiten und liefert Ergebnisse in unter 200 Millisekunden, zugeschnitten auf lange, präzise Agentenanfragen statt kurzer Stichwortsuchen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Crusoe",
+      "betrag": "$1,38 Mrd.",
+      "runde": "Series E",
+      "investoren": "Valor Equity Partners, Mubadala Capital (Co-Lead), Nvidia, Fidelity, Founders Fund",
+      "beschreibung": "Der KI-Infrastrukturanbieter erreicht mit der Runde eine Bewertung von über 10 Milliarden Dollar. Crusoe baut großflächige, energieeffiziente Rechenzentren für KI-Workloads und ist unter anderem zentraler Baupartner für OpenAIs Stargate-Rechenzentrumsprojekt in Abilene, Texas.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Wissenschaftliche Auswertungs-Werkbank für Trainingsdaten nach Vorbild von Claude Science",
+      "kontext": "Claude Science zeigt, wie ein KI-Workbench komplexe Datenbanken, Fehlerstatistiken und Zeitreihen bündelt und daraus automatisch Hypothesen und Auswertungen generiert – exakt das Muster, das auch Orientierungslauf-Trainingsdaten brauchen.",
+      "umsetzung": "Contoura könnte eine ähnliche Auswertungs-Pipeline bauen, die Split-Zeiten, Fehlerstatistiken und Performance-Index über mehrere Saisons hinweg automatisch korreliert und Trainerinnen und Trainern konkrete Hypothesen liefert – etwa welche Streckenabschnitte oder Wettkampftypen bei einzelnen Athletinnen und Athleten systematisch zu Fehlern führen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Lokales KI-Gedächtnis (à la PMB) für die interne Contoura-Entwicklung nutzen",
+      "kontext": "Das kostenlose Open-Source-Tool PMB gibt KI-Coding-Agenten wie Claude Code über MCP ein persistentes, lokal gespeichertes Projektgedächtnis – ganz ohne Cloud-Anbindung oder zusätzliche API-Kosten.",
+      "umsetzung": "Contouras Entwicklerteam könnte PMB direkt in die eigene Claude-Code-Umgebung einbinden, damit wiederkehrende Architekturentscheidungen, bekannte Bugs und Datenmodell-Besonderheiten der Performance-Plattform nicht bei jeder neuen Session erneut erklärt werden müssen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kalifornien verhandelt am 1. Juli mehrere KI-Gesetzesvorschläge – von KI-Aufsichtsbehörde bis Chatbot-Sicherheit",
+      "region": "USA",
+      "detail": "Vor der parlamentarischen Sommerpause stehen am 1. Juli mehrere KI-Gesetzesvorhaben in kalifornischen Ausschüssen zur Anhörung: SB 813 würde eine eigene 'California AI Standards and Safety Commission' schaffen, SB 903 reguliert den Einsatz von KI in der psychischen Gesundheitsversorgung, und SB 1119 zielt auf Sicherheitsanforderungen für Chatbots. Die Bills müssen die zweite Kammer passieren, bevor die Legislative im Juli in die Sommerpause geht.",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-june26-2026",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Rat soll AI-Act-Verschiebungen bis 2. August formell besiegeln",
+      "region": "EU",
+      "detail": "Nach der Zustimmung des EU-Parlaments am 16. Juni zur Verschiebung zentraler Hochrisiko-Pflichten steht nun die formelle Annahme durch den Europäischen Rat aus. Erst mit der anschließenden Veröffentlichung im EU-Amtsblatt, die bis zum 2. August 2026 erwartet wird, werden die neuen Fristen – etwa die Verschiebung der Anhang-III-Pflichten auf Dezember 2027 – rechtsverbindlich.",
+      "url": "https://datamatters.sidley.com/2026/06/22/eu-lawmakers-reach-provisional-agreement-to-delay-key-eu-ai-act-obligations/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

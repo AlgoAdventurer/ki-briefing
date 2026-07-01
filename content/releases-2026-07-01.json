@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-01",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 Sol",
+      "version": "5.6 (Cerebras-Serving)",
+      "anbieter": "OpenAI / Cerebras",
+      "detail": "OpenAI bringt sein Flaggschiffmodell Sol im Juli auf die Wafer-Scale-Chips von Cerebras und erreicht damit bis zu 750 Token pro Sekunde – etwa das 15-Fache der bisherigen Standard-Geschwindigkeit. Das soll interaktive, agentische Anwendungen mit spürbar geringerer Latenz ermöglichen; der Zugang ist zunächst auf ausgewählte Kunden beschränkt, während die Kapazität ausgebaut wird. Preislich liegt Sol bei 5 Dollar pro Million Input- und 30 Dollar pro Million Output-Token.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "Grok 4.5 (V9)",
+      "version": "V9, private Beta",
+      "anbieter": "xAI",
+      "detail": "Grok 4.5 basiert auf der neuen V9-Basisarchitektur mit 1,5 Billionen Parametern – rund dreimal so groß wie das bisherige V8-small-Modell hinter Grok 4. Das Modell läuft aktuell in einer privaten Beta exklusiv bei SpaceX und Tesla; parallel hat xAI mit /goal einen neuen autonomen Langzeit-Modus für Grok Build eingeführt, der größere Implementierungsaufgaben eigenständig plant, ausführt und verifiziert.",
+      "url": "https://cryptobriefing.com/xai-grok-4-5-v9-model-upgrade/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Mistral OCR 4",
+      "version": "4",
+      "anbieter": "Mistral AI",
+      "detail": "Die neue OCR-Version liefert neben extrahiertem Text auch Bounding Boxes, Blockklassifizierung und Konfidenzwerte pro Textabschnitt und unterstützt 170 Sprachen. Das Modell läuft vollständig selbst gehostet in einem einzigen Container und positioniert sich als Ingestion-Baustein für Enterprise-Suche und RAG-Pipelines.",
+      "url": "https://venturebeat.com/data/mistral-launches-ocr-4-turning-document-extraction-into-a-full-enterprise-ai-play",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Claude Science",
+      "version": "",
+      "anbieter": "Anthropic",
+      "detail": "Neue Forschungsplattform, die über 60 wissenschaftliche Datenbanken und Rechenwerkzeuge in einer Oberfläche bündelt – von Proteinstruktur-Vorhersage über CRISPR-Screen-Design bis zur Analyse klinischer Studiendaten. Die Software läuft auf den bestehenden Claude-Modellen statt einem eigens für Biologie trainierten Modell, weshalb Anthropic explizit vor Halluzinationen warnt und unabhängige Verifikation aller Ergebnisse fordert.",
+      "url": "https://www.anthropic.com/news/claude-science-ai-workbench",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    }
+  ]
+}

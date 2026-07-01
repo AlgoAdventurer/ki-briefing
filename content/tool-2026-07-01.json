@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-01",
+  "name": "PMB",
+  "tagline": "Lokales, kostenloses Gedächtnis für Claude Code, Cursor & Co. – ohne Cloud, ohne API-Keys",
+  "beschreibung": "PMB gibt KI-Coding-Agenten wie Claude Code, Cursor, Codex und Zed über das Model Context Protocol ein persistentes Projektgedächtnis, das lokal in einer SQLite-Datenbank auf der eigenen Festplatte gespeichert wird. Statt loser Notizen unterscheidet PMB typisierte Erinnerungen – etwa Entscheidungen, gelernte Lektionen, Ziele und aktuelle Arbeit – und bewertet sogar, ob eine Lektion vom Agenten tatsächlich befolgt wird. Laut Entwickler erreicht das Tool im LoCoMo-Benchmark 94,5% Recall@10 bei nur 70ms Antwortzeit.",
+  "useCase": "Ein Entwicklerteam nutzt PMB, damit Claude Code beim Wechsel zwischen Sessions nicht jedes Mal neu erklärt bekommen muss, welche Architekturentscheidungen bereits getroffen wurden oder welche Bugs zuletzt gefixt wurden.",
+  "url": "https://pmbai.dev/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["MCP", "Coding-Agenten", "Open Source", "Local-First"]
+}
