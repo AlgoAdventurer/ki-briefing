@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainings-Reviews mit Claude Sonnet 5 generieren",
+      "kontext": "Claude Sonnet 5 ist laut Anthropic das bisher agentischste Sonnet-Modell und günstig genug ($2/$10 pro Mio. Tokens) für den produktiven Dauereinsatz, auch bei großen Datenmengen dank 1-Millionen-Token-Kontext.",
+      "umsetzung": "Contoura könnte nach jeder hochgeladenen Trainingseinheit automatisch einen Claude-Sonnet-5-Kommentar generieren lassen, der Split-Zeiten, Fehlerstatistiken und Performance-Index einer Session in verständlicher Sprache zusammenfasst und mit den letzten Trainingseinheiten desselben Athleten vergleicht – dank des großen Kontextfensters ließe sich sogar eine ganze Saison auf einmal einbeziehen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kartenanalyse per Gemini 3 Pro Image für Streckenauswertung",
+      "kontext": "Google hat Gemini 3 Pro Image ('Nano Banana Pro') allgemein verfügbar gemacht – ein hochwertiges Bildmodell, das auch komplexe Bildinhalte wie Orientierungslaufkarten interpretieren und annotieren kann.",
+      "umsetzung": "Contoura könnte hochgeladene OL-Kartenausschnitte automatisch mit Gemini 3 Pro Image analysieren lassen, um Geländetypen, Postenstandorte und schwierige Streckenabschnitte zu erkennen und diese Information mit den Fehlerstatistiken der Athleten zu verknüpfen – etwa um zu zeigen, bei welchen Geländeformen ein Athlet systematisch Zeit verliert.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Mobiler Trainer-Review-Workflow nach Vorbild der Cursor-iOS-App",
+      "kontext": "Cursor zeigt mit seiner neuen iOS-App, wie sich komplexe Review- und Freigabe-Workflows erfolgreich aufs Smartphone verlagern lassen, inklusive Live-Benachrichtigungen bei Abschluss einer Aufgabe.",
+      "umsetzung": "Contoura könnte einen ähnlichen mobilen Workflow für Trainerinnen und Trainer anbieten: Push-Benachrichtigung sobald ein Athlet eine neue Trainingseinheit hochlädt, direkte Kommentierung der Split-Zeiten und Freigabe der automatisch generierten Auswertung – alles ohne Umweg über den Desktop.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

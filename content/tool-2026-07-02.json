@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-02",
+  "name": "Cursor für iOS",
+  "tagline": "KI-Coding-Agenten vom iPhone aus starten, überwachen und mergen – auch unterwegs",
+  "beschreibung": "Cursor hat seine bekannte KI-Coding-Umgebung erstmals als native iOS-App im öffentlichen Betastatus veröffentlicht. Nutzer können damit Cloud-Agenten starten oder lokal auf dem eigenen Rechner laufende Agenten per Fernsteuerung vom Smartphone aus dirigieren. Über Live Activities auf dem Sperrbildschirm und Push-Benachrichtigungen sieht man in Echtzeit, wann ein Agent fertig ist – inklusive generierter Screenshots, Demos und Logs. Damit wird der komplette Review- und Merge-Workflow erstmals mobiltauglich.",
+  "useCase": "Ein Entwickler stößt morgens auf dem Weg zur Arbeit per Sprachbefehl einen Cloud-Agenten an, der einen Bugfix umsetzt. Während des Pendelns kommt eine Push-Benachrichtigung, dass der Agent fertig ist – der Diff wird direkt in der App geprüft und der Pull Request von unterwegs gemergt.",
+  "url": "https://cursor.com/blog/ios-mobile-app",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Coding-Agenten", "Mobile", "iOS", "Remote Control"]
+}

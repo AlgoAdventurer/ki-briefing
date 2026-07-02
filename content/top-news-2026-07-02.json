@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic launcht Claude Sonnet 5 als neues Standardmodell",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news",
+      "zusammenfassung": "Anthropic hat Claude Sonnet 5 veröffentlicht und als Standardmodell für Free- und Pro-Nutzer sowie in Claude Code ausgerollt. Das Modell erreicht mit 63,2% auf agentischen Coding-Benchmarks und 81,2% auf OSWorld nahezu die Leistung von Opus 4.8, bietet dabei aber einen nativen 1-Millionen-Token-Kontext und eine Einführungspreisaktion von $2/$10 pro Million Tokens bis zum 31. August. Entwickler müssen jedoch Breaking Changes beachten: durchgehend aktives adaptives Denken, entfernter Temperature-Parameter und ein neuer Tokenizer, der 1,0- bis 1,35-mal mehr Tokens erzeugt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Rat erteilt endgültiges Grünlicht für AI-Act-Vereinfachungspaket",
+      "quelle": "Latham & Watkins / EU-Kommission",
+      "quelleUrl": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "zusammenfassung": "Am 29. Juni hat der Rat der EU dem sogenannten AI-Act-Omnibus final zugestimmt, nachdem das Europäische Parlament die Einigung bereits am 16. Juni bestätigt hatte. Zentrale Neuerung: Die Pflichten für Hochrisiko-KI-Systeme werden von August 2026 auf Dezember 2027 verschoben, während für KI im Personalwesen die ursprüngliche Frist bestehen bleibt. Zusätzlich werden ab Dezember 2026 sogenannte 'Nudifier'-Apps zur Erstellung nicht-einvernehmlicher intimer Inhalte explizit verboten.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Google veröffentlicht Gemini 3.1 Flash Image und Gemini 3 Pro Image als GA-Versionen",
+      "quelle": "Google DeepMind",
+      "quelleUrl": "https://deepmind.google/models/model-cards/gemini-3-1-flash-image/",
+      "zusammenfassung": "Google hat seine beiden neuen Bildgenerierungsmodelle 'Nano Banana 2' (Gemini 3.1 Flash Image, $0,50/$3,00 pro Million Tokens) und 'Nano Banana Pro' (Gemini 3 Pro Image, $2,00/$12,00) allgemein verfügbar gemacht. Die Preview-Versionen werden zum 25. Juni abgeschaltet. Flash Image ist auf Geschwindigkeit und hohes Volumen ausgelegt, während Pro Image die höchste Bildqualität für professionelle Anwendungsfälle liefert.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Cursor launcht native iOS-App für die Fernsteuerung von Coding-Agenten",
+      "quelle": "Cursor",
+      "quelleUrl": "https://cursor.com/blog/ios-mobile-app",
+      "zusammenfassung": "Cursor hat eine native iOS-App im öffentlichen Betastatus veröffentlicht, mit der zahlende Nutzer Cloud-Agenten starten oder lokal laufende Agenten vom iPhone aus fernsteuern können. Die App bietet Sprachsteuerung, Slash-Commands, Live Activities auf dem Sperrbildschirm und die Möglichkeit, Diffs zu prüfen und Pull Requests direkt aus der App zu mergen. Bis zum 5. Juli gibt es zudem 75% Rabatt auf Composer-2.5-Läufe in der App.",
+      "kategorie": "Developer Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Big-Tech-Konzerne planen 2026 rekordhohe 725 Milliarden Dollar KI-Investitionen",
+      "quelle": "Fortune / Fast Company",
+      "quelleUrl": "https://www.fastcompany.com/91535369/big-tech-ai-spending-meta-google-amazon-microsoft-apple-capex-ranked",
+      "zusammenfassung": "Google, Amazon, Microsoft und Meta wollen 2026 zusammen rund 725 Milliarden Dollar in Kapitalausgaben investieren – ein Plus von 77% gegenüber dem Vorjahr. Amazon plant mit rund 200 Milliarden Dollar, Microsoft mit etwa 190 Milliarden, Alphabet mit 175-185 Milliarden und Meta mit 115-135 Milliarden Dollar, größtenteils für KI-Chips, Server und Rechenzentren. Die Marktreaktionen fielen gemischt aus: Während Meta nach starken Werbeeinnahmen zulegte, verloren Microsoft- und Amazon-Aktien nach den Ankündigungen deutlich.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

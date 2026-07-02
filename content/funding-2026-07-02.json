@@ -1,0 +1,14 @@
+{
+  "datum": "2026-07-02",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Dominion Dynamics",
+      "betrag": "$100M (139M CAD)",
+      "runde": "Series A",
+      "investoren": "Georgian (Lead), Valor Equity Partners, Lakestar, JDY Capital, Bessemer Venture Partners u.a.",
+      "beschreibung": "Das Ottawa-Start-up von Ex-Anduril-Manager Eliot Pence hat die größte Series-A-Runde der kanadischen Verteidigungstech-Geschichte eingesammelt. Dominion Dynamics baut die KI-gestützte Command-and-Control-Plattform AuraNet, die verstreute Sensor- und Kommunikationsdaten in ein einheitliches Lagebild fusioniert, sowie das autonome 'Scout'-System für den Einsatz in arktischen Regionen.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-02",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Sonnet 5",
+      "version": "5",
+      "anbieter": "Anthropic",
+      "detail": "Neues Standardmodell für Free-, Pro- und Claude-Code-Nutzer mit nativem 1-Millionen-Token-Kontext, stärkerem agentischem Coding (63,2% auf internen Benchmarks) und Einführungspreisen von $2/$10 pro Million Tokens bis 31. August. Wichtig für Entwickler: durchgehend aktives adaptives Denken, entfernter Temperature-Parameter und ein neuer, token-hungrigerer Tokenizer erfordern Anpassungen an bestehenden Integrationen.",
+      "url": "https://www.anthropic.com/news",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.1 Flash Image & Gemini 3 Pro Image",
+      "version": "3.1 / 3",
+      "anbieter": "Google DeepMind",
+      "detail": "Die als 'Nano Banana 2' und 'Nano Banana Pro' bekannten Bildmodelle sind jetzt allgemein verfügbar. Flash Image ($0,50/$3,00 pro Mio. Tokens) ist auf Geschwindigkeit und hohe Volumina optimiert, Pro Image ($2,00/$12,00) liefert die höchste Bildqualität. Die bisherigen Preview-Versionen wurden bereits abgeschaltet.",
+      "url": "https://deepmind.google/models/model-cards/gemini-3-1-flash-image/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "GPT-5.6 Sol",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI bringt sein Flaggschiffmodell im Juli auf spezialisierter Cerebras-Wafer-Scale-Hardware mit einer Inferenzgeschwindigkeit von bis zu 750 Token pro Sekunde – rund 15-mal schneller als Standard-GPU-Inferenz. Der Zugang bleibt vorerst auf ausgewählte Kunden beschränkt, während die Kapazität schrittweise ausgebaut wird.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 4,
+      "name": "Grok 4.3",
+      "version": "4.3",
+      "anbieter": "xAI",
+      "detail": "xAIs Modell Grok 4.3 ist jetzt auch über Amazon Bedrock verfügbar, zu Preisen von $1,25 pro Million Input- und $2,50 pro Million Output-Tokens. Damit erweitert xAI die Distribution seiner Modelle über die großen Cloud-Plattformen hinaus.",
+      "url": "https://aws.amazon.com/bedrock/",
+      "bild": ""
+    }
+  ]
+}

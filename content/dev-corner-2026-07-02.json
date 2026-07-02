@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Model Context Protocol wird zustandslos",
+      "typ": "SDK",
+      "detail": "Die Release Candidate der neuen MCP-Spezifikation (finale Version am 28. Juli) entfernt den Mcp-Session-Id-Header und macht Requests wie tools/call vollständig eigenständig – Protokollversion, Client-Infos und Capabilities reisen direkt mit der Anfrage mit. Damit entfällt die Notwendigkeit für Sticky Sessions und einen zentralen Session-Store bei Remote-MCP-Servern; jede Serverinstanz kann jede Anfrage bedienen. Neue Felder ttlMs und cacheScope bei List- und Resource-Read-Antworten verbessern zudem das Caching. Die TypeScript-SDK v2 implementiert die neue Spezifikation bereits im Beta-Stadium.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude generell verfügbar in Microsoft Foundry auf Azure",
+      "typ": "API",
+      "detail": "Anthropic hat Claude-Modelle in Microsoft Foundry auf Azure allgemein verfügbar gemacht, inklusive nativer Azure-Governance, optionaler US-Datenzone und Betrieb auf Nvidia-GB300-Blackwell-Ultra-Systemen. Unternehmen können Claude damit direkt in bestehende Azure-Infrastrukturen einbinden, ohne einen separaten Anthropic-Vertrag abzuschließen.",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Breaking Changes bei Claude Sonnet 5: Tokenizer, Temperature-Parameter, adaptives Denken",
+      "typ": "Tutorial",
+      "detail": "Wer auf Claude Sonnet 5 migriert, muss drei Änderungen einplanen: Das Modell denkt nun durchgehend adaptiv (kein reines Non-Thinking-Modus mehr abschaltbar), der Temperature-Parameter wurde entfernt, und ein neuer Tokenizer erzeugt 1,0- bis 1,35-mal mehr Tokens als bisher – was Kostenkalkulationen und Kontext-Limits in bestehenden Integrationen verändert.",
+      "url": "https://www.anthropic.com/news",
+      "codebeispiel": ""
+    }
+  ]
+}
