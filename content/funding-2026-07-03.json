@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-03",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead), Vista Equity Partners, General Catalyst, Emergence Capital, Nvidia u.a.",
+      "beschreibung": "Together AI betreibt eine KI-optimierte Cloud-Plattform für offene Modelle und erreicht mit der neuen Runde eine Bewertung von 8,3 Milliarden Dollar – fast das 2,5-Fache der Bewertung von vor 16 Monaten. Kunden sparen laut Unternehmen 6- bis 60-mal an Kosten gegenüber proprietären Modellen; die annualisierten Buchungen liegen bereits über 1,15 Milliarden Dollar.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "General Intuition",
+      "betrag": "$320M",
+      "runde": "Series A",
+      "investoren": "Nicht vollständig offengelegt",
+      "beschreibung": "Eine der größten Series-A-Runden des Jahres für ein KI-Startup, das an räumlichem und physischem Weltverständnis für KI-Agenten arbeitet – ein Forschungsfeld, das zunehmend als nächster großer Schritt nach reinen Sprachmodellen gilt.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Quantum Systems",
+      "betrag": "$1.2B",
+      "runde": "Wachstumsrunde",
+      "investoren": "Nicht vollständig offengelegt",
+      "beschreibung": "Der europäische Hersteller autonomer Drohnensysteme sichert sich bei einer Bewertung von 8 Milliarden Dollar frisches Kapital. Die Runde unterstreicht das anhaltend hohe Investoreninteresse an KI-gestützter Verteidigungs- und Autonomie-Technologie in Europa.",
+      "bild": ""
+    }
+  ]
+}

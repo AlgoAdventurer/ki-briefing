@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "X launcht eigenen MCP-Server für einfachere AI-Integration",
+      "typ": "API",
+      "detail": "X (vormals Twitter) bietet jetzt einen gehosteten MCP-Server an, über den KI-Anwendungen und Agenten direkt und standardisiert auf die X-Plattform-API zugreifen können. Statt eigener REST-Integrationen können Entwickler den Server einfach als MCP-Tool in Claude, Cursor oder andere MCP-fähige Clients einbinden.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP Python SDK v2: stabile Version für den 27. Juli angekündigt",
+      "typ": "SDK",
+      "detail": "Parallel zur finalen MCP-Spezifikation 2026-07-28 soll am 27. Juli die stabile Version 2 des offiziellen Python-SDKs erscheinen. Sie unterstützt das neue zustandslose Protokoll vollständig, inklusive der neuen Mcp-Method- und Mcp-Name-Header für Routing ohne Session-Speicher.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Google veröffentlicht Java-SDK für den MCP Toolbox für Datenbanken",
+      "typ": "SDK",
+      "detail": "Mit dem neuen Java-SDK für den MCP Toolbox für Databases können Java-Entwickler ihre bestehenden Datenbank-Anbindungen jetzt direkt als MCP-Tools für KI-Agenten bereitstellen, ohne eigene Wrapper schreiben zu müssen. Das SDK ergänzt die bereits verfügbaren Python- und Go-Versionen.",
+      "url": "https://cloud.google.com/blog/topics/developers-practitioners/announcing-the-mcp-toolbox-java-sdk",
+      "codebeispiel": ""
+    }
+  ]
+}

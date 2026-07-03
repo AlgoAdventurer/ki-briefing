@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige Coding-Agenten für interne Contoura-Tools nutzen",
+      "kontext": "Meituan hat mit LongCat-2.0 ein 1,6-Billionen-Parameter-Modell unter MIT-Lizenz veröffentlicht, das bei Coding-Aufgaben nahe an westliche Flaggschiff-Modelle herankommt, dabei aber deutlich günstiger nutzbar ist.",
+      "umsetzung": "Contoura könnte LongCat-2.0 für interne, nicht-kritische Entwicklungsaufgaben evaluieren – etwa das automatische Generieren von Testdaten oder das Refactoring von Analyse-Skripten – und so API-Kosten sparen, ohne für produktionskritische Athletendaten auf günstigere Modelle umzusteigen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Server für Contoura-Trainingsdaten bereitstellen",
+      "kontext": "Mit dem neuen MCP-Server von X und dem wachsenden Ökosystem an MCP-Integrationen wird es zum Standard, dass Plattformen ihre Daten standardisiert für KI-Agenten zugänglich machen, statt eigene APIs für jede Integration zu bauen.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server für Trainings-, Split-Zeit- und Performance-Index-Daten bereitstellen. Trainer könnten dann direkt aus Claude oder anderen MCP-fähigen KI-Clients heraus Fragen zu ihren Athleten stellen, Trends erkennen oder automatisch Wochenberichte generieren lassen, ohne die Contoura-Oberfläche selbst zu öffnen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Autonome Analyse-Agenten für Saisonauswertungen mit Gemini Managed Agents",
+      "kontext": "Googles neue Managed Agents in der Gemini API stellen eine gehostete Sandbox bereit, in der Agenten selbstständig Code ausführen und Daten verarbeiten können, ohne dass eigene Infrastruktur dafür nötig ist.",
+      "umsetzung": "Contoura könnte am Saisonende einen Managed Agent beauftragen, der eigenständig alle Trainings- und Wettkampfdaten eines Athleten über die Saison auswertet, Trends in Fehlerstatistiken erkennt und einen strukturierten Saisonrückblick erstellt – ganz ohne eigenen Server für die Ausführung.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

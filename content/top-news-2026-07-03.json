@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Fable 5 kehrt nach Aufhebung der US-Exportkontrollen zurück",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news",
+      "zusammenfassung": "Nach fast drei Wochen Zwangspause hat das US-Handelsministerium die Exportkontroll-Anordnung aufgehoben, die Claude Fable 5 und Mythos 5 vom Netz genommen hatte. Anthropic hat am 1. Juli begonnen, den globalen Zugang zu Fable 5 schrittweise wiederherzustellen. Der Vorfall zeigt, wie stark geopolitische Entscheidungen mittlerweile direkt auf die Verfügbarkeit von KI-Modellen durchschlagen.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Meituan open-sourced LongCat-2.0: 1,6-Billionen-Parameter-Coding-Modell auf chinesischen Chips trainiert",
+      "quelle": "Meituan",
+      "quelleUrl": "https://github.com/meituan",
+      "zusammenfassung": "Der chinesische Tech-Konzern Meituan hat LongCat-2.0 unter MIT-Lizenz veröffentlicht – ein 1,6-Billionen-Parameter-Modell, das vollständig auf heimischen Chips statt Nvidia-Hardware trainiert wurde. Mit 59,5% auf SWE-Bench Pro unterbietet es Claude Sonnet 5 und GPT-5.5 preislich deutlich und demonstriert, dass China bei Trainings-Hardware zunehmend unabhängig von US-Exportkontrollen wird.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Reflection AI startet $6,3-Milliarden-Rechenleasing bei SpaceX' Colossus-2-Rechenzentrum",
+      "quelle": "Branchenberichte",
+      "quelleUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "zusammenfassung": "Seit dem 1. Juli zahlt das KI-Startup Reflection AI monatlich 150 Millionen Dollar für exklusiven Zugang zu Nvidia-GB300-Chips im Colossus-2-Rechenzentrum von SpaceX in Memphis, Tennessee – ein Vertrag über insgesamt 6,3 Milliarden Dollar bis Ende 2029. Der Deal zeigt, wie eng KI-Infrastruktur, Raumfahrtkonzerne und Chip-Kapazität inzwischen verflochten sind.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Together AI sichert sich $800 Millionen für Open-Source-Modell-Infrastruktur",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "zusammenfassung": "Together AI hat eine Series-C-Runde über 800 Millionen Dollar bei einer Bewertung von 8,3 Milliarden Dollar abgeschlossen, angeführt von Aramco Ventures mit Beteiligung von Nvidia und Vista Equity Partners. Das Unternehmen meldet annualisierte Buchungen von über 1,15 Milliarden Dollar, da Firmen laut eigenen Angaben 6- bis 60-mal günstiger fahren, wenn sie offene statt proprietärer Modelle über die Plattform nutzen.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "MiniMax M3: Erstes offenes Modell mit 1-Millionen-Kontext und nativem Computer-Use",
+      "quelle": "MiniMax",
+      "quelleUrl": "https://llm-stats.com/llm-updates",
+      "zusammenfassung": "MiniMax hat mit M3 das erste frei verfügbare Modell veröffentlicht, das Spitzen-Coding-Fähigkeiten (59,0% SWE-Bench Pro) mit einem 1-Millionen-Token-Kontextfenster und nativer Steuerung von Computer-Oberflächen kombiniert. Damit rückt Open-Source-KI bei agentischen Fähigkeiten noch dichter an die geschlossenen Flaggschiff-Modelle heran.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

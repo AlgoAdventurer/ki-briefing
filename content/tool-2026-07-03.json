@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-03",
+  "name": "Gemini Managed Agents",
+  "tagline": "Gehostete Sandbox-Umgebung für autonome KI-Agenten direkt in der Gemini API",
+  "beschreibung": "Google hat mit Managed Agents eine neue Funktion in der Gemini API eingeführt, die Entwicklern eine vollständig verwaltete, entfernte Linux-Umgebung bereitstellt. Agenten können darin planen, Tools aufrufen, Code in einer isolierten Sandbox ausführen und selbstständig im Web recherchieren – ohne dass Entwickler eigene Infrastruktur für Sandboxing und Ausführung aufbauen müssen. Das senkt die Einstiegshürde für produktionsreife, autonome Agenten erheblich.",
+  "useCase": "Ein Entwicklerteam baut einen Recherche-Agenten, der eigenständig Webseiten durchsucht, Daten in einer Sandbox verarbeitet und ein Ergebnis zurückliefert – komplett gehostet über die Gemini API, ohne eigene Server oder Container-Orchestrierung betreiben zu müssen.",
+  "url": "https://ai.google.dev/gemini-api/docs",
+  "kategorie": "API",
+  "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo.svg",
+  "kostenlos": false,
+  "tags": ["Agents", "Sandbox", "Google", "API"]
+}

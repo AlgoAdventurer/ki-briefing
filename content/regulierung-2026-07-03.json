@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Trump unterzeichnet Executive Order zu KI-Sicherheit und Cyberabwehr",
+      "region": "USA",
+      "detail": "Die Anfang Juni erlassene Executive Order 'Promoting Advanced Artificial Intelligence Innovation and Security' verpflichtet Bundesbehörden auf straffen 30- und 60-Tage-Fristen (Meilensteine am 2. Juli und 1. August), föderale IT-Systeme mit KI-gestützter Abwehr zu härten, ein freiwilliges Rahmenwerk für frühzeitigen Regierungszugang zu 'Covered Frontier Models' zu etablieren und Cyberkriminalität mit KI-Bezug stärker strafrechtlich zu verfolgen. Entwickler könnten der Regierung künftig bis zu 30 Tage vor der Veröffentlichung Zugang zu neuen Modellen gewähren.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "GPT-5.6-Familie vorerst nur für rund 20 autorisierte US-Regierungsstellen zugänglich",
+      "region": "USA",
+      "detail": "OpenAI hat die neue GPT-5.6-Modellfamilie (Sol, Terra, Luna) zwar angekündigt, den Zugang aber zunächst auf etwa 20 Organisationen mit Regierungsbezug beschränkt. Der gestaffelte Rollout zeigt, wie eng Modellveröffentlichungen und sicherheitspolitische Zugangskontrollen in den USA inzwischen verzahnt sind.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
