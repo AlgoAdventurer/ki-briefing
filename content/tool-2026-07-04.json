@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-04",
+  "name": "TwelveLabs (Marengo 3.0 & Pegasus 1.5)",
+  "tagline": "Video-Verständnis-Plattform, die Bild, Ton und Bewegung in Videos durchsuchbar macht",
+  "beschreibung": "TwelveLabs baut mit seinen Modellen Marengo 3.0 (Video-Embedding) und Pegasus 1.5 (Video-zu-Text) eine Plattform, die rohes Videomaterial in eine semantische, durchsuchbare Datenschicht verwandelt. Statt manuell Timestamps oder Tags zu setzen, können Entwickler Videoinhalte per natürlicher Sprache durchsuchen, zusammenfassen oder in strukturierte Daten für andere KI-Systeme verwandeln. Nach der frischen 100-Millionen-Dollar-Finanzierung baut die Firma das Angebot Richtung vollständiger 'Video-Agentic-Intelligence' aus.",
+  "useCase": "Ein Sportsender lässt Pegasus 1.5 automatisch die Highlight-Momente eines mehrstündigen Wettkampf-Livestreams erkennen, verschlagworten und als kurze Clips mit Beschreibungstext exportieren – ganz ohne manuelles Sichten des Materials.",
+  "url": "https://www.twelvelabs.io",
+  "kategorie": "API / Video-KI",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Video-KI", "Multimodal", "API", "Suche"]
+}

@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Sonnet 5",
+      "version": "5",
+      "anbieter": "Anthropic",
+      "detail": "Seit 1. Juli offizieller Standard für alle Free- und Pro-Nutzer weltweit. Löst Sonnet 4.6 ab und bringt laut Anthropic deutlich stärkeres Reasoning, Tool-Use und autonome Aufgabenbearbeitung bei nur einem Bruchteil der Kosten von Opus 4.8.",
+      "url": "https://www.anthropic.com/news",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Jalapeño",
+      "version": "",
+      "anbieter": "OpenAI & Broadcom",
+      "detail": "Erster eigens für LLM-Inferenz entwickelter KI-Beschleuniger von OpenAI, gebaut zusammen mit Broadcom und Celestica. Soll Inferenzkosten um rund 50% senken, Einsatz ab Ende 2026 geplant.",
+      "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Marengo 3.0 / Pegasus 1.5",
+      "version": "3.0 / 1.5",
+      "anbieter": "TwelveLabs",
+      "detail": "Video-Embedding- und Video-zu-Text-Modelle, die Bild, Ton, Sprache und Bewegung über die Zeit hinweg als durchsuchbare, semantische Datenschicht erfassen. Frisch mit 100 Millionen Dollar Series-B-Kapital ausgestattet.",
+      "url": "https://www.twelvelabs.io",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Hugging Face Enterprise-Katalog",
+      "version": "500+ Modelle",
+      "anbieter": "AI.cc & Hugging Face",
+      "detail": "Neue Partnerschaft bringt über 500 kuratierte Open-Source-Modelle aus dem Hugging Face Hub – darunter Llama 4 Scout und Maverick – als verwaltete API für Enterprise-Kunden, ausgewählt nach Downloads, Benchmarks und Lizenzfreundlichkeit.",
+      "url": "https://www.openpr.com/news/4568137/ai-cc-with-hugging-face-to-bring-500-open-source-models",
+      "bild": ""
+    }
+  ]
+}

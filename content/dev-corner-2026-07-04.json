@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: größte Protokoll-Überarbeitung seit dem Launch",
+      "typ": "SDK",
+      "detail": "Die finale Version der neuen Model-Context-Protocol-Spezifikation erscheint am 28. Juli und bringt einen zustandslosen Core, der auf gewöhnlicher HTTP-Infrastruktur skaliert, server-gerenderte UIs über MCP Apps, eine Tasks-Extension für lang laufende Jobs sowie OAuth/OpenID-Connect-nahe Autorisierung. Tools-Listen tragen künftig ttlMs- und cacheScope-Metadaten, wodurch Clients Ergebnisse cachen können, ohne auf einen dauerhaften SSE-Stream angewiesen zu sein.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Python- und TypeScript-SDK v2 für MCP: stabile Version am 27. Juli",
+      "typ": "SDK",
+      "detail": "Parallel zur neuen Spezifikation erscheinen die überarbeiteten v2-SDKs für Python und TypeScript. Beide sind bereits als Beta verfügbar (@modelcontextprotocol/server, @modelcontextprotocol/client) und beheben langjährige Architekturprobleme, um das neue zustandslose Protokoll vollständig zu unterstützen.",
+      "url": "https://github.com/modelcontextprotocol/python-sdk",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "AI.cc bringt 500+ Open-Source-Modelle von Hugging Face als verwaltete API",
+      "typ": "API",
+      "detail": "Statt einzelne Hugging-Face-Modelle selbst zu hosten, können Entwickler über AI.cc jetzt auf einen kuratierten Katalog von über 500 Open-Source-Modellen per einheitlicher API zugreifen – von Llama 4 Scout bis zur kompletten Llama-3.x-Reihe. Die Auswahl basiert auf Downloadzahlen, Benchmarks und Enterprise-Tauglichkeit.",
+      "url": "https://www.openpr.com/news/4568137/ai-cc-with-hugging-face-to-bring-500-open-source-models",
+      "codebeispiel": ""
+    }
+  ]
+}

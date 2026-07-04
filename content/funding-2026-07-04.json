@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "firma": "OpenAI",
+      "betrag": "$122B",
+      "runde": "Kapitalrunde",
+      "investoren": "SoftBank (Co-Lead), a16z, MGX, TPG, T. Rowe Price, mit fortgesetzter Beteiligung von Amazon, Nvidia und Microsoft",
+      "beschreibung": "Eine der größten Finanzierungsrunden der Firmengeschichte hebt OpenAIs Bewertung auf 852 Milliarden Dollar. Das Kapital soll den weiteren Ausbau von Rechenkapazität, eigener Chip-Entwicklung (siehe Jalapeño) und Modelltraining finanzieren.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "TwelveLabs",
+      "betrag": "$100M",
+      "runde": "Series B",
+      "investoren": "NEA und NAVER Ventures (Co-Lead), mit Amazon, Radical Ventures, Korea Investment Partners, Index Ventures u.a.",
+      "beschreibung": "Das Video-Intelligence-Startup baut mit der neuen Runde seine Modelle Marengo 3.0 und Pegasus 1.5 zu einem vollwertigen agentischen System für Videoverständnis aus. Gesamtfinanzierung liegt jetzt bei über 207 Millionen Dollar, neue Büros in New York und London sind geplant.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Crusoe",
+      "betrag": "~$3B",
+      "runde": "Wachstumsrunde (in Verhandlung)",
+      "investoren": "Noch nicht vollständig offengelegt",
+      "beschreibung": "Der Anbieter von KI-Rechenzentren, die überschüssige Energie ('stranded power') nutzen, verhandelt Berichten zufolge über eine milliardenschwere Finanzierungsrunde zum weiteren Ausbau spezialisierter KI-Infrastruktur.",
+      "bild": ""
+    }
+  ]
+}

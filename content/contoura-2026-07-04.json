@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Lauftechnik-Analyse aus Trainingsvideos mit Video-KI",
+      "kontext": "TwelveLabs hat mit Marengo 3.0 und Pegasus 1.5 Modelle veröffentlicht, die Bewegung, Timing und Ereignisse in Videos als durchsuchbare, semantische Daten erfassen können – ganz ohne manuelles Taggen.",
+      "umsetzung": "Contoura könnte Athleten erlauben, Handyvideos von Trainingsläufen hochzuladen, aus denen ein Video-KI-Modell automatisch Postenanlauf, Kartenkontakt und Fehlermomente erkennt und mit den bestehenden Split-Zeit- und Fehlerstatistiken verknüpft – als visuelle Ergänzung zur reinen Zeitanalyse.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Eigener MCP-Server für Trainer- und Athletenabfragen dank zustandslosem Protokoll-Update",
+      "kontext": "Die kommende MCP-Spezifikation vom 28. Juli macht das Protokoll zustandslos und lauffähig auf gewöhnlicher HTTP-Infrastruktur – ein eigener MCP-Server benötigt damit keine Session-Speicher oder Sticky-Sessions mehr.",
+      "umsetzung": "Contoura könnte mit deutlich weniger Infrastrukturaufwand einen eigenen MCP-Server für Trainings- und Performance-Index-Daten bereitstellen, den Trainer direkt aus Claude oder anderen MCP-Clients heraus abfragen können – etwa für automatische Wochenberichte oder Trendanalysen einzelner Athleten.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstigere automatische Trainingskommentare mit Claude Sonnet 5",
+      "kontext": "Claude Sonnet 5 ist seit 1. Juli für alle Nutzer der Standard und bringt laut Anthropic nahezu Opus-4.8-Niveau bei deutlich geringeren Kosten.",
+      "umsetzung": "Contoura könnte die automatische Generierung von Trainingskommentaren und Saisonzusammenfassungen auf Sonnet 5 umstellen, um bei gleichbleibender oder besserer Qualität die API-Kosten pro Athlet spürbar zu senken.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    }
+  ]
+}

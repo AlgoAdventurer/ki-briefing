@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Rat gibt endgültig grünes Licht für Vereinfachung des AI Acts",
+      "region": "EU",
+      "detail": "Nach der formellen Zustimmung des EU-Parlaments am 16. Juni hat der Rat der EU am 29. Juni das Vereinfachungspaket für den AI Act final gebilligt. Zentrale Änderungen: Die Pflichten für Hochrisiko-KI-Systeme (Annex III) verschieben sich von August 2026 auf Dezember 2027, KI-generiertes CSAM und nicht-einvernehmliches intimes Material werden explizit verboten (ab Dezember 2026), und der vereinfachte Rahmen für kleine Unternehmen gilt künftig für Firmen mit bis zu 750 Mitarbeitenden und 150 Millionen Euro Jahresumsatz.",
+      "url": "https://www.lw.com/en/insights/ai-act-update-eu-resolves-to-change-rules-and-extend-deadlines",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "UN beruft erste globale KI-Governance-Kommission ein, Genfer Gipfel steht bevor",
+      "region": "Global",
+      "detail": "Die Vereinten Nationen haben mit Jensen Huang (Nvidia), Andy Jassy (Amazon) und Brad Smith (Microsoft) hochrangige Industrievertreter in ihre erste KI-Governance-Kommission berufen. In Genf steht in Kürze das bislang bedeutendste internationale Treffen zur KI-Regulierung an, bei dem Staaten und Konzerne gemeinsame Leitplanken für Frontier-KI diskutieren wollen.",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "auswirkung": "hoch"
+    }
+  ]
+}

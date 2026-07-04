@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI schließt $122-Milliarden-Finanzierungsrunde bei $852-Milliarden-Bewertung ab",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "zusammenfassung": "OpenAI hat eine der größten Finanzierungsrunden der Firmengeschichte abgeschlossen: 122 Milliarden Dollar frisches Kapital bei einer Bewertung von 852 Milliarden Dollar. Angeführt wird die Runde von SoftBank gemeinsam mit a16z, MGX, TPG und T. Rowe Price, mit fortgesetzter Beteiligung von Amazon, Nvidia und Microsoft – ein Signal, wie ungebremst das Kapital weiter in die KI-Infrastruktur der Frontier-Labs fließt.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Claude Sonnet 5 wird weltweiter Standard für alle Free- und Pro-Nutzer",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news",
+      "zusammenfassung": "Seit dem 1. Juli ersetzt Claude Sonnet 5 das bisherige Sonnet 4.6 als Standardmodell für sämtliche kostenlosen und Pro-Nutzer von Claude weltweit. Das neue Modell kommt laut Anthropic nah an die Leistung von Opus 4.8 heran, kostet aber nur einen Bruchteil – ein deutlicher Qualitätssprung für die breite Nutzerbasis ohne Aufpreis.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI und Broadcom stellen mit \"Jalapeño\" ersten eigenen Inferenzchip vor",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip/",
+      "zusammenfassung": "OpenAI hat gemeinsam mit Broadcom und Celestica seinen ersten eigenen KI-Beschleuniger vorgestellt, der von Grund auf für LLM-Inferenz entwickelt wurde. Der Chip soll die Inferenzkosten um rund die Hälfte senken und wurde in nur neun Monaten von der Skizze bis zur Fertigungsreife gebracht – teils mit Hilfe von OpenAIs eigenen Modellen im Entwicklungsprozess. Der Einsatz ist für Ende 2026 geplant.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Kalifornien schließt Rabatt-Partnerschaft mit Anthropic für alle Behörden",
+      "quelle": "Office of Governor Gavin Newsom",
+      "quelleUrl": "https://www.gov.ca.gov/2026/06/29/governor-newsom-announces-a-first-of-its-kind-partnership-providing-anthropic-tools-to-state-agencies-and-improving-services-for-californians/",
+      "zusammenfassung": "Gouverneur Gavin Newsom hat eine Vereinbarung mit Anthropic unterzeichnet, die allen kalifornischen Landesbehörden, Städten und Bezirken Zugang zu Claude mit 50% Rabatt sowie kostenlose Schulungen gibt. Ämter wie die kalifornische Kfz-Zulassungsstelle nutzen Claude bereits für Kundenservice und interne Arbeitsabläufe – ein Präzedenzfall für staatsweite KI-Partnerschaften in den USA.",
+      "kategorie": "Politik",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "TwelveLabs sichert sich $100 Millionen für \"Video-Superintelligenz\"",
+      "quelle": "GlobeNewswire",
+      "quelleUrl": "https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html",
+      "zusammenfassung": "Das Video-KI-Startup TwelveLabs hat eine Series-B-Runde über 100 Millionen Dollar abgeschlossen, angeführt von NEA und NAVER Ventures mit Beteiligung von Amazon. Die Firma baut mit Modellen wie Marengo 3.0 und Pegasus 1.5 ein System, das Bild, Ton und Bewegung in Videos versteht und durchsuchbar macht – mit wachsender Nachfrage aus Medien, Sicherheit, Sport und öffentlichem Sektor.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
