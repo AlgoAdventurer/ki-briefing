@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 (Sol, Terra, Luna)",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Neues Namensschema mit drei dauerhaften Fähigkeitsstufen statt reiner Versionsnummer: Sol als stärkstes Modell mit Fokus auf Cybersecurity und lange Reasoning-Ketten, Terra als ausgewogene Mittelklasse und Luna als schnelle, günstige Variante. Der öffentliche Launch verzögert sich wegen behördlicher Auflagen zur Cybersecurity-Prüfung, vorerst nur als Preview für ausgewählte Partner über API und Codex verfügbar.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_logo_2025.svg"
+    },
+    {
+      "id": 2,
+      "name": "Claude Fable 5",
+      "version": "5",
+      "anbieter": "Anthropic",
+      "detail": "Nach rund 18 Tagen Sperre aus Sicherheitsgründen hat die US-Regierung die Beschränkungen für Claude Fable 5 aufgehoben – das Modell steht seit dem 1. Juli wieder weltweit für Kunden zur Verfügung.",
+      "url": "https://www.anthropic.com/news",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "X MCP Server (gehostet)",
+      "version": "",
+      "anbieter": "X Corp",
+      "detail": "Offizieller, von X selbst gehosteter Model-Context-Protocol-Server, der KI-Tools wie Claude, Cursor und Grok Build direkten, authentifizierten Zugriff auf Suche, Posts und Nutzerdaten der Plattform gibt – ganz ohne eigenes Server-Hosting durch Entwickler. Schreibzugriffe bleiben ausgeschlossen.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "bild": ""
+    }
+  ]
+}

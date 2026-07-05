@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstigere Trainingskommentare durch offene Modelle über Together AI",
+      "kontext": "Together AI hat nach seiner 800-Millionen-Dollar-Series-C seine Infrastruktur für offene Modelle wie DeepSeek und Kimi massiv ausgebaut und wirbt gezielt mit niedrigeren Inferenzkosten gegenüber proprietären APIs.",
+      "umsetzung": "Contoura könnte die automatische Generierung von Trainingskommentaren und Saisonberichten testweise auf ein über Together AI gehostetes offenes Modell umstellen und die Kosten pro Athlet direkt mit der aktuellen Claude-Anbindung vergleichen, bevor über einen Wechsel oder ein Hybrid-Setup entschieden wird.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Mobiler Support für Trainer dank Coding-Agents unterwegs",
+      "kontext": "Cursor hat mit seiner neuen iOS-App gezeigt, wie sich Cloud-Coding-Agents bequem vom Smartphone aus starten und überwachen lassen – inklusive Diffs, Screenshots und Logs direkt in der App.",
+      "umsetzung": "Contouras Entwicklerteam könnte einen ähnlichen mobilen Workflow nutzen, um während Wettkämpfen oder Trainingslagern kurzfristige Bugfixes oder kleine Feature-Anpassungen (z.B. an der Split-Zeit-Erfassung) direkt vom Handy aus anzustoßen, ohne einen Laptop dabei zu haben.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Eigener MCP-Server für Trainer-Abfragen nach Vorbild des X-Servers",
+      "kontext": "X zeigt mit seinem neuen gehosteten MCP-Server, wie eine Plattform Drittanbieter-Agents ohne eigenes Server-Hosting direkten, authentifizierten Datenzugriff geben kann.",
+      "umsetzung": "Contoura könnte nach demselben Muster einen eigenen, leichtgewichtigen MCP-Server für Trainings- und Performance-Index-Daten anbieten, über den Trainer direkt aus Claude oder anderen MCP-Clients heraus Abfragen zu einzelnen Athleten stellen können – etwa für automatische Wochenberichte.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

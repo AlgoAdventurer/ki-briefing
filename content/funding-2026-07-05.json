@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead), Vista Equity Partners, General Catalyst, Emergence Capital, Nvidia, March Capital u.a.",
+      "beschreibung": "Die Infrastrukturfirma für offene KI-Modelle erreicht damit eine Bewertung von 8,3 Milliarden Dollar. Together AI hilft Kunden wie Cursor, Cognition und Decagon, offene Modelle wie DeepSeek, Kimi und Nemotron günstig zu trainieren und zu betreiben, bei jährlichen Buchungen von zuletzt über 1,15 Milliarden Dollar.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Anthropic",
+      "betrag": "$50B (Infrastruktur-Investment)",
+      "runde": "Compute-Partnerschaft",
+      "investoren": "Google, Broadcom",
+      "beschreibung": "Anthropic weitet seine TPU-Partnerschaft mit Google und Broadcom auf 3,5 Gigawatt Rechenkapazität ab 2027 aus, eingebettet in eine Investitionszusage von 50 Milliarden Dollar in US-KI-Infrastruktur. Grund ist die stark gestiegene Nachfrage: Die jährliche Umsatzrate ist von rund 9 Milliarden Ende 2025 auf über 30 Milliarden Dollar gesprungen.",
+      "bild": ""
+    }
+  ]
+}

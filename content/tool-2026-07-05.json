@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-05",
+  "name": "Cursor für iOS",
+  "tagline": "Native iPhone-App, um KI-Coding-Agents unterwegs zu starten und zu steuern",
+  "beschreibung": "Cursor hat eine native iOS-App im Public Beta veröffentlicht, mit der zahlende Nutzer Coding-Agents aus der Cloud starten oder Agents auf dem eigenen Rechner fernsteuern können. Über Repository-Auswahl, Modellwahl und Anweisungen per Text, Sprache oder Slash-Commands lassen sich Aufgaben anstoßen, während Cloud-Agents in isolierten VMs mit vollständiger Entwicklungsumgebung laufen. Ergebnisse wie Diffs, Screenshots und Logs können direkt in der App geprüft werden, bevor ein Pull Request gemerged wird.",
+  "useCase": "Ein Entwickler bekommt unterwegs eine Bug-Meldung, öffnet die Cursor-App auf dem iPhone, beschreibt das Problem per Sprachnachricht und lässt einen Cloud-Agent den Fehler reproduzieren, beheben und einen Pull Request mit Screenshots zur Verifikation vorbereiten.",
+  "url": "https://cursor.com/blog/ios-mobile-app",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Coding-Agent", "Mobile", "iOS", "Cloud-Agents"]
+}

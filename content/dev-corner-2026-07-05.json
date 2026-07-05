@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "X MCP-Server: Plattformzugriff für Agents ohne eigenes Hosting",
+      "typ": "API",
+      "detail": "Bislang mussten Entwickler für X-Zugriff aus KI-Assistenten heraus einen eigenen MCP-Server bauen, hosten und per API-Auth absichern. Der neue gehostete MCP-Server von X übernimmt das komplett: Nutzer authentifizieren sich mit den Berechtigungen ihres eigenen X-Accounts, und Tools wie Claude oder Cursor können direkt suchen, Posts lesen und Konversationen analysieren. Neue Fähigkeiten gibt es dadurch nicht, aber der Integrationsaufwand sinkt auf nahezu null.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GPT-5.6 Sol: Ultra Mode mit Subagents für komplexe Aufgaben",
+      "typ": "API",
+      "detail": "Mit GPT-5.6 Sol führt OpenAI einen neuen 'max reasoning effort' sowie einen 'Ultra Mode' ein, der über ein einzelnes Agent-Setup hinausgeht: Subagents übernehmen Teilaufgaben parallel, um komplexe, lang laufende Arbeiten wie Schwachstellenanalysen zu beschleunigen. Der Zugriff ist vorerst auf ausgewählte API- und Codex-Partner beschränkt, da die US-Regierung wegen der starken Cybersecurity-Fähigkeiten zusätzliche Prüfungen verlangt.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Together AI: günstigere Inferenz für offene Modelle nach $800M-Runde",
+      "typ": "API",
+      "detail": "Together AI baut nach seiner frischen 800-Millionen-Dollar-Series-C seine Infrastruktur für offene Modelle wie DeepSeek, Kimi, MiniMax und Nemotron stark aus – mit Zusagen über 500 zusätzliche Megawatt Rechenkapazität. Für Entwickler bedeutet das mehr Kapazität und potenziell günstigere Preise für Inferenz auf Open-Source-Modellen als Alternative zu proprietären APIs.",
+      "url": "https://www.together.ai/blog/announcing-our-series-c",
+      "codebeispiel": ""
+    }
+  ]
+}

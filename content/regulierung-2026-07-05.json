@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "China: Ethik-Sicherheits-Leitlinien für KI-Anwendungen treten in Kraft",
+      "region": "China",
+      "detail": "Seit dem 1. Juli gelten Chinas neue TC260-Ethik-Sicherheits-Leitlinien (Version 1.0) für KI-Anwendungen mit neun Kernprinzipien wie 'menschliches Wohlergehen fördern' und 'Kontrollierbarkeit und Vertrauenswürdigkeit sicherstellen'. Ergänzend tritt am 15. Juli eine eigene Regelung für anthropomorphe KI-Interaktionsdienste (Chatbots, virtuelle Begleiter) in Kraft, die etwa virtuelle Liebesbeziehungen für Minderjährige verbietet und für andere anthropomorphe Dienste an Minderjährige unter 14 die Zustimmung der Erziehungsberechtigten verlangt.",
+      "url": "https://www.rimonlaw.com/china-ai-law-brief/",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Weißes Haus verhandelt freiwillige Veröffentlichungsstandards mit OpenAI, Google und Anthropic",
+      "region": "USA",
+      "detail": "Die US-Regierung steht kurz vor einer Vereinbarung mit den führenden KI-Labs über freiwillige Standards für die Veröffentlichung von Frontier-Modellen – mit Benchmarks, Prüfzeiträumen und einem möglichen 30-tägigen Regierungszugang vor dem öffentlichen Launch besonders leistungsfähiger Systeme. Ein erster Testfall ist bereits sichtbar: OpenAIs GPT-5.6 Sol wird wegen seiner Cybersecurity-Fähigkeiten vorerst nur eingeschränkt an Partner ausgegeben, während die Behörden zusätzliche Prüfungen verlangen.",
+      "url": "https://www.thenews.com.pk/latest/1407897-white-house-prepares-voluntary-standards-for-advanced-ai-releases",
+      "auswirkung": "hoch"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic weitet Compute-Deal mit Google und Broadcom auf 3,5 Gigawatt aus – Umsatz übersteigt $30 Milliarden",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "zusammenfassung": "Anthropic hat seine TPU-Partnerschaft mit Google und Broadcom auf 3,5 Gigawatt Rechenkapazität ab 2027 ausgeweitet, eingebettet in eine Investitionszusage von 50 Milliarden Dollar in US-Infrastruktur. Gleichzeitig meldet die Firma einen Sprung der jährlichen Umsatzrate von rund 9 Milliarden Ende 2025 auf jetzt über 30 Milliarden Dollar, mit inzwischen über 1.000 Firmenkunden, die jeweils mehr als eine Million Dollar pro Jahr ausgeben.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI bietet US-Regierung 5%-Beteiligung an, Weißes Haus arbeitet an freiwilligen Standards für KI-Veröffentlichungen",
+      "quelle": "Axios / Forbes",
+      "quelleUrl": "https://www.axios.com/2026/07/02/openai-stake-trump-altman",
+      "zusammenfassung": "OpenAI hat der Trump-Regierung eine 5%-Beteiligung im Wert von rund 42,6 Milliarden Dollar angeboten, um politischem Druck zu begegnen – nach dem Vorbild des Alaska Permanent Fund sollen Erträge an die Bevölkerung fließen. Parallel verhandelt das Weiße Haus mit OpenAI, Google und Anthropic über freiwillige Standards für die Veröffentlichung von Frontier-Modellen, inklusive eines möglichen 30-tägigen Regierungszugangs vor dem öffentlichen Launch.",
+      "kategorie": "Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI verzögert GPT-5.6-Launch nach Regierungsauflagen – neue Modellfamilie Sol, Terra, Luna",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "zusammenfassung": "OpenAI hat mit GPT-5.6 ein neues Namensschema eingeführt: Sol (Flaggschiff), Terra (ausgewogen) und Luna (günstig und schnell) markieren dauerhafte Fähigkeitsstufen statt reiner Versionsnummern. Der volle öffentliche Launch verzögert sich jedoch, nachdem die US-Regierung wegen der starken Cybersecurity-Fähigkeiten von Sol frühzeitigen Zugang und zusätzliche Aufsicht gefordert hat – vorerst ist das Modell nur ausgewählten Partnern über API und Codex zugänglich.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Together AI sichert sich $800 Millionen Series C bei $8,3 Milliarden Bewertung",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "zusammenfassung": "Together AI hat eine Series-C-Runde über 800 Millionen Dollar abgeschlossen, angeführt von Aramco Ventures mit Beteiligung von Nvidia und weiteren Investoren. Die Firma positioniert sich als günstige Infrastrukturschicht für offene Modelle wie DeepSeek, Kimi und Nemotron und meldet inzwischen jährliche Buchungen von über 1,15 Milliarden Dollar, während Investoren zusätzlich über 500 Megawatt Rechenkapazität zugesagt haben.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "X launcht gehosteten MCP-Server für KI-Tools wie Claude und Cursor",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "zusammenfassung": "X bietet nun einen offiziellen, gehosteten Model-Context-Protocol-Server an, über den KI-Assistenten wie Claude oder Cursor mit den Berechtigungen des eigenen X-Accounts auf Suche, Posts und Nutzerdaten zugreifen können. Entwickler müssen dafür keinen eigenen MCP-Server mehr hosten und authentifizieren – Schreibzugriffe bleiben aber weiterhin ausgeschlossen, ein autonomes Posten ist also nicht möglich.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
