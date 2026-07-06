@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-06",
+  "name": "Z.ai ZCode",
+  "tagline": "Kostenlose, agentenzentrierte Coding-Umgebung powered by GLM-5.2",
+  "beschreibung": "ZCode ist kein weiteres Chat-Sidebar oder eine Autocomplete-Erweiterung, sondern eine eigenständige Entwicklungsumgebung, die von Grund auf für lang laufende Agent-Aufgaben gebaut wurde. Nutzer beschreiben nur das gewünschte Ergebnis, während der Agent selbstständig einen Plan erstellt, Dateien bearbeitet, Tests und Checks ausführt, den Fortschritt bewertet und über mehrere Iterationen hinweg weiterarbeitet, bis das Ziel erreicht ist. Angetrieben wird das Ganze vom hauseigenen Modell GLM-5.2 von Z.ai, und der Zugang ist komplett kostenlos – ein direkter Angriff auf etablierte Tools wie Cursor, Claude Code und GitHub Copilot.",
+  "useCase": "Ein Entwickler beschreibt in ZCode nur 'Baue eine Paginierung für die Nutzerliste inklusive Tests', und der Agent plant die Änderung, passt Backend- und Frontend-Code an, schreibt und führt Tests aus und iteriert selbstständig weiter, bis alle Checks grün sind.",
+  "url": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding-Agent", "Open Source", "GLM-5.2", "Agent-first"]
+}

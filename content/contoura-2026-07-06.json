@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Analyse von Trainings- und Wettkampfvideos",
+      "kontext": "TwelveLabs hat frisches Kapital eingesammelt, um sein Video-Verständnis-Modell Marengo zu einem vollständigen agentischen System auszubauen, das Ton, Sprache und Bewegung über die Zeit hinweg in Videomaterial versteht und durchsuchbar macht.",
+      "umsetzung": "Contoura könnte testweise Handyvideos von Trainingsläufen oder Wettkämpfen über eine Video-Verständnis-API analysieren lassen, um automatisch Laufform, Kartenkontakt-Momente oder Postenanlauf-Fehler zu erkennen und diese Beobachtungen direkt mit den bestehenden Split-Zeit- und Fehlerstatistiken zu verknüpfen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Zentrale Governance für Claude-Code-Nutzung im Entwicklerteam",
+      "kontext": "Anthropics neuer Claude Apps Gateway bietet Firmen SSO-Login, zentrale Policy-Durchsetzung und pro Nutzer zurechenbare Kostenkontrolle für Claude Code auf Bedrock oder Google Cloud, in einem einzigen selbst hostbaren Container.",
+      "umsetzung": "Sobald das Contoura-Entwicklerteam wächst, könnte ein ähnlicher Gateway-Ansatz genutzt werden, um Claude-Code-Zugriffe einzelner Entwickler nachzuvollziehen, Ausgabenlimits pro Person zu setzen und den Zugang sauber über die eigene Identity-Provider-Anbindung zu steuern, statt einzelne API-Keys manuell zu verteilen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 3,
+      "titel": "Digitalisierung alter Papier-Trainingstagebücher per OCR",
+      "kontext": "Mistral OCR 4 erkennt Text mit Bounding Boxes, Block-Klassifizierung und Konfidenzwerten in 170 Sprachen und läuft komplett selbst gehostet in einem einzigen Container – ideal für sensible Trainingsdaten, die nicht über externe APIs laufen sollen.",
+      "umsetzung": "Contoura könnte Athleten und Vereinen anbieten, alte handschriftliche Trainingstagebücher oder Papier-Splitzettel per selbst gehostetem OCR-Modell einzuscannen und automatisch in strukturierte Trainingsdaten für die eigene Plattform zu überführen, um historische Leistungsverläufe nachträglich sichtbar zu machen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "UN Global Dialogue on AI Governance startet in Genf",
+      "quelle": "UN News",
+      "quelleUrl": "https://news.un.org/en/story/2026/07/1167848",
+      "zusammenfassung": "Ab dem 6. Juli treffen sich Mitgliedsstaaten in Genf zum ersten UN Global Dialogue on AI Governance, um international abgestimmte Ansätze zur Steuerung von KI zu diskutieren. Direkt im Anschluss folgen der ITU AI for Good Global Summit (7.-10. Juli) sowie die erste Sitzung der neuen UN AI for Good Global Commission am 8. Juli.",
+      "kategorie": "Politik",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/UN_emblem_blue.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Tesla deckelt KI-Ausgaben der Mitarbeitenden auf 200 Dollar pro Woche – Grok ausgenommen",
+      "quelle": "The Information / Electrek",
+      "quelleUrl": "https://electrek.co/2026/07/02/tesla-caps-employee-ai-spending-200-week/",
+      "zusammenfassung": "Ab dem 6. Juli gilt bei Tesla ein internes Limit von 200 Dollar pro Woche für KI-Tool-Ausgaben einzelner Mitarbeitender, nachdem Software-Teams zuvor teils tausende Dollar pro Woche an Tokens verbraucht hatten. Auffällig: Beta-Versionen von Elon Musks eigenem xAI/Grok sind von der Deckelung ausgenommen, während höhere Limits eine explizite Freigabe durch Vorgesetzte erfordern.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Tesla_T_symbol.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "TwelveLabs sammelt 100 Millionen Dollar für 'Video-Superintelligenz' ein",
+      "quelle": "GlobeNewswire",
+      "quelleUrl": "https://www.globenewswire.com/news-release/2026/07/01/3320545/0/en/twelvelabs-raises-100-million-in-series-b-funding-to-build-video-superintelligence.html",
+      "zusammenfassung": "Die Video-KI-Firma TwelveLabs hat eine Series-B-Runde über 100 Millionen Dollar abgeschlossen, angeführt von NEA und NAVER Ventures mit Beteiligung von Amazon. Das Geld soll den Ausbau von einem reinen Video-Verständnis-Modell hin zu einem vollständigen agentischen System vorantreiben, das Wahrnehmung, Wissen und Reasoning über Videoinhalte kombiniert – Amazon vertieft parallel die Zusammenarbeit bei AWS-Trainium-Inferenz.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Z.ai launcht kostenloses Coding-Tool ZCode als Angriff auf Cursor, Claude Code und Copilot",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/z-ai-launches-zcode-to-challenge-cursor-claude-code-and-github-copilot-in-ai-coding",
+      "zusammenfassung": "Z.ai hat mit ZCode eine kostenlose, agentenzentrierte Entwicklungsumgebung veröffentlicht, die auf dem hauseigenen Modell GLM-5.2 läuft. Statt eines Chat-Sidebars oder einer Autocomplete-Erweiterung plant der Agent selbstständig, bearbeitet Dateien, führt Tests aus und iteriert über mehrere Schritte hinweg, bis ein beschriebenes Ziel erreicht ist.",
+      "kategorie": "KI-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic sondiert eigenen Custom-Chip mit Samsung",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+      "zusammenfassung": "Anthropic steht laut TechCrunch in Gesprächen mit Samsung über die Entwicklung eines eigenen Chips – zusätzlich zur bestehenden TPU-Partnerschaft mit Google und den Gesprächen mit Broadcom. Konkrete Details zu Einsatzzweck, Serverintegration oder Leistungsklasse des Chips sind laut Bericht noch offen, das Vorhaben unterstreicht aber Anthropics wachsenden Bedarf an eigener Rechenkapazität.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

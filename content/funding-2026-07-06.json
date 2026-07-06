@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "firma": "TwelveLabs",
+      "betrag": "$100M",
+      "runde": "Series B",
+      "investoren": "NEA, NAVER Ventures (Co-Lead), Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, Red Bull Ventures",
+      "beschreibung": "TwelveLabs baut mit sein Marengo-Modell Video-Verständnis-KI, die Ton, Sprache und Bewegung über die Zeit hinweg analysiert und Videoarchive durchsuchbar macht. Mit der neuen Runde soll das Unternehmen vom reinen Video-Embedding-Modell zu einem vollständigen agentischen System für Video ausgebaut werden – Amazon vertieft parallel die Partnerschaft bei AWS-Trainium-Inferenz.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Oxmiq",
+      "betrag": "$35M",
+      "runde": "Seed/Series A",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Der Chip-Design-Newcomer Oxmiq will GPU, CPU und TPU in einer einzigen Architektur zusammenführen, um KI-Workloads effizienter auf einem Chip statt auf mehreren spezialisierten Bausteinen laufen zu lassen.",
+      "bild": ""
+    }
+  ]
+}

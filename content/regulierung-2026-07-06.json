@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "UN Global Dialogue on AI Governance eröffnet in Genf",
+      "region": "Global",
+      "detail": "Ab dem 6. Juli findet in Genf der erste UN Global Dialogue on AI Governance statt, bei dem Mitgliedsstaaten gemeinsame internationale Ansätze zur Steuerung von KI diskutieren. Direkt im Anschluss folgen der ITU AI for Good Global Summit (7.-10. Juli) und am 8. Juli die konstituierende Sitzung der neuen UN AI for Good Global Commission – ein wichtiger Testlauf dafür, ob sich globale KI-Governance abseits nationaler Alleingänge koordinieren lässt.",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU AI Act: Vereinfachungspaket erhält finales grünes Licht",
+      "region": "EU",
+      "detail": "Am 29. Juni hat der Rat der EU dem AI-Act-Vereinfachungspaket final zugestimmt, nachdem das Europäische Parlament es bereits am 16. Juni formal gebilligt hatte. Der Rechtsakt tritt drei Tage nach Veröffentlichung im EU-Amtsblatt in Kraft und verschiebt unter anderem die Compliance-Frist für Hochrisiko-KI-Systeme auf den 2. Dezember 2027, während gleichzeitig neue Verbote für 'Nudifier'-Apps eingeführt werden.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+      "auswirkung": "hoch"
+    }
+  ]
+}

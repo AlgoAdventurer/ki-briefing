@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Apps Gateway: SSO und Spend-Limits für Claude Code auf Bedrock und Google Cloud",
+      "typ": "API",
+      "detail": "Anthropic hat einen selbst gehosteten Gateway-Dienst veröffentlicht, der als einzelner zustandsloser Container mit PostgreSQL-Backend läuft. Er übernimmt Corporate-SSO-Login, zentral durchgesetzte Policies, rollenbasierten Zugriff und pro Nutzer zurechenbare Kosten für Claude Code – inklusive Failover zwischen Claude API, Amazon Bedrock und Google Cloud sowie täglichen, wöchentlichen und monatlichen Ausgabenlimits pro Organisation, Gruppe oder Einzelperson.",
+      "url": "https://claude.com/blog/introducing-the-claude-apps-gateway",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Hugging Face Transformers v5.13.0: einheitlicher Export für PyTorch, ONNX und ExecuTorch",
+      "typ": "Open Source",
+      "detail": "Das neue Release bringt Support für weitere Modelle sowie den neuen HfExporter, der Export und Kernel-Tooling für PyTorch, ONNX und ExecuTorch unter einer gemeinsamen Schnittstelle vereinheitlicht. Dazu kommen zahlreiche Fixes rund um Generation, Attention, Caching, Quantisierung und Serving – relevant für Teams, die eigene Modelle über verschiedene Runtimes hinweg deployen.",
+      "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub Copilot CLI: MCP-Server live verwalten, ohne den Agent zu unterbrechen",
+      "typ": "SDK",
+      "detail": "Copilot CLI erlaubt jetzt über /mcp list das Anzeigen angehängter MCP-Server und deren Status, während der Agent aktiv arbeitet. Der /mcp-Manager lässt sich mitten in einem Agent-Turn öffnen, um Server zu aktivieren oder zu deaktivieren; Hinzufügen, Bearbeiten, Löschen und Re-Auth werden bis zum Ende des Turns zurückgehalten. Dazu kommt ein neuer Auto-Allow-Modus, der von einem LLM als unbedenklich eingestufte Anfragen automatisch freigibt.",
+      "url": "https://github.com/github/copilot-cli/blob/main/changelog.md",
+      "codebeispiel": ""
+    }
+  ]
+}

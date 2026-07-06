@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-06",
+  "items": [
+    {
+      "id": 1,
+      "name": "Mistral OCR 4",
+      "version": "4",
+      "anbieter": "Mistral AI",
+      "detail": "Neue Version von Mistrals OCR-Modell mit Bounding Boxes, Block-Klassifizierung und Konfidenzwerten direkt am extrahierten Text. Unterstützt 170 Sprachen aus 10 Sprachgruppen und läuft komplett selbst gehostet in einem einzigen Container – interessant für Firmen, die Dokumente aus Datenschutzgründen nicht über externe APIs verarbeiten wollen.",
+      "url": "https://docs.mistral.ai/resources/changelogs",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Nano Banana 2 Lite",
+      "version": "2 Lite",
+      "anbieter": "Google DeepMind",
+      "detail": "Schnellstes und günstigstes Bildgenerierungsmodell in Googles Nano-Banana-Reihe, erreichbar über die API als gemini-3.1-flash-lite-image. Erzeugt Bilder in rund 4 Sekunden für 0,034 Dollar pro 1.000 Bilder und positioniert sich als Einstiegsstufe unterhalb von Nano Banana 2 und Nano Banana Pro.",
+      "url": "https://cryptobriefing.com/google-deepmind-nano-banana-2-lite-text-to-image/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_DeepMind_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Leanstral 1.5",
+      "version": "1.5",
+      "anbieter": "Mistral AI",
+      "detail": "Aktualisiertes Lean-4-Modell für formale Beweisführung mit verbesserter SFT-Mischung und erweitertem Long-Context-Reasoning, unter Apache-2.0-Lizenz. Löst 587 von 672 Problemen im PutnamBench und setzt neue Bestwerte auf den FATE-H- und FATE-X-Algebra-Benchmarks.",
+      "url": "https://www.marktechpost.com/2026/07/03/mistral-ai-releases-leanstral-1-5-an-apache-2-0-lean-4-code-agent-model-solving-587-of-672-putnambench-problems/",
+      "bild": ""
+    }
+  ]
+}
