@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-07",
+  "name": "Talp",
+  "tagline": "KI-Personas simulieren echtes Kundenverhalten, statt nur Meinungen abzufragen",
+  "beschreibung": "Talp baut KI-Personas mit eigenen Verhaltensmustern, Entscheidungslogik und kognitiven Tendenzen, die auf einer Website, einer Werbeanzeige oder einem Preismodell 'losgelassen' werden, um vorherzusagen, wie echte Kunden tatsächlich handeln würden – inklusive Begründung. Das Startup adressiert damit die bekannte Lücke zwischen dem, was Menschen in Umfragen sagen, und dem, was sie wirklich tun. Statt klassischer Nutzerbefragungen liefert Talp so instant und in beliebiger Skalierung simulierte Verhaltensdaten, bevor eine echte Kampagne oder ein Feature live geht. Das türkischstämmige Team hat gerade eine Pre-Seed-Runde über 20 Millionen Dollar Bewertung abgeschlossen.",
+  "useCase": "Ein E-Commerce-Team lässt tausende Shopper-Personas durch den eigenen Checkout-Flow laufen, um genau den Punkt zu identifizieren, an dem Preissensibilität zum Warenkorbabbruch führt – noch bevor eine reale Marketingkampagne startet.",
+  "url": "https://talp.ai/",
+  "kategorie": "Marketing / Produkttests",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["AI-Personas", "Kundenforschung", "Produkttests", "Marktforschung"]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6",
+      "version": "Sol / Terra / Luna",
+      "anbieter": "OpenAI",
+      "detail": "Die neue Modellfamilie kommt in drei Stufen: Flaggschiff Sol, das güns­tigere Terra und das besonders schnelle, kosteneffiziente Luna. Ab dem 7. Juli öffnet sich das Fenster für breitere Verfügbarkeit, nachdem der Zugang zunächst auf rund 20 von der US-Regierung geprüfte Partnerorganisationen beschränkt war. Sol soll zusätzlich über Cerebras-Infrastruktur mit bis zu 750 Tokens pro Sekunde laufen – ein deutlicher Geschwindigkeitssprung für latenzsensible Agentenanwendungen.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini Omni Flash",
+      "version": "",
+      "anbieter": "Google DeepMind",
+      "detail": "Neues Modell für konversationelle Videoerstellung, das Google parallel zu Nano Banana 2 Lite veröffentlicht hat. Nutzer können im Dialog Videoinhalte anfordern und iterativ verfeinern, statt einzelne Prompts neu zu formulieren – ein Schritt in Richtung agentischer, gesprächsbasierter Medienerzeugung statt reiner Einzel-Prompt-Tools.",
+      "url": "https://blog.google/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_DeepMind_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Hub",
+      "version": "1.0",
+      "anbieter": "MiniMax",
+      "detail": "Auf dem Shanghai International Film Festival vorgestelltes multimodales Kreativ-Tool, das Video, Bild, Voiceover und Editing in einem agentischen Workflow bündelt. Ein integrierter Agent versteht die Anforderung, zerlegt sie in Teilaufgaben, wählt passende Modelle aus, führt sie aus und prüft anschließend selbstständig die Qualität des Ergebnisses.",
+      "url": "https://variety.com/2026/film/festivals/minimax-hub-ai-video-generator-shanghai-film-festival-1236781901/",
+      "bild": ""
+    }
+  ]
+}

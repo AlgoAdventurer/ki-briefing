@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Weißes Haus will freiwilligen Standards-Rahmen für Frontier-KI-Modelle noch diese Woche vorstellen",
+      "quelle": "Financial Times / Bloomberg",
+      "quelleUrl": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "zusammenfassung": "Nach der Executive Order vom 2. Juni zu Frontier-KI und Cybersicherheit will das Weiße Haus noch in der Woche ab dem 7. Juli einen freiwilligen Standards-Rahmen veröffentlichen, der festlegt, unter welchen Bedingungen als 'covered frontier models' eingestufte Systeme wie GPT-5.6 breiter freigegeben werden dürfen. Vorgesehen ist ein freiwilliger Prozess, bei dem Entwickler der Regierung bis zu 30 Tage vor Release Zugang zu ihren Modellen geben können – eine verpflichtende Zulassungspflicht soll es laut Order ausdrücklich nicht geben.",
+      "kategorie": "Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAIs GPT-5.6 (Sol, Terra, Luna) startet Fenster für allgemeine Verfügbarkeit",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "zusammenfassung": "Nach rund zwei Wochen streng gated Preview für ausgewählte Partnerorganisationen öffnet sich ab dem 7. Juli das Zeitfenster für die breitere Verfügbarkeit der neuen GPT-5.6-Modellfamilie: Flaggschiff Sol, das günstigere Terra und das besonders schnelle Luna, mit Preisen von 5/30, 2,50/15 und 1/6 Dollar pro Million Tokens. Auffällig ist die Kopplung an die Regierungsprüfung nach der neuen Executive Order – der erste Fall, in dem eine US-Frontier-Modell-Veröffentlichung explizit an eine staatliche Koordination gebunden ist.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Claude Fable 5: Billing-Cliff ab 8. Juli beendet vergünstigte Übergangsphase",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/redeploying-fable-5",
+      "zusammenfassung": "Als Anthropic Fable 5 am 1. Juli nach fast dreiwöchiger Zwangspause wieder freischaltete, wurden die Nutzung zunächst zu 50 Prozent auf die regulären Wochenlimits von Pro-, Max- und Team-Abos angerechnet. Diese Übergangsregelung läuft am 7. Juli aus – ab dem 8. Juli müssen Fable-5-Anfragen über separat abgerechnete Nutzungscredits bezahlt werden, statt in den bestehenden Abo-Kontingenten enthalten zu sein.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Big-Tech-Investitionen in KI-Infrastruktur klettern 2026 auf 725 Milliarden Dollar",
+      "quelle": "Fortune / Statista",
+      "quelleUrl": "https://fortune.com/2026/04/30/big-tech-hyperscalers-will-spend-700-billion-on-ai-infrastructure-this-year-with-no-clear-end-in-sight-eye-on-ai/",
+      "zusammenfassung": "Google, Amazon, Microsoft und Meta planen für 2026 gemeinsam rund 725 Milliarden Dollar an Investitionsausgaben, ein Plus von 77 Prozent gegenüber dem bereits rekordhohen Vorjahr. Amazon steuert davon rund 200 Milliarden bei, Microsoft etwa 190 Milliarden, während Google Cloud zuletzt ein Umsatzwachstum von 63 Prozent meldete – ein Beleg dafür, wie sehr der KI-Wettlauf inzwischen die Bilanzen der Hyperscaler prägt.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

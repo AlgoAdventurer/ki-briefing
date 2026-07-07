@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Synthetische Athleten-Personas zum Testen neuer Contoura-Features",
+      "kontext": "Talp zeigt mit seinen KI-Personas, wie sich reales Nutzerverhalten simulieren lässt, bevor eine echte Kampagne oder ein Feature live geht – gebaut, um die Lücke zwischen befragter Meinung und tatsächlichem Verhalten zu schließen.",
+      "umsetzung": "Contoura könnte nach diesem Vorbild synthetische Athleten-Personas mit unterschiedlichen Leistungsniveaus, Trainingsgewohnheiten und Frustrationsschwellen definieren, um neue Auswertungs-Dashboards oder Trainingsberichte vorab gegen simuliertes Nutzerverhalten zu testen – etwa ob eine neue Fehlerstatistik-Ansicht eher motiviert oder eher demotiviert wirkt, bevor sie echten Athleten ausgespielt wird.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 2,
+      "titel": "Schnellere Live-Auswertung dank Hochgeschwindigkeits-Inferenz",
+      "kontext": "GPT-5.6 Sol läuft über Cerebras-Hardware mit bis zu 750 Tokens pro Sekunde – ein deutlicher Sprung für latenzsensible, agentische Anwendungen, die bislang auf kleinere, schnellere Modelle ausweichen mussten.",
+      "umsetzung": "Contoura könnte damit direkt nach einem Wettkampf automatisch generierte Trainerkommentare zu Split-Zeiten und Fehlerstatistiken nahezu in Echtzeit ausliefern, statt Athleten auf eine spürbar spätere Auswertung warten zu lassen – gerade bei Live-Events ein klarer Mehrwert gegenüber der bisherigen Batch-Verarbeitung.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Zustandslose MCP-Integration für skalierbare Trainingsdaten-Anbindung",
+      "kontext": "Die kommende MCP-Spezifikation 2026-07-28 macht das Protokoll zustandslos, sodass jede Serverinstanz jede Anfrage beantworten kann, ohne Sticky-Routing oder geteilte Session-Stores zu benötigen.",
+      "umsetzung": "Für eine wachsende Nutzerbasis könnte Contoura einen eigenen MCP-Server für Trainings- und Wettkampfdaten auf Basis der neuen zustandslosen Spezifikation bauen, sodass sich KI-Assistenten wie Claude horizontal skalierbar und ohne aufwendiges Session-Management an Athletendaten anbinden lassen.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

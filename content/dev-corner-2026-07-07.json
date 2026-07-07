@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Release Candidate macht das Protokoll zustandslos",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate für die nächste Model-Context-Protocol-Spezifikation entfernt den protokollseitigen Session-State (kein Mcp-Session-Id-Header mehr) – jede Anfrage ist selbstbeschreibend und kann von jeder Serverinstanz beantwortet werden, was Sticky-Routing und geteilte Session-Stores in horizontal skalierten Deployments überflüssig macht. Dazu kommen Multi-Round-Trip-Requests (SEP-2322) als Ersatz für serverseitige Sampling-/Elicitation-Calls sowie routbare Transport-Header (SEP-2243) für Gateways und Rate-Limiter. Die finale Spezifikation soll am 28. Juli erscheinen, Beta-SDKs sind bereits verfügbar.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GPT-5.6 Sol auf Cerebras: bis zu 750 Tokens pro Sekunde über die API",
+      "typ": "API",
+      "detail": "OpenAI bringt sein Flaggschiffmodell Sol zusätzlich zur klassischen Inferenz auch über Cerebras-Hardware, was für einzelne Anfragen Durchsatzraten von bis zu 750 Tokens pro Sekunde ermöglicht. Für Entwickler, die latenzkritische Agenten-Workflows bauen – etwa Sprachassistenten oder interaktive Coding-Agents – eröffnet das spürbar responsivere Anwendungen, ohne auf ein kleineres, weniger fähiges Modell ausweichen zu müssen.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "codebeispiel": ""
+    }
+  ]
+}

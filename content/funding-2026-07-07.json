@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Crusoe",
+      "betrag": "~$3B (in Verhandlung)",
+      "runde": "Growth-Runde",
+      "investoren": "noch nicht final bestätigt; bisherige Investoren u.a. Nvidia, Salesforce Ventures, Valor Equity Partners, Mubadala Capital",
+      "beschreibung": "Der vom Bitcoin-Mining zu KI-Rechenzentren umgeschwenkte Infrastrukturanbieter Crusoe verhandelt über eine rund 3 Milliarden Dollar schwere Runde, die die Bewertung von zuletzt 10 auf etwa 30 Milliarden Dollar verdreifachen würde. Crusoe versorgt bereits Meta und Oracle mit KI-Rechenleistung, meldet 4,9 Gigawatt vertraglich gesicherte Kapazität und über 40 Gigawatt in der Projekt-Pipeline – ein Signal dafür, wie viel Kapital aktuell in physische KI-Infrastruktur statt in Modelle selbst fließt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead), Vista Equity Partners, General Catalyst, Emergence Capital, Nvidia, March Capital, Pegatron, S Ventures",
+      "beschreibung": "Together AI hat sich frisches Kapital bei einer Bewertung von 8,3 Milliarden Dollar gesichert – mehr als das 2,5-Fache der Series-B-Bewertung vor 16 Monaten. Die Plattform für Training und Inferenz offener Modelle wie DeepSeek, Nemotron oder Kimi verbucht inzwischen über 1,15 Milliarden Dollar jährliche Buchungen und will die eigene Infrastrukturkapazität in den kommenden fünf Jahren um das rund 50-Fache ausbauen – ein weiteres Zeichen dafür, dass Unternehmen zunehmend von geschlossenen zu offenen Modellen wechseln.",
+      "bild": ""
+    }
+  ]
+}

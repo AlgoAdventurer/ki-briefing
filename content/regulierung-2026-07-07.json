@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Weißes Haus bereitet freiwilligen Prüfrahmen für 'Covered Frontier Models' vor",
+      "region": "USA",
+      "detail": "Als Konkretisierung der Executive Order vom 2. Juni will das Weiße Haus noch diese Woche einen freiwilligen Standards-Rahmen vorstellen, der festlegt, wann ein KI-Modell als 'covered frontier model' mit fortgeschrittenen Cyberfähigkeiten gilt. NSA und CISA sollen dafür bis zum 1. August einen klassifizierten Benchmarking-Prozess entwickeln; teilnehmende Entwickler könnten Behörden bis zu 30 Tage vor Release Zugang zu ihren Modellen geben. Eine verpflichtende Zulassungs- oder Lizenzpflicht schließt die Order ausdrücklich aus – GPT-5.6 ist das erste Modell, dessen breitere Freigabe an diesen Prozess gekoppelt ist.",
+      "url": "https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "UN AI for Good Global Summit startet in Genf mit erster Kommissionssitzung",
+      "region": "Global",
+      "detail": "Im direkten Anschluss an den zweitägigen UN Global Dialogue on AI Governance beginnt am 7. Juli in Genf der ITU AI for Good Global Summit, der bis zum 10. Juli läuft. Am 8. Juli folgt die konstituierende Sitzung der neuen UN AI for Good Global Commission – ein weiterer Baustein im Versuch, globale KI-Governance-Standards abseits nationaler Alleingänge zu koordinieren, nachdem bereits Delegierte aus 169 Ländern am Dialog teilgenommen haben.",
+      "url": "https://news.un.org/en/story/2026/07/1167848",
+      "auswirkung": "mittel"
+    }
+  ]
+}
