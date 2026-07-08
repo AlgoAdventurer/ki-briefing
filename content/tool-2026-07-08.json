@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-08",
+  "name": "ZCode",
+  "tagline": "Kostenlose Agentic-Coding-Umgebung von Z.ai fordert Cursor, Claude Code & Copilot heraus",
+  "beschreibung": "ZCode ist eine kostenlose Desktop-Anwendung von Z.ai (ehemals Zhipu AI), die als 'Agentic Development Environment' rund um das eigene Open-Weight-Modell GLM-5.2 gebaut wurde. Statt einzelner Autocomplete-Vorschläge übernimmt ein Agent komplette Aufgaben: Codebasis lesen, Plan entwerfen, Dateien editieren, Terminal-Befehle ausführen und Ergebnisse iterativ prüfen, bis das Ziel erreicht ist oder eine Entscheidung durch den Entwickler nötig wird. Auffällig ist die aggressive Preisstrategie – Abos ab 16,20 Dollar im Monat, dazu Bring-your-own-Key-Unterstützung für beliebige andere Modelle.",
+  "useCase": "Ein Entwickler beschreibt in einem Satz 'Füge Rate-Limiting zu dieser API hinzu' und lässt den ZCode-Agent selbstständig die betroffenen Dateien identifizieren, den Code anpassen, Tests laufen lassen und das Ergebnis zusammenfassen – steuerbar sogar remote über WeChat, Feishu oder Telegram.",
+  "url": "https://z.ai/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Agentic Coding", "Open Source", "GLM-5.2", "IDE"]
+}

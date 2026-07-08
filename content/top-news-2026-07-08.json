@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Fable 5 verlangt ab sofort für alle Abo-Stufen Nutzungscredits",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/redeploying-fable-5",
+      "zusammenfassung": "Ab dem 8. Juli endet die vergünstigte Übergangsphase für Claude Fable 5 endgültig: Für Pro-, Max-, Team- und ausgewählte Enterprise-Pläne wird jede Fable-5-Anfrage nun zu regulären API-Sätzen von 10 Dollar pro Million Input- und 50 Dollar pro Million Output-Tokens abgerechnet – doppelt so teuer wie Claude Opus 4.8. Anthropic signalisiert damit, Fable 5 künftig als Premium-Spezialmodell statt als Teil der Standard-Kontingente zu positionieren.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Kommission stellt Cybersicherheitsplan für fortgeschrittene KI vor",
+      "quelle": "European Commission",
+      "quelleUrl": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "zusammenfassung": "Am 7. Juli hat die EU-Kommission einen neuen Plan präsentiert, der Risiken und Chancen fortgeschrittener KI im Bereich Cybersicherheit adressiert – parallel zur laufenden Einigung auf den 'Digital Omnibus on AI', der die Fristen für Hochrisiko-KI-Systeme um 16 Monate auf Dezember 2027 verschiebt. Damit verschiebt Brüssel den Fokus von reiner Fristenkoordination hin zu konkreten Sicherheitsanforderungen für den Einsatz fortgeschrittener Modelle in kritischer Infrastruktur.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Mistral bestätigt offenes Gewichts-Modell mit Early Access noch im Juli",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "zusammenfassung": "CEO Arthur Mensch hat eine neue, als 'fat but sparse' beschriebene Mixture-of-Experts-Modellfamilie angekündigt, die noch im Juli als Open-Weight-Modell in den Early Access geht und voraussichtlich unter Apache-2.0-Lizenz erscheint. Mistral positioniert sich damit erneut als europäische Antwort auf geschlossene US-Modelle, während das Unternehmen zugleich eine Finanzierungsrunde über 3,5 Milliarden Dollar anstrebt.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "NVIDIA und Hugging Face bringen Isaac GR00T 1.7 in die offene Robotik-Bibliothek LeRobot",
+      "quelle": "NVIDIA Blog",
+      "quelleUrl": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "zusammenfassung": "NVIDIA und Hugging Face erweitern ihre Kooperation um das offene Vision-Language-Action-Modell Isaac GR00T 1.7 für humanoide Roboter sowie das Isaac-Teleop-Framework, beide integriert in Hugging Faces Open-Source-Robotik-Bibliothek LeRobot. Damit bekommen Hugging Faces 16 Millionen KI-Entwickler direkten Zugang zu NVIDIAs physischer-KI-Stack – ein weiterer Schritt, Robotik-Modelle genauso offen und zugänglich zu machen wie Sprachmodelle.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

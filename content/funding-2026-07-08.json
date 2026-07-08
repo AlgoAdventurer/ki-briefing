@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Taktile",
+      "betrag": "$110M",
+      "runde": "Series C",
+      "investoren": "Goldman Sachs Alternatives Growth Equity (Lead), Balderton Capital, Index Ventures, Tiger Global, Y Combinator, Dig Ventures",
+      "beschreibung": "Die Agentic-Decision-Plattform für Banken und Versicherer, die KI-Agenten, Regeln und menschliche Aufsicht kombiniert, um Entscheidungen wie Kreditvergabe, Schadensregulierung und Betrugsprävention zu automatisieren, hat ihre Gesamtfinanzierung auf 184 Millionen Dollar erhöht. Kunden wie Mercury, Monzo und Faire melden bereits 95 Prozent Automatisierung im B2B-Underwriting und 75 Prozent weniger AML-Fehlalarme – ein Beleg dafür, wie stark agentische KI inzwischen in regulierte Hochrisiko-Entscheidungen vordringt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Even Realities Technology",
+      "betrag": "$150M",
+      "runde": "Wachstumsrunde",
+      "investoren": "Meituan, Tencent",
+      "beschreibung": "Der Hersteller von KI-Wearables sichert sich frisches Kapital von zwei chinesischen Tech-Schwergewichten – ein Signal dafür, dass Kapital zunehmend dorthin fließt, wo KI auf physische Hardware trifft, statt ausschließlich in Software- und Modell-Player.",
+      "bild": ""
+    }
+  ]
+}

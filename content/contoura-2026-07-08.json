@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Ein-Millionen-Token-Kontext für komplette Saisonanalysen",
+      "kontext": "GLM-5.2 bringt ein echtes Ein-Millionen-Token-Kontextfenster – fünfmal so groß wie beim Vorgänger – und ist zudem offen unter MIT-Lizenz verfügbar, wodurch sich lange Kontexte auch kosteneffizient selbst hosten lassen.",
+      "umsetzung": "Contoura könnte damit die komplette Trainings- und Wettkampfhistorie eines Athleten über mehrere Saisons hinweg in einem einzigen Kontext verarbeiten, um saisonübergreifende Muster in Split-Zeiten, Fehlerhäufigkeit und Performance-Index zu erkennen, statt Analysen auf einzelne Trainingsblöcke zu beschränken.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Agentische Automatisierung für Trainingsauswertungen nach Taktile-Vorbild",
+      "kontext": "Taktile zeigt mit seiner Agentic-Decision-Plattform, wie sich KI-Agenten, feste Regeln und menschliche Aufsicht kombinieren lassen, um in regulierten Bereichen wie Banken und Versicherungen komplexe Entscheidungen weitgehend zu automatisieren.",
+      "umsetzung": "Nach demselben Muster könnte Contoura einen Auswertungs-Agenten bauen, der nach jedem Wettkampf automatisch Split-Zeiten und Fehlerstatistiken gegen feste Trainerregeln prüft, priorisierte Handlungsempfehlungen erzeugt und nur bei Grenzfällen eine menschliche Trainerin oder einen Trainer einbindet – statt jede Auswertung manuell zu erstellen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Offene Vision-Language-Action-Modelle für automatische Kartenanalyse",
+      "kontext": "NVIDIA und Hugging Face öffnen mit Isaac GR00T 1.7 ein Vision-Language-Action-Modell für die Robotik-Community und senken damit die Einstiegshürde für offene multimodale Modelle, die visuelle Eingaben mit Handlungslogik verknüpfen.",
+      "umsetzung": "Ein ähnlicher offener VLA-Ansatz könnte Contoura helfen, OL-Kartenausschnitte und GPS-Tracks automatisch zu verknüpfen, um Streckenwahl-Fehler direkt aus der Kombination von Kartenbild und tatsächlich gelaufener Route zu erkennen, statt Fehlerstatistiken nur manuell zu erfassen.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

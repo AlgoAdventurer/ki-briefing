@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission präsentiert Cybersicherheitsplan für fortgeschrittene KI",
+      "region": "EU",
+      "detail": "Am 7. Juli hat die Europäische Kommission einen neuen Plan vorgestellt, der Risiken und Chancen fortgeschrittener KI-Systeme im Bereich Cybersicherheit adressiert. Der Plan ergänzt den kurz zuvor ausgehandelten 'Digital Omnibus on AI', der die Fristen für Hochrisiko-KI-Systeme um 16 Monate auf den 2. Dezember 2027 verschiebt und die vereinfachte Compliance-Regelung auf Unternehmen mit bis zu 750 Mitarbeitenden ausweitet.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "UN AI for Good Global Commission nimmt Arbeit auf",
+      "region": "Global",
+      "detail": "Im Anschluss an den zweitägigen UN Global Dialogue on AI Governance in Genf und den Auftakt des ITU AI for Good Global Summit tritt am 8. Juli erstmals die neu geschaffene UN AI for Good Global Commission zusammen. Ziel ist eine koordinierte globale KI-Governance abseits nationaler Alleingänge, nachdem Delegierte aus 169 Ländern am vorangegangenen Dialog teilgenommen hatten.",
+      "url": "https://news.un.org/en/story/2026/07/1167862",
+      "auswirkung": "mittel"
+    }
+  ]
+}

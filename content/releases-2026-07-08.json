@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Sonnet 5",
+      "version": "5.0",
+      "anbieter": "Anthropic",
+      "detail": "Seit dem 30. Juni ist Claude Sonnet 5 das Standardmodell für alle Claude-Pläne. Es bringt laut Anthropic deutlich stärkeres Long-Run-Coding, Tool-Nutzung und Debugging bei gleichzeitig niedrigerem Preis als der Vorgänger – als das praktikabelste Modell für den direkten Alltagseinsatz über viele Aufgaben hinweg positioniert, während Fable 5 als teureres Spezialmodell danebensteht.",
+      "url": "https://www.anthropic.com/news",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.2",
+      "version": "5.2",
+      "anbieter": "Z.ai (ehemals Zhipu AI)",
+      "detail": "Das Mixture-of-Experts-Modell mit 744 Milliarden Gesamt- und 40 Milliarden aktiven Parametern bringt ein echtes Ein-Millionen-Token-Kontextfenster – fünffach so groß wie beim Vorgänger – und wurde auf 28,5 Billionen Tokens trainiert. Seit dem 16. Juni zunächst exklusiv für Coding-Plan-Abonnenten verfügbar, inzwischen als Open-Source-Gewichte unter MIT-Lizenz auf Hugging Face veröffentlicht.",
+      "url": "https://z.ai/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "gpt-realtime-2.1",
+      "version": "2.1 / 2.1-mini",
+      "anbieter": "OpenAI",
+      "detail": "Neue Realtime-Modelle für latenzarme Sprach- und Multimodal-Anwendungen mit mindestens 25 Prozent niedrigerer p95-Latenz gegenüber den bisherigen Realtime-Voice-Modellen – relevant für Sprachassistenten und interaktive Agenten, bei denen jede Millisekunde Reaktionszeit zählt.",
+      "url": "https://openai.com/index/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Isaac GR00T",
+      "version": "1.7",
+      "anbieter": "NVIDIA / Hugging Face",
+      "detail": "Offenes Vision-Language-Action-Modell für humanoide Roboter, das gemeinsam mit dem Isaac-Teleop-Framework in Hugging Faces Robotik-Bibliothek LeRobot integriert wurde. NVIDIA kündigt zudem das Physical-AI-Foundation-Modell Cosmos 3 als nächsten Schritt an.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "bild": ""
+    }
+  ]
+}

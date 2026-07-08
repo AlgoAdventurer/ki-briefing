@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "ZCode: Agentic Development Environment mit BYOK-Unterstützung",
+      "typ": "Tool / IDE",
+      "detail": "Z.ai's neue Desktop-IDE ZCode ist als agentenzentrierte Entwicklungsumgebung rund um GLM-5.2 gebaut, unterstützt aber via Bring-your-own-Key auch andere Modellanbieter. Für Entwickler interessant: Aufgaben lassen sich nicht nur lokal, sondern auch remote über Messenger wie Telegram anstoßen und steuern, während der Agent Dateien liest, editiert und Terminal-Befehle ausführt.",
+      "url": "https://z.ai/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GLM-5.2 Open-Source-Gewichte unter MIT-Lizenz",
+      "typ": "Open Source",
+      "detail": "Mit 744 Milliarden Gesamt- und 40 Milliarden aktiven Parametern sowie einem echten Ein-Millionen-Token-Kontextfenster steht GLM-5.2 nun frei unter MIT-Lizenz auf Hugging Face zum Download, Finetuning und kommerziellen Einsatz zur Verfügung – eine der aktuell größten offenen Modellfamilien mit Fokus auf Coding und Agenten-Workflows.",
+      "url": "https://huggingface.co/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "LeRobot-Integration von Isaac GR00T 1.7 und Isaac Teleop",
+      "typ": "SDK / Robotik",
+      "detail": "Hugging Faces Open-Source-Robotik-Bibliothek LeRobot bekommt mit Isaac GR00T 1.7 ein offenes Vision-Language-Action-Modell für humanoide Roboter sowie das Teleop-Framework von NVIDIA. Entwickler können damit Robotik-Workflows mit denselben offenen Tools bauen, die bislang vor allem für Sprachmodelle üblich waren.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "codebeispiel": ""
+    }
+  ]
+}
