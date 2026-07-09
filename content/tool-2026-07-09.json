@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-09",
+  "name": "Grok Voice Agent Builder",
+  "tagline": "No-Code-Plattform von xAI für produktionsreife Sprachagenten in unter zwei Minuten",
+  "beschreibung": "xAI hat mit dem Voice Agent Builder eine No-Code-Plattform in die Beta gebracht, mit der sich Sprachagenten auf Basis von Grok Voice konfigurieren lassen, ohne den kompletten Stack selbst zu bauen. Enthalten sind Telefonie, Wissensabruf, Tools, Guardrails, MCP-Anbindung und Observability in einer Oberfläche, dazu über 25 Sprachen und mehr als 80 Stimmen inklusive Klonen der eigenen Marken-Stimme aus rund zwei Minuten Audiomaterial. Jeder Account bekommt eine kostenlose Telefonnummer, alternativ lässt sich eine bestehende Nummer per SIP anbinden.",
+  "useCase": "Ein Startup baut in wenigen Minuten einen telefonischen Support-Agenten, der Kundenanfragen auf Basis der eigenen Wissensdatenbank beantwortet – ein zehnminütiges Support-Gespräch kostet dabei nur rund 0,60 Dollar.",
+  "url": "https://x.ai/voice",
+  "kategorie": "API / Voice",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Voice AI", "No-Code", "Grok", "Telephony"]
+}

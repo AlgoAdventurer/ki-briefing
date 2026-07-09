@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Norm Ai",
+      "betrag": "$120M",
+      "runde": "Series C",
+      "investoren": "Khosla Ventures (Lead), Blackstone, Bain Capital Ventures, Craft Ventures, Coatue, Vanguard, New York Life, TIAA",
+      "beschreibung": "Das knapp drei Jahre alte 'Agentic Law'-Startup erreicht mit der Runde eine Bewertung von 1,2 Milliarden Dollar. Norm Ai bettet Recht direkt in KI-Agenten ein, die andere Agenten in regulierten Umgebungen überwachen, und betreibt mit Norm Law eine KI-native Kanzlei, die nach Ergebnissen statt nach Stunden abrechnet – Kunden repräsentieren zusammen über 30 Billionen Dollar verwaltetes Vermögen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Monogram",
+      "betrag": "$40M",
+      "runde": "Seed",
+      "investoren": "DST Global, Lux Capital, Conviction, SOMA Capital, Gradient Ventures",
+      "beschreibung": "Die von Udemy-Mitgründer Eren Bali gestartete iPhone-App generiert statt Text komplett interaktive Benutzeroberflächen in Echtzeit – eine Frage nach einem Rezept oder Reiseplan erzeugt so ein dynamisches Menü oder eine Karte statt eines Textblocks. Die Runde zeigt, dass Investoren jenseits von Chat-Interfaces neue visuelle Interaktionsformen für KI-Apps als eigenes Wachstumsfeld sehen.",
+      "bild": ""
+    }
+  ]
+}

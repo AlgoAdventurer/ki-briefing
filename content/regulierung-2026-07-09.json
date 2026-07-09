@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic verlangt ab sofort Ausweis- und Biometrie-Verifizierung für Fable 5 und Mythos 5",
+      "region": "Global",
+      "detail": "Seit dem 8. Juli greift Anthropics aktualisierte Datenschutzrichtlinie: Für Zugriff auf Fable 5 und Mythos 5 müssen Nutzer über den Peter-Thiel-nahen Dienst Persona einen amtlichen Ausweis (Pass, Führerschein oder nationale ID) sowie ein Live-Selfie zur biometrischen Prüfung vorlegen. Der Schritt reiht sich in einen breiteren Branchentrend zu strengeren Altersverifizierungs- und Missbrauchsschutz-Maßnahmen bei besonders leistungsfähigen Modellen ein.",
+      "url": "https://unrot.co/blogs/today-top-10-ai-news-july-8-2026",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "UN AI for Good Global Commission tritt in Genf erstmals zusammen",
+      "region": "Global",
+      "detail": "Im Anschluss an den zweitägigen UN Global Dialogue on AI Governance und den Auftakt des ITU-AI-for-Good-Gipfels ist am 8. Juli die neu geschaffene UN AI for Good Global Commission zusammengetreten. Teilnehmer waren unter anderem Nvidia-CEO Jensen Huang, Amazon-CEO Andy Jassy, Microsoft-Präsident Brad Smith, Anthropic-Mitgründer Jack Clark sowie Staatsoberhäupter aus acht Ländern – Ziel ist eine koordinierte globale KI-Governance und ein besserer Zugang für die 2,2 Milliarden Menschen ohne verlässlichen Internetzugang.",
+      "url": "https://news.un.org/en/story/2026/07/1167862",
+      "auswirkung": "mittel"
+    }
+  ]
+}

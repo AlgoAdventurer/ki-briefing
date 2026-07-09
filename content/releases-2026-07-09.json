@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6",
+      "version": "Sol / Terra / Luna",
+      "anbieter": "OpenAI",
+      "detail": "Vollständiger öffentlicher Rollout am 9. Juli nach wochenlanger, regierungsseitig eingeschränkter Vorschau. Sol setzt laut OpenAI einen neuen Bestwert auf Terminal-Bench 2.1 und bringt 'Max Reasoning Effort' sowie den parallelen Subagenten-Modus 'Ultra Mode'. Neu ist außerdem planbareres Prompt-Caching mit expliziten Cache-Breakpoints und einer Mindest-Cache-Lebensdauer von 30 Minuten.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Muse Image / Muse Video",
+      "version": "",
+      "anbieter": "Meta (Meta Superintelligence Labs)",
+      "detail": "Metas erstes selbstentwickeltes Bildmodell arbeitet agentisch: Es ruft Such- und Coding-Tools auf, verfeinert eigene Generierungen iterativ und nutzt sozialen Kontext aus Instagram für präzisere Bildkompositionen aus mehreren Referenzen. Muse Video liefert als früher Preview konkurrenzfähige Ergebnisse bei Prompt-Treue, visueller Qualität und zeitlicher Konsistenz.",
+      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Kimi K2.7 Code",
+      "version": "2.7",
+      "anbieter": "Moonshot AI",
+      "detail": "Seit dem 1. Juli generell in GitHub Copilot verfügbar – das erste offene Gewichts-Modell eines Pekinger Labs im meistgenutzten KI-Coding-Assistenten. Das Mixture-of-Experts-Modell hat 1 Billion Gesamt- und nur 32 Milliarden aktive Parameter pro Token und liefert damit die Kapazität eines Billionen-Parameter-Modells zu Kosten nahe einem 32B-Dense-Modell.",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kimi K2.7 Code im GitHub-Copilot-Modellwähler",
+      "typ": "Tool / IDE",
+      "detail": "Moonshot AIs offenes Kimi K2.7 Code lässt sich seit dem 1. Juli direkt im Copilot-Modellpicker auswählen – in VS Code ab 1.127.0, Visual Studio ab 17.14.6, JetBrains ab 1.9.1-251 sowie in Xcode, Eclipse, der Copilot CLI und auf GitHub.com. Für Business- und Enterprise-Pläne ist das Modell standardmäßig deaktiviert und muss von Admins erst freigeschaltet werden; gehostet wird es von GitHub auf Microsoft Azure zu Provider-Listenpreisen.",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP wird mit Spec-Release-Candidate 2026-07-28 zustandslos",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate der Model-Context-Protocol-Spezifikation vom 28. Juli entfernt die Protokoll-Session komplett (kein Mcp-Session-Id mehr) und verlangt für Streamable-HTTP-Transporte neue Mcp-Method- und Mcp-Name-Header, damit Load Balancer und Gateways ohne Body-Inspektion routen können. Tools/List- und Resource-Read-Antworten bekommen zudem ttlMs und cacheScope, damit Clients wissen, wie lange Ergebnisse gültig und cachefähig sind. Für SDK-Maintainer läuft ein zehnwöchiges Fenster, um gegen reale Workloads zu testen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GPT-5.6: explizite Cache-Breakpoints und 30-Minuten-Mindest-Cache",
+      "typ": "API",
+      "detail": "Mit dem GPT-5.6-Launch führt OpenAI planbareres Prompt-Caching ein: Entwickler können explizite Cache-Breakpoints im Prompt setzen und erhalten eine garantierte Mindest-Cache-Lebensdauer von 30 Minuten – relevant für Agenten- und Coding-Workflows mit langen, wiederverwendeten System-Prompts, bei denen unvorhersehbares Cache-Verhalten bisher Kosten und Latenz unnötig erhöht hat.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "codebeispiel": ""
+    }
+  ]
+}

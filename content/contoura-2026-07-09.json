@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Agentische Kartenanalyse nach Muse-Image-Vorbild",
+      "kontext": "Metas neues Muse Image arbeitet nicht mehr als reine Prompt-zu-Bild-Funktion, sondern agentisch: Es ruft Such- und Coding-Tools auf und verfeinert eigene Ergebnisse iterativ, um visuelle Aufgaben präziser zu lösen.",
+      "umsetzung": "Contoura könnte einen ähnlichen agentischen Bild-Workflow einsetzen, um OL-Kartenausschnitte automatisch mit dem tatsächlich gelaufenen GPS-Track zu überlagern und iterativ zu verfeinern – der Agent würde Streckenwahl-Fehler selbst erkennen, farblich markieren und direkt einen Kommentar zur Fehlerursache generieren, statt dass Trainer:innen Karte und Track manuell vergleichen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Sprachgesteuertes Trainingsdebriefing per Voice Agent",
+      "kontext": "xAIs neuer Voice Agent Builder zeigt, wie schnell und günstig sich produktionsreife Sprachagenten mit Telefonie, Wissensabruf und Tool-Zugriff aufsetzen lassen – für rund 0,06 Dollar pro Gesprächsminute inklusive Telefonie.",
+      "umsetzung": "Athlet:innen könnten direkt nach dem Training oder Wettkampf einen Contoura-Sprachagenten anrufen und ihre Eindrücke frei einsprechen, statt Formulare auszufüllen. Der Agent würde die Split-Zeiten und Fehlerstatistiken des Laufs kennen, gezielt nachfragen ('Was ist bei Posten 7 passiert?') und die Antworten strukturiert ins Trainingslog übertragen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Parallele Subagenten für Team-weite Performance-Reports",
+      "kontext": "GPT-5.6 Sol führt mit 'Ultra Mode' einen Modus ein, bei dem mehrere Subagenten Teilaufgaben parallel bearbeiten, um komplexe, lang laufende Analysen zu beschleunigen.",
+      "umsetzung": "Contoura könnte nach jedem Vereins-Wettkampf einen Subagenten pro Athlet:in parallel starten lassen, der Split-Zeiten, Fehlerhäufigkeit und Performance-Index individuell auswertet – ein zentraler Koordinations-Agent würde die Einzelergebnisse anschließend zu einem Team-Report zusammenführen, statt jede Auswertung sequenziell abzuarbeiten.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

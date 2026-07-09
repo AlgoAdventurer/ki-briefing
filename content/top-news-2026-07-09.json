@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GPT-5.6 (Sol, Terra, Luna) ist ab heute für alle öffentlich verfügbar",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "zusammenfassung": "Nach wochenlangem, durch eine Anordnung der US-Regierung eingeschränktem Zugang hat OpenAI die GPT-5.6-Modellfamilie am 9. Juli endlich für alle Nutzer freigegeben. Sol ist das leistungsstärkste Modell mit neuem 'Max Reasoning Effort' und parallelem 'Ultra Mode', Terra bietet GPT-5.5-Niveau zum halben Preis und Luna ist die günstigste, schnellste Variante – Preise liegen bei 5/30, 2,50/15 und 1/6 Dollar pro Million Tokens.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Meta veröffentlicht Muse Image: erstes eigenes Bildmodell aus Zuckerbergs Superintelligence Labs",
+      "quelle": "Meta",
+      "quelleUrl": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl/",
+      "zusammenfassung": "Meta hat am 7. Juli mit Muse Image sein erstes von Meta Superintelligence Labs entwickeltes Bildmodell vorgestellt, das kostenlos in der Meta-AI-App, auf Instagram Stories (USA) und WhatsApp (ausgewählte Länder) verfügbar ist. Statt Prompts direkt in Pixel zu übersetzen, arbeitet Muse Image agentisch: Es nutzt Such- und Coding-Tools, verfeinert eigene Ergebnisse selbst und bezieht sozialen Kontext aus Instagram ein. Parallel zeigt Meta mit Muse Video einen ersten Ausblick auf sein Videomodell.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta streicht 8.000 Stellen – Zuckerberg räumt Stillstand bei KI-Agenten ein",
+      "quelle": "Diverse (u.a. Business-Presse)",
+      "quelleUrl": "https://unrot.co/blogs/today-top-10-ai-news-july-8-2026",
+      "zusammenfassung": "Meta hat rund 8.000 Stellen gestrichen (etwa 10 Prozent der Belegschaft), 7.000 Mitarbeitende auf KI-Teams umverteilt und 6.000 geplante Neueinstellungen gestoppt. CEO Mark Zuckerberg räumte dabei ein, dass die Entwicklung eigener KI-Agenten monatelang ins Stocken geraten sei – die Aktie fiel am selben Tag um 4,9 Prozent.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "China verbietet Beziehungssimulation bei KI-Companion-Apps wie Doubao und Qwen",
+      "quelle": "China Cyberspace Administration",
+      "quelleUrl": "https://news.un.org/en/story/2026/07/1167862",
+      "zusammenfassung": "Chinas Cyberspace-Administration verlangt von allen KI-Companion- und personalisierten Agenten-Apps – darunter ByteDances Doubao und Alibabas Qwen – bis zum 15. Juli die Deaktivierung von Personalisierungs-, emotionalem Spiegelungs- und Beziehungssimulations-Funktionen. Es ist die erste nationale Regulierung, die gezielt die psychologisch-soziale Dimension von KI-Produktdesign statt reiner Cybersicherheit oder Datenschutz adressiert.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
