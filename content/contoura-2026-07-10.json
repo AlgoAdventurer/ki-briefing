@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Routenwahl-Analyse aus fotografierten OL-Karten",
+      "kontext": "Grok 4.5 und GPT-5.6 Sol zeigen deutlich stärkere Vision-Reasoning-Fähigkeiten bei komplexen Bildern und können strukturierte Analysen direkt aus Fotos ableiten.",
+      "umsetzung": "Athleten laden ein Foto ihrer Wettkampfkarte samt GPS-Track hoch; ein Vision-Modell erkennt automatisch die gewählte Route zwischen den Posten, vergleicht sie mit der optimalen Linie und markiert Fehlerstellen direkt in der Karte – als Ergänzung zur bestehenden Fehlerstatistik in Contoura.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisch generierte Wochenberichte per geplantem Agenten-Task",
+      "kontext": "Claude Cowork unterstützt jetzt geräteunabhängige, geplante Tasks, die auch ganz ohne aktives Endgerät laufen.",
+      "umsetzung": "Contoura stößt wöchentlich automatisch einen Cowork-Task an, der Trainingsdaten, Split-Zeiten und Fehlerstatistik der letzten Woche pro Athlet in einen lesbaren Bericht mit konkreten Trainingsempfehlungen umwandelt und per App-Benachrichtigung oder Mail verschickt.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Standardisierte Coach-Schnittstelle über MCP-Ressourcen",
+      "kontext": "Die kommende MCP-Spezifikation (2026-07-28 RC) macht Ressourcen zustandslos und cachebar (ttlMs/cacheScope), was leichte, performante Integrationen ohne eigene Session-Infrastruktur erlaubt.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server anbieten, über den Trainer und beliebige KI-Coaching-Tools direkt und effizient auf Athletendaten wie Performance-Index und Split-Zeiten zugreifen können, statt für jedes Tool eine eigene API-Anbindung zu bauen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

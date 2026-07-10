@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28 Release Candidate: Protokoll wird zustandslos",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate für die kommende Model-Context-Protocol-Spezifikation macht MCP an der Protokollebene zustandslos. Remote-Server, die bisher Sticky Sessions und einen geteilten Session-Store brauchten, können künftig hinter einem einfachen Round-Robin-Loadbalancer laufen. Neu ist außerdem SEP-2549: tools/list- und Resource-Antworten tragen jetzt ttlMs und cacheScope, ähnlich wie HTTP Cache-Control, sodass Clients genau wissen, wie lange eine Antwort gültig und ob sie nutzerübergreifend cachebar ist.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Chrome DevTools MCP Server in Public Preview",
+      "typ": "MCP-Server / Debugging",
+      "detail": "Google bietet jetzt einen offiziellen Chrome-DevTools-MCP-Server an, über den KI-Coding-Assistenten direkt im Browser debuggen können – inklusive Netzwerk-Traces, Performance-Insights und DOM-Zugriff. Das erhöht die Trefferquote von Coding-Agenten beim Auffinden und Beheben von Frontend-Bugs deutlich, weil sie reale Laufzeitdaten statt nur statischen Code sehen.",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "X (Twitter) veröffentlicht eigenen MCP-Server",
+      "typ": "API / MCP-Server",
+      "detail": "X hat einen MCP-Server veröffentlicht, der es KI-Tools erlaubt, strukturiert auf die Plattform zuzugreifen – etwa für Recherche, Trend-Analyse oder das Einbetten von Post-Kontext in Agenten-Workflows, ohne eine proprietäre API-Integration von Grund auf selbst zu bauen.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    }
+  ]
+}

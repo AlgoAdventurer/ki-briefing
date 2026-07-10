@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-10",
+  "name": "Google Photos Video Remix",
+  "tagline": "Alltagsvideos per Gemini-Omni-Modell in Sekunden in stilisierte Clips verwandeln",
+  "beschreibung": "Google hat in Google Photos das Feature Video Remix eingeführt, das auf dem neuen Gemini-Omni-Modell basiert. Nutzer wählen eines ihrer eigenen Videos, wenden fertige Vorlagen an und erhalten daraus in Sekunden kinoreife Umstyling-Effekte – von filmischem Relighting über Hintergrundtausch bis zu Aquarell- oder Skizzenbuch-Optik. Anders als reine Text-zu-Video-Generatoren arbeitet das Tool direkt mit bereits aufgenommenem Material, was es für Alltagsnutzer deutlich zugänglicher macht als klassische KI-Videotools.",
+  "useCase": "Ein Nutzer lädt ein Handyvideo vom Wochenendausflug hoch und verwandelt es per Vorlage in einen Aquarell-Clip fürs Familienalbum – ganz ohne Schnittprogramm oder Prompt-Kenntnisse.",
+  "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+  "kategorie": "Video / Creativity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Video", "Gemini", "Consumer AI", "Google Photos"]
+}

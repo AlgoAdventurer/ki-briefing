@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Rat billigt Vereinfachungspaket final, neue Fristen und Nudifier-Verbot",
+      "region": "EU",
+      "detail": "Nach der Zustimmung des Europaparlaments am 16. Juni hat der Rat der EU am 29. Juni das AI-Act-Vereinfachungspaket endgültig abgesegnet. Die Hochrisiko-Pflichten aus Annex III verschieben sich von August 2026 auf Dezember 2027, die Frist für Regulatory Sandboxes rutscht auf August 2027, während Transparenzpflichten wie geplant im August 2026 greifen und die KI-Kennzeichnungsfrist auf Dezember 2026 verkürzt wird. Neu ins Gesetz aufgenommen wurde ein explizites Verbot von 'Nudifying'-Apps für nicht-einvernehmliche sexualisierte Inhalte.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAIs 5-Prozent-Staatsanteil-Vorschlag wirft neue Fragen zur KI-Governance auf",
+      "region": "USA",
+      "detail": "OpenAIs Vorschlag, der US-Regierung vor dem geplanten Börsengang im September einen 5-Prozent-Anteil (rund 42,6 Mrd. Dollar) zu übertragen, würde – nach dem Vorbild des Alaska Permanent Fund – auch andere US-Anbieter wie Anthropic, Google und Meta zu ähnlichen Staatsbeteiligungen bewegen können. Für eine Umsetzung wäre voraussichtlich die Zustimmung des Kongresses nötig; Kritiker warnen vor einer Vermischung von staatlicher Regulierung und staatlicher Kapitalbeteiligung an denselben Unternehmen.",
+      "url": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "auswirkung": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Nicht vollständig offengelegt (Post-Money-Bewertung $8,3 Mrd.)",
+      "beschreibung": "Die Plattform, über die Unternehmen offene KI-Modelle trainieren und betreiben können, erreicht mit der Runde eine Bewertung von 8,3 Milliarden Dollar. Die Größe der Runde unterstreicht den anhaltenden Bedarf an Infrastruktur jenseits der großen Foundation-Model-Anbieter, gerade für Firmen, die Open-Weight-Modelle wie Kimi, GLM oder DeepSeek selbst hosten wollen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Even Realities",
+      "betrag": "$150M",
+      "runde": "Pre-Series B",
+      "investoren": "Nicht vollständig offengelegt",
+      "beschreibung": "Der Hersteller von KI-gestützten Smart Glasses sichert sich frisches Kapital für den Ausbau seiner AI-Wearables-Sparte. Die Runde zeigt, dass Investoren nach den jüngsten Frontier-Model-Launches verstärkt auf KI setzen, die direkt am Körper und im Alltag präsent ist, statt nur im Chat-Fenster.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Zeroth",
+      "betrag": "$73.6M",
+      "runde": "Series A",
+      "investoren": "Ant Group (Lead)",
+      "beschreibung": "Das auf humanoide Robotik spezialisierte Startup erhält eine von Ant Group angeführte Series-A-Runde. Der Deal reiht sich in einen breiteren Trend ein, bei dem Kapital verstärkt in KI fließt, die digitale Intelligenz mit realer, physischer Ausführung verbindet – etwa durch Modelle wie NVIDIAs Isaac GR00T.",
+      "bild": ""
+    }
+  ]
+}

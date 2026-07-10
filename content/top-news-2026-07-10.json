@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "xAI startet Grok 4.5 öffentlich – Musk positioniert es als günstigeres Opus-Klasse-Modell",
+      "quelle": "SpaceXAI / Axios",
+      "quelleUrl": "https://x.ai/news/grok-4-5",
+      "zusammenfassung": "Nach dem Entwickler-Start am 8. Juli über Grok Build, Cursor und die API ist Grok 4.5 seit dem 9. Juli auch auf grok.com und in der X-App für alle verfügbar. Das auf dem 1,5-Billionen-Parameter-Fundament V9 trainierte Modell ist gezielt auf Coding und Agenten-Aufgaben ausgelegt, kostet mit 2/6 Dollar pro Million Tokens über 60 Prozent weniger als Opus 4.8 oder GPT-5.5 und landet bei Artificial Analysis auf Platz 4 von 168 Modellen. In der EU ist es wegen regulatorischer Prüfung vorerst noch nicht verfügbar.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/XAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic bringt Claude Cowork auf Web und Mobile",
+      "quelle": "Anthropic / TechCrunch",
+      "quelleUrl": "https://claude.com/blog/cowork-web-mobile",
+      "zusammenfassung": "Der bislang nur als Desktop-App verfügbare Agenten-Assistent Claude Cowork rollt seit dem 7. Juli schrittweise für Max-Abonnenten auch auf Web und Smartphone aus. Nutzer können Aufgaben am Rechner starten, den Fortschritt unterwegs am Handy verfolgen und Ergebnisse abholen, selbst wenn der Laptop zu ist – geplante Tasks laufen sogar ganz ohne aktives Gerät. Laut Anthropics Nutzungsdaten sind über 90 Prozent der Cowork-Aufgaben keine Software-Entwicklung, sondern Business-Prozesse und Content-Erstellung.",
+      "kategorie": "KI-Tools",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI bietet US-Regierung 5-Prozent-Anteil vor geplantem Milliarden-IPO an",
+      "quelle": "Financial Times / CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "zusammenfassung": "OpenAI hat der US-Regierung laut Financial Times einen fünfprozentigen Anteil am Unternehmen angeboten – bei der aktuellen Bewertung von rund 852 Milliarden Dollar wäre das etwa 42,6 Milliarden Dollar wert. CEO Sam Altman argumentiert, so ließe sich der Nutzen von KI mit der Öffentlichkeit teilen; als Vorbild dient der Alaska Permanent Fund. Der Vorschlag käme vor dem für September 2026 angepeilten Börsengang bei einer Bewertung von 730 Milliarden Dollar, könnte aber auch andere US-Anbieter wie Anthropic, Google und Meta zu ähnlichen Staatsanteilen bewegen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "EU-Rat gibt endgültig grünes Licht für Vereinfachung des AI Acts",
+      "quelle": "Rat der Europäischen Union",
+      "quelleUrl": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "zusammenfassung": "Nach der Zustimmung des EU-Parlaments am 16. Juni hat der Rat der EU am 29. Juni das Vereinfachungspaket zum AI Act final gebilligt. Die Hochrisiko-KI-Pflichten aus Annex III verschieben sich von August 2026 auf Dezember 2027, während die Transparenzpflichten wie geplant im August 2026 in Kraft treten und die Frist für KI-Kennzeichnung auf Dezember 2026 verkürzt wird. Neu aufgenommen wurde zudem ein explizites Verbot von 'Nudifying'-Apps, die nicht-einvernehmliche sexualisierte Bilder erzeugen.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "NVIDIA und Hugging Face bringen Cosmos 3 und Isaac GR00T 1.7 in die offene Robotik-Plattform LeRobot",
+      "quelle": "NVIDIA Blog",
+      "quelleUrl": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "zusammenfassung": "NVIDIA und Hugging Face haben am 6. Juli neue offene Modelle und Frameworks für LeRobot vorgestellt, darunter das Physical-AI-Frontier-Modell Cosmos 3 und das offene Vision-Language-Action-Modell Isaac GR00T 1.7 für humanoide Roboter. Ergänzt wird das Ganze um das Isaac-Teleop-Framework, das Entwicklern und Forschern einen offenen, GPU-beschleunigten Einstieg in Robotik-KI ermöglichen soll.",
+      "kategorie": "Open Source",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Nvidia_logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-10",
+  "items": [
+    {
+      "id": 1,
+      "name": "Grok 4.5",
+      "version": "4.5",
+      "anbieter": "xAI (SpaceXAI)",
+      "detail": "Erstes Grok-Modell, das gezielt für Coding und agentische Aufgaben trainiert wurde – unter anderem mit echten Cursor-Entwickler-Sessions. Basis ist das 1,5-Billionen-Parameter-Fundament V9, trainiert auf Zehntausenden NVIDIA-GB300-GPUs. Bietet ein 500K-Token-Kontextfenster zu 2/6 Dollar pro Million Tokens und positioniert sich laut Musk als 'Opus-Klasse, aber schneller und günstiger'.",
+      "url": "https://x.ai/news/grok-4-5",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Grok_logo_without_text.svg"
+    },
+    {
+      "id": 2,
+      "name": "Cosmos 3 / Isaac GR00T",
+      "version": "GR00T 1.7",
+      "anbieter": "NVIDIA (mit Hugging Face LeRobot)",
+      "detail": "Neues Physical-AI-Frontier-Modell Cosmos 3 sowie das offene Vision-Language-Action-Modell Isaac GR00T 1.7 für humanoide Roboter kommen als Open-Source-Bausteine in Hugging Faces Robotik-Bibliothek LeRobot, ergänzt um das Isaac-Teleop-Framework für Datenerfassung per Teleoperation.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Nvidia_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Claude Cowork",
+      "version": "Web & Mobile Beta",
+      "anbieter": "Anthropic",
+      "detail": "Der bisher auf Desktop beschränkte Agenten-Assistent ist jetzt schrittweise auch auf Web und Smartphone verfügbar (zunächst für Max-Abonnenten). Aufgaben lassen sich geräteübergreifend starten, verfolgen und abholen; geplante Tasks laufen auch ganz ohne aktives Endgerät. Anthropic verlängert dafür die verdoppelten Nutzungslimits bis zum 5. August.",
+      "url": "https://claude.com/blog/cowork-web-mobile",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg"
+    }
+  ]
+}
