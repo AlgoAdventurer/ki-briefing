@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GitHub Copilot in VS Code schließt die Agenten-Schleife: Browser-Tools GA und parallele Sessions",
+      "typ": "Tool / IDE",
+      "detail": "Browser-Tools für GitHub Copilot in VS Code sind seit dem 1. Juli allgemein verfügbar – Agenten steuern damit einen echten Browser, navigieren durch laufende Web-Apps und speisen Ergebnisse direkt in den Chat zurück. Dazu kommen parallele Agenten-Sessions, mit denen sich eine größere Änderung in Implementierung, Review, Tests und Doku aufteilen lässt, während alles in einer Übersicht steuerbar bleibt, sowie eine klarere Kostenübersicht pro Session.",
+      "url": "https://www.techtimes.com/articles/319982/20260709/github-closes-agentic-loop-vs-code-browser-tools-go-ga-sessions-run-parallel.htm",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Beta-SDKs für die MCP-Spezifikation 2026-07-28 sind da",
+      "typ": "SDK / Protokoll",
+      "detail": "Für Python, TypeScript, Go und C# stehen jetzt Beta-Releases bereit, die den Release Candidate der kommenden Model-Context-Protocol-Spezifikation unterstützen. Das zehnwöchige Fenster bis zur finalen Veröffentlichung am 28. Juli dient SDK-Maintainern und Client-Entwicklern dazu, die Änderungen – allen voran das zustandslose Protokoll und die neuen Cache-Header ttlMs/cacheScope – gegen echte Workloads zu validieren, bevor Tier-1-SDKs verbindlich nachziehen müssen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Hugging Face Transformers v5.13.0 mit vereinheitlichtem Export",
+      "typ": "Open Source / Library",
+      "detail": "Die neue Version bringt breitere Unterstützung für aktuelle Modelle sowie den vereinheitlichten HfExporter für PyTorch, ONNX und ExecuTorch, mit dem sich ein einziges Modell konsistent in mehrere Deployment-Formate exportieren lässt. Dazu kommen zahlreiche Fixes bei Generation, Attention, Cache-Handling, Quantisierung und Serving – allerdings auch einige Breaking Changes an bestehenden Modeling-Klassen, die vor einem Upgrade geprüft werden sollten.",
+      "url": "https://huggingface.co/blog/daya-shankar/open-source-llms",
+      "codebeispiel": ""
+    }
+  ]
+}

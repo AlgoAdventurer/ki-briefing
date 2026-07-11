@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-11",
+  "name": "Nano Banana 2 Lite",
+  "tagline": "Bilder in unter vier Sekunden für 0,034 Dollar pro 1000 Bildern",
+  "beschreibung": "Google hat am 30. Juni Nano Banana 2 Lite vorgestellt, das schnellste und günstigste Modell der Nano-Banana-Bildgenerierungsfamilie und Nachfolger des Original-Modells. Trotz des Tempos bleiben Prompt-Treue, Charakter-Konsistenz und lesbarer Text im Bild verlässlich, was das Modell gezielt für hochvolumige Entwickler-Pipelines und schnelle Ideenfindung statt für Einzelbild-Perfektion macht. Verfügbar ist es sofort in Google AI Studio, der Gemini API sowie in Consumer-Oberflächen wie der Gemini-App und dem KI-Modus der Google-Suche.",
+  "useCase": "Ein Entwickler lässt für einen Onlineshop automatisiert Hunderte Produktbild-Varianten in verschiedenen Stilen generieren, ohne dass Kosten oder Wartezeit pro Bild ins Gewicht fallen.",
+  "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-flash-nano-banana-2-lite/",
+  "kategorie": "Design / API",
+  "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg",
+  "kostenlos": true,
+  "tags": ["Bildgenerierung", "Gemini", "API", "Google"]
+}

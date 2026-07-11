@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 Sol",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Neues Flaggschiff-Modell für Coding und agentische Computer-Nutzung, veröffentlicht am 9. Juli. Scort 96,7 % auf OpenAIs internem Capture-the-Flag-Cybersecurity-Test und 88,8 % auf Terminal-Bench 2.1 (die Sol-Ultra-Variante sogar 91,9 %). Beim hauseigenen Coding Agent Index liegt Sol mit 80 zu 77,2 Punkten vor Claude Fable 5 – bei unter der Hälfte der Output-Tokens.",
+      "url": "https://dataconomy.com/2026/07/10/chatgpt-work-productivity-agent-openai/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Muse Spark 1.1",
+      "version": "1.1",
+      "anbieter": "Meta Superintelligence Labs",
+      "detail": "Multimodales Reasoning-Modell für agentische Aufgaben mit deutlichen Fortschritten bei Tool- und Computer-Nutzung, Coding und multimodalem Verständnis. Entscheidet selbst, ob ein Skript oder direkte Klicks schneller zum Ziel führen, unterstützt parallele Sub-Agents über ein 1-Millionen-Token-Kontextfenster und kostet als öffentliche API-Preview 1,25 Dollar pro Million Input- und 4,25 Dollar pro Million Output-Token – rund ein Viertel der Konkurrenzpreise.",
+      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Gemini 3.5 Pro",
+      "version": "3.5",
+      "anbieter": "Google DeepMind",
+      "detail": "Für den 17. Juli angekündigt, nachdem Google die bisherige 2.5-Pro-Architektur verworfen und für einen kompletten Neubau genutzt hat. Ziel sind spürbare Verbesserungen bei mathematischem Reasoning, SVG-Szenengenerierung und Bildqualität – als direkte Antwort auf die aktuelle Konkurrenz durch GPT-5.6 Sol und Grok 4.5.",
+      "url": "https://www.techtimes.com/articles/319318/20260629/gemini-35-pro-cleared-july-launch-fable-5-nears-return-gpt-56-stays-locked.htm",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg"
+    }
+  ]
+}

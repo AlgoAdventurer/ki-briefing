@@ -1,0 +1,13 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU stellt Aktionsplan für Cybersicherheit und fortgeschrittene KI-Modelle vor",
+      "region": "EU",
+      "detail": "Die EU-Kommission hat am 7. Juli einen koordinierten Aktionsplan veröffentlicht, der Mitgliedstaaten, Unternehmen und Behörden dabei helfen soll, mit den Cybersicherheits- und Resilienz-Herausforderungen der fortschrittlichsten KI-Modelle umzugehen. Der Plan ergänzt das kürzlich final gebilligte AI-Act-Vereinfachungspaket und zielt speziell auf Risiken durch KI-gestützte Cyberangriffe, vor denen unter anderem die Five-Eyes-Geheimdienstallianz zuletzt gewarnt hatte.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "mittel"
+    }
+  ]
+}

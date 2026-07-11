@@ -1,0 +1,14 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Taktile",
+      "betrag": "$110M",
+      "runde": "Series C",
+      "investoren": "Growth Equity bei Goldman Sachs Alternatives (Lead), Balderton Capital, Index Ventures, Tiger Global, Y Combinator",
+      "beschreibung": "Die Agentic-Decision-Plattform für Banken und Versicherer kombiniert KI-Agenten, Regeln, Kontext und menschliche Kontrolle, um Entscheidungen wie Kreditvergabe, Schadensregulierung und Betrugserkennung zu automatisieren. Mit der Runde steigt die Gesamtfinanzierung auf 184 Millionen Dollar; ein Großkunde aus der Versicherungsbranche erwartet allein bei der Schadensbearbeitung Effizienzgewinne von über 90 Millionen Dollar.",
+      "bild": ""
+    }
+  ]
+}

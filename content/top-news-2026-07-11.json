@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI startet GPT-5.6 Sol und die neue Produktivitäts-App ChatGPT Work",
+      "quelle": "Dataconomy / Engadget",
+      "quelleUrl": "https://dataconomy.com/2026/07/10/chatgpt-work-productivity-agent-openai/",
+      "zusammenfassung": "OpenAI hat am 9. Juli sein neues Flaggschiff-Modell GPT-5.6 Sol veröffentlicht, das gezielt auf Coding und agentische Computer-Nutzung ausgelegt ist und beim hauseigenen Coding Agent Index mit 80 zu 77,2 Punkten vor Claude Fable 5 liegt – bei weniger als der Hälfte der Output-Tokens. Direkt darauf folgte am 10. Juli der Start von ChatGPT Work, einer Desktop- und Web-App, die Ressourcen aus ChatGPT, Codex und dem Atlas-Browser bündelt und Aufgaben geräteübergreifend sowie zeitgesteuert im Hintergrund erledigt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Meta greift mit Muse Spark 1.1 OpenAI und Anthropic im Coding-Markt an",
+      "quelle": "CNBC / Bloomberg",
+      "quelleUrl": "https://www.cnbc.com/2026/07/09/meta-jumps-into-ai-coding-market-to-chase-anthropic-and-openai.html",
+      "zusammenfassung": "Meta Superintelligence Labs hat am 9. Juli Muse Spark 1.1 vorgestellt, ein multimodales Reasoning-Modell für agentische Aufgaben mit deutlichen Fortschritten bei Tool- und Computer-Nutzung sowie Coding. Das Modell entscheidet selbst, ob es ein Skript schreibt oder direkt in der Oberfläche klickt, unterstützt parallele Sub-Agents über ein 1-Millionen-Token-Kontextfenster und ist ab sofort in der öffentlichen Preview der Meta Model API zu einem Viertel der Preise von Anthropic und OpenAI verfügbar.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta startet im September eigene KI-Chip-Produktion für 14-Gigawatt-Ziel",
+      "quelle": "Reuters / TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
+      "zusammenfassung": "Meta bringt laut einem internen Memo im September den selbst entwickelten Rechenzentrums-Chip mit dem Codenamen 'Iris' in Serienproduktion, entworfen zusammen mit Broadcom und gefertigt bei TSMC. Damit will der Konzern seine gesamte Rechenkapazität bis 2027 auf 14 Gigawatt verdoppeln und ergänzt das Vorhaben um eine neue Cloud-Sparte, die überschüssige KI-Rechenleistung künftig auch an externe Kunden verkaufen soll.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Micron erhöht US-Investitionszusage für KI-Speicherchips auf 250 Milliarden Dollar",
+      "quelle": "CNBC / TrendForce",
+      "quelleUrl": "https://www.cnbc.com/2026/07/09/micron-stock-us-chipmaking.html",
+      "zusammenfassung": "Micron hat seine Investitionszusage für die US-Halbleiterfertigung bis 2035 um weitere 50 Milliarden auf über 250 Milliarden Dollar angehoben – getrieben von der stark steigenden Nachfrage nach Speicherchips für KI-Systeme. Zusätzlich fließen bis zu 3 Milliarden Dollar in die heimische Lieferkette, darunter ein Zehn-Jahres-Abkommen mit GlobalWafers für Rohsilizium-Wafer, während die neue Fabrik bei Syracuse zur größten Halbleiteranlage der US-Geschichte werden soll.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

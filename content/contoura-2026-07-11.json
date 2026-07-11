@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Agentische Datenpflege per Sub-Agent-Delegation",
+      "kontext": "Muse Spark 1.1 und GPT-5.6 Sol können mit riesigen Kontextfenstern (bis 1 Mio. Token) selbstständig entscheiden, ob sie ein Skript schreiben oder direkt in einer Oberfläche agieren, und dabei parallele Sub-Agents für Teilaufgaben starten.",
+      "umsetzung": "Contoura könnte einen Agenten-Task einrichten, der nach jedem Training automatisch Rohdaten aus GPS-Uhr-Exports bereinigt, Split-Zeiten den richtigen Postenabschnitten zuordnet und fehlerhafte Einträge selbstständig zur manuellen Prüfung markiert – als paralleler Sub-Agent pro Athlet, damit die Verarbeitung für ein ganzes Team gleichzeitig läuft.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige Streckenvisualisierungen mit Nano Banana 2 Lite",
+      "kontext": "Googles neues Bildmodell generiert Bilder in unter vier Sekunden für 0,034 Dollar pro 1000 Bildern und eignet sich damit erstmals für hochvolumige, automatisierte Bildgenerierung statt Einzelbild-Anfragen.",
+      "umsetzung": "Contoura lässt aus jeder GPS-Route automatisch eine stilisierte, leicht verständliche Streckenkarte mit hervorgehobenen Fehlerstellen generieren, die Athleten direkt in der App oder als Social-Media-Grafik teilen können – bei den geringen Kosten pro Bild ist das auch für Freemium-Nutzer ohne Zusatzkosten realisierbar.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Parallele Agenten-Workstreams für die Contoura-Entwicklung selbst",
+      "kontext": "GitHub Copilot in VS Code erlaubt seit dem 9. Juli, eine größere Änderung in parallel laufende Workstreams für Implementierung, Review, Tests und Dokumentation aufzuteilen, die dennoch in einer Übersicht steuerbar bleiben.",
+      "umsetzung": "Das Contoura-Team könnte größere Features wie eine neue Performance-Index-Berechnung in parallele Agenten-Sessions aufteilen – einer implementiert die Logik, einer schreibt Tests gegen echte Trainingsdaten, ein dritter aktualisiert die Entwickler-Doku – und so den Entwicklungszyklus für neue Analysefunktionen spürbar verkürzen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}
