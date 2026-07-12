@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "name": "Grok 4.5",
+      "version": "4.5",
+      "anbieter": "xAI",
+      "detail": "xAI hat Grok 4.5 am 8. Juli öffentlich freigegeben und positioniert es als 'Opus-Klasse'-Modell mit höherer Geschwindigkeit bei gleichzeitig niedrigeren Kosten von 2 bzw. 6 Dollar pro Million Input-/Output-Token und einem 500.000-Token-Kontextfenster – ein deutlicher Preisvorstoß gegenüber Anthropic und OpenAI im High-End-Segment.",
+      "url": "https://x.ai",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 2.5 Pro Deep Think",
+      "version": "2.5",
+      "anbieter": "Google",
+      "detail": "Google hat den neuen Reasoning-Modus 'Deep Think' für Gemini 2.5 Pro ausgerollt, der mittels paralleler Denkpfade Spitzenwerte bei wissenschaftlichen Benchmarks erzielt und dabei ein Kontextfenster von bis zu zwei Millionen Token nutzt – gedacht für besonders komplexe, mehrstufige Analyseaufgaben.",
+      "url": "https://blog.google",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2026_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Muse Image",
+      "version": "",
+      "anbieter": "Meta",
+      "detail": "Meta Superintelligence Labs hat mit Muse Image den ersten hauseigenen Bildgenerator vorgestellt, der als agentisches System Websuche und Code-Ausführung nutzt, um Ergebnisse zu verfeinern, bevor er das finale Bild liefert. Verfügbar ist es kostenlos in der Meta-AI-App sowie in Instagram Stories und WhatsApp, mit über 30 neuen KI-Effekten für Stories.",
+      "url": "https://about.fb.com/news/2026/07/introducing-muse-image-meta-ai/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    },
+    {
+      "id": 4,
+      "name": "Seedream 5.0 Pro",
+      "version": "5.0 Pro",
+      "anbieter": "ByteDance",
+      "detail": "ByteDance hat mit Seedream 5.0 Pro ein multilinguales Text-und-Layout-Bildmodell veröffentlicht, das regionsgenaue Bildbearbeitung erlaubt – etwa das gezielte Austauschen einzelner Bildbereiche oder mehrsprachigen Textes bei gleichbleibend hoher Bildqualität, was das Modell besonders für Marketing- und E-Commerce-Anwendungen interessant macht.",
+      "url": "",
+      "bild": ""
+    }
+  ]
+}

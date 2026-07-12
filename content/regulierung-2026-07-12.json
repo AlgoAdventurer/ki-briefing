@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Vereinfachungspaket zum AI Act steht vor formaler Verabschiedung",
+      "region": "EU",
+      "detail": "Nach der politischen Einigung im Mai wird die formale Verabschiedung und Veröffentlichung des AI-Act-Vereinfachungspakets ('Digital Omnibus') im Amtsblatt der EU noch im Juli erwartet, rechtzeitig vor der Deadline am 2. August 2026. Kernpunkte: Die Pflichten für Hochrisiko-KI-Systeme verschieben sich um 16 Monate auf den 2. Dezember 2027, ein neues Verbot betrifft KI-generierte nicht-einvernehmliche Nacktbilder und CSAM, und die vereinfachten Regeln für kleine Unternehmen gelten künftig bis zu 750 Mitarbeitenden und 150 Millionen Euro Jahresumsatz. Die zuerst greifenden Pflichten – GPAI-Regeln und Transparenzvorgaben nach Artikel 50 – bleiben dagegen unverändert auf Kurs für August 2026.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Kommission legt Aktionsplan für Cybersicherheit und KI vor",
+      "region": "EU",
+      "detail": "Am 7. Juli hat die EU-Kommission einen neuen Aktionsplan vorgestellt, der Mitgliedstaaten, Unternehmen und Behörden koordiniert dabei unterstützen soll, Cybersicherheits- und Resilienzrisiken fortgeschrittener KI-Modelle zu adressieren – als direkte Ergänzung zu den greifenden AI-Act-Pflichten und ein Signal, dass Sicherheitsanforderungen an KI-Systeme trotz der Fristverschiebungen beim Hauptgesetz nicht aufgeweicht werden.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "mittel"
+    }
+  ]
+}

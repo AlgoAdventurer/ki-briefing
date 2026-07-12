@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Apple verklagt OpenAI wegen Diebstahls von Geschäftsgeheimnissen – neue Siri nutzt künftig Google Gemini",
+      "quelle": "CNBC / Washington Post",
+      "quelleUrl": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "zusammenfassung": "Apple hat OpenAI, dessen Hardware-Tochter io Products sowie zwei frühere Apple-Mitarbeiter am 10. Juli vor einem Bundesgericht in Nordkalifornien verklagt und wirft ihnen vor, auf allen Ebenen – bis hinauf zum Chief Hardware Officer – Geschäftsgeheimnisse für ein konkurrierendes KI-Hardware-Gerät gestohlen zu haben. Die Klage markiert einen dramatischen Bruch der 2024 geschlossenen ChatGPT-Siri-Partnerschaft, zumal Apple parallel bestätigte, dass die überarbeitete Siri im Herbst auf Google-Gemini-Modelle statt auf OpenAI-Technologie setzen wird.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI startet GPT-Live: Vollduplex-Sprachmodelle für ChatGPT Voice",
+      "quelle": "TechCrunch / OpenAI",
+      "quelleUrl": "https://openai.com/index/introducing-gpt-live/",
+      "zusammenfassung": "OpenAI hat mit GPT-Live-1 und dem schlankeren GPT-Live-1-mini eine neue Sprachmodell-Generation vorgestellt, die dank Vollduplex-Architektur gleichzeitig zuhören und sprechen kann und so natürlicher wirkende Gespräche mit Pausen, Zwischenlauten und schnellen Wortwechseln ermöglicht. Die Modelle lösen den bisherigen Advanced Voice Mode global auf iOS, Android und im Web ab, delegieren komplexe Anfragen im Hintergrund an das Spitzenmodell und bringen dedizierte Sicherheitsmaßnahmen für Jugendliche sowie feste Stimmen gegen Identitätsmissbrauch mit.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic least für 19 Milliarden Dollar Rechenzentrumskapazität von TeraWulf",
+      "quelle": "SiliconANGLE / DCD",
+      "quelleUrl": "https://siliconangle.com/2026/07/06/anthropic-inks-19b-ai-data-center-lease-terawulf/",
+      "zusammenfassung": "Anthropic hat mit dem früheren Bitcoin-Miner TeraWulf einen 20-Jahres-Vertrag über rund 19 Milliarden Dollar für den Kentucky-Campus 'Justified Data' unterzeichnet, der auf dem Gelände einer stillgelegten Aluminiumhütte rund 401 Megawatt IT-Leistung bereitstellen soll. Erste Kapazität soll in der zweiten Jahreshälfte 2027 online gehen, die volle Auslastung Anfang 2028 – ein weiterer Baustein in Anthropics wachsendem Portfolio von über zwölf US-Rechenzentrumsverträgen mit mehr als einem Gigawatt Gesamtkapazität.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "SK Hynix legt fulminantes Nasdaq-Debüt hin: Aktie schließt 13 Prozent im Plus",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/07/10/sk-hynix-skhy-stock-nasdaq.html",
+      "zusammenfassung": "Der weltgrößte Anbieter von KI-Speicherchips SK Hynix hat am 10. Juli sein US-Listing unter dem Ticker SKHY vollzogen und dabei 26,5 Milliarden Dollar eingesammelt – das größte Erstlisting eines ausländischen Unternehmens an der Nasdaq überhaupt. Die Aktie kletterte vom Ausgabepreis von 149 auf 168 Dollar, die Nachfrage war siebenfach überzeichnet, was die anhaltende Knappheit bei High-Bandwidth-Memory-Chips für Nvidia & Co. unterstreicht.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "US-Notenbank Fed beruft Marc Andreessen in Taskforce zu KI, Jobs und Geldpolitik",
+      "quelle": "Washington Post / crypto.news",
+      "quelleUrl": "https://www.washingtonpost.com/business/2026/07/09/federal-reserve-enlists-marc-andreessen-advise-ai-under-warsh/",
+      "zusammenfassung": "Fed-Chef Kevin Warsh hat den a16z-Mitgründer Marc Andreessen neben Stanford-Ökonom Charles Jones und Microsoft-Managerin Asha Sharma zum Co-Leiter einer neuen Taskforce ernannt, die bis Ende 2026 untersuchen soll, wie generative KI Produktivität und Arbeitsmarkt verändert. Die Ergebnisse sollen direkt in die geldpolitischen Überlegungen der Fed einfließen, etwa ob höheres KI-getriebenes Produktivitätswachstum den Notenbanken mehr Spielraum für niedrigere Zinsen verschafft.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

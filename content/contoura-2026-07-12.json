@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Live-Sprachcoaching während des Trainingslaufs",
+      "kontext": "OpenAIs neues GPT-Live-Modell kann dank Vollduplex-Architektur simultan zuhören und in Echtzeit natürlich klingend antworten, statt wie bisherige Voice-Modi auf abgeschlossene Sprechpausen zu warten.",
+      "umsetzung": "Contoura könnte darauf aufbauend ein Live-Audio-Feature anbieten, das während eines OL-Trainingslaufs kurze Splitzeiten, Pace-Abweichungen oder Erinnerungen an bekannte Fehlerquellen einer Strecke direkt per Sprachausgabe ins Ohr des Athleten meldet, ohne dass dieser den Blick auf ein Display richten muss.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Persönlicher Performance-Rückblick nach Anthropics Vorbild 'Reflect'",
+      "kontext": "Anthropic hat mit 'Reflect' ein Dashboard eingeführt, das Nutzern automatisch aufbereitete Rückblicke über ihre Nutzungsmuster liefert – etwa aktivste Tage, Schwerpunktthemen und Gewohnheiten.",
+      "umsetzung": "Contoura könnte einen automatisch generierten monatlichen Trainings- und Wettkampf-Rückblick pro Athlet einführen, der Performance-Index-Verlauf, häufigste Fehlerarten und die technisch stärkste Trainingswoche zusammenfasst und als kurzer, textlich aufbereiteter Bericht direkt in der App erscheint.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Kartenanalyse mit Gemini 2.5 Pro Deep Think",
+      "kontext": "Der neue Deep-Think-Modus von Gemini 2.5 Pro nutzt paralleles Reasoning und ein bis zu zwei Millionen Token großes Kontextfenster für besonders komplexe, mehrstufige Analyseaufgaben.",
+      "umsetzung": "Damit ließe sich eine komplette Saison an eingescannten OL-Karten samt GPS-Tracks und Splitzeiten in einem Durchgang analysieren, um wiederkehrende Fehlermuster eines Athleten über viele Läufe hinweg zu erkennen – etwa systematische Schwächen bei Feinorientierung in bestimmten Geländetypen – statt jede Karte einzeln auszuwerten.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    }
+  ]
+}

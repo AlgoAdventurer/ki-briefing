@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-12",
+  "name": "ZCode",
+  "tagline": "Kostenlose Agentic-IDE von Z.ai, die Cursor, Claude Code und Copilot herausfordert",
+  "beschreibung": "Z.ai (vormals Zhipu AI) hat ZCode veröffentlicht, eine kostenlose 'Agentic Development Environment' für macOS, Windows und Linux, die konsequent auf lange, eigenständig laufende Agenten-Aufgaben statt auf einen simplen Chat-Sidebar setzt. Nutzer beschreiben ein Ziel, der Agent plant die Arbeit, bearbeitet Dateien, führt Tests aus und iteriert eigenständig weiter, bis das Ergebnis passt. Angetrieben wird ZCode vom offen gewichteten GLM-5.2-Modell (744 Mrd. Parameter, 1-Mio.-Token-Kontext, MIT-Lizenz), das sich dank Bring-your-own-key-Architektur auch komplett selbst hosten lässt.",
+  "useCase": "Ein Entwicklerteam lässt ZCode über Nacht ein größeres Refactoring inklusive Tests durchführen und steuert den laufenden Agenten unterwegs bequem per Handy über Telegram nach, statt ständig am Rechner zu sitzen.",
+  "url": "https://z.ai",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Agentic Coding", "Open Source", "GLM-5.2", "IDE"]
+}

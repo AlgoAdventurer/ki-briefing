@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Taktile",
+      "betrag": "$110M",
+      "runde": "Series C",
+      "investoren": "Growth Equity bei Goldman Sachs Alternatives (Lead), Balderton Capital, Index Ventures, Tiger Global, Y Combinator",
+      "beschreibung": "Das New Yorker Fintech-Startup betreibt eine agentische Entscheidungsplattform, mit der Banken und Versicherer KI-Agenten, Regeln und menschliche Kontrolle kombinieren, um Kreditvergabe, Schadensregulierung und Betrugserkennung zu automatisieren. Kunden wie Mercury, Monzo und Faire erreichen damit bereits 95 Prozent Automatisierung im B2B-Underwriting und 75 Prozent weniger falsch-positive Geldwäsche-Alarme.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Zeroth Robotics",
+      "betrag": "$73.6M",
+      "runde": "Pre-Series A",
+      "investoren": "Ant Group (Lead), Monolith, Geely Capital, 37 Interactive Entertainment, Hua Capital",
+      "beschreibung": "Der chinesische Hersteller humanoider Companion-Roboter für Senioren-, Haustier- und Kinderbetreuung hat bereits über 30.000 Bestellungen für sein Einstiegsmodell M1 (rund 1.500 Dollar) erhalten und den Umsatz im ersten Halbjahr 2026 versechsfacht. Es ist bereits die zwölfte Humanoid-Robotik-Investition von Ant Group seit Anfang 2025 und Teil eines geplanten Expansionsschritts nach Nordamerika und Europa im Herbst.",
+      "bild": ""
+    }
+  ]
+}

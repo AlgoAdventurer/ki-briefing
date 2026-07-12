@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Mythos findet 29 Jahre alten 'Squidbleed'-Bug im Squid-Proxy",
+      "typ": "Open Source / Sicherheit",
+      "detail": "Im Rahmen von Anthropics Project Glasswing hat das Modell Claude Mythos Preview beim gezielten Scan der FTP-Parsing-Routinen des Squid-Proxys eine Schwachstelle aufgedeckt, die seit einer Änderung von 1997 unentdeckt im Code lag: CVE-2026-47729 ('Squidbleed') kann Klartext-HTTP-Requests anderer Nutzer hinter demselben Proxy offenlegen. Ursache ist ein C11-Sonderfall bei strchr, das den Null-Terminator eines Strings selbst als 'gefunden' zurückgibt statt NULL – ein Detail, das drei Jahrzehnte menschlicher Code-Reviews übersehen hatten. Der Fix ist bereits in Squids Entwicklungszweig und im v7-Branch gemerged.",
+      "url": "https://www.anthropic.com/research/glasswing-initial-update",
+      "codebeispiel": "// vorher: strchr(w_space, '\\0') liefert fälschlich einen Treffer\nif (!(t = strchr(w_space, *t)))\n    /* ... */\n\n// nachher: expliziter Null-Terminator-Check vor jedem strchr-Aufruf\nif (*t == '\\0' || !(t = strchr(w_space, *t)))\n    /* ... */"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Spezifikation 2026-07-28 als Release Candidate: zustandslose Transportschicht und neues Extensions-Framework",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate der nächsten Model-Context-Protocol-Spezifikation macht das Protokoll auf Transportebene zustandslos, formalisiert ein Extensions-Framework für MCP Apps und Tasks und verschärft die Autorisierung. Gleichzeitig werden Roots, Sampling und Logging als veraltet markiert. Parallel wurden am 10. und 11. Juli die offiziellen C#-, Java- und Kotlin-SDKs aktualisiert, was für Teams, die eigene MCP-Server bauen, jetzt schon relevante Migrationsarbeit bedeutet.",
+      "url": "https://github.com/modelcontextprotocol/servers",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Claude Console: API-Keys jetzt mit Ablaufdatum",
+      "typ": "API",
+      "detail": "Anthropic erlaubt es jetzt, beim Anlegen eines API-Keys oder Admin-API-Keys in der Claude Console direkt eine Gültigkeitsdauer festzulegen – als Preset, individuelle Dauer oder 'Nie'. Bei einer Laufzeit von mindestens sieben Tagen verschickt Anthropic vorab eine Erinnerungs-Mail an den Ersteller, was das Aufräumen vergessener Alt-Keys in Produktionsumgebungen deutlich erleichtert.",
+      "url": "https://console.anthropic.com",
+      "codebeispiel": ""
+    }
+  ]
+}
