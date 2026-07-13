@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Ollama",
+      "betrag": "$65M",
+      "runde": "Series B",
+      "investoren": "Theory Ventures (Lead), Benchmark, 8VC, Y Combinator u.a.",
+      "beschreibung": "Der Anbieter der beliebten Open-Source-Plattform zum lokalen Betrieb von LLMs hat 65 Millionen Dollar eingesammelt und kommt damit auf insgesamt 88 Millionen Dollar Finanzierung. Ollama zählt inzwischen 8,9 Millionen monatlich aktive Entwickler und wird in 85 Prozent der Fortune-500-Unternehmen eingesetzt, darunter viele aus regulierten Branchen wie Behörden, Gesundheitswesen und Finanzen, die Modelle aus Datenschutzgründen lieber lokal statt in der Cloud betreiben.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Prime Intellect",
+      "betrag": "$130M",
+      "runde": "Series A",
+      "investoren": "Radical Ventures (Lead), NVIDIA Ventures, Intel Capital, Dell Technologies Capital u.a.",
+      "beschreibung": "Prime Intellect erreicht mit der Runde eine Bewertung von 1 Milliarde Dollar und baut einen 'Full-Stack' für Unternehmen, die eigene KI-Agenten trainieren wollen, statt sich vollständig auf Frontier-Labs zu verlassen – inklusive verteiltem Compute, Reinforcement-Learning-Framework und Evaluationstools. Das Startup zählt bereits 6.000 Kunden wie Ramp und Zapier und erwirtschaftet über 100 Millionen Dollar annualisierten Umsatz.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Norm Ai",
+      "betrag": "$120M",
+      "runde": "Series C",
+      "investoren": "Khosla Ventures (Lead), Blackstone, Bain Capital Ventures, Coatue u.a.",
+      "beschreibung": "Der Anbieter von 'Agentic Law' wandelt regulatorische und juristische Vorgaben in KI-Agenten um, die Compliance- und Aufsichtsprozesse für Unternehmen in regulierten Branchen automatisieren. Mit der Runde erreicht Norm Ai eine Bewertung von 1,2 Milliarden Dollar; Kunden mit zusammen über 30 Billionen Dollar verwaltetem Vermögen setzen die Plattform bereits ein, um eigene KI-Systeme zu überwachen.",
+      "bild": ""
+    }
+  ]
+}

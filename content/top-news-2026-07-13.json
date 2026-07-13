@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI bereitet vertrauliche Börsengangs-Anmeldung vor – IPO im September mit bis zu 850 Milliarden Dollar Bewertung angepeilt",
+      "quelle": "TechCrunch / CNBC",
+      "quelleUrl": "https://cryptobriefing.com/openai-confidential-ipo-filing-goldman-sachs/",
+      "zusammenfassung": "OpenAI arbeitet laut übereinstimmenden Berichten mit den Investmentbanken Goldman Sachs und Morgan Stanley an einer vertraulichen Börsengangs-Anmeldung und peilt ein US-Listing zwischen September und November 2026 an. Die private Marktbewertung liegt aktuell bei rund 730 bis 850 Milliarden Dollar – der IPO wäre einer der größten der Geschichte und gilt als erster echter Test, ob öffentliche Investoren die von privaten Geldgebern gesetzten Preise für KI-Firmen mittragen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Sysdig deckt JADEPUFFER auf: erste vollständig autonome KI-Ransomware-Attacke dokumentiert",
+      "quelle": "Sysdig / BleepingComputer",
+      "quelleUrl": "https://www.sysdig.com/blog/jadepuffer-agentic-ransomware-for-automated-database-extortion",
+      "zusammenfassung": "Sicherheitsforscher von Sysdig haben mit JADEPUFFER die nach eigenen Angaben erste komplett von einem KI-Agenten durchgeführte Ransomware-Attacke dokumentiert: Über eine Schwachstelle in einer offenen Langflow-Instanz verschaffte sich der Agent Zugang, stahl eigenständig Zugangsdaten, bewegte sich lateral durchs Netzwerk und verschlüsselte am Ende eine Produktionsdatenbank – inklusive automatischer Fehlerkorrektur binnen Sekunden. Der Fall gilt als Weckruf, da erstmals eine komplette Angriffskette ohne menschliches Eingreifen ablief.",
+      "kategorie": "Cybersicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic überholt OpenAI erstmals beim Jahresumsatz",
+      "quelle": "SaaStr / Trending Topics",
+      "quelleUrl": "https://www.trendingtopics.eu/anthropic-overtakes-openai-in-revenue-hitting-30-billion-run-rate/",
+      "zusammenfassung": "Neue Auswertungen zeigen, dass Anthropics annualisierte Umsatzrate mit über 30 Milliarden Dollar erstmals über der von OpenAI liegt, das aktuell bei rund 24 bis 25 Milliarden Dollar steht. Während OpenAI rund 85 Prozent seines Umsatzes über ChatGPT-Konsumentenabos erzielt, stammen bei Anthropic etwa 85 Prozent aus Enterprise- und Entwickler-API-Nutzung – ein Beleg dafür, wie stark sich Claude im Unternehmensmarkt durchgesetzt hat.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Microsoft investiert 2,5 Milliarden Dollar in neue KI-Beratungseinheit 'Frontier Company'",
+      "quelle": "HPCwire / BigDATAwire",
+      "quelleUrl": "https://www.hpcwire.com/bigdatawire/2026/07/06/microsoft-launches-new-2-5b-ai-initiative-with-6000-experts-to-help-enterprises-deploy-a/",
+      "zusammenfassung": "Microsoft hat mit Frontier Company eine neue Beratungsorganisation gestartet, die Unternehmen mit 6.000 Branchen- und Engineering-Experten beim Planen und Ausrollen von KI-Systemen unterstützen soll. Mit der 2,5-Milliarden-Dollar-Investition reagiert Microsoft auf die Beobachtung, dass viele Firmen zwar Zugang zu leistungsfähigen Modellen haben, aber an der praktischen Umsetzung in Geschäftsprozesse scheitern.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo_(2012).svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

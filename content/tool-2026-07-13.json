@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-13",
+  "name": "Superhuman Docs",
+  "tagline": "Aus Coda wird die KI-native Doku-Plattform, in der ganze Teams mit einem KI-Assistenten arbeiten",
+  "beschreibung": "Superhuman Docs ist die Weiterentwicklung von Coda innerhalb der Superhuman-Suite und verbindet klassische Dokumente mit einem KI-Assistenten, der direkt im Dokument mitbaut statt nur zu chatten. Nutzer können den neu gebauten Docs-AI-Assistenten bitten, ein Brainstorming zusammenzufassen, einen Projekt-Tracker anzulegen oder einen Workflow für Anfragen zu erstellen – alles ohne die Seite zu verlassen. Über Verbindungen zu Claude, ChatGPT oder Cursor bleibt das Dokument die zentrale Wahrheitsquelle im Team, während die neuen 'AI Views' in der Beta erlauben, komplette Ansichten einfach per Beschreibung zu erzeugen statt sie manuell zu bauen. Dazu kommen Superhuman Databases, die strukturierte Daten mit bis zu einer Million Zeilen performant verwalten.",
+  "useCase": "Ein Marketing-Team beschreibt in einem Satz einen Kampagnen-Hub, und Docs AI baut daraus automatisch Aufgabenlisten, Kalender sowie Live-Verknüpfungen zu Jira- und Salesforce-Daten.",
+  "url": "https://blog.superhuman.com/introducing-superhuman-docs/",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Docs", "KI-Assistent", "Team-Collaboration", "Workflow-Automatisierung"]
+}

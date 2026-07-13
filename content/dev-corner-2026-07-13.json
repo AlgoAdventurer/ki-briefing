@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "ZCode: Z.ais kostenlose 'Agentic Development Environment' für GLM-5.2",
+      "typ": "Open Source / Tool",
+      "detail": "Z.ai hat mit ZCode eine eigene Entwicklungsumgebung rund um sein offenes Coding-Modell GLM-5.2 veröffentlicht. Anders als ein klassischer Editor mit angeflanschtem Agenten stellt ZCode die Agenten-Konversation ins Zentrum und ordnet Dateimanager, Terminal, Git-Panel und Live-Browser-Vorschau als Electron-App drumherum an. Für Entwickler, die Claude Code oder Cursor gewohnt sind, ist ZCode dank offener Gewichte und deutlich niedrigerer Token-Preise eine kostengünstige Alternative für lange, agentische Coding-Sessions.",
+      "url": "https://flowtivity.ai/blog/zcode-glm-coding-agent-harness/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI-Ingenieure sollen Inferenzkosten mehr als halbiert haben",
+      "typ": "Engineering",
+      "detail": "Laut The Information haben OpenAI-Ingenieure intern eine Methode vorgestellt, die die Inferenzkosten bestehender Modelle mehr als halbiert – ganz ohne neue Hardware, allein durch bessere Auslastung vorhandener Server. Branchenkenner vermuten eine Kombination aus Quantisierung, Batching und Modell-Routing, bei dem einfache Anfragen automatisch an kleinere, günstigere Modelle weitergeleitet werden. Angewendet auf die kostenlose ChatGPT-Stufe soll sich die benötigte Anzahl an Nvidia-GPUs an einem Messpunkt auf wenige hundert reduziert haben – ein Hinweis darauf, wie viel Marge in Inferenz-Software-Optimierung steckt, auch wenn OpenAI die Zahlen offiziell nicht bestätigt hat.",
+      "url": "https://www.theinformation.com/newsletters/ai-agenda/openai-discovers-new-way-cut-inference-costs-half",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "MCP in Zahlen: 78 Prozent der Enterprise-KI-Teams haben MCP-Agenten in Produktion",
+      "typ": "API / SDK",
+      "detail": "Eine aktuelle Bestandsaufnahme zum Model Context Protocol zeigt, wie schnell sich der offene Standard für Tool-Anbindung an LLMs durchgesetzt hat: 78 Prozent der Enterprise-KI-Teams betreiben bereits MCP-gestützte Agenten in Produktion, 28 Prozent der Fortune-500-Unternehmen laufen eigene MCP-Server, und die monatlichen SDK-Downloads liegen bei rund 97 Millionen. Für Entwickler, die noch zögern, ist das ein starkes Signal, MCP-Server für interne Tools jetzt zu bauen, bevor die finale, zustandslose Spezifikation vom 28. Juli in Produktion geht.",
+      "url": "https://andrew.ooo/answers/mcp-model-context-protocol-enterprise-adoption-july-2026/",
+      "codebeispiel": ""
+    }
+  ]
+}

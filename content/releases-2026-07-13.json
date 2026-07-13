@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.5 Pro",
+      "version": "",
+      "anbieter": "Google DeepMind",
+      "detail": "Laut mehrfach übereinstimmenden Leaks plant Google die allgemeine Verfügbarkeit von Gemini 3.5 Pro für den 17. Juli. Anders als ursprünglich geplant basiert das Modell nicht mehr auf der alten Gemini-2.5-Pro-Basis, sondern auf einem komplett neuen Pretraining-Lauf – das erklärt die Verschiebung vom ursprünglich für Juni angepeilten Termin. Geleakte interne Benchmarks deuten auf ein Kontextfenster von bis zu 2 Millionen Tokens, deutlich verbesserte Frontend- und UI-Codegenerierung sowie einen neuen 'Deep Think'-Modus hin – offizielle Zahlen zu Preisen und Leistung stehen aber noch aus.",
+      "url": "https://www.techtimes.com/articles/319877/20260708/gemini-35-pro-targets-july-17-deepseeks-july-24-deadline-hits-developers-now.htm",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.2",
+      "version": "5.2",
+      "anbieter": "Z.ai (Zhipu AI)",
+      "detail": "Mit GLM-5.2 hat Z.ai ein offenes 753-Milliarden-Parameter-Modell für langfristige Coding- und Agenten-Aufgaben veröffentlicht, das mit 1 Million Tokens Kontext und 62,1 Prozent auf SWE-bench Pro antritt. Auf dem FrontierSWE-Benchmark erreicht es 74,4 Prozent und liegt damit knapp hinter Claude Opus 4.8 (75,1 Prozent) – bei rund 72 Prozent niedrigeren Input- und 82 Prozent niedrigeren Output-Kosten. Die Gewichte stehen offen zur Verfügung, was GLM-5.2 zu einer der günstigsten Alternativen zu proprietären Coding-Modellen macht.",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "bild": ""
+    }
+  ]
+}

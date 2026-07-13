@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "UN-Gipfel in Genf: Erster 'Global Dialogue on AI Governance' warnt vor 'katastrophischem Schaden'",
+      "region": "Global",
+      "detail": "Am 6. und 7. Juli fand in Genf die erste Sitzung des neuen UN-Dialogs zur KI-Governance statt, parallel zum WSIS-Forum und dem ITU-Gipfel 'AI for Good'. Im Zentrum stand die Frage, ob KI der gesamten Menschheit sicher und fair nützen kann, ohne katastrophischen Schaden anzurichten. UN-Generalsekretär António Guterres forderte einheitliche internationale Standards zum Testen von Systemen, zur Risikomessung und zur Zuweisung von Verantwortung – nach dem Prinzip, dass Sicherheit mit der Technologie über Grenzen hinweg mitreisen müsse.",
+      "url": "https://news.un.org/en/story/2026/07/1167873",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "EU veröffentlicht Cloud and AI Development Act im Amtsblatt – Countdown für Cloud-Souveränität beginnt",
+      "region": "EU",
+      "detail": "Am 15. Juli wird der Cloud and AI Development Act im EU-Amtsblatt veröffentlicht und tritt formal am 4. August in Kraft. Das Gesetz führt ein vierstufiges Rahmenwerk für 'Cloud-Souveränität' ein, das Anbieter je nach Standort, Eigentümerstruktur und operativer Kontrolle einstuft, und soll die Rechenzentrumskapazität in der EU verdreifachen. Die erste Stufe der Anforderungen gilt ab Februar 2028, die strengste ab August 2029 – Cloud- und KI-Infrastrukturanbieter mit EU-Kunden sollten die Vorlaufzeit jetzt für die Einordnung ihrer Angebote nutzen.",
+      "url": "https://regulations.ai/news/eu-cloud-ai-act-prepare-july-2026-publication",
+      "auswirkung": "hoch"
+    }
+  ]
+}

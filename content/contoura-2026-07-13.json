@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisierte Kartenanalyse und Streckenauswertung mit riesigem Kontextfenster",
+      "kontext": "Gemini 3.5 Pro soll laut Leaks mit bis zu 2 Millionen Tokens Kontext und deutlich verbesserter multimodaler Verarbeitung starten – genug, um GPS-Tracks, Kartenausschnitte und Streckenprofile einer ganzen Saison gleichzeitig zu verarbeiten.",
+      "umsetzung": "Contoura könnte Athleten erlauben, komplette Trainingsläufe inklusive Kartenfoto und GPX-Track hochzuladen, damit ein Vision-Modell automatisch Fehlerquellen (falsche Wegwahl, Umwegverluste) markiert und mit ähnlichen Situationen aus früheren Läufen vergleicht.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Lokale, datenschutzfreundliche KI-Trainingskommentare direkt auf dem Gerät",
+      "kontext": "Ollama hat mit frischen 65 Millionen Dollar Series-B-Funding gezeigt, wie stark die Nachfrage nach lokal laufenden Open-Source-Modellen ist – gerade weil sensible Daten das Gerät nicht verlassen müssen.",
+      "umsetzung": "Contoura könnte ein kleines offenes Modell (etwa über Ollama) lokal auf Athleten-Geräten oder einem eigenen Server laufen lassen, um automatische Trainingskommentare und Fehleranalysen zu generieren, ohne Leistungsdaten an externe Cloud-APIs zu senden – wichtig für Athleten, die ihre Trainingsdaten nicht teilen wollen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Dashboards per Beschreibung statt manuellem Bauen",
+      "kontext": "Superhuman Docs zeigt mit seinen neuen 'AI Views', wie sich komplette Datenansichten allein aus einer Textbeschreibung generieren lassen, anstatt sie mühsam mit Bausteinen zusammenzusetzen.",
+      "umsetzung": "Contoura-Trainer könnten künftig einfach beschreiben, welche Performance-Kennzahlen sie sehen wollen ('Zeige mir die Split-Zeiten-Entwicklung aller U18-Athleten der letzten drei Monate'), und ein KI-gestütztes Dashboard-Modul baut die passende Ansicht automatisch aus den vorhandenen Trainingsdaten.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}
