@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAIs Deployment Company übernimmt Palantir-Spinoff Northslope für Enterprise-KI-Einsätze",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/07/08/openai-deployment-company-northslope-acquisition",
+      "zusammenfassung": "Die OpenAI Deployment Company hat mit Northslope bereits ihre zweite Firma übernommen, um ihre Truppe an 'Forward Deployed Engineers' auszubauen, die direkt bei Kunden KI-Systeme in bestehende Geschäftsprozesse einbauen. Northslopes Gründer stammen von Palantir – ein deutliches Signal, dass OpenAI mit klassischer Beratung und Implementierung inzwischen genauso viel Umsatz machen will wie mit den Modellen selbst.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "GPT-5.6 nach Ende der zweiwöchigen Regierungs-Beschränkung für alle verfügbar",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "zusammenfassung": "OpenAI hatte GPT-5.6 (Sol, Terra, Luna) am 26. Juni auf Wunsch der US-Regierung zunächst nur rund 20 geprüften Partnerorganisationen zugänglich gemacht, während das Handelsministerium über CAISI die Cybersicherheitsrisiken prüfte. Am 9. Juli wurde die Freigabe erteilt, seither sind alle drei Modelle regulär über ChatGPT, Codex und die API verfügbar – OpenAI betont zugleich, ein solcher Regierungs-Vorabzugang dürfe kein dauerhafter Standard werden.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Together AI sammelt 800 Millionen Dollar ein und erreicht 8,3 Milliarden Dollar Bewertung",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/01/neocloud-together-ai-raises-800m-leaps-to-8-3b-valuation/",
+      "zusammenfassung": "Die von Aramco Ventures angeführte Series-C-Runde macht Together AI zur zentralen Infrastruktur für Unternehmen, die offene Modelle wie DeepSeek, Kimi oder MiniMax statt teurer Closed-Source-APIs nutzen wollen – mit Kosteneinsparungen von 6x bis 60x bei vergleichbarer Leistung. Die annualisierten Buchungen liegen bereits bei 1,15 Milliarden Dollar, zusätzlich sicherte sich das Unternehmen über 500 Megawatt an Rechenkapazität von seinen neuen Investoren.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Apple-Klage gegen OpenAI: Details zu Vorwürfen gegen Hardware-Chef Tang Tan aufgetaucht",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "zusammenfassung": "Nach der Klage vom 10. Juli sind neue Details aus der Klageschrift bekannt geworden: Apple wirft OpenAIs Hardware-Chef Tang Tan vor, bei Bewerbungsgesprächen interne Apple-Codenamen benutzt, Kandidaten um mitgebrachte Apple-Bauteile gebeten und abwandernde Mitarbeiter gecoacht zu haben, wie sie Sicherheitskontrollen umgehen können. Der Fall gilt als einer der bislang schärfsten Konflikte zwischen einem Big-Tech-Konzern und einem KI-Labor um vertrauliches Hardware-Wissen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "Kamera-freie Smart Glasses: Even Realities erreicht mit 150-Millionen-Dollar-Runde Unicorn-Status",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/06/smart-glasses-maker-even-realities-hits-1b-valuation-with-150m-funding-led-by-meituan-tencent/",
+      "zusammenfassung": "Das von Ex-Apple-Ingenieuren gegründete Shenzhen-Startup hat in einer von Meituan und Tencent angeführten Pre-Series-B-Runde 150 Millionen Dollar eingesammelt und wird nun mit 1 Milliarde Dollar bewertet. Anders als Konkurrenten mit Kamera-fokussierten KI-Brillen setzt Even Realities bewusst auf display-first, kamera-freie Waveguide-Brillen, die Informationen direkt ins Sichtfeld projizieren, ohne die Privatsphäre der Umgebung zu gefährden.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

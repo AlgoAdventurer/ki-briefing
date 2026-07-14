@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-14",
+  "name": "Claude Reflect",
+  "tagline": "Anthropics eingebautes 'Wrapped' für die eigenen KI-Gewohnheiten",
+  "beschreibung": "Claude Reflect ist ein neues, in Claude integriertes Dashboard, das Nutzungsmuster über die letzten Monate sichtbar macht: häufigste Themen, Aufgabentypen und Nutzungs-Peaks, kategorisiert nach Anthropics '4D AI Fluency Framework' (Delegation, Description, Discernment, Diligence). Zusätzlich stellt die Funktion reflektierende Fragen wie 'Was möchtest du weiterhin selbst tun, auch wenn Claude es schneller könnte?' und erlaubt das Einrichten von Ruhezeiten und Pausen-Erinnerungen. Beobachter sehen darin auch eine strategische Komponente nach dem Vorbild von Gmail Meter: Wer sichtbar macht, wie tief KI im Alltag verankert ist, bindet Nutzer stärker an das eigene Produkt.",
+  "useCase": "Ein Vielnutzer sieht auf einen Blick, dass er Claude vor allem für Recherche und Textentwürfe einsetzt, stellt eine tägliche Ruhezeit ab 21 Uhr ein und bekommt wöchentlich einen kurzen Überblick über seine Nutzungsmuster.",
+  "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
+  "kategorie": "Productivity",
+  "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+  "kostenlos": true,
+  "tags": ["Anthropic", "Analytics", "Digital Wellbeing", "Claude"]
+}

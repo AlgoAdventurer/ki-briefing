@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Zustandsloses Protokoll, Extensions-Framework und MCP Apps",
+      "typ": "API / SDK",
+      "detail": "Der Release Candidate für die nächste Model-Context-Protocol-Spezifikation macht MCP auf Protokollebene zustandslos: Der bisherige initialize/initialized-Handshake entfällt komplett, Protokollversion, Client-Infos und Capabilities wandern in _meta auf jeden Request. Remote-Server brauchen dadurch keine Sticky Sessions oder gemeinsamen Session-Store mehr und können hinter einem simplen Round-Robin-Load-Balancer laufen. Neu ist außerdem ein formales Extensions-Framework mit eigenen Reverse-DNS-Bezeichnern sowie 'MCP Apps': Server können interaktive HTML-Oberflächen ausliefern, die Hosts in einer sandboxed iframe rendern, wobei jede UI-Aktion über denselben JSON-RPC-Audit-Pfad läuft wie ein normaler Tool-Call. Entwickler mit produktiven MCP-Servern haben bis zur finalen Veröffentlichung am 28. Juli Zeit, ihre Implementierung gegen die Änderungen zu testen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Cowork wandert auf Web und Mobile, plus native Microsoft-365-Schreibrechte",
+      "typ": "Feature / SDK",
+      "detail": "Anthropic rollt Cowork-Sessions samt Dateien schrittweise auch für Web und Mobile aus, sodass Chat und Cowork künftig ein gemeinsames Zuhause über alle Geräte hinweg teilen – zunächst für Max-Kunden, weitere Pläne folgen. Parallel dazu erhält Claude native Schreibrechte für Microsoft 365: E-Mails entwerfen und versenden, Kalendereinträge verwalten sowie Dateien in OneDrive und SharePoint anlegen oder bearbeiten, direkt aus der Konversation heraus statt über Umwege per Copy-Paste.",
+      "url": "https://www.anthropic.com/news",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub Copilot App jetzt kostenlos auf jedem Plan verfügbar",
+      "typ": "Tool",
+      "detail": "GitHub hat die eigenständige Copilot-App für macOS, Windows und Linux für sämtliche Pläne freigeschaltet – vorher war sie bestimmten Abo-Stufen vorbehalten. Damit lässt sich der Coding-Agent losgelöst vom Editor als eigenes Fenster nutzen, etwa um mehrere Repositories parallel im Blick zu behalten oder Hintergrund-Tasks zu überwachen, während im eigentlichen IDE weitergearbeitet wird.",
+      "url": "https://github.blog",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead), Vista Equity Partners, General Catalyst, Emergence Capital, NVIDIA, March Capital u.a.",
+      "beschreibung": "Together AI positioniert sich als Infrastrukturschicht für offene Modelle wie DeepSeek, Nemotron, MiniMax und Kimi und ermöglicht Unternehmen damit Kosteneinsparungen von 6x bis 60x gegenüber Closed-Source-APIs. Die neue Bewertung von 8,3 Milliarden Dollar und über 500 Megawatt zusätzlich gesicherter Rechenkapazität unterstreichen, wie stark offene Modelle im Unternehmenseinsatz an Boden gewinnen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Even Realities",
+      "betrag": "$150M",
+      "runde": "Pre-Series B",
+      "investoren": "Meituan (Lead), Tencent",
+      "beschreibung": "Der Hersteller kamera-freier Waveguide-Smart-Glasses aus Shenzhen erreicht mit der Runde eine Bewertung von 1 Milliarde Dollar. Statt wie viele Konkurrenten auf Kamera- und Content-Erfassung zu setzen, verfolgt Even Realities bewusst ein display-first, privacy-first-Konzept – über die Hälfte der Nutzer sitzt bereits in den USA, dem am schnellsten wachsenden Markt des Unternehmens.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Auger",
+      "betrag": "$50M",
+      "runde": "Series B",
+      "investoren": "Eclipse (Lead)",
+      "beschreibung": "Das von Ex-Amazon-Logistikchef Dave Clark gegründete Startup baut ein autonomes Betriebssystem für Lieferketten, das bestehende ERP-, Lager- und Transportsysteme vereint und Routineentscheidungen eigenständig trifft statt nur Alarme zu erzeugen. Mit Kunden wie Meta, Fanatics und Kimberly-Clark steigt die Gesamtfinanzierung auf 150 Millionen Dollar; bei Fanatics laufen laut Unternehmen bereits 85 Prozent der Entscheidungen vollautomatisch.",
+      "bild": ""
+    }
+  ]
+}

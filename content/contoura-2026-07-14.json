@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige Massen-Analyse von Trainingsdaten über offene Modelle statt teurer Closed-APIs",
+      "kontext": "Together AIs frische 800-Mio.-Dollar-Runde zeigt, wie stark offene Modelle (DeepSeek, MiniMax, Kimi) inzwischen Closed-Source-Alternativen bei Kosten schlagen – teils 6x bis 60x günstiger bei vergleichbarer Qualität.",
+      "umsetzung": "Contoura könnte rechenintensive Batch-Jobs wie automatische Fehlerklassifikation über tausende Split-Zeiten oder die Generierung individueller Trainingskommentare über eine Together-AI-ähnliche Open-Model-Infrastruktur statt teurer proprietärer APIs laufen lassen – besonders relevant, sobald viele Athleten gleichzeitig automatische Auswertungen abrufen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Autonome Abweichungs-Erkennung statt reiner Alarmlisten in der Performance-Analyse",
+      "kontext": "Das Logistik-Startup Auger zeigt mit seiner autonomen Entscheidungsschicht, wie KI-Agenten Routineentscheidungen selbst treffen und nur echte Ausnahmen an Menschen weiterreichen, statt bloß Alarme zu erzeugen.",
+      "umsetzung": "Contouras Fehlerstatistik-Modul könnte ähnlich funktionieren: Statt nur Abweichungen in Splits oder Fehlerraten anzuzeigen, könnte ein Agent selbstständig einordnen, ob eine Abweichung normal (z. B. Gelände, Wetter) oder auffällig ist, automatisch eine kurze Einschätzung für Trainer verfassen und nur wirklich ungewöhnliche Fälle aktiv melden.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Interaktive Coach-Dashboards direkt im Chat über MCP Apps",
+      "kontext": "Die neue MCP-Spezifikation bringt mit 'MCP Apps' einen offenen Standard für interaktive HTML-Oberflächen, die Chat-Hosts wie Claude direkt in der Konversation rendern können – inklusive sicherem Rückkanal zum Server.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server anbieten, der Trainern und Athleten erlaubt, direkt in Claude oder ChatGPT Performance-Index-Verläufe, Split-Zeit-Vergleiche oder Fehlerstatistiken als interaktives Mini-Dashboard abzurufen und zu besprechen, statt zwischen App und Chat hin- und herzuwechseln.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

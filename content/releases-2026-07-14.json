@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 Terra & Luna",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Neben Flaggschiff Sol sind mit Terra und Luna nun die beiden günstigeren Stufen der GPT-5.6-Familie regulär verfügbar. Terra zielt auf GPT-5.5-Qualität bei rund halben Kosten, Luna ist auf schnelle, sehr günstige Massenanwendungen zugeschnitten – zusammen decken die drei Modelle damit erstmals die komplette Preis-Leistungs-Spanne für Coding- und Agenten-Aufgaben ab.",
+      "url": "https://help.openai.com/en/articles/20001325-a-preview-of-gpt-56-sol-terra-and-luna",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Robostral Navigate",
+      "version": "",
+      "anbieter": "Mistral AI",
+      "detail": "Mistral steigt mit Robostral Navigate offiziell ins Feld der 'Physical AI' ein: Das Modell lässt Roboter allein mit einer einzelnen Kamera und einfachen Sprachbefehlen komplexe Umgebungen navigieren. Es ist hardware-agnostisch, komplett in Simulation trainiert und lässt sich laut Mistral auf beliebigen Roboterflotten einsetzen, ohne dass für jeden Robotertyp neu trainiert werden muss.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/mistral-ai-releases-robotics-model-to-support-physical-ai-push",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "MiniMax M3",
+      "version": "M3",
+      "anbieter": "MiniMax",
+      "detail": "Mit 59,0 Prozent auf SWE-bench Pro übernimmt MiniMax M3 die Spitzenposition unter offen gewichteten Coding-Modellen und verdrängt damit Kimi K2.6, das den bisherigen Rekord im April gesetzt hatte. Für Entwickler bedeutet das ein weiteres frei nutzbares, wettbewerbsfähiges Modell abseits der proprietären Angebote von OpenAI, Anthropic und Google.",
+      "url": "https://huggingface.co/papers/trending",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Bundesrat billigt deutsches KI-Aufsichtsgesetz zur Umsetzung der EU-KI-Verordnung",
+      "region": "Deutschland",
+      "detail": "Mit dem Beschluss des Bundesrats schafft Deutschland die nationale Rechtsgrundlage zur Durchführung des EU AI Act. Die Bundesnetzagentur wird künftig als zentrale Marktüberwachungsbehörde für KI-Systeme fungieren und ist damit für die Kontrolle der Einhaltung europäischer Vorgaben sowie die Verfolgung von Verstößen zuständig – ein wichtiger Baustein, bevor im August 2026 die ersten Transparenzpflichten des AI Act europaweit greifen.",
+      "url": "https://www.bundesregierung.de/breg-de/aktuelles/umsetzung-ki-verordnung-2406638",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "US-Executive-Order zu KI-Cybersicherheit: erste Fristen laufen im August ab",
+      "region": "USA",
+      "detail": "Die im Juni unterzeichnete Anordnung 'Promoting Advanced Artificial Intelligence Innovation and Security' verpflichtet US-Behörden auf straffe 30- und 60-Tage-Fristen, um Bundessysteme mit KI-gestützter Verteidigung zu härten und einen freiwilligen Rahmen für vorab-Regierungszugang zu 'Covered Frontier Models' zu etablieren. Wichtige Etappenziele sind für den 1. August 2026 fällig – für KI-Anbieter mit US-Regierungskunden ein konkreter Anlass, die eigenen Sicherheits- und Meldeprozesse jetzt zu überprüfen.",
+      "url": "https://www.governmentcontractslaw.com/2026/06/ai-heats-up-new-executive-order-on-promoting-advanced-artificial-intelligence-innovation-and-security/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
