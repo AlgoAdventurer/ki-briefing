@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird zustandslos",
+      "typ": "API / SDK",
+      "detail": "Die kommende Release-Candidate-Version des Model Context Protocol vom 28. Juli entfernt den Mcp-Session-Id-Header und macht das Protokoll auf Ebene der Anfragen zustandslos – jede Anfrage kann dadurch von jeder Serverinstanz beantwortet werden, ohne dass Sticky Routing oder geteilte Session-Stores nötig sind. Neu sind außerdem Mcp-Method- und Mcp-Name-Header für Load Balancer sowie ttlMs- und cacheScope-Felder für Caching, angelehnt an HTTP Cache-Control. Beta-SDKs für Python v2 und TypeScript v2 sind bereits zum Testen verfügbar, Go und C# folgen als Beta.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "X launcht gehosteten MCP-Server für Entwickler",
+      "typ": "API / SDK",
+      "detail": "X bietet nun einen offiziell gehosteten MCP-Server an, über den KI-Tools und Agenten leichter auf die X-API zugreifen können, ohne eine eigene Server-Infrastruktur aufzusetzen. Für Entwickler, die bereits Claude, ChatGPT oder eigene Agenten mit MCP verbinden, senkt das die Einstiegshürde, um Such-, Post- und Analysefunktionen von X direkt in Agenten-Workflows einzubinden.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Hugging Face Transformers v5.13.0 mit neuem HfExporter",
+      "typ": "Open Source",
+      "detail": "Die neue Transformers-Version bringt Unterstützung für weitere Modellarchitekturen sowie den neuen, vereinheitlichten HfExporter, mit dem sich Modelle direkt nach PyTorch, ONNX und ExecuTorch exportieren lassen. Dazu kommen zahlreiche Fixes rund um Generation, Attention, Caching, Quantisierung und Serving – relevant für alle, die eigene Fine-Tunes produktionsreif deployen wollen.",
+      "url": "https://releasebot.io/updates/huggingface",
+      "codebeispiel": ""
+    }
+  ]
+}

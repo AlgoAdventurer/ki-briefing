@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 (Sol, Terra, Luna)",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI ersetzt sein bisheriges Modell-Lineup durch drei neue Varianten: Sol als Flaggschiff mit 'Ultra'-Subagenten-Modus und einstellbarem 'Max'-Reasoning, Terra auf GPT-5.5-Niveau für halbe Kosten, und Luna als schnelle, günstige Einstiegsvariante. Sol kostet 5 Dollar pro Million Input- und 30 Dollar pro Million Output-Tokens und wurde als erstes Modell bei ARC-AGI-3 in einem öffentlichen Spiel erfolgreich.",
+      "url": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Muse Spark 1.1",
+      "version": "1.1",
+      "anbieter": "Muse AI",
+      "detail": "Muse Spark 1.1 setzt stark auf agentische Arbeit und Computer-Use-Fähigkeiten und bringt dafür ein Kontextfenster von einer Million Tokens mit. Das Modell positioniert sich als Alternative für lang laufende Agenten-Workflows, bei denen viele Zwischenschritte und Werkzeug-Aufrufe im Kontext gehalten werden müssen.",
+      "url": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Isaac GR00T 1.7",
+      "version": "1.7",
+      "anbieter": "NVIDIA / Hugging Face",
+      "detail": "NVIDIA und Hugging Face haben mit Isaac GR00T 1.7 ein offenes Vision-Language-Action-Modell für humanoide Roboter in die LeRobot-Bibliothek gebracht, ergänzt durch das neue Isaac-Teleop-Framework. Damit können Entwickler Robotik-Anwendungen mit vortrainierten, quelloffenen Modellen bauen statt bei null anzufangen; ein Nachfolgemodell namens Cosmos 3 für physische KI ist bereits angekündigt.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Nvidia_logo.svg"
+    }
+  ]
+}

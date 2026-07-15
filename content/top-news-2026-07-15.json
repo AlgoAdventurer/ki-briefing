@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI veröffentlicht GPT-5.6-Lineup: Sol, Terra und Luna lösen bisherige Modelle ab",
+      "quelle": "CNBC / ThursdAI",
+      "quelleUrl": "https://www.cnbc.com/2026/07/08/openai-expanding-gpt-5point6-ai-model-release-ending-government-limits.html",
+      "zusammenfassung": "OpenAI hat GPT-5.6 nicht als einzelnes Modell, sondern als dreiteiliges Lineup veröffentlicht: Sol als Flaggschiff mit neuem 'Ultra'-Subagenten-Modus und einstellbarer Reasoning-Tiefe, Terra auf GPT-5.5-Niveau zum halben Preis und Luna als schnelle, günstige Variante. Sol wurde als erstes Modell überhaupt bei ARC-AGI-3 in einem öffentlichen Spiel erfolgreich, was auf deutliche Fortschritte im eigenständigen Problemlösen hindeutet.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google kappt Metas Zugang zu Gemini-Modellen wegen Rechenkapazitäts-Engpass",
+      "quelle": "The Information / Branchenberichte",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+      "zusammenfassung": "Google hat den Zugriff von Meta auf seine Gemini-Modelle begrenzt, nachdem Meta mehr Rechenkapazität angefragt hatte, als Google liefern konnte – interne KI-Projekte bei Meta verzögern sich dadurch. Der Vorfall zeigt, dass selbst die größten und finanzstärksten Tech-Konzerne inzwischen an der physischen Grenze verfügbarer Chip- und Rechenzentrumskapazität operieren, nicht mehr nur an Modellqualität.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "EU-Cloud-and-AI-Development-Act heute im Amtsblatt veröffentlicht",
+      "quelle": "regulations.ai",
+      "quelleUrl": "https://regulations.ai/news/eu-cloud-ai-act-prepare-july-2026-publication",
+      "zusammenfassung": "Am heutigen 15. Juli wird der Cloud and AI Development Act im EU-Amtsblatt veröffentlicht und tritt damit formal am 4. August in Kraft. Das Gesetz führt ein vierstufiges 'Cloud-Souveränitäts'-Rahmenwerk ein, stuft Anbieter nach Standort und Kontrolle ein und soll die Rechenzentrumskapazität in der EU verdreifachen – mit ersten Anforderungen ab Februar 2028.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Anthropic verhandelt mit Samsung über eigenen KI-Chip, bereitet IPO für Oktober vor",
+      "quelle": "Branchenberichte",
+      "quelleUrl": "https://www.chinapulse.com/data-news/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more",
+      "zusammenfassung": "Anthropic soll laut Berichten mit Samsung über die Entwicklung eines maßgeschneiderten KI-Chips für Claude-Modelle verhandeln und folgt damit der Inhouse-Silizium-Strategie von Google, Amazon, Meta und OpenAI. Parallel bereitet das Unternehmen offenbar eine Börsengangs-Anmeldung für frühestens Oktober 2026 vor – langfristige Compute-Deals sollen dabei die Umsatzplanbarkeit für künftige IPO-Investoren absichern.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "TSMC meldet Rekordumsatz dank KI-Chip-Boom",
+      "quelle": "Reuters / Tech-Berichte",
+      "quelleUrl": "https://www.fastcompany.com/91535369/big-tech-ai-spending-meta-google-amazon-microsoft-apple-capex-ranked",
+      "zusammenfassung": "TSMC verzeichnete im zweiten Quartal einen Umsatz von rund 39,62 Milliarden Dollar, ein Plus von 36 Prozent gegenüber dem Vorjahr, getrieben von der KI-Chip-Nachfrage von Kunden wie Nvidia und Apple. Da TSMC nahezu alle fortschrittlichen KI-Prozessoren der Welt fertigt, zeigt der Rekordumsatz, dass sich der KI-Hardware-Ausbau inzwischen in echten Chip-Bestellungen niederschlägt statt nur in Ankündigungen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

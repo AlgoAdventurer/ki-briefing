@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-15",
+  "name": "Google Photos Video Remix",
+  "tagline": "Gemini Omni verwandelt private Handyvideos in stilisierte Clips mit Relighting und Szenenwechsel",
+  "beschreibung": "Google Photos hat mit Video Remix eine neue, vom Gemini-Omni-Modell angetriebene Funktion eingeführt, die gewöhnliche Handyvideos automatisch in stilisierte Clips verwandelt. Nutzer können ein Video auswählen und per Textprompt cineastisches Relighting, Hintergrundwechsel oder künstlerische Effekte anwenden lassen, ohne einen Videoeditor zu bedienen. Die Funktion läuft direkt in der bestehenden Google-Photos-App und markiert einen der ersten breit ausgerollten Konsumenten-Anwendungsfälle für multimodale Video-Bearbeitung per KI. Für Contoura-ähnliche Use Cases zeigt es, wie einfach sich in Zukunft automatische Highlight-Videos aus Rohmaterial erzeugen lassen könnten.",
+  "useCase": "Ein Nutzer lädt ein wackeliges Trainingsvideo hoch und lässt es per Prompt in einen dramatisch ausgeleuchteten Kinoclip mit neuem Hintergrund verwandeln, ganz ohne Schnittprogramm.",
+  "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-14-2026",
+  "kategorie": "Video / Consumer AI",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Video", "Gemini", "Multimodal", "Google Photos"]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigener MCP-Server für Contoura-Trainingsdaten",
+      "kontext": "Die kommende MCP-Spezifikation vom 28. Juli macht das Model Context Protocol zustandslos und enterprise-tauglich, während bereits 78 Prozent der Enterprise-KI-Teams MCP-Agenten in Produktion einsetzen.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bereitstellen, über den Trainer und Athleten direkt aus Claude, ChatGPT oder einem eigenen Agenten heraus in natürlicher Sprache auf Split-Zeiten, Fehlerstatistiken und Performance-Index zugreifen können, etwa mit Anfragen wie 'Zeige mir die Fehlerquote von Athlet X der letzten drei Wettkämpfe'.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Highlight-Videos aus Trainings- und Wettkampf-Rohmaterial",
+      "kontext": "Google Photos Video Remix zeigt mit Gemini Omni, wie sich rohes Handyvideo per Prompt automatisch in stilisierte, geschnittene Clips verwandeln lässt.",
+      "umsetzung": "Contoura könnte eine Funktion anbieten, mit der Athleten hochgeladenes Video- oder Streckenmaterial automatisch zu kurzen Highlight-Reels mit eingeblendeten Split-Zeiten und Fehlerpunkten verarbeiten lassen können, ganz ohne manuellen Videoschnitt.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige, lange Agenten-Analysen dank neuer Modell-Generation",
+      "kontext": "Mit GPT-5.6 Terra und offenen Modellen wie GLM-5.2 gibt es inzwischen deutlich günstigere Modelle, die für lang laufende, agentische Auswertungsaufgaben nah an Flaggschiff-Qualität herankommen.",
+      "umsetzung": "Contoura könnte ein günstigeres Modell wie GPT-5.6 Terra einsetzen, um nach jedem Wettkampf automatisch eine mehrstufige Analyse über Saisonverlauf, Streckentyp-Schwächen und Vergleich zu ähnlichen Athleten zu erstellen, ohne die Kosten teurer Flaggschiff-Modelle zu tragen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

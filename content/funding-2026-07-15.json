@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Chai Discovery",
+      "betrag": "$400M",
+      "runde": "Series C",
+      "investoren": "Branchenberichten zufolge angeführt von führenden Deep-Tech- und Biotech-Investoren",
+      "beschreibung": "Chai Discovery entwickelt KI-Modelle zur Vorhersage von Proteinstrukturen und Wirkstoffinteraktionen und positioniert sich als Werkzeug für schnellere, günstigere Medikamentenentwicklung. Die große Series-C-Runde zeigt, dass Investoren KI-gestützte Biotech-Startups weiterhin mit Frontier-Lab-ähnlichen Bewertungen ausstatten.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Führende KI-Infrastruktur-Investoren",
+      "beschreibung": "Together AI betreibt eine Cloud-Plattform für Training und Inferenz offener KI-Modelle und zählt zu den wichtigsten Alternativen zu den großen Hyperscalern für Firmen, die eigene oder Open-Source-Modelle günstig betreiben wollen. Die 800-Millionen-Dollar-Runde unterstreicht den anhaltenden Kapitalbedarf für GPU-Kapazität abseits von Google, Microsoft und Amazon.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Savi",
+      "betrag": "$7M",
+      "runde": "Seed",
+      "investoren": "Nicht im Detail veröffentlicht",
+      "beschreibung": "Das Startup aus Los Angeles hat eine iOS- und Android-App gelauncht, die Anrufe, SMS und andere digitale Kommunikation per KI vorab filtert, bevor Nutzer sich damit befassen müssen. Die Seed-Runde zeigt, dass auch kleinere, konsumentennahe KI-Anwendungen abseits der großen Modell-Labs weiterhin Kapital anziehen.",
+      "bild": ""
+    }
+  ]
+}

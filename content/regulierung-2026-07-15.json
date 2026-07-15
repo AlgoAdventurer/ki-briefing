@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Cloud-and-AI-Development-Act heute im Amtsblatt veröffentlicht",
+      "region": "EU",
+      "detail": "Der Cloud and AI Development Act wird am 15. Juli im EU-Amtsblatt veröffentlicht und tritt am 4. August formal in Kraft. Er führt ein vierstufiges Rahmenwerk für 'Cloud-Souveränität' ein, das Anbieter nach Standort, Eigentümerstruktur und operativer Kontrolle einstuft, mit dem Ziel, die Rechenzentrumskapazität in der EU zu verdreifachen. Erste Anforderungen greifen ab Februar 2028, die strengste Stufe ab August 2029 – Cloud- und KI-Infrastrukturanbieter mit EU-Kunden sollten die verbleibende Vorlaufzeit für die Einordnung ihrer Angebote nutzen.",
+      "url": "https://regulations.ai/news/eu-cloud-ai-act-prepare-july-2026-publication",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Rat gibt finales grünes Licht für AI-Act-Vereinfachungspaket",
+      "region": "EU",
+      "detail": "Nach der formalen Zustimmung des EU-Parlaments am 16. Juni hat der Rat der EU am 29. Juni das sogenannte Digital-Omnibus-Paket final gebilligt. Es verlängert Übergangsfristen für Hochrisiko-KI-Systeme, präzisiert bestehende Anforderungen des AI Act und führt neue Regeln zu KI-generierten intimen Inhalten ein. Die meisten Pflichten für Hochrisiko-Systeme greifen weiterhin ab August 2026, mit gestreckten Übergängen bis 2027/2028 – Juli 2026 gilt damit als letztes ernsthaftes Vorbereitungsfenster für viele KMU und Startups.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "New York stoppt als erster US-Bundesstaat neue Hyperscale-Rechenzentren",
+      "region": "USA",
+      "detail": "New York hat als erster US-Bundesstaat eine Pause für neue hyperskalige Rechenzentren verhängt, während Regulierer parallel gegen unerlaubte Gasturbinen zur Stromversorgung von KI-Infrastruktur vorgehen. Der Schritt zeigt, dass lokale und regionale Behörden zunehmend auf den enormen Energie- und Flächenbedarf des KI-Booms reagieren, unabhängig von Bundesregulierung.",
+      "url": "https://www.chinapulse.com/data-news/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more",
+      "auswirkung": "mittel"
+    }
+  ]
+}
