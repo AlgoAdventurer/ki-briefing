@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-16",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.5 Pro",
+      "version": "3.5",
+      "anbieter": "Google DeepMind",
+      "detail": "Nach mehrfachen Verschiebungen soll Gemini 3.5 Pro morgen, am 17. Juli, offiziell erscheinen. Google hat den Launch bewusst auf den Tag der World Artificial Intelligence Conference in Shanghai gelegt, was als klares Signal im globalen KI-Wettlauf gewertet wird. Konkrete Benchmark-Zahlen hat Google bislang nicht bestätigt, Branchenkenner erwarten aber deutliche Fortschritte bei langem Kontext und multimodalem Reasoning.",
+      "url": "https://blog.google",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Nano Banana 2 Lite",
+      "version": "2 Lite",
+      "anbieter": "Google DeepMind",
+      "detail": "Googles neues Bildgenerierungsmodell erzeugt Bilder für 0,034 Dollar pro 1.000 Anfragen bei nur 4 Sekunden Latenz und ist damit das schnellste und günstigste Modell der Nano-Banana-Reihe. Ergänzend wurde Gemini Omni Flash vorgestellt, ein Video-Generierungs- und Konversations-Editing-Modell für 0,10 Dollar pro Sekunde Output – zusammen senken beide Modelle die Kosten für produktionsreife Bild- und Videogenerierung deutlich.",
+      "url": "https://blog.google",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "MiniMax M3",
+      "version": "M3",
+      "anbieter": "MiniMax",
+      "detail": "MiniMax M3 ist seit Mitte Juni mit MIT-Lizenz auf Hugging Face verfügbar und führt mit einem SWE-bench-Pro-Score von 59,0 Prozent aktuell alle offenen Gewichtsmodelle an. Damit setzt sich der Trend fort, dass chinesische Open-Weight-Modelle bei Coding-Benchmarks zu westlichen Closed-Source-Modellen aufschließen – für Entwickler ein kostengünstiger, selbst hostbarer Ersatz für kommerzielle Coding-Assistenten.",
+      "url": "https://huggingface.co/models",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige KI-Bildgenerierung für individuelle Kartenanalyse-Visualisierungen",
+      "kontext": "Googles neues Nano Banana 2 Lite erzeugt Bilder für nur 0,034 Dollar pro 1.000 Anfragen bei 4 Sekunden Latenz",
+      "umsetzung": "Contoura könnte nach jedem Wettkampf automatisch generierte Grafiken erstellen lassen, die Split-Zeiten-Schwächen direkt auf einen Kartenausschnitt projizieren (z.B. 'hier verlorene Sekunden' als visuelle Overlays). Durch die niedrigen Kosten wäre das auch für jeden einzelnen Lauf jedes Athleten wirtschaftlich machbar, nicht nur für Premium-Analysen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Persistentes Trainingsgedächtnis für automatische Coaching-Kommentare via MCP",
+      "kontext": "Die neue MCP-Tasks-Extension und wachsende Agent-Memory-Infrastruktur erlauben es Agenten, Kontext über einzelne Sessions hinweg zu behalten",
+      "umsetzung": "Contoura könnte einen MCP-Server bereitstellen, der die komplette Trainings- und Wettkampfhistorie eines Athleten als abrufbaren Kontext für einen KI-Coaching-Agenten hält. So könnten automatisch generierte Kommentare nicht nur den letzten Lauf bewerten, sondern gezielt auf wiederkehrende Fehlermuster über Wochen und Monate hinweisen.",
+      "aufwand": "hoch",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Multimodale Analyse von Streckenprofilen und Kontrollpunktbeschreibungen mit Gemini 3.5 Pro",
+      "kontext": "Gemini 3.5 Pro startet morgen mit erwarteten Verbesserungen bei langem Kontext und multimodalem Reasoning",
+      "umsetzung": "Athleten könnten ein Foto der Kontrollpunktbeschreibungen (Clues) und der Karte hochladen, woraufhin das Modell automatisch schwierige Streckenabschnitte identifiziert und vor dem Start eine kurze taktische Einschätzung liefert – ergänzend zur bestehenden Split-Zeit-Analyse nach dem Lauf.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-16",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead)",
+      "beschreibung": "Der KI-Infrastrukturanbieter Together AI hat 800 Millionen Dollar bei einer Post-Money-Bewertung von 8,3 Milliarden Dollar eingesammelt. Die Runde unterstreicht den ungebrochenen Kapitalhunger von Unternehmen, die GPU-Compute und Inferenz-Infrastruktur für andere KI-Firmen bereitstellen, statt selbst Endnutzerprodukte zu bauen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "8090 Solutions",
+      "betrag": "$135M",
+      "runde": "Series",
+      "investoren": "Salesforce Ventures (Lead)",
+      "beschreibung": "8090 Solutions baut eine Plattform, mit der Unternehmenssoftware durch koordinierte KI-Agenten statt durch klassisches Programmieren entsteht. Die Beteiligung von Salesforce Ventures passt zum wachsenden Trend großer Enterprise-Anbieter, in agentische Entwicklungsplattformen zu investieren, statt sie nur intern zu bauen.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Taktile",
+      "betrag": "$110M",
+      "runde": "Series C",
+      "investoren": "Goldman Sachs Alternatives (Growth Equity)",
+      "beschreibung": "Das New Yorker FinTech-Startup Taktile bietet eine agentische Entscheidungsplattform für Banken und Versicherer, die Kreditrisiko- und Betrugsentscheidungen automatisiert. Die Beteiligung von Goldman Sachs Alternatives zeigt, wie stark klassische Finanzinstitute inzwischen in KI-gestützte Entscheidungsinfrastruktur investieren.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation vom 28. Juli: zustandslose Server, Tasks-Extension und MCP Apps",
+      "typ": "API / SDK",
+      "detail": "Der Release Candidate der finalen MCP-Spezifikation zeigt drei zentrale Neuerungen: Erstens wird der Protokollkern zustandslos, wodurch Server hinter gewöhnlichen Load-Balancern laufen können, ohne Sticky Sessions oder Deep Packet Inspection. Zweitens erlaubt die neue Tasks-Extension lang laufende Agenten-Jobs, die über mehrere Anfragen hinweg verfolgt werden können. Drittens bringt MCP Apps serverseitig gerenderte UI-Komponenten direkt in Agenten-Clients. Entwickler, die bereits MCP-Server betreiben, sollten die Kompatibilität ihrer Session-Verwaltung vor dem 28. Juli prüfen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "X veröffentlicht offiziellen MCP-Server für einfacheren KI-Zugriff auf die Plattform",
+      "typ": "Open Source",
+      "detail": "X hat einen eigenen MCP-Server veröffentlicht und reiht sich damit neben GitHub, Slack, Notion, Stripe und Salesforce in die wachsende Liste großer Plattformen mit offiziellem MCP-Zugang ein. Entwickler können damit KI-Agenten deutlich einfacher Lese- und Schreibzugriff auf X-Inhalte geben, statt eigene API-Wrapper zu bauen. Der Schritt unterstreicht, wie sehr sich MCP als De-facto-Standard für Tool-Anbindung an LLMs durchgesetzt hat.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Hugging Face Diffusers: großes Update mit neuen Bild- und Video-Pipelines",
+      "typ": "Open Source",
+      "detail": "Die Diffusers-Bibliothek hat ein umfangreiches Update erhalten, das neue Pipelines für Modelle wie Cosmos 3, Ideogram 4, Krea 2 und DreamLite mitbringt sowie verbessertes modulares Pipeline-Design und einfacheres LoRA-Training und -Laden. Für Entwickler, die eigene Bild- oder Video-Generierungs-Workflows bauen, bedeutet das deutlich weniger Boilerplate-Code beim Wechsel zwischen verschiedenen Diffusionsmodellen.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-16",
+  "name": "Venice",
+  "tagline": "Private, unzensierter Zugang zu führenden KI-Modellen ohne Datenspeicherung",
+  "beschreibung": "Venice ist eine Plattform, die Zugriff auf eine breite Palette von Open-Source- und proprietären KI-Modellen bietet, ohne Prompts, Antworten oder Nutzerdaten dauerhaft zu speichern. Das Startup hat gerade 65 Millionen Dollar in einer von Dragonfly angeführten Series-A-Runde eingesammelt und wird mit rund 1 Milliarde Dollar bewertet. Venice positioniert sich damit als Gegenentwurf zu den großen Anbietern, bei denen Chatverläufe standardmäßig für Training oder Analyse verwendet werden können.",
+  "useCase": "Ein Unternehmen oder eine Einzelperson nutzt Venice, um sensible Anfragen (z.B. interne Dokumente, medizinische oder rechtliche Fragen) an leistungsfähige KI-Modelle zu stellen, ohne dass die Inhalte serverseitig gespeichert oder für Modelltraining verwendet werden.",
+  "url": "https://venice.ai",
+  "kategorie": "API / Privacy",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Privacy", "LLM-Zugang", "Open Source", "API"]
+}

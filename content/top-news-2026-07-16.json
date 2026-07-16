@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google plant Gemini 3.5 Pro Launch für morgen – zeitgleich mit Chinas KI-Gipfel in Shanghai",
+      "quelle": "Tech Times / Branchenberichte",
+      "quelleUrl": "https://www.techtimes.com/articles/320308/20260713/gemini-35-pro-targets-july-17-after-full-rebuild-every-spec-remains-unconfirmed.htm",
+      "zusammenfassung": "Google soll morgen, am 17. Juli, Gemini 3.5 Pro veröffentlichen – exakt am selben Tag, an dem Shanghai die World Artificial Intelligence Conference ausrichtet und Staatschef Xi Jinping erstmals persönlich teilnimmt. Der 17. Juli gilt damit als möglicher wichtigster KI-Tag des Jahres, weil US-amerikanische Modell-Ankündigungen und Chinas KI-Machtdemonstration zeitlich kollidieren.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Future of Life Institute vergibt Bestnote C+ an Anthropic im AI Safety Index 2026",
+      "quelle": "Future of Life Institute",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-15-2026",
+      "zusammenfassung": "Der neue AI Safety Index bewertet die Sicherheitspraktiken führender KI-Labore – die beste Note überhaupt war ein C+, vergeben an Anthropic. OpenAI und Google DeepMind erhielten ein C, Meta ein D+, während xAI, DeepSeek und Mistral durchfielen. Die Bewertung zeigt, dass selbst die Branchenführer laut unabhängigen Prüfern noch weit von robusten Sicherheitsstandards entfernt sind.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta investiert bis zu 145 Milliarden Dollar in KI-Infrastruktur und startet Meta Business Agent",
+      "quelle": "Branchenberichte",
+      "quelleUrl": "https://techstartups.com/2026/07/14/top-tech-news-today-july-14-2026-amazon-cloudflare-google-ibm-nvidia-samsung-xai-more/",
+      "zusammenfassung": "Meta hat einen Fünfjahresvertrag über 27 Milliarden Dollar mit dem Cloud-Anbieter Nebius abgeschlossen und will die Rechenkapazität bis 2027 auf 14 Gigawatt verdoppeln. Parallel rollt Meta Business Agent weltweit aus, eine Plattform, mit der Unternehmen aus den Milliarden Kundengesprächen auf WhatsApp, Messenger und Instagram eigene KI-Agenten bauen können – ergänzt durch die neue Cloud-Sparte Meta Compute.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "EU-Rat gibt endgültig grünes Licht für AI-Act-Vereinfachung, High-Risk-Frist verschoben auf Dezember 2027",
+      "quelle": "Consilium / Inside Privacy",
+      "quelleUrl": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "zusammenfassung": "Nach der Zustimmung des EU-Parlaments am 16. Juni hat der Rat der EU das Vereinfachungspaket zum AI Act final gebilligt. Die Frist für Hochrisiko-Pflichten verschiebt sich auf den 2. Dezember 2027, das vereinfachte Regime für kleine Unternehmen wird auf Firmen bis 750 Mitarbeitende und 150 Millionen Euro Umsatz ausgeweitet, und ein neues Verbot betrifft KI-generierte nicht-einvernehmliche sexuelle Inhalte sowie Missbrauchsmaterial.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "Model Context Protocol wird zustandslos: finale Spezifikation für 28. Juli angekündigt",
+      "quelle": "Model Context Protocol Blog",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "zusammenfassung": "Der Release Candidate für die MCP-Spezifikation vom 28. Juli macht das Protokoll auf Protokollebene zustandslos: Server können künftig hinter gewöhnlichen Round-Robin-Load-Balancern laufen statt Sticky Sessions zu benötigen. Neue Erweiterungen wie serverseitig gerenderte UIs (MCP Apps) und eine Tasks-Extension für lang laufende Agentenaufgaben zeigen, wie sehr sich MCP inzwischen als Standard für Enterprise-Agenten etabliert hat – bei rund 97 Millionen monatlichen SDK-Downloads.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
