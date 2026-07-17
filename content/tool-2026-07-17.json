@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-17",
+  "name": "OpenAI Codex Micro",
+  "tagline": "Physisches Command-Center für Fleets von Codex-Coding-Agenten",
+  "beschreibung": "Mit der Codex Micro steigt OpenAI erstmals in Hardware ein: eine beleuchtete Tastatur, gemeinsam mit dem Spezialisten Work Louder entwickelt, speziell für die Steuerung mehrerer gleichzeitig laufender Codex-Coding-Agenten. Leuchtende 'Agent Keys' zeigen den Status einzelner Agenten in Echtzeit, ein Dial regelt die 'Reasoning'-Tiefe pro Aufgabe, und ein Joystick startet vordefinierte Workflows. Das Produkt zielt auf Entwickler, die zunehmend mehrere autonome Coding-Agenten parallel orchestrieren statt selbst Zeile für Zeile zu programmieren.",
+  "useCase": "Ein Entwickler-Team lässt über Nacht mehrere Codex-Agenten an verschiedenen Tickets arbeiten und behält über die Agent Keys der Codex Micro auf einen Blick den Fortschritt und Status jedes einzelnen Agenten im Blick, ohne ständig zwischen Terminal-Fenstern wechseln zu müssen.",
+  "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+  "kategorie": "Coding / Hardware",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Coding-Agenten", "Hardware", "OpenAI", "Developer Tools"]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-17",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fora",
+      "betrag": "$60M",
+      "runde": "Series D",
+      "investoren": "Forerunner Ventures (Lead)",
+      "beschreibung": "Fora hat am 16. Juli eine Series-D-Runde über 60 Millionen Dollar unter Führung von Forerunner Ventures abgeschlossen. Die Runde reiht sich in eine besonders aktive Mitte-Juli-Woche für KI-Startup-Funding ein.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Emergent",
+      "betrag": "$130M",
+      "runde": "Series C",
+      "investoren": "diverse Wachstumsinvestoren",
+      "beschreibung": "Das indische Startup Emergent positioniert sich als 'Engineering-Team in der Box' und bietet eine agentische Coding-Plattform, die komplette Entwicklungsaufgaben eigenständig übernimmt. Die Runde bewertet das Unternehmen mit 1,5 Milliarden Dollar und zeigt, wie stark Kapital weiterhin in agentische Coding-Plattformen außerhalb der USA fließt.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Oak",
+      "betrag": "$60M",
+      "runde": "Seed",
+      "investoren": "Accel, CRV, Greylock Partners",
+      "beschreibung": "Das israelische Startup Oak baut KI-native Identitätsmanagement-Infrastruktur und hat für eine Seed-Runde ungewöhnlich viel Kapital von drei Top-Tier-VCs gleichzeitig eingesammelt – ein Hinweis darauf, wie dringend Unternehmen nach Identitätslösungen suchen, die für autonome KI-Agenten statt nur für menschliche Nutzer gebaut sind.",
+      "bild": ""
+    }
+  ]
+}

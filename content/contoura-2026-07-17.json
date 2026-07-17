@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Ganze Saison in einem Prompt: Langzeit-Musteranalyse mit Gemini 3.5 Pros 2-Mio-Token-Kontext",
+      "kontext": "Gemini 3.5 Pro bietet ab heute ein Kontextfenster von 2 Millionen Tokens plus einen tiefergehenden 'Deep Think'-Reasoning-Modus",
+      "umsetzung": "Contoura könnte die komplette Trainings- und Wettkampfhistorie eines Athleten über eine ganze Saison hinweg in einem einzigen Prompt an Gemini 3.5 Pro übergeben, um wiederkehrende Fehlermuster, saisonale Formkurven und Zusammenhänge zwischen Trainingsbelastung und Wettkampf-Performance-Index automatisch aufzudecken – bislang durch begrenzte Kontextfenster kaum in dieser Tiefe möglich.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisierte Nachbereitung durch Computer-Use-Agenten nach Meta-Vorbild",
+      "kontext": "Metas Muse Spark 1.1 zeigt, wie kostengünstige agentische Modelle mit Computer-Use-Fähigkeiten in Produktivumgebungen ankommen",
+      "umsetzung": "Ein Agent könnte nach jedem Wettkampf automatisch GPS-Tracks von Livelox und offizielle Split-Zeiten von o-l.ch abrufen, in Contoura einpflegen und einen ersten Analyse-Entwurf erstellen – der Athlet müsste den Bericht nur noch prüfen statt Daten manuell zusammenzutragen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Eigener MCP-Server für Contoura-Athletendaten",
+      "kontext": "Die finale MCP-Spezifikation vom 28. Juli macht Server zustandslos und einfacher produktiv zu betreiben, während Beta-SDKs bereits verfügbar sind",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server für Trainings- und Wettkampfdaten bereitstellen, sodass Athleten ihre Contoura-Historie direkt in beliebigen KI-Coaching-Agenten (z.B. Claude, ChatGPT) als Kontext nutzen können, ohne Daten manuell zu exportieren.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

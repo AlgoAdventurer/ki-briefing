@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Beta-SDKs für die finale MCP-Spezifikation (2026-07-28) verfügbar",
+      "typ": "SDK",
+      "detail": "Python-, TypeScript-, Go- und C#-SDKs mit Unterstützung für den Release Candidate der finalen MCP-Spezifikation sind jetzt als Beta verfügbar. Der stabile Python-SDK-v2-Release ist für den 27. Juli angekündigt, einen Tag vor der finalen Spec. Entwickler mit bestehenden MCP-Servern sollten jetzt gegen die Beta testen, da der Mcp-Session-Id-Header entfällt und Requests künftig auf beliebigen Server-Instanzen landen können.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Google veröffentlicht Developer Knowledge API mit eigenem MCP-Server",
+      "typ": "API",
+      "detail": "Die neue Developer Knowledge API von Google macht technische Dokumentation, Codebeispiele und Release Notes für Google-Produkte über eine strukturierte API abrufbar – inklusive einem dazugehörigen MCP-Server, damit KI-Coding-Assistenten direkt und aktuell auf Googles Entwicklerdokumentation zugreifen können, statt auf potenziell veraltete Trainingsdaten angewiesen zu sein.",
+      "url": "https://developers.googleblog.com/introducing-the-developer-knowledge-api-and-mcp-server/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Thinking Machines veröffentlicht Inkling: offenes 1-Billionen-Parameter-Multimodalmodell",
+      "typ": "Open Source",
+      "detail": "Inkling ist laut Thinking Machines das erste offene Modell mit rund 1 Billion Parametern und 1 Million Token Kontext, das nativ Bild, Text und Audio verarbeitet. Trainiert auf 45 Billionen Tokens aus Text, Bild, Audio und Video, richtet es sich an Entwickler, die ein selbst hostbares, wirklich multimodales Fundament-Modell ohne API-Abhängigkeit von einem der großen Anbieter suchen.",
+      "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "codebeispiel": ""
+    }
+  ]
+}

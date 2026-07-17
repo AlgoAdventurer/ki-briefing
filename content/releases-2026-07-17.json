@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-17",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.5 Pro",
+      "version": "3.5",
+      "anbieter": "Google DeepMind",
+      "detail": "Heute veröffentlicht, mit 2 Millionen Token Kontextfenster – genug für komplette Bücher oder Codebasen in einer einzigen Anfrage. Der neue 'Deep Think'-Reasoning-Modus ist dem 250-Dollar-Ultra-Tarif vorbehalten, einen kostenlosen Zugang zum Modell gibt es bislang nicht. Damit ist der 3.5er-Familien-Rollout nach Gemini 3.5 Flash im Mai nun komplett.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "GPT-5.6",
+      "version": "5.6 (Sol / Terra / Luna)",
+      "anbieter": "OpenAI",
+      "detail": "GPT-5.6 ist seit dieser Woche das Standardmodell in ChatGPT und kommt in drei Varianten: Sol für High-End-Reasoning, Coding und Wissenschaft (5$/30$ pro Mio. Tokens), Terra auf GPT-5.5-Niveau zum halben Preis, und Luna für schnelle, günstige High-Volume-Aufgaben. Sol läuft zusätzlich auf Cerebras-Hardware mit bis zu 750 Tokens pro Sekunde.",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Spark",
+      "version": "1.1",
+      "anbieter": "Meta",
+      "detail": "Agentisches Modell mit 1 Million Token Kontext und Computer-Use über Desktop, Browser und Mobile hinweg. Erstmals bietet Meta dafür eine kostenpflichtige Entwickler-API in Public Preview an – ein Bruch mit der bisherigen reinen Open-Weight-Strategie des Unternehmens.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-takes-aim-google-openai-185601327.html",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    }
+  ]
+}

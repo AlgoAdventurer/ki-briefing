@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google veröffentlicht Gemini 3.5 Pro mit 2-Millionen-Token-Kontext – Launch fällt mit Chinas KI-Gipfel zusammen",
+      "quelle": "Google DeepMind / Branchenberichte",
+      "quelleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
+      "zusammenfassung": "Nach mehreren Verschiebungen ist Gemini 3.5 Pro heute offiziell erschienen. Das Modell bietet ein Kontextfenster von 2 Millionen Tokens, spürbare Fortschritte bei Coding und langem Reasoning sowie den neuen 'Deep Think'-Modus im 250-Dollar-Ultra-Tarif. Der Launch-Termin fällt bewusst mit dem Eröffnungstag der World Artificial Intelligence Conference in Shanghai zusammen.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Xi Jinping hält erstmals persönlich Keynote auf Chinas KI-Gipfel WAIC in Shanghai",
+      "quelle": "CGTN / South China Morning Post",
+      "quelleUrl": "https://www.scmp.com/tech/article/3360404/xi-jinping-attend-world-ai-conference-first-time-china-elevates-tech-push",
+      "zusammenfassung": "Zum ersten Mal seit Gründung der World Artificial Intelligence Conference 2018 tritt Chinas Staatschef persönlich bei der Eröffnung auf. Mit über 1.400 Gästen, 1.100 Ausstellern und mehr als 300 Weltpremieren positioniert Peking die Konferenz als Bühne für eine eigene globale KI-Governance-Agenda – zeitgleich zu Googles Gemini-3.5-Pro-Launch in den USA.",
+      "kategorie": "Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta stellt Muse Spark 1.1 vor – erstes kostenpflichtiges Entwickler-API von Meta",
+      "quelle": "Finance Yahoo / Branchenberichte",
+      "quelleUrl": "https://finance.yahoo.com/technology/ai/articles/meta-takes-aim-google-openai-185601327.html",
+      "zusammenfassung": "Muse Spark 1.1 ist ein agentisches Modell mit 1 Million Token Kontext, das laut Meta bei Agenten-Benchmarks mit GPT-5.5 und Claude Opus 4.8 mithalten kann. Erstmals öffnet Meta dafür eine kostenpflichtige Entwickler-API in Public Preview inklusive Computer-Use-Fähigkeiten für Desktop, Browser und Mobile – ein deutlicher strategischer Schwenk vom bisherigen Gratis-Open-Weight-Kurs.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Anthropic bereitet Börsengang vor und verhandelt mit Samsung über eigenen KI-Chip",
+      "quelle": "Fortune / Branchenberichte",
+      "quelleUrl": "https://fortune.com/2026/07/02/sam-altman-new-world-order-ai-openai-google-anthropic/",
+      "zusammenfassung": "Anthropic soll ein S-1-Filing für einen Börsengang vorbereiten, möglicherweise bereits im Oktober 2026 – gestützt durch langfristige Compute-Deals, die die Umsatzplanung berechenbarer machen. Parallel laufen Gespräche mit Samsung über einen kundenspezifischen KI-Chip für Claude-Modelle. Anthropic hat OpenAI beim selbst berichteten Umsatz bereits überholt und peilt 47 Milliarden Dollar annualisierten Umsatz an.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
