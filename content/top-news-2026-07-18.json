@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Moonshot AI veröffentlicht Kimi K3 – größtes Open-Source-Modell der Welt",
+      "quelle": "VentureBeat / CNBC",
+      "quelleUrl": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "zusammenfassung": "Das von Alibaba unterstützte Moonshot AI hat Kimi K3 vorgestellt, ein Sparse-Mixture-of-Experts-Modell mit rund 2,8 Billionen Parametern und 1 Million Token Kontext – laut Unternehmen das größte Open-Source-Modell überhaupt. In vier von acht Automatisierungs-Benchmarks lag K3 vorne, bleibt insgesamt aber hinter Claude Fable 5 und GPT-5.6 Sol zurück. Die offenen Gewichte sollen am 27. Juli folgen.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Xi Jinping gründet WAICO – Chinas Gegenentwurf zur globalen KI-Governance",
+      "quelle": "Al Jazeera / CNBC",
+      "quelleUrl": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "zusammenfassung": "Bei der Eröffnung der World Artificial Intelligence Conference in Shanghai hat Xi Jinping erstmals persönlich die Gründung der World AI Cooperation Organization (WAICO) verkündet – ein zwischenstaatliches Bündnis mit 29 Gründungsstaaten aus dem Globalen Süden, das in Shanghai seinen Sitz haben wird. Die Organisation gilt als direktes Gegenstück zur US-geführten Initiative 'Pax Silica' und positioniert China als Anbieter günstiger, offener KI-Modelle für Entwicklungsländer.",
+      "kategorie": "Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI stellt Atlas-Browser ein und bündelt alles in einer ChatGPT-Superapp",
+      "quelle": "TechCrunch / 9to5Mac",
+      "quelleUrl": "https://techcrunch.com/2026/07/09/openai-is-shutting-down-atlas-but-its-ai-browser-ambitions-are-still-growing/",
+      "zusammenfassung": "Keine acht Monate nach dem Start schaltet OpenAI seinen eigenständigen Atlas-Browser am 9. August endgültig ab. Die Funktionen wandern in die überarbeitete ChatGPT-Desktop-App, die jetzt einen eingebauten Browser, Codex und den neuen Agenten 'ChatGPT Work' vereint. Der Schritt gilt als Teil eines größeren Aufräumens bei OpenAI, das sich stärker auf Produktivität statt auf Nebenprojekte konzentrieren will.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "TSMC meldet Rekordgewinn und pumpt weitere 100 Milliarden Dollar nach Arizona",
+      "quelle": "Yahoo Finance / TechTimes",
+      "quelleUrl": "https://finance.yahoo.com/markets/stocks/articles/tsmc-q2-2026-earnings-record-112109987.html",
+      "zusammenfassung": "Der weltgrößte Chip-Auftragsfertiger verzeichnet im zweiten Quartal einen Nettogewinn-Sprung von 77 Prozent, getrieben von KI-Chip-Nachfrage, die inzwischen 66 Prozent des Umsatzes ausmacht. TSMC hebt sein Capex-Ziel für 2026 auf 60 bis 64 Milliarden Dollar an und kündigt zusätzliche 100 Milliarden Dollar für vier weitere Fabriken in Arizona an – Gesamtinvestition dort damit 265 Milliarden Dollar.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

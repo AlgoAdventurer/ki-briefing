@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Offline-Feedback im Funkloch: On-Device-Modell wie Bonsai 27B direkt in der Contoura-App",
+      "kontext": "PrismML hat mit Bonsai 27B ein 27-Milliarden-Parameter-Modell auf 3,9 GB komprimiert, das komplett offline auf einem iPhone läuft",
+      "umsetzung": "Contoura könnte ein kompaktes On-Device-Modell wie Bonsai 27B integrieren, damit Athleten direkt nach dem Zieleinlauf mitten im Wald – oft ohne Netzempfang – erste automatische Kommentare zu Splits und Fehlermustern erhalten, statt auf eine Internetverbindung und Cloud-APIs warten zu müssen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige Saisonanalysen dank offener Kimi-K3-Gewichte",
+      "kontext": "Moonshot AI veröffentlicht am 27. Juli die offenen Gewichte von Kimi K3, einem Modell mit 1-Mio-Token-Kontext, das in mehreren Automatisierungs-Benchmarks vorne liegt",
+      "umsetzung": "Contoura könnte Kimi K3 selbst hosten oder über günstige Cloud-Anbieter nutzen, um komplette Trainings- und Wettkampfhistorien über eine ganze Saison hinweg kosteneffizient auszuwerten, statt für jede Analyse teure proprietäre APIs wie GPT-5.6 oder Claude anzufragen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Ghost-Run-Visualisierung durch generative Video-/World-Model-Technologie",
+      "kontext": "Der Videogenerierungs-Anbieter PixVerse treibt mit frischen 439 Millionen Dollar Kapital Weltmodell-Technologie für Echtzeit-interaktive Videos voran",
+      "umsetzung": "Contoura könnte ähnliche generative Video-Technologie nutzen, um aus GPS-Tracks und Split-Zeiten einen animierten 'Ghost-Run'-Vergleich zwischen zwei Athleten direkt auf der Originalkarte zu erzeugen – visuell und intuitiv nachvollziehbar statt nur Zahlen in einer Tabelle.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

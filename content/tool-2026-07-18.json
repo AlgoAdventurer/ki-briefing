@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-18",
+  "name": "ChatGPT Work",
+  "tagline": "OpenAIs autonomer Arbeits-Agent für stundenlange Multi-App-Aufgaben",
+  "beschreibung": "ChatGPT Work ist ein autonomer Agent in der überarbeiteten ChatGPT-Desktop-App, der Recherche betreibt und eigenständig Dokumente, Tabellen mit Formeln und sogar Web-Apps erstellt. Dabei greift er direkt auf verbundene Unternehmens-Apps wie SharePoint, Google Drive, Slack, Linear und Figma zu. Ein neuer 'Ultra Acceleration'-Modus koordiniert mehrere Agenten parallel, um komplexe Aufgaben schneller abzuschließen. Der Launch fällt zeitlich mit der Einstellung von OpenAIs eigenständigem Atlas-Browser zusammen, dessen Funktionen jetzt direkt in die App wandern.",
+  "useCase": "Ein Marketing-Team gibt ChatGPT Work den Auftrag, aus Rohdaten in Google Drive und Slack-Threads eine vollständige Kampagnenauswertung samt Tabelle und Präsentationsentwurf zu erstellen – der Agent arbeitet dabei mehrere Stunden autonom weiter, während das Team an anderen Aufgaben sitzt.",
+  "url": "https://dataconomy.com/2026/07/10/chatgpt-work-productivity-agent-openai/",
+  "kategorie": "Productivity / Agents",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Agenten", "Produktivität", "OpenAI", "ChatGPT"]
+}

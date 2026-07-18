@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "name": "Kimi K3",
+      "version": "K3 Max / K3 Swarm Max",
+      "anbieter": "Moonshot AI",
+      "detail": "Sparse-Mixture-of-Experts-Modell mit ca. 2,8 Billionen Gesamtparametern und 1 Million Token Kontext, basierend auf den neuen Architektur-Bausteinen 'Kimi Delta Attention' und 'Attention Residuals'. Zwei Varianten: K3 Max für Chat und Agentenaufgaben, K3 Swarm Max für massiv-parallele Verarbeitung. API-Preis: 3$ Input / 15$ Output pro Million Tokens, offene Gewichte folgen am 27. Juli.",
+      "url": "https://www.cnbc.com/2026/07/17/moonshot-ai-kimi-k3-model-openai-anthropic-china.html",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Bonsai 27B",
+      "version": "1-bit / Ternär",
+      "anbieter": "PrismML",
+      "detail": "Komprimierte Fassung von Qwen3.6-27B, die dank 1-Bit-Quantisierung auf 3,9 GB schrumpft und erstmals ein 27B-Modell direkt auf einem iPhone lauffähig macht – bei 90% der Performance des Originalmodells über 15 Benchmarks. Läuft mit rund 11 Tokens/Sekunde offline, komplett unter Apache-2.0-Lizenz. Apple prüft laut Berichten die Technologie für eigene On-Device-Anwendungen.",
+      "url": "https://alphasignal.ai/news/prismml-shrinks-bonsai-27b-to-3-9-gb-so-it-runs-on-an-iphone",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Grok 4.5",
+      "version": "4.5",
+      "anbieter": "SpaceXAI (xAI)",
+      "detail": "Auf der 1,5-Billionen-Parameter-V9-Basis trainiert, zusätzlich mit echten Cursor-Sessions für Coding- und Agentenaufgaben verfeinert. Elon Musk bezeichnet es als 'Opus-Klasse, aber schneller, token-effizienter und günstiger'. Preis: 2$ Input / 6$ Output pro Million Tokens, verfügbar in Grok Build, allen Cursor-Plänen und über die SpaceXAI-Konsole.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "bild": ""
+    }
+  ]
+}

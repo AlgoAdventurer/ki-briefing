@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "firma": "PixVerse",
+      "betrag": "$439M",
+      "runde": "Series C (Extension)",
+      "investoren": "Alibaba, Mirae Asset, CDH Investments, u.a.",
+      "beschreibung": "Der in Singapur ansässige Videogenerierungs-Anbieter PixVerse hat seine Series-C-Runde um 439 Millionen Dollar erweitert, die Bewertung übersteigt damit 2 Milliarden Dollar. Mit über 150 Millionen registrierten Nutzern will das Unternehmen sein 'World Model' für Echtzeit-interaktive Videos ausbauen und plant zusätzlich eine neue V-Series für Videogenerierung.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "pQCee",
+      "betrag": "$3.9M",
+      "runde": "Seed",
+      "investoren": "SGInnovate, Lotus One Investment",
+      "beschreibung": "Das Singapurer Startup pQCee entwickelt quantensichere Cybersecurity-Lösungen und hat eine Seed-Runde über 3,9 Millionen Dollar abgeschlossen. Das Kapital fließt in Neueinstellungen und die Expansion nach Asien, in die USA, nach Europa und in den Nahen Osten – ein Zeichen für wachsende Nachfrage nach quantenresistenter Verschlüsselung, während leistungsfähigere KI-Modelle klassische Kryptografie zunehmend angreifbar machen.",
+      "bild": ""
+    }
+  ]
+}

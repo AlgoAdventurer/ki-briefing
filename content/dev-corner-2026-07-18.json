@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28 als Release Candidate: statuslos und lastverteilbar",
+      "typ": "Open Source",
+      "detail": "Die größte Revision seit Einführung des Model Context Protocol steht kurz vor der Fertigstellung: Server können künftig komplett zustandslos auf gewöhnlicher HTTP-Infrastruktur laufen, Traffic lässt sich über einen Mcp-Method-Header simpel per Round-Robin verteilen, und ein neues Extensions-Framework erlaubt es, Fähigkeiten wie Tasks oder MCP Apps unabhängig vom Kern-Protokoll weiterzuentwickeln. Stabile SDKs (Python, TypeScript, Go, C#) sind für den 27. Juli angekündigt, einen Tag vor der finalen Spezifikation.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "PyTorch 2.13: rund 12x schnellere Sparse Attention auf Apple Silicon",
+      "typ": "Open Source",
+      "detail": "Die neue PyTorch-Version bringt deutlich optimierte Sparse-Attention-Kernel für Apple-Silicon-Chips, was Training und Inferenz von Transformer-Modellen auf Mac-Hardware laut ersten Benchmarks um bis zu Faktor 12 beschleunigt. Relevant für Entwickler, die lokal auf Macs experimentieren oder On-Device-Modelle wie Bonsai 27B trainieren und feintunen wollen, ohne auf Cloud-GPUs angewiesen zu sein.",
+      "url": "https://www.aiapps.com/blog/july-ai-mega-update-major-breakthroughs-launches/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Grok 4.5 direkt in Cursor integriert – Cursor-Session-Daten flossen ins Training",
+      "typ": "API",
+      "detail": "xAI hat Grok 4.5 explizit mit echten Cursor-Coding-Sessions trainiert und das Modell ab Tag eins in allen Cursor-Plänen sowie über eine eigene API verfügbar gemacht. Für Entwickler bedeutet das ein Modell, das auf reale Agenten-Workflows in einer verbreiteten IDE zugeschnitten ist statt nur auf generische Coding-Benchmarks – zum Preis von 2$/6$ pro Million Input-/Output-Tokens.",
+      "url": "https://www.fullstack.com/labs/resources/blog/grok-4-5-a-closer-look-at-xais-latest-model",
+      "codebeispiel": ""
+    }
+  ]
+}

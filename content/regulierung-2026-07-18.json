@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "China gründet WAICO als globale Gegen-Institution zur KI-Governance",
+      "region": "Global",
+      "detail": "Auf der World AI Conference in Shanghai hat Xi Jinping die World AI Cooperation Organization (WAICO) aus der Taufe gehoben – ein Bündnis mit 29 Gründungsstaaten, vorwiegend aus dem Globalen Süden (u.a. Indonesien, Brasilien, Südafrika, Pakistan), mit Hauptsitz in Shanghai. China positioniert offene, günstige KI-Modelle als Entwicklungshilfe und bietet damit ein direktes Gegengewicht zur US-geführten 'Pax Silica'-Initiative mit 35 Mitgliedsstaaten – ein klares Rennen um die globale Standardsetzung in der KI-Regulierung.",
+      "url": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU veröffentlicht Cloud and AI Development Act im Amtsblatt",
+      "region": "EU",
+      "detail": "Nach dem finalen grünen Licht für das Digital-Omnibus-Paket Anfang Juli ist der Cloud and AI Development Act am 15. Juli offiziell im EU-Amtsblatt erschienen. Das Gesetz soll europäische Cloud- und KI-Infrastruktur stärken und ergänzt die parallel laufende Durchsetzung des AI Acts, dessen Chatbot-Transparenzpflichten seit dem 10. Juli greifen – die vollständigen Transparenzregeln folgen im August.",
+      "url": "https://regulations.ai/news/eu-cloud-ai-act-prepare-july-2026-publication",
+      "auswirkung": "mittel"
+    }
+  ]
+}
