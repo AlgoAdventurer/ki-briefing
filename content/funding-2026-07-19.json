@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1.505 Mrd",
+      "runde": "Series D",
+      "investoren": "Nicht vollständig offengelegt, Bewertung $17.5 Mrd",
+      "beschreibung": "Fireworks AI baut Infrastruktur, mit der Unternehmen generische Foundation-Modelle in spezialisierte, auf eigenen Daten trainierte Intelligenz verwandeln. Die Mega-Runde vom 16. Juli unterstreicht, wie stark Investoren weiterhin in KI-Infrastruktur-Anbieter abseits der großen Foundation-Model-Labs pumpen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Walden Robotics",
+      "betrag": "$300M",
+      "runde": "Stealth-Launch-Finanzierung",
+      "investoren": "Nicht vollständig offengelegt",
+      "beschreibung": "Walden Robotics verlässt mit 300 Millionen Dollar den Stealth-Modus und positioniert sich als Full-Stack-Physical-AI-Firma, die general-purpose Roboter baut und betreibt. Zeigt den anhaltenden Kapitalzustrom in verkörperte KI ('Embodied AI') als nächstes großes Investitionsfeld nach den reinen Sprachmodellen.",
+      "bild": ""
+    }
+  ]
+}

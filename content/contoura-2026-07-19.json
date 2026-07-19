@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige Vision-Reasoning-Power durch offene Modelle wie Kimi K3 für automatische Kartenanalyse",
+      "kontext": "Kimi K3 bietet native Bildverarbeitung, 1-Million-Token-Kontext und permanentes Reasoning zu einem Bruchteil der Kosten von Closed-Source-Flaggschiffen – die Gewichte werden zudem Ende Juli offen verfügbar",
+      "umsetzung": "Contoura könnte Kartenausschnitte, GPS-Tracks und Split-Zeiten gemeinsam an ein günstiges offenes Modell wie Kimi K3 übergeben, um automatisch Laufwege mit der Originalkarte abzugleichen und typische Navigationsfehler (Umwege, falsche Routenwahl) visuell zu markieren – bei geringen Token-Kosten skalierbar auf die gesamte Athleten-Community, nicht nur Premium-Nutzer.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Browser-Agent per Chrome DevTools MCP holt Wettkampfdaten automatisch von o-l.ch und Livelox",
+      "kontext": "Der neue Chrome DevTools MCP Server erlaubt KI-Agenten, ein echtes Chrome-Fenster zu steuern, Seiten zu inspizieren und Interaktionen auszuführen",
+      "umsetzung": "Ein Agent könnte direkt nach einem Wettkampf die Ranglisten- und Split-Zeiten-Seiten auf o-l.ch sowie den GPS-Track auf Livelox im Browser öffnen, die relevanten Daten extrahieren und automatisch in Contoura einpflegen – ohne dass Contoura eigene Scraper oder APIs für jede Plattform bauen und warten muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Automatisch generierte Trainingsberichte im Stil von ChatGPT Work / Codex-Agenten",
+      "kontext": "ChatGPT Work zeigt, wie ein Agent aus Rohdaten eigenständig fertige Dokumente und Präsentationen produziert, statt nur Textbausteine zu liefern",
+      "umsetzung": "Contoura könnte nach jedem Trainingsblock oder Wettkampf einen Agenten anstoßen, der Split-Zeiten, Fehlerstatistik und Performance-Index automatisch zu einem fertig formatierten Wochenbericht mit Diagrammen zusammenfasst, den Athlet und Trainer direkt herunterladen oder teilen können.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

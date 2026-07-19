@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Moonshot AI veröffentlicht Kimi K3 – größtes offenes KI-Modell aller Zeiten lässt Chip-Aktien fallen",
+      "quelle": "VentureBeat / Fortune",
+      "quelleUrl": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "zusammenfassung": "Das chinesische Labor Moonshot AI hat mit Kimi K3 ein offenes Modell mit 2,8 Billionen Parametern vorgestellt – rund 75% größer als DeepSeek V4 Pro. Mit 1-Million-Token-Kontext, nativer Bildverarbeitung und permanentem 'Thinking Mode' landet es auf Platz 3 der Artificial-Analysis-Rangliste hinter Claude Fable 5 und GPT-5.6 Sol, schlägt beide aber im Frontend-Coding-Benchmark. Die Gewichte folgen erst am 27. Juli, die Ankündigung löste dennoch einen spürbaren Kursrutsch bei US-Chip-Aktien aus.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Claude Fable 5: Gratiszugang für Abo-Kunden endet heute nach dritter Verlängerung",
+      "quelle": "Bleeping Computer / Forbes",
+      "quelleUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "zusammenfassung": "Anthropic hatte den kostenlosen Zugang zu Claude Fable 5 für Pro-, Max-, Team- und Enterprise-Kunden bereits zum dritten Mal verlängert, nachdem OpenAIs neues GPT-5.6 Sol bei vergleichbarer Leistung deutlich günstiger abschneidet. Die Frist läuft heute um 23:59 Uhr PT endgültig aus – danach kostet Fable 5 pauschal 10 Dollar pro Million Input- und 50 Dollar pro Million Output-Token. Der wiederholte Rückzieher zeigt, wie stark der Preisdruck durch OpenAI aktuell auf Anthropic wirkt.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Qualcomm verhandelt über Milliarden-Übernahme des KI-Chip-Startups Tenstorrent",
+      "quelle": "The Information / Tom's Hardware",
+      "quelleUrl": "https://www.tomshardware.com/tech-industry/artificial-intelligence/qualcomm-mulls-taking-over-jim-kellers-tenstorrent-report-claims-deal-for-ai-chipmaker-would-value-the-company-at-between-usd8-billion-and-usd10-billion",
+      "zusammenfassung": "Qualcomm führt fortgeschrittene Gespräche über den Kauf von Tenstorrent, dem von Chip-Legende Jim Keller gegründeten KI-Beschleuniger-Startup auf offener RISC-V-Basis. Die Bewertung liegt zwischen 8 und 10 Milliarden Dollar. Der Deal würde Qualcomms Vorstoß ins lukrative KI-Rechenzentrumsgeschäft massiv beschleunigen und zeigt, wie sehr klassische Chiphersteller abseits des Smartphone-Geschäfts auf KI-Infrastruktur setzen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI verschmilzt ChatGPT mit Codex zu 'ChatGPT Work' für eigenständige Business-Aufgaben",
+      "quelle": "OpenAI / 9to5Mac",
+      "quelleUrl": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "zusammenfassung": "OpenAI hat die Codex-App mit der neuen ChatGPT-Desktop-App verschmolzen und 'ChatGPT Work' eingeführt: ein Agent, der über mehrere Business-Apps und lokale Dateien hinweg fertige Ergebnisse wie Tabellen, Präsentationen, Dokumente und Web-Apps erstellt und dabei stundenlang eigenständig an komplexen Projekten weiterarbeitet. Angetrieben wird das Ganze vom neuen Flaggschiff-Modell GPT-5.6. Der Rollout startet für Pro-, Enterprise- und Edu-Konten, Plus und Business folgen in den kommenden Tagen – ein direkter Angriff auf Anthropics Claude Cowork.",
+      "kategorie": "KI-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

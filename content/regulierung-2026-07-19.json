@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Rat gibt finales grünes Licht für 'Digital Omnibus' – Hochrisiko-Pflichten der KI-Verordnung verschoben",
+      "region": "EU",
+      "detail": "Der EU-Rat hat die Vereinfachung der KI-Verordnung final abgesegnet: Die Pflichten für Hochrisiko-KI-Systeme verschieben sich von August 2026 um 16 Monate auf den 2. Dezember 2027, auch die Pflicht der Mitgliedstaaten zu nationalen Regulatory Sandboxes rutscht auf August 2027. Gleichzeitig führt die Novelle ein neues explizites Verbot für die Erzeugung nicht-einvernehmlicher sexualisierter KI-Inhalte und von Missbrauchsdarstellungen (CSAM) ein. Für Unternehmen bedeutet das mehr Vorbereitungszeit, aber auch neue rote Linien.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/06/29/artificial-intelligence-council-gives-final-green-light-to-simplify-and-streamline-rules/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Schweiz bereitet Gesetzesentwurf zur KI-Konvention des Europarats vor",
+      "region": "Schweiz",
+      "detail": "DETEC, EDA und das Bundesamt für Justiz und Polizei erarbeiten bis Ende 2026 einen Vernehmlassungsentwurf zur Umsetzung der Europarats-Konvention über KI, Menschenrechte, Demokratie und Rechtsstaatlichkeit. Der Entwurf soll insbesondere Transparenz-, Datenschutz-, Diskriminierungsschutz- und Aufsichtsregeln definieren. Die Schweiz positioniert sich dabei bewusst gegen eine zu strikte globale KI-Über-Regulierung, wie ein Bundesratsmitglied kürzlich betonte.",
+      "url": "https://www.swissinfo.ch/eng/swiss-ai/switzerland-does-not-want-too-much-global-regulation-of-ai/91716874",
+      "auswirkung": "mittel"
+    }
+  ]
+}

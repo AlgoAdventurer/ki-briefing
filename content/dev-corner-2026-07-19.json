@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Release Candidate macht das Protokoll zustandslos",
+      "typ": "Protokoll / SDK",
+      "detail": "Die größte Überarbeitung des Model Context Protocol seit dem Launch steht kurz vor der Fertigstellung. Kernänderung: MCP wird auf Protokollebene zustandslos, sodass Remote-Server ohne Sticky Sessions oder geteilten Session-Store hinter einem stinknormalen Round-Robin-Load-Balancer laufen können. Dazu kommen serverseitig gerenderte UIs via 'MCP Apps', eine 'Tasks'-Extension für lang laufende Jobs sowie eine Autorisierung, die enger an OAuth/OpenID Connect angelehnt ist. Die finale Spezifikation erscheint am 28. Juli.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Chrome DevTools MCP Server bringt Browser-Kontrolle in Public Preview",
+      "typ": "MCP-Server",
+      "detail": "Google öffnet die Chrome-DevTools-Fähigkeiten für KI-Coding-Agenten per MCP: Agenten können damit Seiten live inspizieren, Netzwerk-Requests analysieren, Performance-Traces auslesen und Interaktionen in einem echten Chrome-Fenster ausführen statt nur mit statischem HTML zu arbeiten. Relevant für jeden Coding-Agenten-Workflow (z.B. Claude Code), der UI-Bugs selbstständig verifizieren oder End-to-End-Flows testen soll.",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "X (Twitter) veröffentlicht offiziellen gehosteten MCP-Server",
+      "typ": "API / MCP-Server",
+      "detail": "X bietet nun einen gehosteten MCP-Server an, über den KI-Agenten direkt auf Such-, Post- und Profildaten der Plattform zugreifen können, ohne eigene API-Wrapper zu bauen. Teil eines breiteren Trends: Nach Google und Grist stellen immer mehr Plattformen offizielle MCP-Server bereit, statt Drittanbieter-Integrationen zu überlassen.",
+      "url": "https://techcrunch.com/2026/06/30/x-now-offers-an-mcp-server-to-make-its-platform-easier-for-ai-tools-to-use/",
+      "codebeispiel": ""
+    }
+  ]
+}

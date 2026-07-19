@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-19",
+  "items": [
+    {
+      "id": 1,
+      "name": "Kimi K3",
+      "version": "K3",
+      "anbieter": "Moonshot AI",
+      "detail": "Offenes Modell mit 2,8 Billionen Parametern (75% größer als DeepSeek V4 Pro), 1-Million-Token-Kontext, nativer Bildverarbeitung und permanentem Reasoning-Modus. Zwei neue Architektur-Bausteine – 'Kimi Delta Attention' und 'Attention Residuals' – sollen konsistente Skalierungsgewinne liefern. API ist OpenAI-SDK-kompatibel, Preis liegt bei 3$/15$ pro Million Input-/Output-Token. Die offenen Gewichte folgen am 27. Juli.",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GPT-5.6",
+      "version": "Sol / Terra / Luna",
+      "anbieter": "OpenAI",
+      "detail": "Dreiteilige Modell-Familie: Sol für High-End-Reasoning, Coding und Wissenschaft (5$/30$ pro Mio. Token), Terra auf GPT-5.5-Niveau zum halben Preis, Luna als leichtgewichtige Variante. Treibt jetzt auch den neuen 'ChatGPT Work'-Agenten an. Laut Artificial Analysis erreicht Sol vergleichbare Leistung wie Claude Fable 5 zu deutlich geringeren Kosten und setzt Anthropic damit unter Preisdruck.",
+      "url": "https://kie.ai/blog/codex-chatgpt-work-gpt-5-6-analysis",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Inkling",
+      "version": "",
+      "anbieter": "Thinking Machines",
+      "detail": "Neues multimodales Mixture-of-Experts-Modell mit 975 Milliarden Gesamt- und 41 Milliarden aktiven Parametern pro Token. Verarbeitet Text-, Bild- und Audio-Eingaben und generiert Text-Ausgaben – ein weiterer Beleg dafür, wie schnell kompakte, effiziente MoE-Architekturen bei Frontier-Labs zum Standard werden.",
+      "url": "https://huggingface.co/blog/Svngoku/ai-models-week-july-09-2026",
+      "bild": ""
+    }
+  ]
+}

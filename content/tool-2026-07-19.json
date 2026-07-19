@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-19",
+  "name": "ChatGPT Work",
+  "tagline": "OpenAIs neuer Agent erledigt komplette Business-Aufgaben eigenständig statt nur Fragen zu beantworten",
+  "beschreibung": "ChatGPT Work verschmilzt die bisherige Codex-App mit der ChatGPT-Desktop-App zu einem einzigen Agenten, der über mehrere Apps und lokale Dateien hinweg fertige Arbeitsergebnisse produziert – Tabellen, Präsentationen, Dokumente und ganze Web-Apps. Angetrieben vom neuen Flaggschiff-Modell GPT-5.6 zerlegt der Agent komplexe Projekte selbstständig in Teilschritte und arbeitet stundenlang im Hintergrund weiter, ohne dass ständige Nachfragen nötig sind. Für Entwickler bleibt Codex als Coding-Agent erhalten, jetzt aber mit Inline-Diff-Bearbeitung, PR-Reviews in der Seitenleiste und Multi-Repo-Support in einem Projekt.",
+  "useCase": "Eine Marketing-Mitarbeiterin ohne Programmierkenntnisse bittet ChatGPT Work, aus Rohdaten in einer Tabelle automatisch eine fertige Quartalspräsentation samt Charts zu erstellen – der Agent sammelt die Daten, erstellt die Slides und liefert ein fertiges Deck statt nur Textbausteine.",
+  "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+  "kategorie": "Productivity / Agents",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Agenten", "OpenAI", "Automatisierung", "Business", "Codex"]
+}
