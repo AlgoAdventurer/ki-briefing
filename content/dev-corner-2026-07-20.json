@@ -1,0 +1,27 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Model Context Protocol: Finale Spezifikation 2026-07-28 als Release Candidate",
+      "typ": "Protokoll / SDK",
+      "detail": "Der Release Candidate für die MCP-Spezifikation vom 28. Juli 2026 macht das Protokoll leichter betreib- und erweiterbar: MCP-Server sollen künftig zustandslos auf gewöhnlicher HTTP-Infrastruktur laufen können, während neue Funktionen wie 'Tasks' und 'MCP Apps' über ein eigenes Extensions-Framework unabhängig vom Kernprotokoll weiterentwickelt werden. Laut aktuellen Zahlen laufen bei 78% der Enterprise-KI-Teams bereits MCP-Agenten in Produktion, mit rund 97 Millionen monatlichen SDK-Downloads über Anthropic, OpenAI, Google, Microsoft und weitere Anbieter hinweg.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/"
+    },
+    {
+      "id": 2,
+      "titel": "xAI legt Coding-Agent Grok Build als Open Source offen",
+      "typ": "Open Source / CLI",
+      "detail": "xAI hat den kompletten Quellcode seines Coding-Agenten Grok Build veröffentlicht: den Agent-Loop (Kontextaufbau, Antwort-Parsing, Tool-Dispatch), sämtliche Code-Tools zum Lesen, Bearbeiten, Suchen und Ausführen, die Terminal-UI inklusive Inline-Diff-Viewer sowie das komplette Erweiterungssystem mit Skills, Plugins, Hooks, MCP-Servern und Subagenten. Der Schritt kam auch als Reaktion auf zuvor entdeckte Privacy-Probleme, bei denen ganze Code-Repositories ungefragt in die Cloud synchronisiert wurden – dieses Verhalten wurde inzwischen abgeschaltet. Repository unter xai-org/grok-build, Lizenz Apache 2.0, externe Pull-Requests werden aber nicht angenommen.",
+      "url": "https://x.ai/news/grok-build-open-source"
+    },
+    {
+      "id": 3,
+      "titel": "Nemotron 3 Embed: Offene Embedding-API für RAG und Agent-Memory",
+      "typ": "API / Open Source",
+      "detail": "Mit Nemotron 3 Embed bringt NVIDIA offene, produktionsreife Embedding-Modelle für Retrieval-Augmented Generation, agentische Suche und Agent-Memory-Systeme heraus – kompatibel mit Standard-Embedding-Workflows, vLLM sowie NVIDIA-NIM-Microservices für den produktiven Einsatz. Für Entwickler, die eigene RAG-Pipelines oder Langzeitgedächtnis für Agenten bauen, ist das 8B-Checkpoint aktuell die Top-Wahl auf dem RTEB-Leaderboard und lässt sich dank offener Gewichte selbst hosten statt auf teure Closed-Source-Embedding-APIs angewiesen zu sein.",
+      "url": "https://huggingface.co/nvidia/Nemotron-3-Embed-8B-BF16",
+      "codebeispiel": "from sentence_transformers import SentenceTransformer\n\nmodel = SentenceTransformer(\"nvidia/Nemotron-3-Embed-8B-BF16\")\nembeddings = model.encode([\"Trainingsprotokoll Woche 12\", \"Split-Zeiten Wettkampf Sprint\"])"
+    }
+  ]
+}

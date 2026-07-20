@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Apple überholt Nvidia und wird wertvollstes Unternehmen der Welt",
+      "quelle": "CNBC / 9to5Mac",
+      "quelleUrl": "https://www.cnbc.com/2026/07/17/apple-nvidia-aapl-nvda-market-cap.html",
+      "zusammenfassung": "Apple hat Nvidia am Freitag als wertvollstes Unternehmen der Welt abgelöst und schloss mit einer Marktkapitalisierung von 4,88 Billionen Dollar, während Nvidia nach einem Kursrückgang von 3,5% auf rund 4,86 Billionen Dollar fiel. Der Wechsel spiegelt eine veränderte Anleger-Stimmung wider: Wall Street ist zunehmend unsicher über das Tempo der KI-Infrastruktur-Ausgaben, während Apple als weniger capex-intensiv gilt und stärker über Services, Ökosystem-Bindung und Hardware-Upgrades von KI profitieren kann.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Apple verklagt OpenAI wegen Diebstahls von Hardware-Geschäftsgeheimnissen",
+      "quelle": "CNBC / TechCrunch",
+      "quelleUrl": "https://www.cnbc.com/2026/07/10/apple-openai-lawsuit-trade-secrets.html",
+      "zusammenfassung": "Apple hat vor einem Bundesgericht in Nordkalifornien Klage gegen OpenAI eingereicht und wirft dem Unternehmen vor, systematisch Geschäftsgeheimnisse zu Hardware-Designs gestohlen zu haben – 'auf jeder Ebene', von einfachen Mitarbeitenden bis zum Chief Hardware Officer Tang Tan, einem früheren Apple-Vizepräsidenten. Laut Klage sollen abgeworbene Apple-Mitarbeitende sogar angeleitet worden sein, Sicherheitsprozesse beim Firmenaustritt zu umgehen; über 400 ehemalige Apple-Angestellte arbeiten inzwischen bei OpenAI. OpenAI weist die Vorwürfe zurück.",
+      "kategorie": "Recht / Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Google verschiebt Gemini 3.5 Pro erneut – Coding-Leistung bleibt hinter Erwartungen zurück",
+      "quelle": "Bloomberg / 9to5Google",
+      "quelleUrl": "https://9to5google.com/2026/07/16/gemini-3-5-pro-delays/",
+      "zusammenfassung": "Googles nächstes Flaggschiff-Modell Gemini 3.5 Pro verzögert sich laut einem Bloomberg-Bericht mit zehn aktuellen und ehemaligen Mitarbeitenden erneut um Monate, nachdem selbst neu trainierte Daten aus dem Juni die Coding- und Reasoning-Schwächen nicht beheben konnten. Intern wächst die Sorge, gegenüber Anthropic und OpenAI an Boden zu verlieren; Alphabets Aktie fiel nach Bekanntwerden der Berichte um über 4%. Google testet aktuell zusammen mit Partnern sowohl 3.5 Pro als auch ein verbessertes Flash-Modell.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "China gründet mit WAICO globale KI-Kooperationsorganisation mit 29 Staaten",
+      "quelle": "Al Jazeera / Xinhua",
+      "quelleUrl": "https://www.aljazeera.com/news/2026/7/17/chinas-xi-jinping-launches-new-ai-alliance-what-is-it",
+      "zusammenfassung": "Am Rande der World Artificial Intelligence Conference in Shanghai haben 29 Staaten – darunter Russland, Pakistan, Brasilien, Indonesien und Südafrika – die Gründung der World AI Cooperation Organization (WAICO) unterzeichnet, ein Vorschlag von Xi Jinping. UN-Generalsekretär António Guterres nahm an der Zeremonie teil. China kündigte zudem an, in den nächsten fünf Jahren 5.000 KI-Trainingsplätze für Entwicklungsländer bereitzustellen – ein klares Signal, globale KI-Standards abseits der USA mitzugestalten.",
+      "kategorie": "Politik / Global",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Kimi K3 erklimmt Platz 1 der Frontend-Code-Arena und schlägt Claude Fable 5",
+      "quelle": "BuildFastWithAI",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-18-2026",
+      "zusammenfassung": "Moonshot AIs offenes 2,8-Billionen-Parameter-Modell Kimi K3 ist innerhalb weniger Stunden von Platz 18 auf Platz 1 der Frontend Code Arena von Arena.ai geklettert und gewinnt dort 76% der direkten Duelle gegen Claude Fable 5. Auf der Terminal-Bench-2.1-Rangliste erreicht K3 88,3 Punkte. Die vollständigen Modellgewichte sollen laut Ankündigung bis zum 27. Juli offen veröffentlicht werden – ein weiteres Zeichen dafür, dass offene Modelle bei Top-Benchmarks zunehmend mit Closed-Source-Flaggschiffen mithalten.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

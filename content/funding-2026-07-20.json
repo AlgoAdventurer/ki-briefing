@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Harvey AI",
+      "betrag": "$200M",
+      "runde": "Series C",
+      "investoren": "Sequoia Capital (führend)",
+      "beschreibung": "Der Legal-AI-Anbieter Harvey erreicht mit der neuen Runde eine Bewertung von 2,1 Milliarden Dollar und rund 35 Millionen Dollar ARR. Kunden sind unter anderem Magic-Circle-Kanzleien und Rechtsabteilungen von Fortune-100-Unternehmen – ein Zeichen, wie stark vertikale KI-Agenten für regulierte Branchen inzwischen bei Investoren gefragt sind.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Lovable",
+      "betrag": "$200M",
+      "runde": "Series B",
+      "investoren": "n.n. (Investoren nicht im Detail veröffentlicht)",
+      "beschreibung": "Der schwedische Vibe-Coding-Anbieter Lovable sammelt 200 Millionen Dollar bei einer Bewertung von 2,8 Milliarden Dollar ein und zählt damit zu den grössten AI-Coding-Runden im Juli 2026. Das Unternehmen profitiert vom anhaltenden Boom bei No-Code/Vibe-Coding-Tools, mit denen auch Nicht-Entwickler funktionierende Apps aus Text-Prompts bauen können.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Glean",
+      "betrag": "$180M",
+      "runde": "Series D",
+      "investoren": "Kleiner Perkins (führend)",
+      "beschreibung": "Der Enterprise-Search- und Agenten-Anbieter Glean erreicht mit der neuen Runde eine Bewertung von 2,7 Milliarden Dollar und über 150 Millionen Dollar ARR bei mehr als 600 Unternehmenskunden. Die Runde reiht sich in eine Serie von Grossfinanzierungen für KI-Agenten-Plattformen ein, die im Juli 2026 zusammen über 1,8 Milliarden Dollar eingesammelt haben.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Offene Embedding-Modelle wie Nemotron 3 Embed für semantische Trainingsprotokoll-Suche",
+      "kontext": "NVIDIA hat mit Nemotron 3 Embed offene Embedding-Modelle veröffentlicht, die Platz 1 im Retrieval-Benchmark RTEB belegen und explizit für Agent-Memory und RAG-Systeme ausgelegt sind – selbst hostbar statt auf teure Closed-Source-APIs angewiesen",
+      "umsetzung": "Contoura könnte alle Trainingsnotizen, Trainerkommentare und Wettkampf-Debriefings eines Athleten mit Nemotron 3 Embed vektorisieren und durchsuchbar machen – so liesse sich automatisch fragen 'Wann hatte ich zuletzt ähnliche Navigationsfehler wie in diesem Lauf?' und relevante frühere Trainingseinheiten oder Wettkämpfe als Vergleich anzeigen, ganz ohne teure externe Embedding-API.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Mit Canva Code 2.0 schnelle Coach-Dashboards ohne Entwicklerressourcen bauen",
+      "kontext": "Canva Code 2.0 erlaubt es nicht-technischen Nutzern, aus Text-Prompts interaktive, editierbare Web-Erlebnisse zu bauen – jetzt auch im Gratis-Tarif",
+      "umsetzung": "Contoura-Trainer ohne Programmierkenntnisse könnten mit Canva Code 2.0 schnell individuelle Auswertungs-Dashboards oder Einladungsseiten für Trainingslager prototypisieren und mit dem Contoura-Branding versehen, bevor eine Funktion überhaupt fest in die Kernplattform eingebaut wird – ideal für schnelles Testen neuer Ideen bei der Vereinsführung.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

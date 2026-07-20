@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act tritt in Vollzugsphase: Chatbot-Kennzeichnungspflicht ab sofort scharf",
+      "region": "EU",
+      "detail": "Der AI Act der Europäischen Union ist am 10. Juli 2026 in seine Vollzugsphase eingetreten. Zentrale Neuerung: Unternehmen, die Chatbots, virtuelle Assistenten oder andere automatisierte Konversationssysteme mit Kontakt zu EU-Nutzern einsetzen, müssen ab sofort verpflichtend offenlegen, dass die Nutzer mit einer KI interagieren. Ergänzend hat die EU-Kommission am 7. Juli einen Cybersicherheits-Aktionsplan für fortgeschrittene KI-Modelle vorgestellt, der unter anderem eine EU-weite Evaluationskapazität für Modelle vor deren Markteinführung aufbauen soll.",
+      "url": "https://teachaitools.blog/blog/eu-ai-act-enforcement-begins-july-2026",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Schweiz setzt weiter auf sektorspezifische KI-Regulierung statt eigenem EU-ähnlichem Gesetz",
+      "region": "Schweiz",
+      "detail": "Der Bundesrat hält an seinem Kurs fest, kein eigenes KI-Gesetz nach EU-Vorbild zu schaffen, sondern bestehende sektorale Regeln punktuell anzupassen. Bis Ende 2026 soll das UVEK einen unverbindlichen Aktionsplan mit Leitlinien und Selbstregulierungs-Erklärungen für die Privatwirtschaft vorlegen, während für sensible Bereiche wie Gesundheit und autonome Mobilität verbindliche und unverbindliche Massnahmen erarbeitet werden. Zudem bereitet das Justizdepartement die Ratifizierung der KI-Konvention des Europarats vor.",
+      "url": "https://digital.swiss/de/strategie/fokusthema/schweizerischer-ansatz-zur-regulierung-von-ki-systemen",
+      "auswirkung": "mittel"
+    }
+  ]
+}

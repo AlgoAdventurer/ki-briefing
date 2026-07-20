@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-20",
+  "name": "Canva Code 2.0",
+  "tagline": "KI-Website- und App-Builder von Canva jetzt für alle Nutzer – auch kostenlos",
+  "beschreibung": "Canva Code 2.0 verwandelt einfache Text-Prompts in interaktive Websites, Apps und Erlebnisse, die sich anschliessend wie eine normale Canva-Präsentation per Drag-and-Drop weiterbearbeiten lassen. Das Feature ist jetzt für alle über 265 Millionen monatlichen Canva-Nutzer freigeschaltet, inklusive Gratis-Konten mit 20 täglichen Prompts (bezahlte Tarife erhalten 60). Neu sind Drag-and-Drop-Editing und HTML-Import, die laut Canva die Zeit für Code-Generierung um 75% reduzieren, sowie die Möglichkeit, Canva-Code-Projekte direkt in andere Designs wie Whiteboards oder Präsentationen einzubetten. Zielgruppe sind explizit keine Entwickler, sondern normale Canva-Nutzer, die ohne Programmierkenntnisse funktionierende Web-Erlebnisse bauen wollen.",
+  "useCase": "Ein Vereinscoach ohne Programmierkenntnisse beschreibt in Canva Code 2.0 in wenigen Sätzen ein interaktives Anmeldeformular für die nächste Trainingswoche inklusive Vereins-Branding – und erhält eine fertige, direkt einbettbare Web-Seite, die sich per Drag-and-Drop weiter anpassen lässt.",
+  "url": "https://www.canva.com/newsroom/news/Canva-Code/",
+  "kategorie": "Design / No-Code",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["No-Code", "Website-Builder", "Canva", "Vibe-Coding", "Design"]
+}

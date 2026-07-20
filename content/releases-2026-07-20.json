@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-20",
+  "items": [
+    {
+      "id": 1,
+      "name": "Grok 4.5",
+      "version": "4.5",
+      "anbieter": "xAI",
+      "detail": "xAI hat mit Grok 4.5 sein stärkstes Modell für Coding, agentische Aufgaben und Wissensarbeit veröffentlicht – ein Mixture-of-Experts-Modell mit rund 1,5 Billionen Parametern, trainiert unter anderem auf Cursor-Interaktionsdaten. Auf Terminal-Bench 2.1 erreicht Grok 4.5 83,3% bei nur rund einem Viertel der Output-Tokens vergleichbarer Aufgaben mit Claude Opus 4.8. Wenige Tage später öffnete xAI zusätzlich den kompletten Quellcode des Grok-Build-Agentenharnischs (Agent-Loop, Tools, Terminal-UI, Erweiterungssystem) unter Apache-2.0-Lizenz auf GitHub.",
+      "url": "https://x.ai/news/grok-4-5",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Muse Spark",
+      "version": "1.1",
+      "anbieter": "Meta",
+      "detail": "Metas Muse Spark 1.1 bringt ein 1-Millionen-Token-Kontextfenster sowie Computer-Use-Funktionen für Desktop, Browser und Mobile und positioniert sich damit gegen GPT-5.5 und Opus 4.8 bei agentischen Benchmarks – unter anderem auf Platz 1 bei JobBench und Finance Agent V2. Gleichzeitig startete Meta seine erste jemals kostenpflichtige Entwickler-API in einer öffentlichen Preview-Phase (20 Dollar Startguthaben, vorerst nur USA) mit paralleler Subagent-Delegation.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/meta-takes-aim-google-openai-185601327.html",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Nemotron 3 Embed",
+      "version": "3",
+      "anbieter": "NVIDIA",
+      "detail": "NVIDIA hat mit Nemotron 3 Embed eine offene Embedding-Modellfamilie (1B und 8B Parameter, plus 4-Bit-Variante für Blackwell-GPUs) veröffentlicht, die für produktionsreife RAG-Systeme, agentische Suche, Code-Retrieval und Agent-Memory ausgelegt ist. Das 8B-Modell führt aktuell das Retrieval Embedding Benchmark (RTEB) an, unterstützt bis zu 32.768 Tokens Kontext und wurde auf 34 Sprachen evaluiert. Gewichte und Trainings-Rezepte stehen offen auf Hugging Face unter der OpenMDW-1.1-Lizenz bereit.",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+      "bild": ""
+    }
+  ]
+}
