@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Selbstlernendes Athleten-Gedächtnis nach Vorbild von Perplexity Computer",
+      "kontext": "Perplexitys Agenten-Feature 'Computer' baut jetzt automatisch einen privaten Kontext-Graph aus Sessions, Dateien und früheren Entscheidungen auf, der sich jede Nacht selbst aktualisiert und aus jeder erledigten Aufgabe lernt",
+      "umsetzung": "Contoura könnte pro Athlet einen ähnlichen Kontext-Graph aufbauen, der Trainingsdokumentation, Split-Zeit-Analysen, Fehlerstatistiken und Performance-Index automatisch nächtlich verknüpft. So liesse sich beim Öffnen eines neuen Trainings direkt anzeigen: 'Deine Navigationsfehler häufen sich bei technischen Passagen nach über 60 Minuten Belastung' – ganz ohne manuelles Auswerten durch den Athleten oder Coach.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Selbst gehostete Ganzsaison-Analyse dank offener Modelle mit riesigem Kontextfenster",
+      "kontext": "Alibabas Qwen3.8 Max bietet als bald offen verfügbares Modell ein Kontextfenster von bis zu 984.000 Tokens – gross genug, um komplette Saison-Datensätze statt nur einzelner Wettkämpfe auf einmal zu verarbeiten",
+      "umsetzung": "Contoura könnte ein offenes Modell wie Qwen3.8 Max selbst hosten, um alle Trainingsprotokolle, Split-Zeiten und Wettkampfnotizen eines Athleten über eine ganze Saison hinweg in einem einzigen Kontext zu analysieren und automatisch saisonale Trends zu erkennen (z.B. nachlassende Kartenlese-Präzision im Herbst) – ohne laufende Kosten einer Closed-Source-API pro Token.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 3,
+      "titel": "Lang laufende Hintergrund-Auswertungen über die neue MCP-Tasks-Extension",
+      "kontext": "Die kommende MCP-Spezifikation vom 28. Juli 2026 bringt mit der 'Tasks'-Extension ein standardisiertes Format für lang laufende Hintergrundarbeit, die unabhängig vom Kernprotokoll läuft",
+      "umsetzung": "Contoura könnte rechenintensive Split-Zeit- und GPS-Track-Analysen (z.B. Vergleich mehrerer Läufer über eine ganze Trainingswoche) als MCP-Task im Hintergrund laufen lassen und Athleten oder Trainer per Benachrichtigung informieren, sobald die Auswertung fertig ist – statt sie beim Öffnen der App auf ein Ladefenster warten zu lassen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

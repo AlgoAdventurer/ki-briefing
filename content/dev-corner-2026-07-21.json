@@ -1,0 +1,19 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Developer Platform: Admin API Beta und Claude-Code-Stabilitätsupdate",
+      "typ": "API / SDK",
+      "detail": "Anthropic hat für die Claude Developer Platform eine Admin-API-Beta für Claude-Enterprise-Organisationen veröffentlicht: Admins können damit Mitglieder auflisten und nachschlagen, Rollen ändern, Mitglieder entfernen, Einladungen und Gruppen verwalten sowie benutzerdefinierte Rollen auslesen – alles programmatisch statt nur über die UI. Parallel erhielt Claude Code ein Stabilitäts- und Sicherheitsupdate mit strengeren Berechtigungsprüfungen, saubererem Aufräumen von Hintergrund-Sessions sowie einem neuen EndConversation-Tool und Progress-Heartbeats für lang laufende Agenten-Aufgaben.",
+      "url": "https://releasebot.io/updates/anthropic"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Spezifikation 2026-07-28: Beta-SDKs jetzt testbar",
+      "typ": "Protokoll / SDK",
+      "detail": "Für die grosse MCP-Spec-Überarbeitung vom 28. Juli 2026 stehen jetzt Beta-SDKs bereit, mit denen Entwickler die kommenden Änderungen – darunter das zustandslose, HTTP-freundliche Kernprotokoll sowie die neuen Extensions 'MCP Apps' und 'Tasks' für lang laufende Hintergrundarbeit – schon vorab ausprobieren können. Federführend sind Python v2 und TypeScript v2 als Tier-1-SDKs, ergänzt durch Go- und C#-Betas; ein stabiles v2-Release ist für den 27. Juli angepeilt, einen Tag vor der finalen Spezifikation.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8 Max",
+      "version": "3.8 Max Preview",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas Qwen-Team hat mit Qwen3.8 Max ein 2,4-Billionen-Parameter-Mixture-of-Experts-Modell mit bis zu 984.000 Tokens Kontext und 128.000 Tokens Output als Preview veröffentlicht, nutzbar über Token Plan, Qoder und QoderWork. Alibaba positioniert das Modell als zweitbeste KI der Welt hinter Anthropics Fable 5 – bislang aber nur gestützt auf interne, nicht unabhängig geprüfte Benchmarks. Offene Gewichte, Lizenz und ein reguläres API-Preismodell sollen 'bald' folgen, ein konkretes Datum nannte Alibaba noch nicht.",
+      "url": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Kimi K3",
+      "version": "",
+      "anbieter": "Moonshot AI",
+      "detail": "Nach dem Produkt- und API-Launch will Moonshot AI die vollständigen Modellgewichte von Kimi K3 (2,8 Billionen Parameter, erstes offenes Modell dieser Grössenordnung) bis zum 27. Juli 2026 veröffentlichen. Die extreme Nachfrage nach dem Modell hat kurzfristig sogar zur Pause neuer Konsumenten-Abos geführt, weil die verfügbare Rechenkapazität nicht mit dem Nutzeransturm mithalten konnte – ein Beleg dafür, wie stark offene chinesische Spitzenmodelle aktuell nachgefragt werden.",
+      "url": "https://kimi-k2.org/blog/31-kimi-k3-open-weights-july-27",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Vera Rubin AI SuperPOD",
+      "version": "",
+      "anbieter": "NVIDIA",
+      "detail": "Bristol Myers Squibb hat als erster grosser Pharmakonzern ein Vera-Rubin-AI-SuperPOD-System von Nvidia für Wirkstoffforschung und molekulares Design beschafft. Der Konzern erwartet dadurch eine Verkürzung klinischer Testzeiträume um 20 bis 30 Prozent – ein konkretes Beispiel dafür, wie Nvidias neueste Rechenzentrums-Generation ausserhalb von Big Tech in regulierten Branchen wie der Pharmaforschung Einzug hält.",
+      "url": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU zwingt Google, Android und Suchdaten für KI-Konkurrenten zu öffnen",
+      "region": "EU",
+      "detail": "Die EU-Kommission hat am 16. Juli zwei bindende Entscheidungen nach dem Digital Markets Act erlassen: Google muss rivalisierenden KI-Assistenten Zugriff auf elf Android-Systemfunktionen gewähren (z.B. Taxi-Buchung oder Antworten per Sprachbefehl) – umzusetzen mit Android 18 bis spätestens 1. August 2027, parallele Wake-Words ab August 2028. Zusätzlich muss Google ab Januar 2027 anonymisierte Suchdaten mit berechtigten Drittanbieter-Suchmaschinen und KI-Chatbots teilen. Bussgelder sind mit den Entscheidungen noch nicht verhängt, drohen bei Nichteinhaltung aber mit bis zu 10 Prozent des weltweiten Jahresumsatzes.",
+      "url": "https://digital-markets-act.ec.europa.eu/commission-provides-guidance-google-ai-interoperability-android-and-sharing-google-search-data-under-2026-07-16_en",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Kommission veröffentlicht Leitlinien zu Transparenzpflichten für KI-Systeme",
+      "region": "EU",
+      "detail": "Am 20. Juli hat die EU-Kommission ergänzende Leitlinien zu den Transparenzpflichten für Anbieter und Betreiber bestimmter KI-Systeme unter dem AI Act veröffentlicht. Sie konkretisieren, wie Unternehmen ihrer bereits seit Anfang Juli scharf gestellten Pflicht nachkommen müssen, Nutzer klar über den Einsatz von Chatbots und automatisierten KI-Systemen zu informieren – und schaffen damit mehr Rechtssicherheit in der laufenden Vollzugsphase des Gesetzes.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "auswirkung": "mittel"
+    }
+  ]
+}

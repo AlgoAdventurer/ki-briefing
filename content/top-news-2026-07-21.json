@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Moonshot AI pausiert Kimi-K3-Neuanmeldungen wegen GPU-Engpass",
+      "quelle": "South China Morning Post / TechStartups",
+      "quelleUrl": "https://www.scmp.com/tech/article/3361172/kimi-k3-developer-suspends-new-subscriptions-amid-compute-constraints",
+      "zusammenfassung": "Das chinesische KI-Startup Moonshot AI hat neue Konsumenten-Abos für sein 2,8-Billionen-Parameter-Modell Kimi K3 vorübergehend gestoppt, nachdem die Nutzeranfragen innerhalb von 48 Stunden stark anstiegen und die vorhandenen Rechenkapazitäten an ihre Grenzen brachten. Bestehende zahlende Nutzer sind laut Unternehmen nicht betroffen, neue Kapazität soll in Batches nachgereicht werden. Der Engpass unterstreicht, wie stark US-Exportkontrollen für Nvidia-Chips chinesische KI-Anbieter trotz Rekordnachfrage ausbremsen – Moonshot bereitet parallel eine Finanzierungsrunde und einen möglichen Börsengang in Hongkong vor.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Alibaba stellt Qwen3.8 Max vor – 2,4 Billionen Parameter, Anspruch auf Platz 2 hinter Fable 5",
+      "quelle": "MarkTechPost / Dataconomy",
+      "quelleUrl": "https://www.marktechpost.com/2026/07/19/alibaba-previews-qwen3-8-max-a-2-4-trillion-parameter-multimodal-model-days-after-moonshots-kimi-k3-open-weight-launch/",
+      "zusammenfassung": "Nur Tage nach Moonshots Kimi-K3-Launch hat Alibaba mit Qwen3.8 Max ein eigenes 2,4-Billionen-Parameter-Mixture-of-Experts-Modell als Preview vorgestellt, das laut internen (bisher nicht unabhängig geprüften) Benchmarks nur hinter Anthropics Fable 5 liegen soll. Offene Modellgewichte sind angekündigt, aber noch ohne festes Datum, Lizenz oder Preisliste – Leaks deuten auf Ende Juli oder August. Der Wettlauf zwischen chinesischen Anbietern um Spitzenplätze bei offenen Modellen beschleunigt sich damit weiter.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Speicherchip-Hersteller CXMT sammelt 8,6 Milliarden Dollar bei Shanghai-Börsengang ein",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "zusammenfassung": "Der chinesische Speicherchip-Hersteller ChangXin Memory Technologies (CXMT) hat bei seinem Börsengang in Shanghai 8,6 Milliarden Dollar eingesammelt – die Order-Nachfrage übertraf das angebotene Aktienvolumen um mehr als das 500-Fache. CXMT fokussiert sich auf DRAM-Speicher für Server und KI-Systeme und ist ein zentraler Baustein von Chinas Strategie, bei KI-Hardware unabhängiger von westlichen Zulieferern zu werden.",
+      "kategorie": "Hardware / Chips",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Googles AI Mode drückt Referral-Traffic für Publisher – erste Gegenmassnahmen",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "zusammenfassung": "Verleger beklagen zunehmend, dass Googles KI-gestützte Suchzusammenfassungen (AI Mode) Nutzer direkt beantworten statt auf Quell-Websites zu verlinken, was messbar Seitenaufrufe kostet – besonders im Rezepte- und Ratgeber-Segment. Google reagiert mit prominenter platzierten Links zu Originalquellen, doch Verlage und Analysten bezweifeln, dass reine Quellenangaben den Traffic-Verlust kompensieren können. Die Debatte reiht sich in wachsenden regulatorischen Druck auf KI-Suchsysteme ein.",
+      "kategorie": "Search / Content",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Bristol Myers Squibb setzt Nvidias Vera-Rubin-SuperPOD für KI-Medikamentenforschung ein",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/07/20/top-tech-news-today-july-20-2026-alibaba-bezos-blackstone-google-moonshot-ai-nvidia-samsung-more/",
+      "zusammenfassung": "Der Pharmakonzern Bristol Myers Squibb hat ein Nvidia Vera-Rubin-AI-SuperPOD-System für Wirkstoffforschung und molekulares Design beschafft. Das Unternehmen erwartet dadurch eine Verkürzung klinischer Testzeiträume um 20 bis 30 Prozent – ein weiteres Beispiel dafür, wie Pharma-Konzerne massiv in dedizierte KI-Infrastruktur investieren, um Entwicklungszyklen für neue Medikamente zu verkürzen.",
+      "kategorie": "Healthcare / Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

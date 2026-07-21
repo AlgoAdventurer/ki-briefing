@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-21",
+  "items": [
+    {
+      "id": 1,
+      "firma": "CuspAI",
+      "betrag": "$450M",
+      "runde": "Series B",
+      "investoren": "Kleiner Perkins & NEA (führend), Bezos Expeditions, AMD Ventures, UK-Regierung",
+      "beschreibung": "Das britische Startup CuspAI nutzt generative KI, um neue Materialzusammensetzungen für Halbleiter und andere Hightech-Anwendungen zu simulieren und vorherzusagen – und verkürzt damit Entwicklungszyklen, die klassische Labormaterialforschung Jahre kosten. Mit der neuen Runde steigt die Bewertung von 520 Millionen Dollar im September auf 2,6 Milliarden Dollar. Parallel gründete CuspAI die 'AI Materials Foundry', eine Allianz mit über 45 Firmen, darunter Nvidia und Meta.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Etched",
+      "betrag": "bis zu $20 Mrd. Bewertung (laufende Verhandlungen)",
+      "runde": "Serie nicht final bestätigt",
+      "investoren": "Sequoia Capital / Jane Street (laut Berichten, zwei parallele Gespräche)",
+      "beschreibung": "Der auf Transformer-optimierte Inferenz-Chips spezialisierte Nvidia-Herausforderer Etched verhandelt Berichten zufolge über zwei parallele Finanzierungsrunden – eine mit Sequoia Capital bei rund 10 Milliarden Dollar Bewertung, eine weitere bei bis zu 20 Milliarden Dollar. Grundlage ist eine Kundennachfrage von rund 1 Milliarde Dollar für die spezialisierten Inferenz-Chips, auch wenn Grossserien-Lieferungen noch nicht begonnen haben. Keiner der Deals ist bislang abgeschlossen.",
+      "bild": ""
+    }
+  ]
+}

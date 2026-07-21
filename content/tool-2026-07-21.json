@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-21",
+  "name": "Perplexity Computer",
+  "tagline": "Perplexitys KI-Agent bekommt selbstlernendes Gedächtnis und kann jetzt eigene Websites veröffentlichen",
+  "beschreibung": "Perplexity hat sein Agenten-Feature 'Computer' um ein selbstlernendes Gedächtnis erweitert: Ein privater Kontext-Graph aus Sessions, Connectors, Dateien und früheren Entscheidungen wird jede Nacht automatisch aktualisiert, sodass der Agent aus jeder erledigten Aufgabe lernt. Neu ist zudem, dass Nutzer direkt in Computer Websites bauen und über eine eigene pplx.app-Adresse veröffentlichen können – oder über eine Vercel-Anbindung auf eine eigene Domain. Weitere Updates umfassen einen schnelleren Opus-4.8-Fast-Modus, Orchestrierung mit Claude Fable 5, Modellwechsel mitten in einer laufenden Aufgabe sowie private Firmenrecherche.",
+  "useCase": "Ein kleines Unternehmen lässt Computer über Nacht die Konkurrenz recherchieren, die Ergebnisse im persönlichen Kontext-Graph verankern und am nächsten Morgen direkt eine Landingpage mit den Erkenntnissen bauen und unter einer eigenen pplx.app-Adresse veröffentlichen.",
+  "url": "https://www.perplexity.ai/",
+  "kategorie": "Research / Agenten / Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Agenten", "Memory", "Website-Builder", "Research", "Perplexity"]
+}
