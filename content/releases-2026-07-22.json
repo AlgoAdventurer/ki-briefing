@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-22",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.6 Flash",
+      "version": "3.6",
+      "anbieter": "Google DeepMind",
+      "detail": "Neues Arbeitspferd-Modell mit Verbesserungen bei Coding, Wissensarbeit und Multimodalität. Score von 49% auf DeepSWE (vs. 37% bei Gemini 3.5 Flash), bis zu 17% geringerer Tokenverbrauch und günstigere Output-Preise (7,50 statt 9 US-Dollar je Million Tokens). Verfügbar über Gemini API, Google AI Studio, Android Studio, Google Antigravity und die Gemini-App.",
+      "url": "https://techcrunch.com/2026/07/21/google-releases-three-new-gemini-models-but-no-3-5-pro/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.5 Flash-Lite & 3.5 Flash Cyber",
+      "version": "3.5",
+      "anbieter": "Google DeepMind",
+      "detail": "Flash-Lite ist das günstigste Modell der neuen Gemini-Reihe und rollt schrittweise auch in der Google-Suche aus. Flash Cyber ist eine spezialisierte Variante, die gezielt für das Auffinden und Beheben von Sicherheitslücken feingetunt wurde.",
+      "url": "https://9to5google.com/2026/07/21/gemini-3-6-flash-launch/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Kimi K3",
+      "version": "",
+      "anbieter": "Moonshot AI",
+      "detail": "Mit rund 2,8 Billionen Parametern das derzeit grösste offene KI-Modell weltweit, mit 1-Million-Token-Kontext und nativer visueller Verarbeitung. Führt aktuell das Frontend Code Arena Leaderboard an. Offene Modellgewichte werden für den 27. Juli 2026 erwartet, aktuell sind wegen hoher Nachfrage keine neuen Abos möglich.",
+      "url": "https://www.kimi.com",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "DeepSeek V4",
+      "version": "4",
+      "anbieter": "DeepSeek",
+      "detail": "Der stabile Release von DeepSeek V4 wird für den 24. Juli 2026 erwartet und gilt in der Entwickler-Community bereits jetzt als bevorzugtes offenes Modell für Code- und quantitative Aufgaben, als Nachfolger des vielgenutzten DeepSeek R1.",
+      "url": "https://huggingface.co/blog/Svngoku/ai-models-week-july-09-2026",
+      "bild": ""
+    }
+  ]
+}

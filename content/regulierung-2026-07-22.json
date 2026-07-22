@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Weisses Haus finalisiert freiwilliges Prüfrahmenwerk für Frontier-Modelle",
+      "region": "USA",
+      "detail": "Die US-Regierung arbeitet mit OpenAI, Anthropic und Google an einem freiwilligen Rahmenwerk, das Bundesbehörden bis zu 30 Tage Zeit geben würde, neue Frontier-Modelle vor der öffentlichen Veröffentlichung auf nationale Sicherheitsrisiken zu prüfen. Eine offizielle Ankündigung wird noch vor dem 1. August 2026 erwartet. Kritiker befürchten dadurch Verzögerungen bei Releases, Befürworter sehen es als notwendige Leitplanke angesichts jüngster Sicherheitsvorfälle.",
+      "url": "https://unrot.co/blogs/top-10-ai-news-july-21-2026-openai-hits-pause",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Kommission stellt Aktionsplan für Cybersicherheit und fortgeschrittene KI vor",
+      "region": "EU",
+      "detail": "Die Europäische Kommission hat einen koordinierten Aktionsplan vorgestellt, der Mitgliedstaaten, Unternehmen und Behörden dabei unterstützen soll, mit den Cybersicherheits- und Resilienz-Herausforderungen umzugehen, die von den fortschrittlichsten KI-Modellen ausgehen. Der Plan ergänzt die im Juli angelaufene Durchsetzung des AI Acts.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Letztes Zeitfenster vor High-Risk-Pflichten des EU AI Act ab August",
+      "region": "EU",
+      "detail": "Nach dem grünen Licht für das Digital-Omnibus-Paket am 9. Juli und dem Start der Durchsetzungsphase am 10. Juli gilt der Juli 2026 als letztes ernsthaftes Vorbereitungsfenster für viele KMU und Startups, bevor ab August die meisten High-Risk-Pflichten des AI Acts greifen. Chatbot-Offenlegungspflichten sind bereits verbindlich in Kraft.",
+      "url": "https://teachaitools.blog/blog/eu-ai-act-enforcement-begins-july-2026",
+      "auswirkung": "hoch"
+    }
+  ]
+}

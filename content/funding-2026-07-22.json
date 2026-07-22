@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-22",
+  "items": [
+    {
+      "id": 1,
+      "firma": "CuspAI",
+      "betrag": "$450M",
+      "runde": "Series B",
+      "investoren": "Kleiner Perkins, NEA, Bezos Expeditions, Lux Capital, AMD Ventures, John Doerr",
+      "beschreibung": "Das Cambridge-Startup entwickelt eine KI-Plattform zur Entdeckung neuer Materialien für Halbleiter, Cleantech und Fertigung. Mit der Runde steigt die Bewertung auf 2,6 Milliarden Dollar, gleichzeitig startet CuspAI die 'AI Materials Foundry' mit über 45 Gründungspartnern wie Nvidia, Meta, Samsung und Applied Materials – ein Signal, dass grosses Kapital verstärkt in KI-gestützte Grundlagenforschung statt reine Chatbot-Produkte fliesst.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Neo",
+      "betrag": "$100M",
+      "runde": "Seed / Stealth-Exit",
+      "investoren": "Andreessen Horowitz, Bessemer Venture Partners, Craft Ventures, Merlin Ventures",
+      "beschreibung": "Neo, gegründet von ehemaligen SentinelOne-, Wiz- und Palo-Alto-Networks-Führungskräften, verlässt mit 100 Millionen Dollar den Stealth-Modus. Die Plattform soll Security-Teams eine Echtzeit-Übersicht und feingranulare Kontrolle über KI-Agenten und -Software im Unternehmen geben – Teil eines klaren Investoren-Trends hin zu Infrastruktur und Kontrollebene für KI statt reiner Consumer-Anwendungen.",
+      "bild": ""
+    }
+  ]
+}

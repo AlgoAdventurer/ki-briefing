@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-22",
+  "name": "Kimi K3 (Moonshot AI)",
+  "tagline": "Das aktuell grösste Open-Source-Modell der Welt führt jetzt auch ein Frontend-Coding-Leaderboard an",
+  "beschreibung": "Kimi K3 ist ein Mixture-of-Experts-Modell mit rund 2,8 Billionen Parametern und einem Kontextfenster von bis zu einer Million Tokens des chinesischen Anbieters Moonshot AI. Auf dem Frontend Code Arena Leaderboard erreichte es mit einem Score von 1.679 Platz 1 – vor Claude Fable 5, GPT-5.6 Sol und GLM-5.2 – und führt in sechs von sieben gemessenen Domänen wie Data & Analytics oder Consumer Product. Die Nachfrage war so hoch, dass Moonshot AI neue Abonnements vorübergehend stoppen musste; die offenen Modellgewichte sollen am 27. Juli folgen.",
+  "useCase": "Ein Entwicklerteam nutzt Kimi K3 über die API für Frontend-lastige Coding-Aufgaben wie Dashboard- oder Landingpage-Erstellung, da das Modell bei diesen Aufgabentypen aktuell die höchste menschliche Präferenzbewertung erzielt – bei deutlich niedrigeren Tokenpreisen als vergleichbare Modelle von OpenAI oder Anthropic.",
+  "url": "https://www.kimi.com",
+  "kategorie": "Coding / API",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Open Source", "Coding", "LLM", "Moonshot AI"]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige Auto-Kommentare zu Splitzeiten mit Gemini 3.6 Flash",
+      "kontext": "Gemini 3.6 Flash ist bei gleicher oder besserer Coding-/Reasoning-Leistung bis zu 17% tokeneffizienter und günstiger als der Vorgänger, mit Output-Preisen von nur 7,50 Dollar je Million Tokens",
+      "umsetzung": "Contoura könnte nach jedem importierten Split-Zeiten-Set automatisch einen kurzen Analysetext generieren lassen ('Verlust auf Posten 4 durch Umwegwahl, starke Aufholjagd danach'), der Preis pro Analyse wäre dank Gemini 3.6 Flash so niedrig, dass sich das für jeden einzelnen Athleten-Lauf lohnt statt nur für Premium-Nutzer.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kimi K3 für die Weiterentwicklung des Contoura-Frontends nutzen",
+      "kontext": "Kimi K3 führt aktuell das Frontend Code Arena Leaderboard an und ist über die API deutlich günstiger als Claude oder GPT-Modelle",
+      "umsetzung": "Das Contoura-Entwicklerteam könnte Kimi K3 gezielt für UI-lastige Aufgaben wie neue Dashboard-Ansichten für den Performance-Index oder die Fehlerstatistik-Visualisierung testen, um Entwicklungskosten zu senken, ohne bei der Codequalität für Frontend-Komponenten Abstriche zu machen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Contoura als eigener MCP-Server für KI-Coaching-Agenten",
+      "kontext": "Die MCP-Spezifikation vom 28. Juli macht Server zustandslos und leichter produktiv betreibbar, Beta-SDKs für Python, TypeScript und Go sind bereits verfügbar",
+      "umsetzung": "Contoura könnte einen eigenen, zustandslosen MCP-Server für Trainings- und Wettkampfdaten anbieten, sodass Athleten ihre komplette Contoura-Historie direkt als Kontext in KI-Coaching-Agenten wie Claude oder ChatGPT einbinden können, ohne Daten manuell zu exportieren.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28 wird zustandslos – grösste Protokoll-Revision seit dem Launch",
+      "typ": "SDK / Protokoll",
+      "detail": "Der finale Model-Context-Protocol-Standard erscheint am 28. Juli 2026 und entfernt den Initialize-Handshake sowie die protokollseitige Session. MCP-Server lassen sich dadurch künftig mit einfachem Round-Robin-Load-Balancing skalieren, ohne Sticky Sessions verwalten zu müssen. Neu ist zudem ein formales Extensions-Framework mit eigenen Reverse-DNS-Bezeichnern und unabhängigem Versionierungszyklus. Beta-SDKs für Python, TypeScript und Go sind bereits verfügbar, die stabile Python-SDK-v2 wird für den 27. Juli erwartet.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic erklärt Effort-Level-Steuerung in Claude Code",
+      "typ": "API / Dokumentation",
+      "detail": "Anthropic hat klargestellt, dass die 'Effort'-Einstellung in Claude Code die Gründlichkeit eines Agenten steuert, unabhängig von der eigentlichen Modellfähigkeit. Entwickler können damit gezielt zwischen schnellen, günstigen Antworten und tiefgehenderem, mehrstufigem Reasoning für komplexe Coding-Aufgaben wählen, ohne das Modell selbst wechseln zu müssen.",
+      "url": "https://www.anthropic.com/news",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Kimi K3 API: günstiger Zugang zum aktuellen Frontend-Coding-Spitzenreiter",
+      "typ": "API",
+      "detail": "Moonshot AI bietet Kimi K3 über eine OpenAI-kompatible API zu 3 US-Dollar pro Million Input- und 15 US-Dollar pro Million Output-Tokens an – deutlich günstiger als Claude Opus 4.8 (5/25 USD) oder GPT-5.6 Sol (5/30 USD). Für Entwickler, die viel Frontend-Code generieren lassen, lohnt sich aktuell ein Vergleichstest gegen die bisher genutzten Modelle.",
+      "url": "https://www.kimi.com",
+      "codebeispiel": "curl https://api.moonshot.ai/v1/chat/completions \\\n  -H \"Authorization: Bearer $KIMI_API_KEY\" \\\n  -H \"Content-Type: application/json\" \\\n  -d '{\"model\": \"kimi-k3\", \"messages\": [{\"role\": \"user\", \"content\": \"Baue eine responsive Navbar in React\"}]}'"
+    }
+  ]
+}
