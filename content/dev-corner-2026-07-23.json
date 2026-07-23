@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Neuer Trust-Layer für MCP-Server in Visual Studio",
+      "typ": "SDK / Sicherheit",
+      "detail": "Visual Studio vergleicht beim Start eines MCP-Servers dessen Konfiguration und Asset-Fingerabdruck neu gegen eine vertrauenswürdige Baseline. Weicht etwas ab, erscheint ein Trust-Dialog, der die Änderung erst zur Prüfung und Freigabe vorlegt, bevor der Server läuft – ein wichtiger Schritt, um kompromittierte oder manipulierte MCP-Server frühzeitig zu erkennen.",
+      "url": "https://developer.microsoft.com/blog/announcing-awesome-copilot-mcp-server/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Kimi K2.7 Code jetzt als Open-Weight-Modell in GitHub Copilot wählbar",
+      "typ": "API / Tool",
+      "detail": "Entwickler können in Visual Studio Code direkt im Modellwähler zwischen OpenAI-, Anthropic-, Google-, Microsoft- und erstmals einem Open-Weight-Modell von Moonshot AI wechseln. Für Business- und Enterprise-Pläne muss die Kimi-K2.7-Code-Policy zuerst von einem Admin in den Copilot-Einstellungen aktiviert werden.",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "EU-Pflicht zur Android-Öffnung: Was sie für Entwickler von KI-Assistenten bedeutet",
+      "typ": "Regulierung / API",
+      "detail": "Mit der Pflicht, Android bis Juli 2027 für externe KI-Assistenten per Sprachbefehl und App-übergreifenden Aktionen zu öffnen, entsteht faktisch eine neue systemweite Assistenten-Schnittstelle. Entwicklerteams mit eigenen Assistenten-Produkten sollten die kommenden Android-APIs frühzeitig beobachten, um bei der Freigabe technisch vorbereitet zu sein.",
+      "url": "https://globalcompetitionreview.com/article/eu-orders-google-open-android-rival-ai-providers",
+      "codebeispiel": ""
+    }
+  ]
+}

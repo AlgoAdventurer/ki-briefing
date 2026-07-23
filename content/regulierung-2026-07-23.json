@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU zwingt Google per Digital Markets Act zur Öffnung von Android für rivalisierende KI-Assistenten",
+      "region": "EU",
+      "detail": "Die EU-Kommission verlangt von Google, dass Android-Nutzer bis Juli 2027 einen konkurrierenden KI-Assistenten per Sprachbefehl aktivieren und app-übergreifend Aktionen ausführen lassen können. Zusätzlich muss Google ab Januar 2027 anonymisierte Suchdaten mit Wettbewerbern teilen. Grösste Profiteure wären Anbieter mit eigener Entwicklungskapazität für tiefe Android-Integrationen wie OpenAI, Anthropic, Mistral und Meta – bei Nichteinhaltung drohen Bussgelder von bis zu 10% des weltweiten Jahresumsatzes.",
+      "url": "https://globalcompetitionreview.com/article/eu-orders-google-open-android-rival-ai-providers",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens AI Transparency Act (SB 942) tritt am 2. August 2026 in Kraft",
+      "region": "USA",
+      "detail": "Anbieter generativer KI-Systeme müssen ab dem 2. August Wasserzeichen, versteckte Metadaten-Kennzeichnungen und Erkennungstools für KI-generierte Inhalte bereitstellen. Das Gesetz betrifft alle grösseren Anbieter, die Nutzern in Kalifornien Zugriff auf Bild-, Video- oder Audiogeneratoren anbieten, und markiert einen der schärfsten US-Bundesstaaten-Vorstösse gegen Deepfakes und ungekennzeichnete KI-Inhalte bislang.",
+      "url": "https://fox5sandiego.com/news/california-news/new-california-ai-regulations/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

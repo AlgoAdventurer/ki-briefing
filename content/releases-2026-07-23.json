@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "name": "Teach Claude a Skill",
+      "version": "",
+      "anbieter": "Anthropic",
+      "detail": "Neue Cowork-Funktion in der Claude Desktop-App: Nutzer nehmen ihren Bildschirm auf und führen eine Aufgabe einmal vor, Claude leitet daraus einen wiederverwendbaren Ablauf für wiederkehrende Tätigkeiten ab. Rollout aktuell für Claude Pro, Max und Team.",
+      "url": "https://dataconomy.com/2026/07/22/anthropic-teach-claude-screen-recording-feature/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Kimi K2.7 Code",
+      "version": "2.7",
+      "anbieter": "Moonshot AI / GitHub",
+      "detail": "Allgemein verfügbar im GitHub-Copilot-Modellwähler als erstes Open-Weight-Modell überhaupt. Mixture-of-Experts-Architektur mit 1 Billion Gesamt- und 32 Milliarden aktiven Parametern pro Token, MIT-lizenziert und vollständig auf Hugging Face verfügbar.",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/GitHub_Invertocat_Logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "DeepSeek V4",
+      "version": "4",
+      "anbieter": "DeepSeek",
+      "detail": "Der stabile Release wird für den 24. Juli 2026 erwartet und gilt als Nachfolger des vielgenutzten DeepSeek R1. Mit 80,6% auf SWE-bench Verified hält bereits die Vorabversion V4 Pro den höchsten veröffentlichten Open-Source-Score in diesem Benchmark.",
+      "url": "https://huggingface.co/blog/Svngoku/ai-models-week-july-09-2026",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU zwingt Google per Digital Markets Act, Android für rivalisierende KI-Assistenten zu öffnen",
+      "quelle": "Global Competition Review / TechCrunch",
+      "quelleUrl": "https://globalcompetitionreview.com/article/eu-orders-google-open-android-rival-ai-providers",
+      "zusammenfassung": "Die EU-Kommission hat zwei bindende Massnahmen gegen Google erlassen: Android muss konkurrierenden KI-Assistenten wie ChatGPT, Claude oder Mistral bis Juli 2027 gleichwertigen Zugriff auf Systemfunktionen gewähren, zudem muss Google anonymisierte Suchdaten mit Rivalen teilen. Bei Nichteinhaltung drohen Bussgelder von bis zu 10 Prozent des weltweiten Jahresumsatzes – Google warnt vor Sicherheitsrisiken durch die geforderten Geräteberechtigungen für externe Apps.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google startet ambitioniertesten Pretraining-Lauf für Gemini 4 – Gemini 3.5 Pro weiterhin nicht startklar",
+      "quelle": "Branchenberichte",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-22-2026",
+      "zusammenfassung": "Google DeepMind hat offiziell den bislang grössten Pretraining-Lauf für die nächste Modellgeneration Gemini 4 bestätigt. Im selben Atemzug räumte das Unternehmen ein, dass das eigentlich erwartete Gemini 3.5 Pro weiterhin nicht veröffentlichungsreif ist – ein Modell, das inzwischen mehrfach angekündigte Zeitfenster verpasst hat.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic launcht \"Teach Claude a Skill\" – Claude lernt Aufgaben per Bildschirmaufnahme",
+      "quelle": "Dataconomy",
+      "quelleUrl": "https://dataconomy.com/2026/07/22/anthropic-teach-claude-screen-recording-feature/",
+      "zusammenfassung": "Mit der neuen Cowork-Funktion können Nutzer ihren Bildschirm aufnehmen und eine Aufgabe einmal vorführen und erklären – Claude lernt daraus einen wiederverwendbaren Ablauf für wiederkehrende Tätigkeiten wie Reports oder Dateiorganisation. Das Feature rollt aktuell für Claude Pro-, Max- und Team-Abonnenten in der Desktop-App aus und soll repetitives Neu-Anlernen überflüssig machen.",
+      "kategorie": "KI-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Kimi K2.7 Code komplettiert Fünf-Labor-Modellauswahl in GitHub Copilot",
+      "quelle": "GitHub Changelog",
+      "quelleUrl": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "zusammenfassung": "Moonshot AIs offenes, MIT-lizenziertes Kimi K2.7 Code ist als erstes Open-Weight-Modell im Copilot-Modellwähler verfügbar und ergänzt damit OpenAI, Anthropic, Google und Microsoft zu einem Fünf-Labor-Angebot – dem breitesten Modell-Angebot, das je ein grosses Coding-Tool in einem einzigen Abo geboten hat. Für Copilot Business und Enterprise müssen Admins das Modell noch explizit freischalten.",
+      "kategorie": "Open Source",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/GitHub_Invertocat_Logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

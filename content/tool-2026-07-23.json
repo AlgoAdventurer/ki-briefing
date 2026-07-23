@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-23",
+  "name": "Meshy",
+  "tagline": "Aus Text oder Bild in rund einer Minute zu einem einsatzbereiten 3D-Modell",
+  "beschreibung": "Meshy ist eine Plattform für generative 3D-Foundation-Modelle, die aus einer einzigen Textzeile oder einem Bild fertige, texturierte 3D-Assets erzeugt. Das Unternehmen hat soeben mit fast 400 Millionen Dollar in einer Series B bei 1,5 Milliarden Dollar Bewertung die bislang grösste Finanzierungsrunde im Bereich KI-3D abgeschlossen. Über 12 Millionen registrierte Nutzer haben bereits mehr als 100 Millionen 3D-Modelle generiert, der Jahresumsatz ist im letzten Jahr um das Zwölffache gewachsen.",
+  "useCase": "Ein Game- oder App-Studio lässt aus Konzeptzeichnungen oder Referenzfotos in Minuten spielfertige 3D-Assets generieren, statt jedes Objekt manuell in einem 3D-Programm zu modellieren – ideal für schnelle Prototypen oder grosse Mengen an Umgebungsobjekten.",
+  "url": "https://www.meshy.ai",
+  "kategorie": "Design / 3D",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["3D-Generierung", "Design", "Foundation Model", "Gaming"]
+}

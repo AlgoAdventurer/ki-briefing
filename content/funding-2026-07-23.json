@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Meshy",
+      "betrag": "$400M",
+      "runde": "Series B",
+      "investoren": "IDG Capital, Matrix Partners China, Monolith Management, Granite Asia, Sequoia China, BAI Capital, Source Code Capital",
+      "beschreibung": "Meshy generiert aus Text oder Bildern fertige, texturierte 3D-Modelle und sichert sich mit dieser Runde bei 1,5 Milliarden Dollar Bewertung die bislang grösste Finanzierung im Bereich KI-3D-Generierung. Der Jahresumsatz ist binnen eines Jahres um das Zwölffache gewachsen, über 12 Millionen Nutzer haben mehr als 100 Millionen Modelle erzeugt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Inner Logic",
+      "betrag": "$11.5M",
+      "runde": "Seed",
+      "investoren": "n/a",
+      "beschreibung": "Das Startup baut KI-Infrastruktur für autonome Chirurgie und will damit chirurgische Eingriffe schrittweise stärker automatisieren. Die Runde reiht sich in einen wachsenden Trend ein, bei dem Investoren gezielt in KI-Anwendungen für hochspezialisierte, sicherheitskritische medizinische Bereiche investieren statt in generische Gesundheits-Chatbots.",
+      "bild": ""
+    }
+  ]
+}

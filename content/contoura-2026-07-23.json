@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "\"Teach Claude a Skill\" für automatisierte Trainingsauswertungen nutzen",
+      "kontext": "Anthropics neue Cowork-Funktion lässt Nutzer per Bildschirmaufnahme einmalig zeigen, wie eine Aufgabe ablaufen soll – Claude leitet daraus einen wiederverwendbaren Ablauf ab",
+      "umsetzung": "Ein Coach könnte einmal vorführen, wie er aus Splitzeiten und Fehlerstatistiken einen persönlichen Trainingskommentar für einen Athleten formuliert. Claude würde diesen Stil danach automatisch auf neue Trainingsdaten aller Contoura-Athleten anwenden, ohne dass für jeden Sportler ein eigener Prompt geschrieben werden muss.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "3D-Geländevisualisierung von OL-Karten mit Meshy-artigen Modellen",
+      "kontext": "Meshy zeigt, dass sich aus einfachen 2D-Vorlagen in Minuten brauchbare 3D-Modelle generieren lassen – Investoren bewerten das Segment inzwischen mit über 1,5 Milliarden Dollar",
+      "umsetzung": "Contoura könnte aus Kartenausschnitten und Höhendaten schwieriger Teilstrecken automatisch grob generierte 3D-Geländeansichten erzeugen, damit Athleten Steigungen, Senken und Sichtbarkeitsverhältnisse vor dem nächsten Rennen besser einschätzen können als anhand der reinen 2D-Karte.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Trust-Layer-Konzept als Vorbild für sicheren Contoura-Datenexport",
+      "kontext": "Visual Studio prüft MCP-Server künftig per Fingerabdruck-Baseline gegen unautorisierte Änderungen, bevor sie laufen dürfen",
+      "umsetzung": "Sollte Contoura wie zuvor vorgeschlagen einen eigenen MCP-Server für Trainings- und Wettkampfdaten bauen, könnte ein vergleichbarer Fingerprint-Check sicherstellen, dass Athleten-Daten nur an geprüfte, unveränderte KI-Coaching-Clients weitergegeben werden – ein wichtiger Vertrauens- und Datenschutzbaustein.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}
