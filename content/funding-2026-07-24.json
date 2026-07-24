@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Aramco Ventures (Lead), Vista Equity Partners, General Catalyst, Emergence Capital, Nvidia, Salesforce Ventures, March Capital, Pegatron, S Ventures",
+      "beschreibung": "Together AI baut Cloud-Infrastruktur für das Training und den Betrieb offener KI-Modelle und erreicht mit der Runde eine Bewertung von 8,3 Milliarden Dollar. Kunden sparen laut Unternehmen zwischen dem 6- und 60-Fachen gegenüber proprietären Modellen, die jährlich gebuchten Umsätze liegen über 1,15 Milliarden Dollar. Das Kapital fliesst in eine geplante 50-fache Kapazitätserweiterung sowie über 500 Megawatt zusätzliche Rechenleistung.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "TwelveLabs",
+      "betrag": "$100M",
+      "runde": "Series B",
+      "investoren": "NEA, NAVER Ventures (Co-Lead), Amazon, Radical Ventures, Korea Investment Partners, Index Ventures, Quadrille Capital, Red Bull Ventures",
+      "beschreibung": "TwelveLabs entwickelt Video-Verständnismodelle, die Videos in strukturierte, durchsuchbare Daten umwandeln statt neue Inhalte zu generieren. Mit der Runde vertieft Amazon zugleich eine strategische Partnerschaft: AWS wird bevorzugter Cloud-Anbieter, künftige Modelle werden zuerst für AWS-Trainium-Chips optimiert. Neue Büros in New York und London ergänzen die bestehenden Standorte San Francisco und Seoul.",
+      "bild": ""
+    }
+  ]
+}

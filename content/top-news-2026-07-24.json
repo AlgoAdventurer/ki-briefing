@@ -1,0 +1,45 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Weisses Haus wirft Moonshot AI Diebstahl von Anthropics Fable-Modell vor, Sanktionen drohen",
+      "quelle": "TechCrunch / The Register",
+      "quelleUrl": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "zusammenfassung": "Michael Kratsios, Leiter des Office of Science and Technology Policy, erklärte, Moonshot AI habe eine ausgeklügelte interne Plattform gebaut, um über wechselnde Zugriffswege unbemerkt aus Anthropics Fable-Modell zu destillieren und damit Kimi K3 zu trainieren. Zusätzlich soll Moonshot Zugriff auf verbotene Nvidia-GB300-Chips in Thailand gehabt haben. Finanzminister Scott Bessent droht mit Sanktionen und Entity-List-Einträgen, da US-Wasserzeichen in chinesischen Modellen gefunden worden seien.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_the_United_States.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google veröffentlicht Gemini-3.6-Flash-Familie – Flaggschiff 3.5 Pro erneut verzögert",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/07/22/top-tech-news-today-july-22-2026-apple-anthropic-google-nvidia/",
+      "zusammenfassung": "Google hat drei neue Modelle veröffentlicht: Gemini 3.6 Flash, Gemini 3.5 Flash-Lite und die sicherheitsgehärtete Variante Gemini 3.5 Flash Cyber, die vorerst nur Regierungen und ausgewählten Partnern vorbehalten ist. Das eigentlich erwartete Flaggschiff Gemini 3.5 Pro bleibt weiterhin nicht verfügbar – Google bestätigte erneut eine Verzögerung, nachdem bereits mehrere angekündigte Zeitfenster verpasst wurden.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Kimi K3 überholt Claude Fable 5 im Frontend Code Arena Ranking",
+      "quelle": "Branchenberichte",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-23-2026",
+      "zusammenfassung": "Das seit dem 16. Juli verfügbare 2,8-Billionen-Parameter-Modell von Moonshot AI hat sich mit einer Gewinnrate von 76 Prozent gegen Claude Fable 5 an die Spitze der Frontend Code Arena gesetzt. Der Erfolg befeuert die parallel laufenden US-Vorwürfe, das Modell basiere teilweise auf destilliertem Anthropic-Wissen – Experten bezweifeln jedoch, dass die kurze Zeitspanne seit Fables Veröffentlichung Anfang Juli dafür ausreicht.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "MCP-Spezifikation 2026-07-28 vor Finalisierung: grösste Revision des Standards",
+      "quelle": "Model Context Protocol Blog",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "zusammenfassung": "Der Release Candidate der neuen MCP-Spezifikation macht das Protokoll vollständig zustandslos: keine Session-Handshakes mehr, jede Anfrage kann jede Serverinstanz treffen. Dazu kommen gehärtete OAuth-2.1-Autorisierung sowie die neuen Erweiterungen MCP Apps, Tasks und Server Cards. Die finale Version soll am 28. Juli erscheinen und gilt als umfassendste Überarbeitung seit dem Launch des Standards.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

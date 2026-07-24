@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Weisses Haus wirft Moonshot AI Modell-Destillation vor, Treasury droht mit Sanktionen",
+      "region": "USA / China",
+      "detail": "OSTP-Direktor Michael Kratsios beschuldigte Moonshot AI offiziell, Anthropics Fable-Modell über wechselnde Zugriffswege systematisch destilliert zu haben, um Kimi K3 zu trainieren, und zudem unerlaubt Zugriff auf verbotene Nvidia-GB300-Chips in Thailand gehabt zu haben. Finanzminister Scott Bessent kündigte an, dass Sanktionen und Entity-List-Einträge für Firmen mit grossflächiger Modell-Destillation künftig möglich seien – ein direkter Angriffspunkt gegen chinesische KI-Anbieter, die auf US-Modellen aufbauen.",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-AI-Act-Durchsetzung läuft, nächste grosse Frist am 2. August",
+      "region": "EU",
+      "detail": "Seit dem 10. Juli sind die Chatbot-Kennzeichnungspflichten des AI Act bindend, nachdem das Digital-Omnibus-Paket am 9. Juli grünes Licht erhielt. Ab dem 2. August greifen zusätzlich die meisten Pflichten für Hochrisiko-KI-Systeme – für viele KMU und Startups ist der Juli damit das letzte ernsthafte Vorbereitungsfenster, bevor Governance- und Dokumentationspflichten scharf geschaltet werden.",
+      "url": "https://teachaitools.blog/blog/eu-ai-act-enforcement-begins-july-2026",
+      "auswirkung": "hoch"
+    }
+  ]
+}

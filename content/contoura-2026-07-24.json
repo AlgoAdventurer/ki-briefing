@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Video-KI wie Jockey/TwelveLabs für automatische Lauf-Video-Analyse",
+      "kontext": "Jockey zeigt, dass sich per Sprachbefehl gezielt Momente in grossen Videosammlungen finden lassen, ohne manuelles Durchscrubben – die zugrundeliegende TwelveLabs-Technik versteht Videoinhalte direkt, nicht nur Tags oder Untertitel",
+      "umsetzung": "Athleten könnten GPS-getrackte Lauf- oder Streckenvideos hochladen und per Textbefehl wie \"zeig mir alle Stellen, an denen ich stehen geblieben bin\" oder \"finde die Routenwahlfehler im Wald\" direkt zu den relevanten Zeitstempeln springen, statt das gesamte Material manuell durchzusehen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Zustandslose MCP-Server für skalierbare Athleten-Anfragen nutzen",
+      "kontext": "Die neue MCP-Spezifikation 2026-07-28 macht Server zustandslos, sodass jede Anfrage jede Serverinstanz treffen kann – ideal für horizontale Skalierung hinter Standard-Loadbalancern",
+      "umsetzung": "Ein eigener Contoura-MCP-Server für Trainings- und Splitzeitdaten könnte dank Zustandslosigkeit problemlos viele gleichzeitige Athleten-Anfragen an KI-Coaching-Clients bedienen, ohne dass Session-Handling oder Server-Affinität eigens gebaut werden müssten – die Infrastruktur bliebe damit deutlich einfacher.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Bildgenerierung für automatische Wochenrückblicke pro Athlet",
+      "kontext": "Nano Banana 2 Lite generiert Bilder für nur 0,034 Dollar pro 1.000 Stück in rund vier Sekunden – der bislang günstigste Tarif in Googles Bildmodell-Familie",
+      "umsetzung": "Contoura könnte aus den wöchentlichen Performance-Kennzahlen jedes Athleten automatisch eine kleine visuelle Zusammenfassung generieren lassen (z.B. eine stilisierte Grafik zu Fortschritt oder Fehlerquote), ohne dass die Kosten für Bildgenerierung bei grösserer Nutzerzahl ins Gewicht fallen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

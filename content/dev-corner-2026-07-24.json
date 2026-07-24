@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird zustandslos",
+      "typ": "SDK / Protokoll",
+      "detail": "Der Release Candidate der neuen Model-Context-Protocol-Spezifikation entfernt Session-Handshakes vollständig: Jede Anfrage kann jede Serverinstanz treffen, was horizontale Skalierung hinter Standard-Loadbalancern erheblich vereinfacht. Dazu kommen die neuen Erweiterungen Tasks (für langlaufende Hintergrundjobs über tasks/get, tasks/update, tasks/cancel), MCP Apps für serverseitig gerenderte UIs sowie Server Cards. Die Autorisierung wird zudem an OAuth-2.1- und OpenID-Connect-Standards angeglichen, sodass ein einzelnes Enterprise-SSO-Setup künftig alle MCP-Server abdecken kann.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "DeepSeek zieht Deadline für Legacy-Modell-Aliase",
+      "typ": "API",
+      "detail": "Die Kurznamen deepseek-chat und deepseek-reasoner werden am 24. Juli um 15:59 UTC deaktiviert. Wer noch auf diese Aliase zeigt, muss den Code jetzt auf die expliziten Modell-IDs umstellen, sonst schlagen API-Aufrufe ab heute fehl.",
+      "url": "https://api-docs.deepseek.com/news/news260424/",
+      "codebeispiel": "model: \"deepseek-chat\" // alt, ab heute ungültig\nmodel: \"deepseek-v4-pro\" // oder \"deepseek-v4-flash\" — neu, explizit"
+    },
+    {
+      "id": 3,
+      "titel": "Jockey: Open-Source-Referenzimplementierung für Video-Agenten",
+      "typ": "Open Source",
+      "detail": "Das Repo tl-jockey von TwelveLabs zeigt, wie sich ein konversationeller Videoagent mit LangGraph orchestrieren lässt: Der Agent plant selbst mehrstufige Suchen über die TwelveLabs-Video-API und liefert zeitlich verortete, belegte Antworten statt reiner Texttreffer. Als Referenzarchitektur eignet es sich für Teams, die eigene Such- oder Analyse-Agenten über grosse Videobestände bauen wollen.",
+      "url": "https://github.com/twelvelabs-io/tl-jockey",
+      "codebeispiel": ""
+    }
+  ]
+}

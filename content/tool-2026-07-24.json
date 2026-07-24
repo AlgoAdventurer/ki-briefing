@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-24",
+  "name": "Jockey by TwelveLabs",
+  "tagline": "Open-Source-Videoagent, der Videosammlungen per Sprachbefehl durchsuchbar macht",
+  "beschreibung": "Jockey ist ein quelloffener, konversationeller Videoagent von TwelveLabs, gebaut auf LangGraph und den TwelveLabs-Videoverständnismodellen. Statt sich auf vorgefertigte Untertitel oder Tags zu verlassen, analysiert Jockey den tatsächlichen Videoinhalt und plant selbstständig mehrstufige Aktionen, um Fragen mit belegten, zeitlich verorteten Antworten zu beantworten. Das Tool landete am 22. Juli auf Platz 2 der Product-Hunt-Tagescharts, kurz nachdem TwelveLabs eine 100-Millionen-Dollar-Series-B abgeschlossen hat.",
+  "useCase": "Ein Medienteam gibt den Befehl \"Finde alle Produktdemos aus dem letzten Quartal\" oder \"Erstelle einen Highlight-Reel aus Kundenstimmen\" – Jockey durchsucht Stunden an Rohmaterial, findet die passenden Szenen und liefert direkt die Zeitstempel, ohne dass jemand das Material manuell durchscrubben muss.",
+  "url": "https://www.twelvelabs.io/jockey",
+  "kategorie": "Video / API",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Video-KI", "Open Source", "LangGraph", "Agenten"]
+}

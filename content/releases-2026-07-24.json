@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-24",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.6 Flash / 3.5 Flash-Lite / 3.5 Flash Cyber",
+      "version": "3.6 / 3.5",
+      "anbieter": "Google DeepMind",
+      "detail": "Google hat am 21. Juli drei neue Modelle veröffentlicht: Gemini 3.6 Flash als schnelleres Alltagsmodell, Gemini 3.5 Flash-Lite für besonders kostengünstige Anwendungen sowie Gemini 3.5 Flash Cyber, eine auf Cybersicherheit spezialisierte Variante, die vorerst nur Regierungen und ausgewählten Partnern zur Verfügung steht. Das eigentlich erwartete Flaggschiff Gemini 3.5 Pro bleibt weiterhin ohne Veröffentlichungstermin.",
+      "url": "https://techstartups.com/2026/07/22/top-tech-news-today-july-22-2026-apple-anthropic-google-nvidia/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Kimi K3",
+      "version": "K3",
+      "anbieter": "Moonshot AI",
+      "detail": "Seit dem 16. Juli verfügbares 2,8-Billionen-Parameter-Modell für komplexes Reasoning, langlaufende Coding-Aufgaben und Wissensarbeit. Es führt aktuell die Frontend Code Arena mit einer Gewinnrate von 76 Prozent gegen Claude Fable 5 an, steht aber wegen möglicher Modell-Destillation aus US-Systemen unter politischer Beobachtung.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-23-2026",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Nano Banana 2 Lite",
+      "version": "2 Lite",
+      "anbieter": "Google",
+      "detail": "Als gemini-3.1-flash-lite-image über Gemini API und Google AI Studio verfügbares Bildmodell, das ein 1K-Bild in rund vier Sekunden für 0,034 US-Dollar pro 1.000 Bilder erzeugt – der bislang günstigste und schnellste Tarif in Googles Bildmodell-Familie. Google empfiehlt es als Nachfolger des ursprünglichen Nano-Banana-Modells für hochvolumige Anwendungen wie Prototyping und Massen-Bildgenerierung.",
+      "url": "https://www.ghacks.net/2026/07/02/google-launches-nano-banana-2-lite-for-low-cost-high-throughput-ai-image-generation/",
+      "bild": ""
+    }
+  ]
+}
