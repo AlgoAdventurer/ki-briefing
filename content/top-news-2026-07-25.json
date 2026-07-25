@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Stripe verhandelt über Übernahme von OpenRouter für rund 10 Milliarden Dollar",
+      "quelle": "The Information / WSJ",
+      "quelleUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/stripe-eyes-10-billion-deal-for-ai-model-marketplace-openrouter/",
+      "zusammenfassung": "Zahlungsdienstleister Stripe führt Gespräche über den Kauf des KI-Modell-Marktplatzes OpenRouter für nahezu 10 Milliarden Dollar – ein gewaltiger Sprung gegenüber der Bewertung von 1,3 Milliarden Dollar aus einer Finanzierungsrunde im Mai. OpenRouter fungiert als Vermittlungsschicht, über die Unternehmen hunderte proprietäre und offene KI-Modelle vergleichen und nutzen können. Ein Abschluss könnte laut Berichten bereits in einem Monat erfolgen, ist aber noch nicht sicher.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "DeepSeek V4 erreicht General Availability mit 1-Million-Token-Kontext",
+      "quelle": "DeepSeek API Docs",
+      "quelleUrl": "https://api-docs.deepseek.com/news/news260424/",
+      "zusammenfassung": "DeepSeek hat sein V4-Modell aus der Preview-Phase in die volle Verfügbarkeit überführt. Die Familie besteht aus V4-Pro (1,6 Billionen Parameter, 49 Milliarden aktiv) und V4-Flash (284 Milliarden Parameter, 13 Milliarden aktiv), beide mit einem Kontextfenster von einer Million Tokens. Die alten Modellnamen deepseek-chat und deepseek-reasoner wurden am 24. Juli endgültig abgeschaltet, zudem führt DeepSeek erstmals ein Peak/Off-Peak-Preismodell ein.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Model Context Protocol wird am 28. Juli grundlegend überarbeitet – Abschied vom Session-Modell",
+      "quelle": "Model Context Protocol Blog / The Register",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "zusammenfassung": "Die MCP-Spezifikation vom 28. Juli 2026 gilt als größte Überarbeitung seit dem Start des Protokolls: Sessions und der Initialize-Handshake entfallen, mehrere Kernfunktionen werden als veraltet markiert und die Autorisierung wird neu aufgesetzt. Damit lassen sich MCP-Deployments deutlich einfacher skalieren. Beta-SDKs für Python, TypeScript, Go und C# sind bereits verfügbar, GitHub unterstützt die neue Spezifikation schon vorab.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "EU AI Act tritt in Durchsetzungsphase – entscheidende Frist am 2. August",
+      "quelle": "European Commission",
+      "quelleUrl": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "zusammenfassung": "Das EU-Digital-Omnibus-Paket erhielt am 9. Juli die finale Freigabe und konsolidiert den Durchsetzungsfahrplan des AI Acts. Ab dem 2. August 2026 gelten die Kernpflichten – darunter die Transparenzregeln nach Artikel 50 – für die Mehrheit der in der EU betriebenen KI-Systeme. Für viele KMU und Startups ist der Juli damit das letzte ernsthafte Zeitfenster zur Vorbereitung.",
+      "kategorie": "Regulierung",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "Meta stellt Muse Spark 1.1 vor – agentisches Modell mit 1-Million-Token-Kontext",
+      "quelle": "Meta / ThursdAI",
+      "quelleUrl": "https://thursdai.news/releases/2026-07",
+      "zusammenfassung": "Mark Zuckerberg kündigte Muse Spark 1.1 an, ein neues agentisches Modell mit einem Kontextfenster von einer Million Tokens, das laut Meta bei agentischen Benchmarks mit GPT-5.5 und Claude Opus 4.8 mithalten kann. Damit verschärft sich der Wettbewerb um lang laufende, autonome KI-Agenten weiter.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

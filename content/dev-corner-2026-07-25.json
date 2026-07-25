@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Abschied vom Session-Modell",
+      "typ": "API / SDK",
+      "detail": "Die kommende Model-Context-Protocol-Spezifikation vom 28. Juli entfernt Sessions und den Initialize-Handshake vollständig und macht MCP damit zustandslos – Server lassen sich dadurch deutlich leichter horizontal skalieren. Gleichzeitig wird die Autorisierung neu aufgesetzt und ein Framework für Protokoll-Erweiterungen eingeführt. Beta-SDKs für Python, TypeScript, Go und C# sind bereits abwärtskompatibel verfügbar, der GitHub MCP Server unterstützt den Release Candidate schon jetzt.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Hugging Face Transformers v5.13.0",
+      "typ": "Open Source",
+      "detail": "Das neue Release bringt breitere Unterstützung für Modell-Export (u.a. ein vereinheitlichter HfExporter für PyTorch, ONNX und ExecuTorch) sowie Fixes rund um Generation, Attention, Cache und Quantisierung. Für Entwickler, die eigene Modelle deployen, lohnt sich ein Blick auf die neuen Kernel- und Serving-Tools.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "NVIDIA Isaac GR00T 1.7 kommt zu Hugging Face LeRobot",
+      "typ": "Open Source",
+      "detail": "NVIDIA und Hugging Face haben das offene Vision-Language-Action-Modell Isaac GR00T 1.7 für humanoide Robotik sowie das Isaac-Teleop-Framework in die LeRobot-Bibliothek integriert. Für Entwickler im Robotik-Bereich ist das ein direkter Einstiegspunkt in physische KI mit offenen Gewichten – NVIDIA Cosmos 3 für physische KI soll bald folgen.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-25",
+  "name": "OpenRouter",
+  "tagline": "Ein API-Gateway für hunderte KI-Modelle – proprietär und Open Source in einer Schnittstelle",
+  "beschreibung": "OpenRouter ist eine Vermittlungsschicht zwischen KI-Modell-Anbietern und Entwicklern: Über eine einzige, OpenAI-kompatible API lassen sich hunderte Modelle von Anthropic, OpenAI, Google, Meta, DeepSeek und vielen Open-Source-Anbietern ansprechen, vergleichen und je nach Preis, Geschwindigkeit oder Verfügbarkeit automatisch wechseln. Gerade jetzt ist das Tool im Gespräch, weil Stripe über eine Übernahme für fast 10 Milliarden Dollar verhandelt – ein Zeichen dafür, wie zentral Modell-Marktplätze für die KI-Infrastruktur geworden sind. Für Entwickler bedeutet OpenRouter vor allem eines: kein Vendor-Lock-in mehr bei der Wahl des LLM.",
+  "useCase": "Ein Entwickler baut eine App, die je nach Aufgabe automatisch zwischen einem günstigen Open-Source-Modell für einfache Anfragen und einem teureren Frontier-Modell für komplexe Reasoning-Aufgaben wechselt – ohne den Code oder die Integration ändern zu müssen.",
+  "url": "https://openrouter.ai",
+  "kategorie": "API",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["API", "LLM-Gateway", "Multi-Model", "Developer-Tool"]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "Nicht vollständig öffentlich benannt",
+      "beschreibung": "Together AI betreibt eine Plattform, über die Unternehmen Open-Source-Modelle trainieren und ausführen können. Die Rekord-Series-C unterstreicht den anhaltenden Investorenappetit auf Open-Source-Infrastruktur als Gegengewicht zu proprietären Modell-APIs.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Harvey AI",
+      "betrag": "$200M",
+      "runde": "Series C",
+      "investoren": "Nicht vollständig öffentlich benannt",
+      "beschreibung": "Harvey, spezialisiert auf KI für Rechtsabteilungen und Anwaltskanzleien, erreichte mit dieser Runde eine Bewertung von 2,1 Milliarden Dollar und zählte im Juli zu den größten Runden im Bereich regulierter KI-Anwendungen.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Lovable",
+      "betrag": "$200M",
+      "runde": "Series B",
+      "investoren": "Nicht vollständig öffentlich benannt",
+      "beschreibung": "Das KI-gestützte App-Building-Tool Lovable sicherte sich eine Series B bei einer Bewertung von 2,8 Milliarden Dollar und bestätigt damit den anhaltenden Boom bei No-Code/AI-Coding-Plattformen für nicht-technische Gründer.",
+      "bild": ""
+    }
+  ]
+}

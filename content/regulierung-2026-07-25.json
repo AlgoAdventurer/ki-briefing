@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Digital-Omnibus-Paket erhält finale Freigabe – Aug.-Deadline rückt näher",
+      "region": "EU",
+      "detail": "Am 9. Juli erhielt das Digital-Omnibus-Paket die endgültige Freigabe und konsolidiert den Durchsetzungsfahrplan des AI Acts, inklusive bestätigter Verzögerungen für einzelne Hochrisiko-Vorgaben. Ab dem 2. August 2026 gelten die Kernpflichten – darunter die Transparenzregeln nach Artikel 50 – für die Mehrheit der in der EU betriebenen KI-Systeme. Für Startups und KMU ist Ende Juli das letzte realistische Zeitfenster, um Compliance-Prozesse aufzusetzen.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-Aktionsplan für Cybersicherheit und KI vorgestellt",
+      "region": "EU",
+      "detail": "Die Europäische Kommission präsentierte am 7. Juli gemeinsam mit der EU-Agentur für Cybersicherheit (ENISA) einen Aktionsplan, der Risiken und Chancen fortgeschrittener KI-Systeme im Bereich Cybersicherheit adressiert. Der Plan ergänzt den AI Act um sicherheitsspezifische Vorgaben für Betreiber kritischer Systeme.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "USA planen 30-Tage-Prüffenster für neue Frontier-Modelle",
+      "region": "USA",
+      "detail": "Ein freiwilliger Rahmen, der derzeit mit OpenAI, Anthropic und Google finalisiert wird, würde US-Bundesbehörden bis zu 30 Tage einräumen, um die nationale Sicherheitsrelevanz eines neuen Frontier-Modells zu prüfen, bevor es veröffentlicht wird. Das wäre der erste koordinierte Vorab-Prüfmechanismus dieser Art in den USA.",
+      "url": "https://techstartups.com/2026/07/17/top-tech-news-today-july-17-2026-anthropic-apple-google-meta-moonshot-ai-nvidia-more/",
+      "auswirkung": "hoch"
+    }
+  ]
+}

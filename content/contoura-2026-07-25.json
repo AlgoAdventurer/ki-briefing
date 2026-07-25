@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Vision-Modelle mit nativer Bildverarbeitung für automatische Kartenanalyse nutzen",
+      "kontext": "Kimi K3 und GPT-5.6 Sol bringen native Bildverarbeitung mit starken Reasoning-Fähigkeiten zu vergleichbaren Kosten wie kleinere Modelle – Vision ist damit kein Premium-Feature mehr, sondern Standard.",
+      "umsetzung": "Contoura könnte hochgeladene Kartenausschnitte und GPS-Tracks automatisch analysieren lassen: Postenwahl, Laufwege und typische Fehlerzonen (z.B. Kontrollfehler, Umwege) würden direkt aus der Kartenabbildung erkannt und mit den Split-Zeiten verknüpft, ohne dass Athleten manuell Wegpunkte einzeichnen müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenRouter als Kosten- und Ausfallsicherung für die KI-Trainingskommentare",
+      "kontext": "Der Streit um die Übernahme von OpenRouter durch Stripe zeigt, wie wichtig Modell-Flexibilität geworden ist – Anbieter, Preise und Verfügbarkeit ändern sich schnell.",
+      "umsetzung": "Statt sich fest an einen einzigen LLM-Anbieter zu binden, könnte Contoura eine Gateway-Schicht wie OpenRouter einsetzen, um automatisch zwischen günstigen Modellen für Standard-Trainingskommentare und leistungsstärkeren Modellen für komplexe Wettkampf-Auswertungen zu wechseln – abhängig von Preis, Auslastung und Antwortzeit.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Lang laufende Agenten für automatische Saison-Auswertungen",
+      "kontext": "Neue agentische Modelle wie Metas Muse Spark 1.1 und OpenAIs GPT-5.6 Sol bieten Kontextfenster von einer Million Tokens und sind explizit für lang laufende, mehrstufige Agenten-Workflows optimiert.",
+      "umsetzung": "Ein Agent könnte über eine komplette Saison hinweg selbstständig Trainingsdaten, Split-Zeiten und Fehlerstatistiken eines Athleten zusammenführen und am Saisonende automatisch einen ausführlichen Entwicklungsbericht mit konkreten Trainingsempfehlungen generieren – ohne dass der Coach jeden einzelnen Wettkampf manuell zusammenfassen muss.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

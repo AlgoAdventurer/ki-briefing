@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-25",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek V4",
+      "version": "V4-Pro / V4-Flash",
+      "anbieter": "DeepSeek",
+      "detail": "Nach rund drei Monaten in der Preview-Phase ist DeepSeek V4 seit dem 20. Juli allgemein verfügbar. V4-Pro bringt 1,6 Billionen Parameter (49 Milliarden aktiv), V4-Flash 284 Milliarden (13 Milliarden aktiv) – beide mit 1-Million-Token-Kontext, verbesserten Mathe-Reasoning-Fähigkeiten und gezielten Code-Generierungs-Upgrades. Die alten API-Modellnamen wurden am 24. Juli abgeschaltet.",
+      "url": "https://api-docs.deepseek.com/news/news260424/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Kimi K3",
+      "version": "",
+      "anbieter": "Moonshot AI",
+      "detail": "Moonshot hat mit Kimi K3 das bislang größte offene Gewichte-Modell veröffentlicht: 2,8 Billionen Parameter, Mixture-of-Experts-Architektur, native Bildverarbeitung und 1-Million-Token-Kontext. Frühe unabhängige Tests sehen das Modell im agentischen Coding auf Frontier-Niveau. Die vollständigen offenen Gewichte sollen am 27. Juli folgen.",
+      "url": "https://thursdai.news/releases/2026-07",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Spark",
+      "version": "1.1",
+      "anbieter": "Meta",
+      "detail": "Metas neues agentisches Modell mit 1-Million-Token-Kontext soll laut Mark Zuckerberg bei agentischen Benchmarks mit GPT-5.5 und Claude Opus 4.8 mithalten. Der Fokus liegt auf lang laufenden, autonomen Agenten-Workflows.",
+      "url": "https://thursdai.news/releases/2026-07",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "GPT-5.6",
+      "version": "Sol / Terra / Luna",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat GPT-5.6 als dreiteilige Modellfamilie ausgerollt: Sol für High-End-Reasoning, Coding und Wissenschaft (5 $ pro 1M Input-Tokens, 30 $ pro 1M Output-Tokens), sowie Terra und Luna für leichtere und schnellere Anwendungsfälle. Die Staffelung soll Preis, Geschwindigkeit und Qualität besser gegeneinander abwägbar machen.",
+      "url": "https://pricepertoken.com/news/model-releases",
+      "bild": ""
+    }
+  ]
+}
