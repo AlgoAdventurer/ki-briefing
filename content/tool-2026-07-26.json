@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-26",
+  "name": "ChatGPT Work",
+  "tagline": "OpenAIs vereinheitlichte Desktop-App aus ChatGPT, Codex und Browser-Agent",
+  "beschreibung": "ChatGPT Work ist ein neuer Agenten-Modus innerhalb der ChatGPT-Desktop-App, der aus einem formulierten Ziel fertige Dokumente, Tabellen, Präsentationen oder kleine Web-Apps erstellt. Die App verbindet sich dafür mit gängigen Unternehmenswerkzeugen wie Slack, Microsoft Teams, Google Drive, SharePoint, E-Mail, Kalendern und CRMs. Codex ist jetzt als eigener Modus direkt in die App integriert, der eigenständige Atlas-Browser wird bis zum 9. August eingestellt und stattdessen in die Desktop-App eingebettet. Mit Scheduled Tasks lassen sich Aufgaben zudem einmalig, wiederkehrend oder ereignisgesteuert automatisieren.",
+  "useCase": "Ein Vertriebsteam lässt ChatGPT Work über Nacht automatisch aktuelle CRM-Daten, E-Mails und Kalendertermine zusammenführen und morgens eine fertige Wochenübersicht als Google-Slides-Präsentation bereitstellen.",
+  "url": "https://openai.com/chatgpt/work/",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Productivity", "Agents", "OpenAI", "Desktop-App"]
+}

@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-26",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Norm AI",
+      "betrag": "$120M",
+      "runde": "Series C",
+      "investoren": "Khosla Ventures (Lead), Blackstone, Bain Capital Ventures, Coatue, Vanguard, New York Life, TIAA",
+      "beschreibung": "Norm AI erreichte mit dieser Runde Unicorn-Status bei 1,2 Milliarden Dollar Bewertung. Das Startup baut 'agentisches Recht': KI, die regulatorische Vorgaben interpretiert, Compliance in Echtzeit überwacht und steuert, wie andere KI-Systeme in Hochrisiko-Umgebungen operieren dürfen. Über die eigene KI-native Kanzlei 'Norm Law' werden Mandate outcome-basiert statt nach Stundensatz abgerechnet.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Anthropic",
+      "betrag": "bis zu $5B (Eigenkapital)",
+      "runde": "Strategische Investition",
+      "investoren": "AMD",
+      "beschreibung": "Kein klassisches Funding-Announcement, aber finanziell hochrelevant: AMD investiert im Rahmen einer Chip-Partnerschaft bis zu 5 Milliarden Dollar in Anthropic, gekoppelt an die Auslieferung von bis zu 2 Gigawatt Instinct-MI450-GPU-Kapazität. Für Anthropic sichert der Deal Rechenleistung außerhalb der bisherigen NVIDIA-Abhängigkeit, während AMD sein Gesamtvolumen an KI-Compute-Zusagen auf rund 14 Gigawatt über drei Frontier-Labore erhöht.",
+      "bild": ""
+    }
+  ]
+}

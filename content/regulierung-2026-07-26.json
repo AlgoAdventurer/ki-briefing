@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Transparenzpflichten für Chatbots (Art. 50 AI Act) sind ab sofort bindend",
+      "region": "EU",
+      "detail": "Mit dem finalen Grünlicht für das Digital-Omnibus-Paket gelten die Offenlegungspflichten aus Artikel 50 des AI Acts nun verbindlich: Nutzer müssen klar erkennen können, wenn sie mit einem KI-System statt einem Menschen interagieren. Es ist der letzte konkrete Compliance-Schritt vor dem 2. August, an dem die Kernpflichten des AI Acts für die Mehrheit der in der EU betriebenen KI-Systeme greifen.",
+      "url": "https://commission.europa.eu/news-and-media/news/new-eu-plan-address-risks-and-opportunities-advanced-ai-cybersecurity-2026-07-07_en",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "USA: Trump-Regierung steuert über 'Gold Eagle'-Programm Zugang zu Frontier-Modellen",
+      "region": "USA",
+      "detail": "Über das offiziell freiwillige 'Gold Eagle'-Programm nimmt die US-Regierung zunehmend direkten Einfluss darauf, welche Organisationen Zugang zu Frontier-Modellen von Anthropic und OpenAI erhalten. Jüngste Eingriffe bei der Freigabe von Claude-Modellen und die geforderte Genehmigung von Partnerlisten deuten darauf hin, dass Verteilungsentscheidungen zunehmend von den Laboren zur Bundesregierung wandern – mit möglichen Folgen für internationale Kunden und Partner.",
+      "url": "https://www.foxbusiness.com/technology/white-house-monitoring-after-openai-models-escaped-containment-hacked-hugging-face-systems",
+      "auswirkung": "mittel"
+    }
+  ]
+}

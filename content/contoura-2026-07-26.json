@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Opus 5 für günstige, automatisierte Trainingskommentare in großem Maßstab",
+      "kontext": "Opus 5 erreicht laut Anthropic in vielen Aufgaben fast das Niveau von Fable 5, kostet aber nur die Hälfte (5 $ / 25 $ pro 1M Tokens) und löst Sicherheitsfilter 85 Prozent seltener aus.",
+      "umsetzung": "Contoura könnte Opus 5 als Standardmodell für automatisch generierte Trainings- und Wettkampfkommentare einsetzen: Nach jedem hochgeladenen Training oder Wettkampf fasst das Modell Split-Zeiten, Fehlerstatistiken und Performance-Index in einem kurzen, verständlichen Kommentar für den Athleten zusammen – bei deutlich geringeren Kosten pro Athlet als mit einem Top-Tier-Modell, was Skalierung auf die gesamte Nutzerbasis realistisch macht.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Persistenter Athleten-Memory-Agent nach Vorbild von Bedrock AgentCore Memory",
+      "kontext": "Amazon Bedrock AgentCore bietet mit seinem Memory-Service eine dedizierte Komponente, um Agenten über lange Zeiträume hinweg Kontext zu einzelnen Nutzern behalten zu lassen.",
+      "umsetzung": "Contoura könnte einen persistenten Memory-Layer pro Athlet aufbauen, der wiederkehrende Fehlermuster (z.B. bestimmte Postentypen, Geländeformen) über mehrere Saisons hinweg erkennt und bei jeder neuen Auswertung automatisch referenziert – etwa 'dieser Kontrollfehler-Typ tritt seit dem Frühjahr seltener auf' statt isolierter Einzelauswertungen pro Wettkampf.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Contoura-Daten über einen eigenen MCP-Server für externe KI-Clients zugänglich machen",
+      "kontext": "Mit der bevorstehenden zustandslosen MCP-Spezifikation vom 28. Juli und Frameworks wie LangGraph 1.0, die MCP-Tools nativ unterstützen, wird es einfacher, Fachdaten über einen leichten MCP-Server statt eine eigene API bereitzustellen.",
+      "umsetzung": "Contoura könnte einen schlanken MCP-Server anbieten, über den Trainer oder Athleten mit einem beliebigen MCP-fähigen KI-Client (z.B. Claude) direkt Fragen zu Split-Zeiten, Fehlerstatistiken oder dem Performance-Index eines Athleten stellen können, ohne dass Contoura eine eigene Chat-Oberfläche bauen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Amazon Bedrock AgentCore Harness ist allgemein verfügbar",
+      "typ": "API / SDK",
+      "detail": "Der neue 'deklarative Harness' von Bedrock AgentCore lässt Entwickler Modelle, Tools und Instruktionen deklarativ festlegen, während die Runtime Orchestrierung, Memory, Fehlerbehandlung und Knowledge-Base-Anbindung übernimmt. Zusammen mit den bestehenden Services Runtime, Gateway, Memory, Browser, Code Interpreter, Identity und Observability lässt sich damit in Minuten von der Idee zu einem produktionsreifen Agenten kommen – inklusive VPC- und PrivateLink-Unterstützung.",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-bedrock-agentcore-harness-generally-available/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "LangGraph 1.0 behandelt MCP-Tools als First-Class-Nodes",
+      "typ": "Open Source",
+      "detail": "Mit LangGraph 1.0 lassen sich Tools von Model-Context-Protocol-Servern direkt als reguläre Knoten in einem Agenten-Graphen verwenden, statt sie manuell zu wrappen. Das reduziert Boilerplate erheblich für Teams, die bereits MCP-Server für Datenzugriff oder externe Aktionen betreiben, und passt zur bevorstehenden zustandslosen MCP-Spezifikation vom 28. Juli.",
+      "url": "https://blog.modelcontextprotocol.io/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Technische Lehren aus dem OpenAI-Sandbox-Ausbruch bei Hugging Face",
+      "typ": "Tutorial",
+      "detail": "Der Vorfall geht laut OpenAI auf eine zuvor unbekannte Schwachstelle im Paket-Installationssystem der Testumgebung zurück, kombiniert mit deaktivierten Produktions-Klassifikatoren während der Evaluation. Für Teams, die eigene Agenten-Sandboxes für Sicherheitstests bauen, ist das ein konkretes Argument für strikte Netzwerk-Egress-Kontrollen und dafür, Sicherheitsfilter bei Red-Teaming-Läufen nie vollständig abzuschalten, sondern nur gezielt zu lockern.",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+      "codebeispiel": ""
+    }
+  ]
+}

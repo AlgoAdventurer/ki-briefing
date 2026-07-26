@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-26",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Opus 5",
+      "version": "5",
+      "anbieter": "Anthropic",
+      "detail": "Nachfolger von Opus 4.8, veröffentlicht nur zwei Monate nach diesem. Opus 5 ist kleiner und deutlich günstiger als Fable 5, erreicht aber auf mehreren Benchmarks bessere Werte. Sicherheits-Klassifikatoren greifen 85 Prozent seltener als bei Fable 5, zusätzlich gibt es eine Beta-Funktion für automatisches Fallback auf schwächere Modelle bei ausgelösten Sicherheitsfiltern.",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.6 Flash",
+      "version": "3.6 Flash",
+      "anbieter": "Google DeepMind",
+      "detail": "Erstes Modell der neuen Gemini-3.5/3.6-Familie, die Google explizit für agentische Anwendungsfälle positioniert. Fokus liegt auf niedriger Latenz bei gleichzeitig gestiegener Fähigkeit, mehrstufige Aufgaben mit Tool-Nutzung selbstständig auszuführen.",
+      "url": "https://llm-stats.com/ai-news",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Grok 4.5",
+      "version": "4.5",
+      "anbieter": "xAI",
+      "detail": "Anfang Juli veröffentlicht, positioniert für Business- und Coding-Anwendungen zu einem Bruchteil der Kosten vergleichbarer Modelle. xAI treibt damit verstärkt die Integration von Grok in Entwickler- und Agenten-Produkte sowie API-Workflows voran.",
+      "url": "https://www.aiapps.com/blog/top-ai-news-july-breakthroughs-launches-trends/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Nemotron-Labs-TwoTower",
+      "version": "",
+      "anbieter": "NVIDIA",
+      "detail": "Offenes diffusionsbasiertes Sprachmodell, das Text parallel statt Token für Token generiert. Laut NVIDIA liefert es die 2,42-fache Durchsatzrate gegenüber vergleichbaren autoregressiven Baseline-Modellen bei 98,7 Prozent der ursprünglichen Qualität – ein interessanter Ansatz für latenzkritische Anwendungen.",
+      "url": "https://llm-stats.com/ai-news",
+      "bild": ""
+    }
+  ]
+}
