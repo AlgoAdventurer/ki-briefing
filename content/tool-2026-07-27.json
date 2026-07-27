@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-27",
+  "name": "Zapier AI Agents",
+  "tagline": "Multi-Schritt-Agenten per natürlicher Sprache statt Drag-and-Drop-Zaps bauen",
+  "beschreibung": "Zapier AI Agents ist jetzt allgemein verfügbar und erlaubt es, komplexe Automatisierungen einfach durch die Beschreibung des gewünschten Ziels zu erstellen, statt Workflows manuell aus einzelnen Zap-Schritten zusammenzuklicken. Die Agenten verbinden sich mit dem bestehenden Zapier-Ökosystem aus über 8.000 Apps, können eigenständig entscheiden, welche Schritte zur Zielerreichung nötig sind, und passen sich bei Fehlern oder unerwarteten Daten dynamisch an. Damit senkt Zapier die Einstiegshürde für No-Code-Automatisierung nochmal deutlich.",
+  "useCase": "Ein kleines Team beschreibt in einem Satz, dass neue Support-Tickets automatisch nach Dringlichkeit kategorisiert, an die passende Person in Slack weitergeleitet und wöchentlich zusammengefasst werden sollen – der Agent baut und pflegt den kompletten Workflow eigenständig.",
+  "url": "https://zapier.com/agents",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Agents", "No-Code", "Automatisierung", "Productivity"]
+}

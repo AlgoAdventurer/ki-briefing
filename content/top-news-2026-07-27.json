@@ -1,0 +1,55 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Moonshot AI veröffentlicht Kimi K3 als Open Weights – größtes offenes Modell der Geschichte",
+      "quelle": "Interconnects",
+      "quelleUrl": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+      "zusammenfassung": "Am 27. Juli hat Moonshot AI die vollständigen Gewichte von Kimi K3 freigegeben – ein Mixture-of-Experts-Modell mit 2,8 Billionen Parametern (davon ca. 32 Milliarden aktiv pro Inferenzschritt), 1-Millionen-Token-Kontext und nativer Vision. Mit rund 1,4 Terabyte in MXFP4-Quantisierung ist es das größte je veröffentlichte Open-Weight-Modell, lizenziert unter einer modifizierten MIT-Lizenz. Auf Coding-Benchmarks wie SWE-bench liegt es auf Augenhöhe mit GPT-4.1 und Claude 3.7 Sonnet, erfordert zum Selbst-Hosten aber einen Multi-GPU-Server.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google hebt Kapitalausgaben-Prognose auf bis zu 205 Milliarden Dollar an – Big-Tech-Ergebniswoche unter AI-Spending-Druck",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/",
+      "zusammenfassung": "Google hat seine erwartete Kapitalausgaben-Spanne für 2026 auf 195 bis 205 Milliarden Dollar angehoben, um die Nachfrage nach KI-Rechenleistung für Google Cloud und Gemini zu decken. Der Schritt fällt in eine kritische Ergebniswoche: Microsoft und Meta berichten am Mittwoch, Apple und Amazon am Donnerstag, während Investoren zunehmend hinterfragen, ob die massiven KI-Investitionen sich auszahlen – Meta-Aktien sind bereits um 9,8 Prozent gefallen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Spezifikation vom 28. Juli: Größte Revision in der Geschichte des Protokolls geht live",
+      "quelle": "Model Context Protocol Blog",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "zusammenfassung": "Am 28. Juli wird die finale MCP-Spezifikation 2026-07-28 veröffentlicht – laut den Maintainern die umfangreichste Überarbeitung seit Bestehen des Standards. Das Protokoll wird zustandslos: Sessions und der Initialisierungs-Handshake entfallen, die Autorisierung wird neu geschrieben, und ein Framework für Extensions kommt hinzu. Über 10.000 aktive öffentliche MCP-Server und mehr als 97 Millionen monatliche SDK-Downloads zeigen, wie zentral das Protokoll für das KI-Ökosystem geworden ist.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "DeepSeek V4 erreicht stabilen Release – dichteste Open-Weight-Woche der Branche",
+      "quelle": "buildfastwithai",
+      "quelleUrl": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026",
+      "zusammenfassung": "Am 24. Juli hat DeepSeek die stabile Version seines V4-Modells veröffentlicht, nur drei Tage vor Moonshots Kimi-K3-Weights. Mit einem Preis von rund 0,44 Dollar pro Million Output-Token setzt DeepSeek V4 die Preis-Untergrenze, an der sich die gesamte Branche misst. Zusammen markieren beide Releases laut Beobachtern die bisher größte Konzentration an Open-Weight-Veröffentlichungen in der Geschichte der Branche.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Etched sichert sich 300 Millionen Dollar für spezialisierte KI-Inferenz-Chips",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/07/23/venture-capital-startup-funding-roundup-july-23-2026-accel-andreessen-horowitz-battery-ventures-iconiq-jane-street-sequoia-more/",
+      "zusammenfassung": "Der Chiphersteller Etched hat eine Series-C-Runde über 300 Millionen Dollar abgeschlossen, angeführt von Sequoia, Andreessen Horowitz, Jane Street, Diffusion und SK hynix. Das Startup entwickelt spezialisierte Halbleiter für Transformer-Inferenz und positioniert sich als Alternative zu Nvidias General-Purpose-GPUs in einem Markt, der zunehmend nach günstigerer, effizienterer KI-Rechenleistung verlangt.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

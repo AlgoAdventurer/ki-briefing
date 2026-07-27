@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird zustandslos",
+      "typ": "API / SDK",
+      "detail": "Die am 28. Juli finalisierte MCP-Spezifikation entfernt Sessions und den Initialisierungs-Handshake, schreibt Autorisierung neu und führt ein Framework für Extensions ein. Die Streamable-HTTP-Transportschicht verlangt jetzt Mcp-Method- und Mcp-Name-Header, damit Load Balancer und Gateways ohne Blick in den Body routen können. List- und Resource-Read-Ergebnisse tragen neu ttlMs und cacheScope, damit Clients wissen, wie lange eine Antwort gültig bleibt – ein großer Schritt Richtung produktionsreifer, horizontal skalierbarer MCP-Deployments.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Beta-SDKs für Python, TypeScript, Go und C# unterstützen neue MCP-Spec",
+      "typ": "SDK",
+      "detail": "Zur bevorstehenden Spezifikation stehen bereits Beta-Releases aller vier Tier-1-SDKs bereit. Alle bewahren Abwärtskompatibilität zu bestehenden MCP-Servern, sodass Teams schrittweise migrieren können, statt bestehende Integrationen sofort umschreiben zu müssen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Kimi K3 selbst hosten: Was die 1,4-TB-Gewichte in der Praxis bedeuten",
+      "typ": "Tutorial",
+      "detail": "Der Download der Kimi-K3-Gewichte ist kostenlos, das Betreiben des 2,8-Billionen-Parameter-Modells aber nicht: Für eigenes Hosting braucht es entweder einen substanziellen Multi-GPU-Server oder einen Inference-Anbieter, der das Modell bereitstellt – ein Kostenfaktor, den Listenpreise nicht abbilden. Für Teams, die Open-Weight-Modelle evaluieren, lohnt sich vorab eine realistische Kalkulation von GPU-Speicherbedarf und Serving-Infrastruktur statt reinem Blick auf Benchmark-Werte.",
+      "url": "https://www.mindstudio.ai/blog/what-is-kimi-k3-moonshot-ai-open-weight-model",
+      "codebeispiel": ""
+    }
+  ]
+}

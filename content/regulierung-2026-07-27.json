@@ -1,0 +1,13 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Letzte Woche vor Inkrafttreten der Kernpflichten am 2. August",
+      "region": "EU",
+      "detail": "Mit dem 2. August rückt der bislang folgenreichste Stichtag der KI-Regulierung näher: Ab diesem Datum gelten die Kernpflichten des AI Acts für Hochrisiko-Systeme für die Mehrheit der in der EU betriebenen KI-Anwendungen. Nach dem finalen Grünlicht für das Digital-Omnibus-Paket am 9. Juli ist diese letzte Woche für viele KMU und Startups die letzte ernsthafte Vorbereitungsfrist, bevor nationale Aufsichtsbehörden mit der Durchsetzung beginnen können. Weitere Übergangsfristen für einzelne Systemkategorien reichen bis 2027 und 2028.",
+      "url": "https://teachaitools.blog/blog/eu-ai-act-enforcement-begins-july-2026",
+      "auswirkung": "hoch"
+    }
+  ]
+}

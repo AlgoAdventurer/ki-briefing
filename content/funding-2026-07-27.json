@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "firma": "AegisAI",
+      "betrag": "$36M",
+      "runde": "Series A",
+      "investoren": "Battery Ventures (Lead), Accel, Foundation Capital",
+      "beschreibung": "AegisAI baut eigene Sprachmodelle und ein orchestriertes Netzwerk autonomer KI-Agenten, die eingehende E-Mails wie ein menschlicher Analyst auf Absicht statt nur auf bekannte Muster prüfen, um KI-generiertes Spear-Phishing und Business Email Compromise abzuwehren. Mit dem Kapital soll die Agentenflotte skaliert und die allgemeine Verfügbarkeit von Vanguard, einem Agenten für Bedrohungen jenseits des Postfachs, beschleunigt werden.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Etched",
+      "betrag": "$300M",
+      "runde": "Series C",
+      "investoren": "Sequoia, Andreessen Horowitz, Jane Street, Diffusion, SK hynix",
+      "beschreibung": "Etched entwickelt spezialisierte Halbleiter für Transformer-Inferenz als Alternative zu General-Purpose-GPUs. Die Runde reiht sich in einen Trend ein, bei dem Investoren zunehmend in dedizierte KI-Chip-Startups fließen, während die Nachfrage nach günstigerer, effizienterer Inferenz-Rechenleistung branchenweit steigt.",
+      "bild": ""
+    }
+  ]
+}

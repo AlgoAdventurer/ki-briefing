@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kimi K3 als selbst gehostetes Vision-Modell für Kartenanalyse ohne Token-Kosten",
+      "kontext": "Kimi K3 ist seit heute als Open-Weight-Modell mit nativer Vision-Fähigkeit frei verfügbar und bei ausreichender GPU-Kapazität ohne laufende Per-Token-Kosten nutzbar.",
+      "umsetzung": "Contoura könnte Kimi K3 auf eigener oder gemieteter GPU-Infrastruktur hosten, um automatisch Postenfotos und OL-Kartenausschnitte zu analysieren – etwa um typische Fehlerquellen an bestimmten Kontrollpunkten zu erkennen. Bei hohem Nutzungsvolumen über viele Athleten hinweg kann Self-Hosting langfristig günstiger sein als API-Aufrufe pro Analyse, erfordert aber vorab eine realistische Kalkulation der Serving-Infrastruktur.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 2,
+      "titel": "DeepSeek V4 als Kostenbasis für automatische Wettkampf-Zusammenfassungen im großen Stil",
+      "kontext": "DeepSeek V4 ist seit dieser Woche stabil verfügbar und liegt mit rund 0,44 Dollar pro Million Output-Token deutlich unter den Preisen westlicher Frontier-Modelle.",
+      "umsetzung": "Contoura könnte DeepSeek V4 für die automatische Generierung von Trainings- und Wettkampf-Zusammenfassungen nutzen, wenn Kosten pro Athlet der limitierende Faktor für eine Ausweitung auf die gesamte Nutzerbasis sind – als günstigere Alternative oder Ergänzung zu Claude-Modellen bei einfacheren, weniger sicherheitskritischen Zusammenfassungsaufgaben.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Zapier AI Agents für codefreie Anbindung von Garmin, Strava & Co.",
+      "kontext": "Zapier AI Agents ist jetzt allgemein verfügbar und erlaubt es, komplexe Automatisierungen aus einer natürlichsprachlichen Zielbeschreibung zu bauen, statt Workflows manuell zu konfigurieren.",
+      "umsetzung": "Contoura könnte über Zapier AI Agents eine schnelle, codearme Brücke zu Trainings-Datenquellen wie Garmin Connect oder Strava bauen, um Split-Zeiten und GPS-Daten automatisch zu importieren – als schneller Zwischenschritt, bevor eine tiefere native Integration entwickelt wird.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

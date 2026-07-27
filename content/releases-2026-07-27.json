@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-27",
+  "items": [
+    {
+      "id": 1,
+      "name": "Kimi K3",
+      "version": "K3",
+      "anbieter": "Moonshot AI",
+      "detail": "Vollständige Open Weights seit 27. Juli verfügbar: Mixture-of-Experts-Modell mit 2,8 Billionen Parametern (~32 Mrd. aktiv), 1-Mio-Token-Kontext, native Vision und permanentes Reasoning. Rund 1,4 TB Gewichte in MXFP4-Quantisierung, lizenziert unter modifizierter MIT-Lizenz. Größtes je veröffentlichtes Open-Weight-Modell, konkurrenzfähig mit GPT-4.1 und Claude 3.7 Sonnet auf Coding-Benchmarks.",
+      "url": "https://www.interconnects.ai/p/kimi-k3-the-open-weights-escalation",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek V4",
+      "version": "V4",
+      "anbieter": "DeepSeek",
+      "detail": "Stabile Version seit 24. Juli verfügbar. Setzt mit rund 0,44 Dollar pro Million Output-Token einen neuen Preis-Tiefpunkt für frontnahe Modelle und verschärft den Wettbewerbsdruck auf westliche Anbieter zusätzlich zu Kimi K3.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Notion AI",
+      "version": "2.5",
+      "anbieter": "Notion",
+      "detail": "Größeres Update, das Kontext jetzt über den gesamten Workspace hinweg zieht – aus verknüpften Datenbanken, angehängten Dokumenten und Kalendereinträgen. Notion positioniert die Funktion als Schritt weg von isolierten Seiten-Antworten hin zu einem Assistenten, der den gesamten Arbeitsbereich versteht.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-july-26-2026",
+      "bild": ""
+    }
+  ]
+}
