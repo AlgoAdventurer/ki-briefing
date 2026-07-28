@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-28",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Opus 5",
+      "version": "Opus 5",
+      "anbieter": "Anthropic",
+      "detail": "Seit 24. Juli verfügbar als claude-opus-5 über API, Amazon Bedrock, Google Cloud, Microsoft Foundry, claude.ai, Claude Code und Cowork. Neu ist ein Effort-Regler (niedrig/mittel/hoch), mit dem Nutzer selbst zwischen Kosten und Fähigkeiten abwägen können. Mit 1-Mio-Token-Kontext, 128k Max-Output-Tokens und Thinking standardmäßig aktiviert setzt Opus 5 bei gleichem Preis wie Opus 4.8 neue Bestwerte auf Frontier-Bench und GDPval-AA und ist maßgeblich dafür verantwortlich, dass Claude Code aktuell auf Platz 1 der Coding-Agenten-Rankings steht.",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Isaac GR00T",
+      "version": "1.7",
+      "anbieter": "NVIDIA / Hugging Face",
+      "detail": "NVIDIA und Hugging Face haben das offene Vision-Language-Action-Modell Isaac GR00T 1.7 sowie das Daten-Sammel-Framework Isaac Teleop in LeRobot integriert. Damit erhält die Open-Source-Robotik-Community Zugriff auf ein aktuelles Reasoning-Modell für physische Roboter-Steuerung samt passendem Tooling zur Sammlung von Trainingsdaten – ein Schritt, der offene Robotik-Entwicklung stärker an die Fortschritte bei Sprachmodellen anschließt.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "GitHub MCP Server",
+      "version": "",
+      "anbieter": "GitHub",
+      "detail": "GitHub hat seinen MCP Server bereits vor dem offiziellen Inkrafttreten der Spezifikation 2026-07-28 aktualisiert, um das kommende Protokoll zu unterstützen. Damit gehört GitHub zu den ersten großen Anbietern, deren MCP-Integration mit der zustandslosen Architektur und den neuen Autorisierungsregeln kompatibel ist, was Entwicklerteams eine reibungslosere Migration ihrer bestehenden GitHub-Integrationen ermöglicht.",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+      "bild": ""
+    }
+  ]
+}

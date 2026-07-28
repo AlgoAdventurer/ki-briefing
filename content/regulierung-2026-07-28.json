@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Transparenzpflichten aus Artikel 50 gelten ab 2. August verbindlich",
+      "region": "EU",
+      "detail": "In fünf Tagen treten die Kennzeichnungspflichten aus Artikel 50 des AI Acts in Kraft: Chatbots und KI-generierte Inhalte müssen für Nutzer in der EU dann klar als solche erkennbar sein. Nach dem finalen Grünlicht für das Digital-Omnibus-Paket Anfang Juli ist dies die erste konkret spürbare Pflicht für viele Endnutzer-Anwendungen, während weitere Übergangsfristen für Hochrisiko-Systeme bis 2027 und 2028 reichen.",
+      "url": "https://cubbbix.com/blog/ai-regulation-july-2026-global-update/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "USA: Bundesgesetzentwurf zur Vereinheitlichung der KI-Regulierung bleibt ohne Beschluss",
+      "region": "USA",
+      "detail": "Der von Reps. Jay Obernolte und Lori Trahan vorgelegte 'Great American Artificial Intelligence Act' sieht Transparenzpflichten, unabhängige Audits und eine dreijährige Vorrangregelung gegenüber Bundesstaaten-Gesetzen zur KI-Entwicklung vor. Bislang wurde jedoch keine bundesweite Vorrangregelung verabschiedet, während Bundesstaaten mit inzwischen 109 eigenen KI-Gesetzen und 28 Rechenzentrums-Gesetzen ihre eigene Regulierung weiter ausbauen – mit Schwerpunkt auf Kinderschutz, Rechenzentren und Verbraucherschutz.",
+      "url": "https://www.techpolicy.press/where-state-ai-legislation-stands-half-way-into-2026/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

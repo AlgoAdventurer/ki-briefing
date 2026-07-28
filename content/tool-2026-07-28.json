@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-28",
+  "name": "LALAL.AI Lynx",
+  "tagline": "Neuronales Netz, das Sprache sauber von jedem Hintergrundgeräusch trennt",
+  "beschreibung": "Lynx ist das erste Modell von LALAL.AI, das ausschließlich für Sprachisolierung und Rauschentfernung entwickelt wurde – trainiert, um Stimme von Hintergrundmusik, Straßenlärm, mechanischen Störgeräuschen und anderen akustischen Artefakten zu trennen. Das Modell läuft auf einer proprietären Architektur, ist rund sechsmal kleiner als LALAL.AIs Flaggschiff-Modell Andromeda für Musik-Stem-Separation und braucht dadurch deutlich weniger Rechenleistung bei vergleichbarer Ausgabequalität. Verfügbar ist Lynx über die LALAL.AI-API für B2B-Integrationen sowie über das Endnutzer-Produkt Voice Cleaner als Web-, Mobile- und Desktop-App.",
+  "useCase": "Ein Podcast-Team nimmt ein Interview draußen mit Straßenlärm im Hintergrund auf und lädt die Datei in Voice Cleaner hoch – Lynx isoliert die Stimmen und liefert eine studioreife Tonspur, ohne dass ein Neuaufnahme nötig wird.",
+  "url": "https://www.lalal.ai/",
+  "kategorie": "Audio / Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Audio", "Voice Isolation", "Podcast", "API"]
+}

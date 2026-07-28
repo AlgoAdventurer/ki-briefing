@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-28",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Norm AI",
+      "betrag": "$120M",
+      "runde": "Series C",
+      "investoren": "Khosla Ventures (Lead)",
+      "beschreibung": "Norm AI baut Governance- und Compliance-Software, die Unternehmen dabei hilft, KI-Systeme regelkonform zu betreiben und automatisiert gegen Vorschriften wie den EU AI Act zu prüfen. Die Runde bewertet das erst drei Jahre alte Unternehmen mit 1,2 Milliarden Dollar und zeigt, wie stark die Nachfrage nach KI-Governance-Tools kurz vor dem Inkrafttreten zentraler EU-AI-Act-Pflichten am 2. August steigt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Emergent",
+      "betrag": "$130M",
+      "runde": "Series C",
+      "investoren": "Creaegis (Lead)",
+      "beschreibung": "Emergent positioniert sich als 'Engineering-Team im Paket' für Gründer und kleine Unternehmen und lässt KI-Agenten weitgehend eigenständig ganze Software-Projekte umsetzen. Mit der Runde wird das Unternehmen mit 1,5 Milliarden Dollar bewertet und reiht sich in den anhaltenden Trend ein, dass Kapital verstärkt in agentische Coding-Plattformen fließt statt in reine Modell-Anbieter.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Opus 5: Effort-Parameter steuert Kosten und Denktiefe direkt in der API",
+      "typ": "API",
+      "detail": "Mit Claude Opus 5 lässt sich pro Anfrage steuern, wie viel Rechenaufwand das Modell investiert – niedrig für schnelle, günstige Antworten, hoch für maximale Denktiefe bei komplexen Aufgaben. Für Entwickler bedeutet das: einfache Klassifizierungs- oder Zusammenfassungsaufgaben laufen günstig mit niedrigem Effort, während anspruchsvolle Analysen gezielt mit hohem Effort angestoßen werden, statt pauschal das teuerste Setting zu nutzen.",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "codebeispiel": "client.messages.create(\n  model=\"claude-opus-5\",\n  max_tokens=1024,\n  effort=\"low\",\n  messages=[{\"role\": \"user\", \"content\": \"Fasse diesen Trainingsbericht in zwei Sätzen zusammen.\"}]\n)"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Spezifikation 2026-07-28: Roots, Sampling und Logging werden deprecated",
+      "typ": "SDK",
+      "detail": "Mit der heute finalisierten Spezifikation verschwinden drei bisherige Kernfeatures des Protokolls: Roots, Sampling und Logging gelten künftig als deprecated. Server-Betreiber, die diese Features nutzen, sollten prüfen, ob ihre Clients weiterhin auf ältere Protokollversionen ausweichen können, und ihre Roadmap für eine Migration auf die neuen, gleichwertigen Mechanismen der Extension-Frameworks planen.",
+      "url": "https://www.developersdigest.tech/blog/mcp-2026-07-28-breaking-changes",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Ein Python-v2-MCP-Server beantwortet beide Protokollversionen über einen einzigen Endpunkt",
+      "typ": "Tutorial",
+      "detail": "Um den Übergang zur neuen Spezifikation zu erleichtern, zeigt die Python-v2-SDK, wie ein einzelner Server-Endpunkt sowohl Clients mit der neuen zustandslosen 2026-07-28-Spec als auch ältere Clients bedienen kann, die noch den klassischen Initialisierungs-Handshake der Version 2025-11-25 erwarten. Für Teams mit bestehenden MCP-Integrationen ist das der pragmatischste Weg, ohne harten Cutover zu migrieren.",
+      "url": "https://mcpplaygroundonline.com/blog/migrate-mcp-server-2026-07-28-stateless",
+      "codebeispiel": ""
+    }
+  ]
+}

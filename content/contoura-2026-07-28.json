@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Effort-Parameter von Claude Opus 5 für kosteneffiziente Trainingskommentare nutzen",
+      "kontext": "Claude Opus 5 erlaubt seit dem 24. Juli, den Denkaufwand pro Anfrage über einen Effort-Parameter (niedrig/mittel/hoch) zu steuern, bei gleichem Preis wie das Vorgängermodell.",
+      "umsetzung": "Contoura könnte für einfache, automatische Trainingskommentare und Split-Zeit-Zusammenfassungen den niedrigen Effort-Modus nutzen, um Kosten pro Athlet gering zu halten, und den hohen Effort-Modus gezielt für komplexere Fehlerstatistik-Analysen oder Performance-Index-Erklärungen reservieren, statt pauschal ein einziges teures Setting für alle Anfragen zu verwenden.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Sprachisolierung à la LALAL.AI Lynx für Athleten-Interviews im Gelände",
+      "kontext": "LALAL.AI hat mit Lynx ein spezialisiertes Modell für Sprachisolierung veröffentlicht, das Stimme sauber von Wind-, Wald- und Umgebungsgeräuschen trennt.",
+      "umsetzung": "Contoura könnte ein vergleichbares Voice-Isolation-Modell einsetzen, um O-Athleten direkt nach dem Zieleinlauf im Freien sprachliche Feedback- oder Fehleranalysen aufnehmen zu lassen und diese trotz Wind- und Waldgeräuschen zuverlässig automatisch zu transkribieren und in die Trainingsdokumentation zu übernehmen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "KI-Kennzeichnungspflicht ab 2. August für automatisch generierte Trainingsinhalte prüfen",
+      "kontext": "Ab dem 2. August gelten in der EU die Transparenzpflichten aus Artikel 50 des AI Acts, wonach KI-generierte Inhalte und Chatbot-Interaktionen klar gekennzeichnet werden müssen.",
+      "umsetzung": "Contoura sollte prüfen, ob automatisch generierte Trainingskommentare, Performance-Analysen oder ein künftiger Chat-Assistent für Athleten unter diese Kennzeichnungspflicht fallen, und rechtzeitig einen klaren Hinweis ('KI-generiert') in die betroffenen Ausgaben einbauen, um ab dem Stichtag compliant zu sein.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    }
+  ]
+}
