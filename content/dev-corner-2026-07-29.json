@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kimi K3 per OpenAI- oder Anthropic-kompatiblem Endpoint ansprechen",
+      "typ": "API",
+      "detail": "Moonshot bietet Kimi K3 sowohl über eine OpenAI-kompatible als auch eine Anthropic-kompatible API an, inklusive Tool-Calling, JSON-Schema-Structured-Output, Context-Caching und einem eigenen reasoning_effort-Parameter zur Steuerung der Denktiefe. Für Teams, die bereits gegen die OpenAI- oder Claude-API entwickeln, ist ein Wechsel auf Kimi K3 dadurch meist nur eine Frage des Base-URL- und API-Key-Austauschs, ohne den restlichen Code anzupassen.",
+      "url": "https://openrouter.ai/moonshotai/kimi-k3",
+      "codebeispiel": "client = OpenAI(\n  base_url=\"https://api.moonshot.ai/v1\",\n  api_key=KIMI_API_KEY\n)\nclient.chat.completions.create(\n  model=\"kimi-k3\",\n  reasoning_effort=\"medium\",\n  messages=[{\"role\": \"user\", \"content\": \"Fasse diese Split-Zeiten zusammen.\"}]\n)"
+    },
+    {
+      "id": 2,
+      "titel": "Cloudflare Agents SDK v0.20 unterstützt die neue MCP-Spezifikation 2026-07-28",
+      "typ": "SDK",
+      "detail": "Einen Tag nach der finalen MCP-Spezifikation hat Cloudflare sein Agents SDK auf Version 0.20 aktualisiert und unterstützt damit direkt das neue zustandslose Protokoll samt MCP-SDK v2. Entwicklerteams, die Agenten auf Cloudflare Workers betreiben, können MCP-Server und -Clients ohne Umweg über Community-Patches auf dem aktuellen Spezifikationsstand bauen.",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-07-27-agents-sdk-v0.20.0-mcp-sdk-v2/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "LongCat-2.0: offenes Coding- und Agenten-Modell mit 1-Mio-Kontext unter MIT-Lizenz",
+      "typ": "Open Source",
+      "detail": "LongCat-2.0 ist ein frei nutzbares Modell mit langem Kontextfenster, das speziell auf Coding- und Agenten-Workflows zugeschnitten ist und unter der freizügigen MIT-Lizenz steht. Für Entwickler, die eigene Agenten-Pipelines selbst hosten oder feintunen wollen, ist das eine kommerziell unkompliziertere Alternative zu Modellen mit restriktiveren Custom-Lizenzen wie Kimi K3.",
+      "url": "https://huggingface.co/blog/Svngoku/ai-models-week-july-09-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

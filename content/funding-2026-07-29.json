@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-29",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Atoms",
+      "betrag": "$1,7B",
+      "runde": "Equity-Finanzierung",
+      "investoren": "Andreessen Horowitz (Lead), Uber, Bain Capital, Fifth Wall, Chemistry",
+      "beschreibung": "Atoms, das Robotik- und Industrieautomatisierungs-Unternehmen von Uber-Mitgründer Travis Kalanick, baut eine integrierte Plattform für 'physische KI' in Lebensmittelproduktion, Bergbau und Transport auf. Bemerkenswert: Auch Uber selbst investiert wieder in Kalanicks neues Projekt, fast ein Jahrzehnt nach seinem Rauswurf als CEO.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Enigma",
+      "betrag": "$71M",
+      "runde": "Venture-Runde",
+      "investoren": "Index Ventures, Ribbit Capital, Conviction Partners",
+      "beschreibung": "Enigma erhält frisches Kapital von einem prominenten Investoren-Trio, das stark im Fintech- und KI-Infrastruktur-Bereich aktiv ist. Die Runde reiht sich in eine besonders aktive Finanzierungswoche für KI-nahe Startups ein.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Abstract Security",
+      "betrag": "$25M",
+      "runde": "Series A",
+      "investoren": "nicht näher benannt",
+      "beschreibung": "Abstract Security baut eine composable, KI-gestützte Security-Operations-Plattform. Die Runde fällt in eine Phase, in der Sicherheitsanbieter nach dem OpenAI/Hugging-Face-Vorfall und der neuen Open Secure AI Alliance verstärkt Investoren-Interesse für KI-native Verteidigungswerkzeuge sehen.",
+      "bild": ""
+    }
+  ]
+}

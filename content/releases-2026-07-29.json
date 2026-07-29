@@ -1,0 +1,41 @@
+{
+  "datum": "2026-07-29",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6",
+      "version": "Sol / Terra / Luna",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI bringt GPT-5.6 nicht als einzelnes Modell, sondern als Lineup mit drei Varianten: Sol, Terra und Luna, jeweils für unterschiedliche Aufgabenprofile zwischen Geschwindigkeit und Denktiefe. Der Zugang wurde zunächst auf ausgewählte Partnerorganisationen beschränkt, bevor eine breitere Freischaltung folgt – ein ungewöhnlich zurückhaltender Rollout im Vergleich zu früheren OpenAI-Releases.",
+      "url": "https://thursdai.news/releases/2026-07",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Kimi K3",
+      "version": "2,8T MoE, offene Gewichte",
+      "anbieter": "Moonshot AI",
+      "detail": "Mit 2,8 Billionen Gesamtparametern (104 Milliarden aktiv pro Token), 1-Mio-Token-Kontext und nativer visueller Verarbeitung ist Kimi K3 das bislang größte veröffentlichte offene Modell. Die Gewichte stehen als 96 Shards (rund 1,56 TB) auf Hugging Face zum Download bereit, API-Zugriff kostet 3 Dollar pro Million Input- und 15 Dollar pro Million Output-Token.",
+      "url": "https://kie.ai/blog/what-is-kimi-k3",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Spark",
+      "version": "1.1",
+      "anbieter": "Meta",
+      "detail": "Meta hat Muse Spark 1.1 als bislang leistungsfähigstes Modell für reale Coding- und Agenten-Aufgaben veröffentlicht. Gleichzeitig beginnt Meta erstmals, Entwicklern über eine neue Meta Model API Gebühren für die Nutzung eigener Modelle zu berechnen – ein Kurswechsel weg vom bisher kostenlosen Zugang für Drittentwickler.",
+      "url": "https://thursdai.news/releases/2026-07",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Midjourney",
+      "version": "V8.2",
+      "anbieter": "Midjourney",
+      "detail": "Das neue Bildmodell V8.2 legt den Schwerpunkt auf Ästhetik, Bildqualität und Personalisierung: Ergebnisse sollen kreativer, mutiger und stilistisch ausgeprägter wirken, während die Rate qualitativ schwacher Zufallsergebnisse deutlich sinkt. Damit reagiert Midjourney auf wachsende Konkurrenz durch Bildmodelle großer Foundation-Model-Anbieter.",
+      "url": "https://www.midjourney.com/",
+      "bild": ""
+    }
+  ]
+}

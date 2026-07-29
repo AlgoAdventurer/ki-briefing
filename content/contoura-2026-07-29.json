@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigenen MCP-Server für Contoura-Daten bauen, jetzt wo der Standard final ist",
+      "kontext": "Die MCP-Spezifikation wurde am 28. Juli finalisiert und das Ökosystem zählt bereits über 10.000 aktive Server – praktisch alle großen KI-Anbieter unterstützen das Protokoll inzwischen nativ.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bereitstellen, über den Trainer oder Athleten mit ihrem bevorzugten KI-Assistenten (Claude, ChatGPT, etc.) direkt Fragen zu Split-Zeiten, Fehlerstatistiken oder Performance-Index stellen können, ohne die App zu öffnen – die Daten blieben dabei vollständig unter Contouras Kontrolle, da nur Lesezugriffe über den Server erlaubt würden.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Kimi K3s günstige 1-Mio-Token-API für automatische Saison-Rückblicke testen",
+      "kontext": "Kimi K3 bietet einen 1-Millionen-Token-Kontext zu vergleichsweise niedrigen 3 Dollar pro Million Input-Token und ist als offenes Modell auch selbst hostbar.",
+      "umsetzung": "Contoura könnte den riesigen Kontext nutzen, um einem Athleten am Saisonende sämtliche Trainingseinträge, Split-Zeiten und Fehlerstatistiken der letzten Monate in einem Rutsch zu übergeben und daraus einen zusammenhängenden, günstig erzeugten Saison-Rückblick mit erkannten Entwicklungstrends generieren zu lassen, statt Daten aufwendig zu segmentieren.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Sprachdiktat à la Willow Atlas 1 für schnelle Trainingsnotizen direkt nach dem Lauf",
+      "kontext": "Willows neues Speech-to-Text-Modell Atlas 1 erreicht laut Hersteller niedrigere Fehlerraten als ElevenLabs, Deepgram und OpenAI und treibt eine App an, mit der Nutzer über alle Plattformen hinweg zuverlässig diktieren können.",
+      "umsetzung": "Contoura könnte eine Diktier-Funktion einbauen, mit der Athleten direkt nach dem Zieleinlauf per Sprache eine kurze Trainingsnotiz oder Fehleranalyse aufnehmen, die zuverlässig in Text umgewandelt und automatisch der jeweiligen Trainingseinheit zugeordnet wird – niedrigschwelliger als manuelles Eintippen nach einer anstrengenden Einheit.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    }
+  ]
+}

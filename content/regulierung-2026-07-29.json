@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "China: Neue Regeln für KI-Agenten und anthropomorphe KI-Dienste seit 15. Juli in Kraft",
+      "region": "China",
+      "detail": "Chinas Cyberspace-Aufsicht CAC hat zusammen mit NDRC und MIIT erstmals einen eigenen Regulierungsrahmen speziell für KI-Agenten geschaffen, getrennt von den bisherigen Regeln für generative KI. Parallel gelten seit demselben Datum die 'Interim Measures' für anthropomorphe, also menschenähnlich interagierende KI-Dienste. Beide Regelwerke sind Teil von Pekings breiterer Strategie, Daten, Algorithmen, Rechenleistung und IP-Fragen rund um KI über ein umfassendes nationales KI-Gesetz zu steuern, das derzeit in Arbeit ist.",
+      "url": "https://www.rimonlaw.com/china-ai-law-brief/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Japan verschärft KI-Governance-Leitlinien für öffentliche Beschaffung",
+      "region": "Japan",
+      "detail": "Das japanische Wirtschaftsministerium METI hat überarbeitete KI-Governance-Leitlinien veröffentlicht, die erstmals konkrete Anforderungen an den Einsatz von KI bei staatlichen Beschaffungsprozessen enthalten. Anbieter, die KI-Systeme an japanische Behörden verkaufen wollen, müssen sich künftig an klar definierten Transparenz- und Prüfkriterien orientieren – ein weiteres Beispiel dafür, wie asiatische Regierungen KI-Regulierung zunehmend über eigene Beschaffungsmacht statt über harte Gesetze durchsetzen.",
+      "url": "https://theaiforest.com/ai-regulation-news-2026-us-eu-global-updates/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

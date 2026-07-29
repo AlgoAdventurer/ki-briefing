@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-29",
+  "name": "Willow Atlas 1",
+  "tagline": "Frontier-Spracherkennungsmodell für Echtzeit-Diktat, das ElevenLabs, Deepgram und OpenAI übertrifft",
+  "beschreibung": "Atlas 1 ist Willows neues Speech-to-Text-Modell, aufgebaut auf einer eigens für Echtzeit-Diktat entwickelten, human-in-the-loop-skalierten Transkriptions-Infrastruktur. Das Modell erreicht laut Hersteller deutlich niedrigere Fehlerraten als etablierte Anbieter wie ElevenLabs, Deepgram oder OpenAI und treibt Willows viral gewachsene Voice-Keyboard-App an, die inzwischen bei Firmen wie Canva, GitHub und Uber im Einsatz ist. Nutzer können damit über alle Apps hinweg diktieren, das Ergebnis direkt per Sprache nachbearbeiten und so klassisches Tippen weitgehend ersetzen.",
+  "useCase": "Ein Entwickler diktiert eine lange technische E-Mail oder Commit-Message per Sprache in beliebige Apps auf Mac, Windows oder iPhone – Atlas 1 transkribiert nahezu fehlerfrei in Echtzeit und erlaubt anschließend per Sprachbefehl gezielte Korrekturen, ohne die Tastatur zu benutzen.",
+  "url": "https://willowvoice.com/",
+  "kategorie": "Audio / Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Speech-to-Text", "Diktat", "Voice Keyboard", "Productivity"]
+}
