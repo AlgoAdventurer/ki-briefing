@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Gesprochenes Trainingsfeedback mit ElevenLabs Voice Design v3 statt reinem Text",
+      "kontext": "ElevenLabs' neues Voice Design v3 erlaubt über einfache Audio-Tags wie [encouraging] oder [thoughtful] eine präzise Steuerung von Tonfall und Emotion in synthetisierter Sprache, bei über 70 unterstützten Sprachen.",
+      "umsetzung": "Contoura könnte automatisch generierte Trainingsauswertungen zusätzlich als gesprochenes Audio-Feedback mit passendem, ermunterndem Tonfall anbieten – Athleten könnten sich die Analyse ihrer Split-Zeiten und Fehlerstatistiken direkt nach dem Lauf anhören statt am Bildschirm zu lesen, was gerade unterwegs oder direkt im Zielraum niedrigschwelliger ist.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "KI-generierte Inhalte in Contoura klar kennzeichnen, bevor es Pflicht wird",
+      "kontext": "Ab dem 2. August gelten die Transparenzpflichten aus Artikel 50 des EU AI Act verbindlich: KI-generierte Inhalte müssen für Nutzer erkennbar gekennzeichnet werden, und die US-FTC diskutiert parallel eigene Vorgaben zur Steuerung von KI-Ausgaben.",
+      "umsetzung": "Contoura sollte automatisch generierte Trainingskommentare, Saison-Rückblicke oder Fehleranalysen konsequent mit einem sichtbaren 'KI-generiert'-Hinweis versehen. Das schafft frühzeitig regulatorische Sicherheit für europäische Vereine und Athleten als Nutzer und stärkt gleichzeitig das Vertrauen, weil klar bleibt, was von der KI stammt und was der Trainer selbst geschrieben hat.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Agentische Anomalie-Erkennung für Performance-Daten nach Vorbild von groundcover",
+      "kontext": "Das frisch finanzierte Observability-Startup groundcover hat mit 'Agent Mode' eine Funktion eingeführt, die Probleme in Produktionssystemen automatisch erkennt, analysiert und Lösungsvorschläge liefert, statt dass Engineers manuell durch Dashboards scrollen.",
+      "umsetzung": "Contoura könnte einen ähnlichen Agenten für Trainingsdaten bauen, der kontinuierlich Split-Zeiten und Fehlerraten überwacht, ungewöhnliche Abweichungen automatisch erkennt (z.B. plötzlich verschlechterte Navigationsfehler in bestimmten Geländetypen) und dem Trainer proaktiv eine mögliche Ursache samt Trainingsempfehlung vorschlägt, statt dass dieser die Auffälligkeit erst manuell in den Diagrammen finden muss.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

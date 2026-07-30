@@ -1,0 +1,21 @@
+{
+  "datum": "2026-07-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "FTC will Staatsgesetze wie Colorados AI Act per Bundesrecht aushebeln",
+      "region": "USA",
+      "detail": "Die US-Handelsaufsicht FTC hat ein Grundsatzpapier vorgelegt, wonach Unternehmen gegen Paragraf 5 des FTC Act verstossen, wenn sie KI-Systeme so steuern, dass diese andere als die vom Nutzer erwarteten Ziele verfolgen. Explizit nennt die FTC Colorados KI-Gesetz als Beispiel für einen Bundesgesetz-Konflikt und argumentiert, ein solches Landesgesetz sei insoweit 'implied preempted'. Die Kommentarfrist zum Papier endet bereits am 31. Juli – Unternehmen könnten sich künftig auf Bundesrecht berufen, um strengere Einzelstaaten-Vorgaben zu umgehen.",
+      "url": "https://www.federalregister.gov/documents/2026/07/07/2026-13628/policy-statement-concerning-the-suppression-of-accuracy-in-artificial-intelligence-systems",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Brasiliens KI-Gesetz auf der Zielgeraden vor der Sommerpause",
+      "region": "Global",
+      "detail": "Der brasilianische Gesetzentwurf 2338/2023 hat den zuständigen Senatsausschuss für Wissenschaft und Technologie mit 12 Änderungen passiert. Die Vollabstimmung in der Abgeordnetenkammer wird noch vor der parlamentarischen Sommerpause im August erwartet. Bei einer Verabschiedung würde Brasilien neben der EU und Südkorea zu den ersten Ländern mit einem umfassenden, risikobasierten KI-Rahmengesetz gehören – mit Inkrafttreten voraussichtlich Anfang 2027.",
+      "url": "https://www.dataguidance.com/news/brazil-senate-passes-ai-bill",
+      "auswirkung": "mittel"
+    }
+  ]
+}

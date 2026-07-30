@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-30",
+  "items": [
+    {
+      "id": 1,
+      "name": "Model Context Protocol",
+      "version": "2026-07-28",
+      "anbieter": "Agentic AI Foundation / Anthropic",
+      "detail": "Die grösste Revision seit Einführung des Standards macht MCP im Kern zustandslos: Der Initialize-Handshake und protokollseitige Sessions entfallen, jede Anfrage ist eigenständig und kann von beliebigen Serverinstanzen hinter gewöhnlicher HTTP-Infrastruktur beantwortet werden. Dazu kommen ein formales Extensions-Framework für Funktionen wie interaktive UIs (MCP Apps) und lang laufende Aufgaben (Tasks) sowie eine Autorisierung, die sich enger an produktivem OAuth 2.0 / OIDC orientiert. Beta-SDKs für Python, TypeScript, Go und C# sind bereits verfügbar.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "ElevenLabs Voice Design",
+      "version": "v3",
+      "anbieter": "ElevenLabs",
+      "detail": "Aus Freitext-Prompts wie 'Mittvierziger New Yorker mit steigender Intonation' erzeugt v3 drei Stimmvorschläge, von denen Nutzer einen behalten. Neu sind ein deutlich präziseres Prompting für Nuancen und seltene Akzent-Kombinationen, eine feinere Kontrolle über Audioqualität sowie eine Markup-Sprache mit Tags wie [laughs] oder [whispers], die Emotion und Betonung direkt im Skript steuern – bei Unterstützung von über 70 Sprachen und nativen Mehrsprecher-Dialogen.",
+      "url": "https://elevenlabs.io/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Pangram 4 / Pangram Image",
+      "version": "4",
+      "anbieter": "Pangram Labs",
+      "detail": "Der neue Text-Detektor erreicht laut Unternehmensangaben eine Falsch-Positiv-Rate von nur 0,0041% – etwa ein Fehlalarm pro 24.000 Dokumenten. Parallel dazu veröffentlichte Pangram eine Forschungsvorschau für Bilderkennung mit rund 99,5% Trefferquote in internen Benchmarks. Finanziert wird die Weiterentwicklung durch eine frische 9-Millionen-Dollar-Runde unter Führung von Menlo Ventures.",
+      "url": "https://www.pangram.com/",
+      "bild": ""
+    }
+  ]
+}

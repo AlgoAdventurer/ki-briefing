@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Migration auf den zustandslosen Kern",
+      "typ": "Protokoll / SDK",
+      "detail": "Wer eigene MCP-Server betreibt, sollte jetzt auf die Beta-SDKs (Python, TypeScript, Go, C#) migrieren: Der Initialize-Handshake und der Mcp-Session-Id-Header entfallen, jede Anfrage muss eigenständig verständlich sein. Das erlaubt Deployment auf gewöhnlicher, zustandsloser HTTP-Infrastruktur (Serverless, Edge) statt dauerhafter Verbindungen – gleichzeitig muss serverseitig jeder Zustand, der bisher implizit in der Session lag, explizit mitgeschickt oder extern gehalten werden.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GitHub Copilot CLI v1.0.75 unterstützt Claude Opus 5",
+      "typ": "SDK / Tool",
+      "detail": "Mit Version 1.0.75 lässt sich Claude Opus 5 direkt in der Copilot CLI für komplexe Coding-Aufgaben, agentische Workflows und mehrstufige Ausführung auswählen. Auch die JetBrains-Integration zieht nach: MCP-Server und eigene Agenten lassen sich jetzt direkt in Claude-Agent-Flows einbinden, inklusive feinerer Kontrolle über Telemetrie- und Token-Einstellungen.",
+      "url": "https://github.blog/changelog/label/copilot/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Claude Code SDK: Modellwechsel jetzt mitten im Turn möglich",
+      "typ": "SDK",
+      "detail": "Headless- und SDK-Sessions können per set_model-Control-Request das Modell wechseln, ohne auf den nächsten Turn zu warten – der nächste Modell-Roundtrip nutzt sofort das neue Modell. Neu ist zudem das Flag --forward-subagent-text (bzw. die Umgebungsvariable CLAUDE_CODE_FORWARD_SUBAGENT_TEXT), das Text und Denkprozesse von Subagenten im stream-json-Output sichtbar macht – nützlich für eigene Observability-Tools rund um Subagenten-Pipelines.",
+      "url": "https://www.gradually.ai/en/changelogs/claude-code/",
+      "codebeispiel": "claude --forward-subagent-text --output-format stream-json"
+    }
+  ]
+}

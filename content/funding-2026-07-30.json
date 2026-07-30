@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-30",
+  "items": [
+    {
+      "id": 1,
+      "firma": "groundcover",
+      "betrag": "$100M",
+      "runde": "Series C",
+      "investoren": "One Peak (Lead), Morgan Stanley Expansion Capital, Zeev Ventures, Angular Ventures, Heavybit, Jibe",
+      "beschreibung": "Das israelische Observability-Startup baut eine Plattform, die Anwendungen, Cloud-Infrastruktur und KI-Workloads direkt aus der Cloud-Umgebung der Kunden heraus überwacht – als Herausforderer für Datadog. Mit 'Agent Mode' bietet groundcover bereits eine agentische Funktion, die Produktionsprobleme automatisch identifiziert und Lösungsvorschläge liefert. Die Runde bringt die Gesamtfinanzierung auf 160 Millionen Dollar, nachdem das Unternehmen den Jahresumsatz verdreifacht und die Belegschaft verdoppelt hat.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Pangram Labs",
+      "betrag": "$9M",
+      "runde": "Seed",
+      "investoren": "Menlo Ventures (Lead), Haystack, ScOp Venture Capital, Script Capital, Cadenza",
+      "beschreibung": "Das KI-Forschungslabor entwickelt Erkennungssoftware für KI-generierte Inhalte und hat parallel zur Finanzierungsrunde den neuen Text-Detektor Pangram 4 sowie eine Forschungsvorschau für Bilderkennung veröffentlicht. Angesichts der wachsenden Flut KI-generierter Inhalte im Netz soll das frische Kapital vor allem in bessere Erkennungsgenauigkeit und die Erweiterung auf weitere Medienformate fliessen.",
+      "bild": ""
+    }
+  ]
+}

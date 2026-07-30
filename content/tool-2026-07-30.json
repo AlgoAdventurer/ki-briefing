@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-30",
+  "name": "Notion AI 2.5",
+  "tagline": "Notions KI-Agenten arbeiten jetzt über das ganze Workspace hinweg statt nur auf einzelnen Seiten",
+  "beschreibung": "Mit Version 2.5 kann Notion AI erstmals Kontext aus verknüpften Datenbanken, angehängten Dokumenten und Kalendereinträgen ziehen, statt nur die aktuell geöffnete Seite zu kennen. Neu sind zudem KI-Meeting-Notizen mit Sprecher-Kennzeichnung, Agenten, die Excel- und PowerPoint-Dateien lesen und schreiben können, sowie Kalender-Tools, mit denen Agenten Termine verwalten, an Calls teilnehmen und Einladungen verschicken. Teams können Agenten wie Kollegen per @-Erwähnung Aufgaben aus geteilten Boards zuweisen und ihnen beim Arbeiten zusehen.",
+  "useCase": "Ein Team weist einem Notion-Agenten über ein geteiltes Board die Aufgabe zu, aus verstreuten Meeting-Notizen, einer verknüpften Projekt-Datenbank und dem Team-Kalender einen aktuellen Statusbericht zusammenzustellen – der Agent zieht sich die nötigen Infos selbstständig aus allen drei Quellen, ohne dass jemand Inhalte manuell zusammensuchen muss.",
+  "url": "https://www.notion.com/product/ai",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Workspace-KI", "Agenten", "Meeting-Notizen", "Productivity"]
+}
