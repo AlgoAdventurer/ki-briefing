@@ -1,0 +1,23 @@
+{
+  "datum": "2026-07-31",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Enigma",
+      "betrag": "$71M",
+      "runde": "Seed",
+      "investoren": "Index Ventures, Ribbit Capital, Sarah Guo (Conviction Partners), Angel-Investoren von OpenAI, Anthropic, DeepMind, xAI, Cognition und Wiz",
+      "beschreibung": "Das noch keine ein Jahr alte Research-Lab erforscht, wie Menschen intuitiv mit Robotern interagieren können, um Robotersteuerung so einfach wie einen Lautstärkeregler zu machen. Mit robots.online betreibt Enigma bereits eine öffentliche Plattform, auf der jede und jeder in Echtzeit über 100 KI-gesteuerte Roboter in Hangars in Israel und Kalifornien bei Aufgaben wie Malen oder einfachen Experimenten steuern kann.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Encore AI",
+      "betrag": "$30M",
+      "runde": "Series A",
+      "investoren": "Team8 (Lead), Yasmin Lukatz, Planven, Garage, mehrere Banken und Versicherer als Kunden-Investoren",
+      "beschreibung": "Das frühere Insait IO baut KI-Agenten, die aus Kundengesprächen (Anrufe, E-Mails, CRM-Daten) lernen, welches Verhalten von Top-Vertriebsmitarbeitenden Abschlüsse tatsächlich voranbringt, und dieses \"Interaction Mining\" für Support und Vertrieb in regulierten Branchen wie Banken und Versicherungen skalierbar macht.",
+      "bild": ""
+    }
+  ]
+}

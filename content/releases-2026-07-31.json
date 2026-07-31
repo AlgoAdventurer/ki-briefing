@@ -1,0 +1,32 @@
+{
+  "datum": "2026-07-31",
+  "items": [
+    {
+      "id": 1,
+      "name": "Kimi K3",
+      "version": "K3",
+      "anbieter": "Moonshot AI",
+      "detail": "Die vollen offenen Gewichte des mit 2,8 Billionen Parametern (104 Mrd. aktiv pro Token) grössten je veröffentlichten offenen KI-Modells stehen seit dem 27. Juli auf Hugging Face bereit – in 96 Shards mit insgesamt rund 1,56 TB unter einer eigenen \"Kimi K3 License\". Das Mixture-of-Experts-Modell verarbeitet nativ Text, Bild und Video, bietet ein Kontextfenster von gut 1 Million Tokens und erreicht mit 57 Punkten im Artificial-Analysis-Intelligence-Index den besten Wert unter offenen Modellen. Together AI und Modal bieten bereits Day-0-Hosting an.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/china-s-moonshot-to-release-breakthrough-ai-model-for-download",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Isaac GR00T 1.7 + LeRobot-Integration",
+      "version": "1.7",
+      "anbieter": "NVIDIA & Hugging Face",
+      "detail": "NVIDIA bringt sein offenes Vision-Language-Action-Reasoning-Modell Isaac GR00T 1.7 sowie das Isaac-Teleop-Datenerfassungs-Framework in LeRobot, Hugging Faces offene Robotik-Bibliothek, ein. Entwicklerinnen und Entwickler erhalten damit frei zugängliche Werkzeuge, um eigene Roboter-Policies zu trainieren und Trainingsdaten per Teleoperation zu sammeln – ein weiterer Schritt zur Demokratisierung von Robotik-KI nach dem Vorbild offener Sprachmodelle.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "ChatGPT for Academic Researchers",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "Neues Programm, das ausgewählten Wissenschaftlerinnen und Wissenschaftlern kostenlosen Zugang zu Frontier-Modellen und Forschungswerkzeugen für Mathematik, Naturwissenschaften und Engineering gibt. Es startet mit 10.000 Forschenden an Institutionen wie dem Institute for Advanced Study und der École normale supérieure und soll bis 2027 auf 100.000 Forschende ausgeweitet werden – Teil eines auf über 250 Millionen Dollar bezifferten Engagements von OpenAI für externe wissenschaftliche Forschung.",
+      "url": "https://openai.com/index/chatgpt-for-academic-researchers/",
+      "bild": ""
+    }
+  ]
+}

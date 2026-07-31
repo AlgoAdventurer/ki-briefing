@@ -1,0 +1,12 @@
+{
+  "datum": "2026-07-31",
+  "name": "Prelint",
+  "tagline": "Der Entscheidungs-Layer für KI-geschriebenen Code – verhindert stillen \"Product Drift\"",
+  "beschreibung": "Prelint prüft jeden Pull Request gegen Produktspezifikationen, Architekturentscheidungen, Compliance-Regeln und bisherige Tickets, statt nur auf syntaktische Korrektheit zu achten. Das Tool erklärt in Klartext, welche Produktentscheidung ein KI-Coding-Agent implizit getroffen hat, welche Konsequenzen das hat und wie schwer sich die Entscheidung rückgängig machen lässt. Bei Teams mit mehreren KI-Reviewern deckt Prelint laut Anbieter rund 40 Prozent der vor dem Merge behobenen Probleme auf. Abgerechnet wird pro abgeschlossenem Review (ab 10 Dollar Startguthaben), Open-Source-Projekte nutzen es kostenlos.",
+  "useCase": "Ein Team lässt Claude Code oder einen anderen Coding-Agenten eine Pull Request umsetzen; Prelint liest den Diff zusammen mit Spezifikation und Tickets und markiert, dass der Agent dabei stillschweigend ein Preismodell oder eine Business-Regel verändert hat – bevor der Code gemerged wird.",
+  "url": "https://prelint.com/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Code Review", "AI Agents", "GitHub", "Product Management"]
+}

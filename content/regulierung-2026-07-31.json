@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Transparenzpflichten aus Artikel 50 treten am 2. August in Kraft",
+      "region": "EU",
+      "detail": "Ab dem 2. August gelten die Kennzeichnungspflichten des EU AI Act verbindlich: Chatbots und KI-generierte Inhalte müssen für Nutzerinnen und Nutzer klar als solche erkennbar sein. Das Digital-Omnibus-Paket erhielt am 9. Juli grünes Licht und konsolidierte zugleich den Zeitplan für die Hochrisiko-Regeln, die verschoben wurden – Unternehmen aus Bereichen wie Personalwesen, Bildung, Gesundheit und Finanzen müssen jetzt die letzten Vorbereitungen abschliessen.",
+      "url": "https://teachaitools.blog/blog/eu-ai-act-enforcement-begins-july-2026",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU eröffnet Ausschreibung für sieben KI-Gigafactories mit 10 Mrd. Euro öffentlicher Förderung",
+      "region": "EU",
+      "detail": "Die Europäische Kommission hat am 30. Juli die Ausschreibung für bis zu sieben KI-\"Gigafactories\" gestartet – ein 30-Milliarden-Euro-Vorhaben (10 Mrd. öffentlich, 20 Mrd. privat) mit dem Ziel, Europas Abhängigkeit von US- und chinesischer Rechenleistung zu verringern. Jede Anlage soll mindestens 100.000 KI-Chips bündeln, rund viermal mehr als heutige EU-Rechenzentren; AMD, Nvidia und Qualcomm haben bereits Absichtserklärungen für Hardware-Zugang unterschrieben. Die Ausschreibung läuft bis zum 12. November, Bau soll 2027 beginnen.",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/eu-pledges-10-billion-in-public-funding-for-new-ai-data-centers",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "China führt weltweit erste verbindliche Regulierung speziell für KI-Agenten ein",
+      "region": "Global",
+      "detail": "Seit dem 15. Juli gelten Chinas gemeinsam von CAC, NDRC und MIIT erlassene \"Implementation Opinions\", die Entscheidungsbefugnisse von KI-Agenten in drei Stufen einteilen: rein nutzergebundene, freigabepflichtige und autonome Entscheidungen. Für sensible Bereiche wie Gesundheit, Verkehr, Medien und öffentliche Sicherheit gelten zusätzlich Meldepflichten, Compliance-Tests und Rückrufregelungen – das erste nationale Regelwerk weltweit, das KI-Agenten als eigene regulierte Kategorie behandelt.",
+      "url": "https://www.machinebrief.com/news/china-ai-agent-regulations-enforceable-july-15-2026",
+      "auswirkung": "mittel"
+    }
+  ]
+}

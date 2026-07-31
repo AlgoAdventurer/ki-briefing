@@ -1,0 +1,29 @@
+{
+  "datum": "2026-07-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Server für Contoura: Trainer-Chatbots direkt an Athleten-Daten anbinden",
+      "kontext": "Die neue MCP-2026-07-28-Spezifikation vereinfacht Request/Response-Betrieb auf Serverless-Infrastruktur und bringt produktionsreife OAuth-2.0-/OIDC-Autorisierung mit – MCP-Server lassen sich damit ohne grossen Aufwand sicher betreiben.",
+      "umsetzung": "Contoura könnte einen schlanken MCP-Server bereitstellen, der Trainingsdokumentation, Split-Zeiten, Fehlerstatistiken und Performance-Index eines Athleten als Tools exponiert. Trainerinnen und Trainer könnten dann mit Claude oder einem anderen MCP-fähigen Assistenten direkt nach Trends fragen (\"Wo verliert Athlet X am meisten Zeit bei Postenanläufen?\"), statt manuell durch Dashboards zu klicken.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Saison-Rückblicke mit Long-Context-Modellen",
+      "kontext": "Kimi K3 zeigt, dass offene Modelle mit rund 1 Million Tokens Kontextfenster inzwischen Alltag werden – genug, um eine komplette Saison an Trainings- und Wettkampfdaten in einem einzigen Prompt zu verarbeiten.",
+      "umsetzung": "Contoura könnte am Saisonende automatisch alle Split-Zeiten, Fehlerstatistiken und Trainingseinträge eines Athleten in ein Long-Context-Modell einspeisen und daraus einen strukturierten, auf Deutsch verfassten Saisonrückblick mit konkreten Trainingsempfehlungen generieren lassen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Automatische Kartenanalyse dank verbesserter räumlicher KI-Modelle",
+      "kontext": "Gemini Robotics 2 und sein Reasoning-Modell ER 2 zeigen deutliche Fortschritte bei mehrstufiger räumlicher Planung und multimodalem Verständnis physischer Umgebungen – Fähigkeiten, die sich auch auf die Analyse von OL-Karten übertragen lassen.",
+      "umsetzung": "Contoura könnte hochgeladene Kartenausschnitte und GPS-Tracks automatisch analysieren lassen, um Routenwahl-Fehler zu erkennen (z.B. unnötige Umwege, verpasste Kontrollpunkt-Anläufe) und diese direkt den bestehenden Fehlerstatistiken zuzuordnen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}
