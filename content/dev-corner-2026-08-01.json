@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstigeres GPT-5.6 Luna macht Hochvolumen-Agenten praktikabel",
+      "typ": "API",
+      "detail": "Mit der Preissenkung auf 0,20/1,20 Dollar pro Million Tokens wird Luna zur mit Abstand günstigsten Option in OpenAIs Responses API und eignet sich laut OpenAI besonders für Aufgaben mit niedrigem Reasoning-Bedarf – etwa Klassifizierung, Routing oder einfache Tool-Aufrufe in grösseren Agenten-Pipelines. Entwicklerteams können damit kostenintensive Sol- oder Terra-Aufrufe für Teilaufgaben durch Luna ersetzen und die Gesamtkosten mehrstufiger Agenten-Workflows deutlich senken, ohne die Architektur grundlegend zu ändern.",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "codebase-memory-mcp: Open-Source-MCP-Server verwandelt Codebases in Wissensgraphen",
+      "typ": "Open Source",
+      "detail": "Der quelloffene MCP-Server indexiert ein Repository per Tree-Sitter-Parsing in einen persistenten Wissensgraphen (SQLite) und beantwortet Strukturfragen zu Funktionen, Klassen, Aufrufen und Imports in unter einer Millisekunde – bei laut Projekt rund 99 Prozent weniger verbrauchten Tokens als klassisches Volltext-Durchsuchen. Unterstützt werden 158 Sprachen, die Auslieferung erfolgt als einzelne statische Binary ohne Docker oder API-Keys, was den Einsatz in CI-Pipelines oder lokal mit Claude Code stark vereinfacht.",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "codebeispiel": "npx codebase-memory-mcp index ./mein-repo"
+    },
+    {
+      "id": 3,
+      "titel": "Grok Build jetzt vollständig quelloffen unter Apache 2.0",
+      "typ": "Open Source",
+      "detail": "xAI hat den kompletten Quellcode seines Coding-Agenten-CLI Grok Build veröffentlicht – inklusive Agent-Loop, Code-Tools, Terminal-Oberfläche und Extension-System, geschrieben in Rust. Der Schritt folgte auf Berichte, wonach Grok Build übermässig viele Repository-Inhalte an Google Cloud übertragen hatte; mit offenem Code können Entwicklerinnen und Entwickler nun selbst nachvollziehen, welche Daten wohin fliessen, und die CLI bei Bedarf lokal anpassen oder forken.",
+      "url": "https://www.marktechpost.com/2026/07/15/spacexai-open-sources-grok-build-the-rust-agent-harness-tui-and-tool-layer-behind-its-coding-cli/",
+      "codebeispiel": ""
+    }
+  ]
+}

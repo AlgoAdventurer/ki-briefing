@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Amazon übertrifft Erwartungen: AWS wächst mit 36,7 Prozent so schnell wie seit viereinhalb Jahren nicht mehr",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/07/30/amazon-amzn-q2-earnings-report-2026.html",
+      "zusammenfassung": "Amazon meldete für das zweite Quartal einen Umsatz von 200,6 Milliarden Dollar und einen Gewinn je Aktie von 5,75 Dollar – deutlich über den Erwartungen der Wall Street. Der Cloud-Bereich AWS wuchs um 36,7 Prozent auf 42,2 Milliarden Dollar, das schnellste Tempo seit 18 Quartalen, während sowohl das KI- als auch das Chip-Geschäft laut CEO Andy Jassy inzwischen je über 25 Milliarden Dollar Jahresumsatz erreichen. Für 2026 hebt Amazon seine Investitionsprognose auf rund 220 Milliarden Dollar an, vor allem für KI- und Cloud-Infrastruktur.",
+      "kategorie": "Big Tech",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Tim Cooks letzter Earnings Call: Apple meldet Rekordumsatz, warnt aber vor Lieferkettenproblemen",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/07/30/apple-earnings-live-updates.html",
+      "zusammenfassung": "In seinem letzten Ergebnisbericht als CEO präsentierte Tim Cook einen Rekordumsatz von 109,4 Milliarden Dollar (+16%) mit einem iPhone-Umsatz von 54,3 Milliarden Dollar. Cook warnte jedoch vor einer sich verschärfenden Chip- und Speicherknappheit – einer laut ihm \"100-Jahre-Flut\" bei Speicherpreisen –, die Apple zu Preiserhöhungen bei iPad und Mac zwingt und das Umsatzwachstum im laufenden Quartal auf 9 bis 11 Prozent bremsen dürfte. Die Aktie brach um über 7 Prozent ein, rund 362 Milliarden Dollar Marktwert gingen verloren.",
+      "kategorie": "Big Tech",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Apple_logo_black.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Banken sichern 15 Milliarden Dollar Kredit für Anthropic-Rechenzentrum – mit Garantie von Google",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-07-30/banks-line-up-15-billion-of-debt-for-anthropic-with-google-aid",
+      "zusammenfassung": "Eine von Morgan Stanley angeführte Bankengruppe verhandelt über ein 15-Milliarden-Dollar-Finanzierungspaket für ein Anthropic-Rechenzentrum von Nexus Data Centers im texanischen Hubbard, inklusive eines eigenen 1,6-Gigawatt-Gaskraftwerks. Google garantiert im Gegenzug für einen rund 20-prozentigen Projektanteil Anthropics Miet- und Stromzahlungen und liefert die gemeinsam mit Broadcom entwickelten TPU-Chips für die Anlage. Der Deal zeigt, wie stark KI-Infrastruktur inzwischen über Fremdkapital statt reinem Eigenkapital finanziert wird.",
+      "kategorie": "KI-Infrastruktur",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Google_2015_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI senkt Preise für GPT-5.6 Luna um 80 Prozent",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/ai-price-wars-openai-cuts-gpt-5-6-luna-prices-by-80-as-model-competition-shifts-toward-cost",
+      "zusammenfassung": "Nur drei Wochen nach dem Launch der GPT-5.6-Familie senkt OpenAI die Preise für die günstigste Stufe Luna von 1/6 auf 0,20/1,20 Dollar pro Million Tokens – ein Rückgang von 80 Prozent. Terra wird um 20 Prozent billiger, während das Flaggschiff Sol bei 5/30 Dollar bleibt. OpenAI begründet den Schritt mit Effizienzgewinnen, unter anderem weil GPT-5.6 selbst am eigenen Inference-Code mitgeschrieben hat, und reagiert damit auf wachsenden Preisdruck durch chinesische Anbieter sowie Konkurrenten wie Google und Anthropic.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    }
+  ]
+}

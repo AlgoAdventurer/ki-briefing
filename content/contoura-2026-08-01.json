@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainingskommentare dank 80% günstigerem GPT-5.6 Luna",
+      "kontext": "OpenAI hat die Kosten für GPT-5.6 Luna um 80 Prozent auf 0,20/1,20 Dollar pro Million Tokens gesenkt – ein Preis, der die automatische Analyse jeder einzelnen Trainingseinheit erstmals in grossem Massstab wirtschaftlich macht.",
+      "umsetzung": "Contoura könnte nach jedem hochgeladenen Training automatisch einen kurzen KI-Kommentar generieren lassen, der Split-Zeiten und Fehlerstatistiken mit früheren Einheiten vergleicht und konkrete Trainingshinweise gibt – bei den neuen Luna-Preisen wären selbst tausende Analysen pro Monat kostentechnisch vernachlässigbar.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "codebase-memory-mcp im eigenen Entwicklungsprozess einsetzen",
+      "kontext": "Der neue Open-Source-MCP-Server codebase-memory-mcp indexiert Codebases in Sekunden zu durchsuchbaren Wissensgraphen und liefert KI-Coding-Agenten Strukturantworten mit bis zu 99 Prozent weniger Tokens.",
+      "umsetzung": "Contouras Entwicklerteam könnte den Server lokal gegen die eigene Codebase laufen lassen, damit Claude Code oder andere Assistenten sich bei Feature-Arbeit (z.B. Erweiterung der Fehlerstatistik oder des Performance-Index) schneller orientieren und weniger Kontext manuell bereitgestellt werden muss.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Saubere Kartenfotos durch KI-Objektentfernung",
+      "kontext": "Ideogram Object Remover entfernt Objekte, Personen oder Störelemente aus Fotos und rekonstruiert dabei Schatten und Lichtverhältnisse realistisch – laut Benchmark aktuell die qualitativ beste und günstigste Lösung am Markt.",
+      "umsetzung": "Athletinnen und Athleten könnten hochgeladene Fotos von OL-Karten oder Streckenausschnitten automatisch von störenden Fingern, Schatten oder Reflexionen bereinigen lassen, bevor sie zur Trainingsdokumentation oder Routenanalyse in Contoura hinterlegt werden.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

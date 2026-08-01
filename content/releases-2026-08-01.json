@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 Luna & Terra",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI senkt die API-Preise für die günstigen GPT-5.6-Stufen drastisch: Luna kostet ab sofort nur noch 0,20 Dollar pro Million Input- und 1,20 Dollar pro Million Output-Tokens (–80%), Terra sinkt um 20 Prozent auf 2/12 Dollar. Das Flaggschiff Sol bleibt bei 5/30 Dollar unverändert. Der Schritt macht hochvolumige Agenten-Workflows mit vielen kleinen Anfragen deutlich günstiger und markiert einen sich verschärfenden Preiswettbewerb unter den führenden KI-Laboren.",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Grok Voice Think Fast 2.0",
+      "version": "2.0",
+      "anbieter": "xAI",
+      "detail": "Das neue Sprachmodell reduziert die Zeit bis zur ersten Audio-Antwort auf rund 0,70 Sekunden (zuvor 1,25s) und verbessert die Transkriptionsgenauigkeit um das 1,4-Fache gegenüber der Vorgängerversion – in lauten Umgebungen wächst der Vorsprung laut xAI auf das Zehnfache. Auf dem Speech-to-Speech-Benchmark von Artificial Analysis erreicht es 82,9 Prozent und liegt damit vor GPT-Realtime-2.1 (79,1%) und Gemini 3.1 Flash (69,5%). Ab dem 5. August wird es zum Standardmodell für grok-voice-latest, Preis: 0,08 Dollar pro Audiominute.",
+      "url": "https://x.ai/news/grok-voice-think-fast-2",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini Omni Video",
+      "version": "",
+      "anbieter": "Google",
+      "detail": "Google lässt Gemini-Nutzerinnen und -Nutzer ohne KI-Abo bis zum 4. August kostenlos zehn Videos über die neue \"Omni\"-Videoerstellung generieren, bearbeiten und remixen – zugänglich über das Tools-Menü direkt im Gemini-Chat. Die Aktion ist Teil einer breiteren Google-Offensive bei generativer Video-KI und soll parallel zu einem separaten Veo-3-Gratisangebot (drei Videos bis 24. August) mehr Nutzer an Googles Video-Werkzeuge heranführen.",
+      "url": "https://tech.yahoo.com/ai/articles/gemini-now-lets-users-try-091351909.html",
+      "bild": ""
+    }
+  ]
+}

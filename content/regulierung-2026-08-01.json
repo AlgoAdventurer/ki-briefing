@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Ab morgen gelten Transparenzpflichten, Hochrisiko-Regeln auf Dezember 2027 verschoben",
+      "region": "EU",
+      "detail": "Am 2. August treten die Kennzeichnungspflichten aus Artikel 50 des EU AI Act verbindlich in Kraft: KI-Chatbots und KI-generierte Inhalte müssen für Nutzerinnen und Nutzer klar erkennbar sein. Gleichzeitig verschiebt das im Juni final verabschiedete Digital-Omnibus-Paket die eigentlich für morgen vorgesehenen Pflichten für Hochrisiko-KI-Systeme (Annex III, u.a. Personalwesen, Bildung, Gesundheit, Finanzen) um 16 Monate auf den 2. Dezember 2027 – Unternehmen bekommen damit mehr Zeit für Konformitätsbewertungen, während die Transparenzregeln planmässig starten.",
+      "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kalifornien: AI Transparency Act verlangt ab 2. August Kennzeichnung für KI-Bilder, -Videos und -Audio",
+      "region": "USA",
+      "detail": "Zeitgleich mit der EU tritt in Kalifornien der California AI Transparency Act (AB 853) in Kraft. Generative KI-Systeme mit über einer Million monatlichen Nutzerinnen und Nutzern müssen ein kostenloses Erkennungstool bereitstellen, mit dem sich prüfen lässt, ob ein Bild, Video oder Audio KI-generiert wurde, sowie unsichtbare Herkunftskennzeichnungen (Latent Disclosure) in ihre Inhalte einbetten. Verstösse können mit 5.000 Dollar pro Fall geahndet werden, durchgesetzt vom kalifornischen Attorney General.",
+      "url": "https://natlawreview.com/article/californias-ongoing-ai-regulation-key-deadlines-arriving-2026-and-beyond",
+      "auswirkung": "hoch"
+    }
+  ]
+}

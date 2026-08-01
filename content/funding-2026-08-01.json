@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-01",
+  "items": [
+    {
+      "id": 1,
+      "firma": "DataBahn",
+      "betrag": "$40M",
+      "runde": "Series B",
+      "investoren": "Insight Partners (Lead), Forgepoint, GTM Capital, S3 Ventures",
+      "beschreibung": "Der texanische Anbieter einer \"agentic data control plane\" hilft Unternehmen, Telemetriedaten aus über 600 Quellen zu erfassen, zu normalisieren und nur die für KI-Systeme tatsächlich benötigten Daten weiterzuleiten. Die Series B bringt die Gesamtfinanzierung auf 59 Millionen Dollar und soll Produktentwicklung sowie Skalierung für Kunden von Grossunternehmen bis Mittelstand beschleunigen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Intropy",
+      "betrag": "$11M",
+      "runde": "Seed",
+      "investoren": "Felix Capital (Lead), Quiet Capital, General Catalyst, firstminute capital",
+      "beschreibung": "Das Londoner Startup baut ein KI-natives Betriebssystem für die Ersatzteil-Lieferkette, das Lagerhaltung, Preisgestaltung und Nachfrageprognosen für Distributoren, Hersteller und Recycler automatisiert. Nach eigenen Angaben hat die Plattform bereits über 10 Milliarden Dollar an Ersatzteil-Nachfrage verarbeitet; das frische Kapital fliesst in Produktentwicklung und den Aufbau eines US-Standorts in New York.",
+      "bild": ""
+    }
+  ]
+}

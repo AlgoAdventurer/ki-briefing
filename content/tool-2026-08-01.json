@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-01",
+  "name": "Ideogram Object Remover",
+  "tagline": "KI-Objektentferner, der Schatten, Reflexionen und Lichtverhältnisse realistisch erhält",
+  "beschreibung": "Object Remover ist ein neues Ideogram-Tool, das ausgewählte Objekte, Personen, Texte oder Logos aus Bildern entfernt und dabei Schatten, Spiegelungen und Lichtverläufe an der entstandenen Lücke plausibel rekonstruiert. Laut Ideogram übertrifft das Tool auf dem hauseigenen RemovalBench-Benchmark Konkurrenten wie Nano Banana 2, FLUX Erase und GPT Image-2 bei der Entfernungsqualität und bietet gleichzeitig den niedrigsten Preis pro Anfrage. Für Content-Erstellerinnen, Marketing-Teams und E-Commerce-Shops ersetzt es damit oft die manuelle Retusche in Photoshop.",
+  "useCase": "Ein Online-Shop entfernt störende Passanten oder Hintergrundobjekte aus Produktfotos, ohne dass Schatten oder Reflexionen auf glänzenden Oberflächen unnatürlich wirken.",
+  "url": "https://ideogram.ai/tools/object-remover/",
+  "kategorie": "Design",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Bildbearbeitung", "Objektentfernung", "Design", "E-Commerce"]
+}
