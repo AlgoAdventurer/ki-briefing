@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-02",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1.505B",
+      "runde": "Series D",
+      "investoren": "Atreides Management, Index Ventures, TCV (u.a. mit NVIDIA, Bessemer, Lightspeed)",
+      "beschreibung": "Fireworks hilft Unternehmen, generische Modelle auf eigene Daten zu spezialisieren, und bedient über 40 Billionen Tokens täglich. Die Runde bewertet das Unternehmen mit 17,5 Milliarden Dollar, nachdem der annualisierte Umsatz binnen eines Jahres verfünffacht wurde. Das Kapital fliesst in mehr Engineering-Personal und globale Rechenkapazität.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Onyx Security",
+      "betrag": "$113M",
+      "runde": "Series B",
+      "investoren": "Bessemer Venture Partners",
+      "beschreibung": "Onyx baut eine Kontrollschicht für KI-Agenten in Unternehmen, die überwacht, worauf autonome Agenten zugreifen und was sie ausführen dürfen. Die Runde zeigt, wie stark Investoren gerade in Sicherheits-Infrastruktur für den wachsenden Einsatz von Agenten in Firmen investieren.",
+      "bild": ""
+    }
+  ]
+}

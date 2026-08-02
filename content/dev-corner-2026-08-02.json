@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "QM: Y Combinators firmenweiter Multi-Agenten-Harness ist Open Source",
+      "typ": "Open Source",
+      "detail": "QM ist der interne Agenten-Harness, mit dem YC Buchhaltung, Recht, Events und Engineering betreibt – jetzt unter MIT-Lizenz frei verfügbar (github.com/yc-software/qm). Jede Person und jeder Raum bekommt einen eigenen Speicher, Dateien, Rechte und einen dauerhaften Sandbox-Bereich; Nutzer können zwischen Claude Code, Codex, OpenCode und Pi wechseln, ohne an einen Anbieter gebunden zu sein. Für Teams, die einen eigenen internen KI-Assistenten mit Slack- und Web-UI aufsetzen wollen, ist das ein fertiger Baukasten statt einer Eigenentwicklung von Grund auf.",
+      "url": "https://x.com/ycombinator/status/2083243960684908768",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Chrome DevTools MCP: Coding-Agenten bekommen echten Browser-Zugriff",
+      "typ": "MCP",
+      "detail": "Der offizielle MCP-Server von Google verbindet Agenten wie Claude Code oder Cursor mit einer laufenden Chrome-Instanz. Über Tools wie navigate_page, click, list_console_messages und performance_start_trace kann der Agent selbstständig testen, ob sein generierter Code im Browser tatsächlich funktioniert – inklusive Performance-Analyse und Netzwerk-Inspektion. Setup erfolgt über eine einzige Konfigurationszeile per npx.",
+      "url": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+      "codebeispiel": "{\n  \"mcpServers\": {\n    \"chrome-devtools\": {\n      \"command\": \"npx\",\n      \"args\": [\"chrome-devtools-mcp@latest\"]\n    }\n  }\n}"
+    }
+  ]
+}

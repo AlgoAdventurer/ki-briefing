@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-02",
+  "name": "Chrome DevTools MCP",
+  "tagline": "Gibt Coding-Agenten Augen im echten Browser",
+  "beschreibung": "Chrome DevTools MCP ist ein offizieller MCP-Server von Google, der Coding-Agenten wie Claude Code, Cursor oder Gemini CLI direkten Zugriff auf einen laufenden Chrome-Browser gibt. Statt blind Code zu generieren, kann der Agent Seiten navigieren, Klicks und Eingaben simulieren, Netzwerk-Requests und Konsolen-Logs auslesen, Screenshots machen und sogar Performance-Traces analysieren. Damit schliesst das Tool eine der grössten Lücken beim KI-gestützten Frontend-Debugging: Der Agent sieht endlich, was sein eigener Code im Browser tatsächlich tut.",
+  "useCase": "Ein Agent baut ein neues Formular, öffnet es danach selbstständig in Chrome, klickt durch den Ablauf, liest Konsolenfehler und Netzwerk-Requests aus und behebt den Bug, ohne dass ein Mensch die Seite manuell testen muss.",
+  "url": "https://developer.chrome.com/blog/chrome-devtools-mcp",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["MCP", "Browser-Debugging", "Coding-Agent", "Chrome"]
+}

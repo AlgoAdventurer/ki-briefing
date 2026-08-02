@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-02",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek V4 Flash",
+      "version": "0731",
+      "anbieter": "DeepSeek",
+      "detail": "Offizielle Version des schnellen 284B-MoE-Modells (13B aktive Parameter) nach neuem Post-Training. Schlägt auf allen neun Agenten- und Coding-Benchmarks das eigene, teurere V4-Pro-Preview und kostet nur 0,14/0,28 Dollar pro Million Tokens – ein neuer Preis-Leistungs-Massstab für agentische Workflows.",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "MAI-Cyber-1-Flash",
+      "version": "",
+      "anbieter": "Microsoft",
+      "detail": "Erstes eigenes Cybersecurity-Modell von Microsoft, eingebettet in die neue Sicherheitsplattform \"Project Perception\". Spezialisierte KI-Agenten sollen Schwachstellen schneller erkennen, priorisieren und patchen sowie aktive Angriffe rascher erkennen. Öffentliche Preview startet in Kürze.",
+      "url": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/9/96/Microsoft_logo_%282012%29.svg"
+    },
+    {
+      "id": 3,
+      "name": "Kimi K2.6",
+      "version": "2.6",
+      "anbieter": "Moonshot AI",
+      "detail": "Offene Gewichte (Modified-MIT-Lizenz) für eines der stärksten Open-Weight-Modelle 2026 mit rund 1,1 Billionen Parametern. Gilt als ernstzunehmende freie Alternative für Coding- und Agenten-Workloads und steht auf Hugging Face zum Download bereit.",
+      "url": "https://huggingface.co/moonshotai",
+      "bild": ""
+    }
+  ]
+}

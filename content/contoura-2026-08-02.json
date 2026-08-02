@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige automatische Trainingskommentare mit DeepSeek V4 Flash",
+      "kontext": "DeepSeek V4-Flash-0731 liefert Agenten-Performance nahe am Flaggschiff-Niveau für nur 0,14/0,28 Dollar pro Million Tokens – deutlich billiger als vergleichbare Modelle von OpenAI oder Anthropic.",
+      "umsetzung": "Contoura könnte nach jedem hochgeladenen Training oder Wettkampf automatisch einen kurzen KI-Kommentar generieren lassen (z.B. \"Deine Splits im mittleren Streckenabschnitt waren 12% langsamer als dein Schnitt – mögliche Ursache: Navigationsfehler bei Posten 7\"), basierend auf Split-Zeiten und Fehlerstatistiken. Durch die niedrigen Kosten von V4-Flash ist das auch bei vielen Athleten und häufigen Trainings finanziell tragbar.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Interner Automatisierungs-Agent nach Vorbild von YCs QM-Harness",
+      "kontext": "Y Combinator hat seinen firmenweiten Multi-Agenten-Harness QM unter MIT-Lizenz open-source gestellt – konzipiert für Multi-Tenant-Einsatz mit Slack/Web-UI und wechselbaren Modell-Backends.",
+      "umsetzung": "Contoura könnte QM oder ein ähnliches Framework als Basis für interne Automatisierung nutzen: Support-Anfragen von Athleten vorsortieren, Datenqualität in hochgeladenen GPS-Tracks prüfen oder wiederkehrende Auswertungsreports automatisch erstellen – ohne Lizenzkosten und mit freier Wahl des Modell-Anbieters.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "EU-AI-Act-Transparenzpflicht bei KI-Features prüfen",
+      "kontext": "Ab heute gelten in der EU verbindliche Transparenzpflichten (Art. 50 AI Act): KI-Systeme mit direktem Personenkontakt müssen sich als solche zu erkennen geben.",
+      "umsetzung": "Sobald Contoura automatisch generierte Trainingskommentare oder KI-basierte Analysen direkt an Athletinnen und Athleten in der EU ausspielt, sollte frühzeitig geklärt werden, ob eine einfache Kennzeichnung (\"KI-generiert\") nötig ist – auch wenn Contoura vermutlich nicht als Hochrisiko-System gilt und die strengeren Pflichten erst 2027 greifen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

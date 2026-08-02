@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Brüssel beginnt heute mit der Durchsetzung und neuen Transparenzpflichten",
+      "quelle": "European Commission",
+      "quelleUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "zusammenfassung": "Ab dem 2. August 2026 kann das AI Office der EU-Kommission gemeinsam mit den nationalen Behörden erstmals Bussgelder gegen Anbieter von General-Purpose-KI verhängen. Gleichzeitig treten die Transparenzpflichten aus Artikel 50 in Kraft: Chatbots müssen sich als KI zu erkennen geben, Deepfakes und KI-generierte Inhalte müssen gekennzeichnet werden. Die Pflichten für Hochrisiko-Systeme wurden im Zuge des Digital-Omnibus-Deals dagegen um 16 Monate auf Dezember 2027 verschoben.",
+      "kategorie": "Regulierung",
+      "bild": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Lilian Weng verlässt Thinking Machines aus gesundheitlichen Gründen und kehrt zu OpenAI zurück",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "zusammenfassung": "Thinking-Machines-Mitgründerin Lilian Weng gibt in einer internen Slack-Nachricht an, dem Tempo eines Startups gesundheitlich nicht mehr gewachsen zu sein, und verlässt das von Mira Murati geführte Unternehmen. Bei OpenAI übernimmt sie die Leitung eines neuen Teams, das an rekursiver Selbstverbesserung von KI-Systemen forscht – also daran, wie ein Modell iterativ an seiner eigenen Weiterentwicklung mitarbeitet. Der Wechsel zeigt, wie stark der Personalkarussell zwischen den grossen Frontier-Labs weiterhin dreht.",
+      "kategorie": "KI-Forschung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "DeepSeek veröffentlicht V4-Flash-0731 und schlägt das eigene Flaggschiff-Modell bei Agenten-Benchmarks",
+      "quelle": "MarkTechPost",
+      "quelleUrl": "https://www.marktechpost.com/2026/07/31/deepseek-upgrades-deepseek-v4-flash-0731-with-major-agentic-and-coding-gains/",
+      "zusammenfassung": "Mit V4-Flash-0731 hat DeepSeek sein schnelles 284B-Parameter-MoE-Modell (13B aktiv) neu nachtrainiert und übertrifft damit auf allen neun veröffentlichten Agenten- und Coding-Benchmarks das eigene, deutlich teurere V4-Pro-Preview – etwa 82,7 statt 72,1 Punkte im Terminal-Bench 2.1. Bei einem Preis von nur 0,14/0,28 Dollar pro Million Tokens setzt DeepSeek damit erneut den Preis-Leistungs-Massstab in der Branche und erhöht den Druck auf westliche Anbieter.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Y Combinator macht seinen internen Multi-Agenten-Harness \"QM\" Open Source",
+      "quelle": "Y Combinator / X",
+      "quelleUrl": "https://x.com/ycombinator/status/2083243960684908768",
+      "zusammenfassung": "YC veröffentlicht unter MIT-Lizenz das firmenweite Agenten-Framework QM, das intern für Buchhaltung, Recht, Events und Engineering genutzt wird – inklusive des Baus von QM selbst. Anders als die meisten Ein-Personen-Harnesses ist QM von Grund auf für Multi-Tenant-Firmeneinsatz gedacht: mit Slack- und Web-UI, drei Sicherheitsstufen (Strict/Auto/Dangerous) und wechselbaren Modell-Backends wie Claude Code, Codex oder OpenCode. Das Repo sammelte innert Stunden fast 1'900 GitHub-Stars.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
