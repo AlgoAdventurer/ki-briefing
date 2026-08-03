@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kalifornien entscheidet in Marathon-Sitzung über Dutzende KI-Gesetze",
+      "quelle": "National Law Review",
+      "quelleUrl": "https://natlawreview.com/article/ai-legislation-2026-legislative-wrap",
+      "zusammenfassung": "Der kalifornische Senats-Haushaltsausschuss hält heute eine sogenannte \"Lightning-Round\"-Abstimmung ab, in der über das Schicksal Dutzender anhängiger KI-Gesetzesvorlagen entschieden wird – von Transparenzpflichten bis zu Haftungsregeln für Chatbots. Da Kalifornien traditionell als Trendsetter für US-Tech-Regulierung gilt, dürfte das Ergebnis auch die Debatte in anderen Bundesstaaten prägen.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_California.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Simile sammelt über 200 Millionen Dollar ein, um digitale Zwillinge der Menschheit zu simulieren",
+      "quelle": "TechFundingNews",
+      "quelleUrl": "https://techfundingnews.com/simile-bags-200m-at-2b-five-months-after-100m-series-a-to-predict-what-humans-will-do-before-ai-gets-it-wrong/",
+      "zusammenfassung": "Nur fünf Monate nach seiner 100-Millionen-Dollar-Series-A steigt die Bewertung des Simulations-Startups Simile auf 2 Milliarden Dollar. Die KI-Plattform simuliert menschliches Verhalten in grossem Massstab, damit Firmen wie CVS Health Entscheidungen testen können, bevor sie echte Kundinnen und Kunden betreffen – das erklärte Fernziel ist die Simulation aller 8 Milliarden Menschen der Erde.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI startet \"Sign in with ChatGPT\" für Partner-Apps und ein Förderprogramm für Forschende",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/news/",
+      "zusammenfassung": "Mit \"Sign in with ChatGPT\" können sich Nutzerinnen und Nutzer künftig bei Partnerdiensten wie Airtable, GitLab, HubSpot, Notion, Supabase oder Vercel direkt mit ihrem ChatGPT-Konto anmelden. Parallel öffnet OpenAI ein neues Academic-Researchers-Programm, das kleinen, verifizierten Forschungsteams zwölf Monate kostenlosen Zugang zu einem ChatGPT-Pro-Workspace mit Business-Datenschutz gewährt.",
+      "kategorie": "Produkt",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Anthropic verlängert 50-Prozent-Nutzungsbonus für Claude Code bis 19. August",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news",
+      "zusammenfassung": "Anthropic hat den temporären wöchentlichen Nutzungsbonus von 50 Prozent für Claude-Code-Abonnentinnen und -Abonnenten erneut verlängert, diesmal bis zum 19. August 2026. Für Entwicklerteams, die Claude Code intensiv einsetzen, bedeutet das spürbar mehr nutzbare Kapazität ohne Zusatzkosten – ein Zeichen dafür, wie stark der Wettbewerb um Coding-Agent-Nutzerinnen und -Nutzer derzeit ist.",
+      "kategorie": "Produkt",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "niedrig"
+    }
+  ]
+}

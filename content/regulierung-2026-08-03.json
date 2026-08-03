@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kalifornischer Senat hält Marathon-Abstimmung über Dutzende KI-Gesetze ab",
+      "region": "USA",
+      "detail": "Der Haushaltsausschuss des kalifornischen Senats entscheidet heute in einer sogenannten \"Lightning-Round\"-Sitzung über das weitere Schicksal Dutzender anhängiger KI-Gesetzesvorlagen – für die meisten Vorlagen ein Alles-oder-Nichts-Moment vor der Sommerpause. Die Themen reichen von Transparenzpflichten über Haftung für Chatbot-Schäden bis zu Regeln für KI am Arbeitsplatz. Da bereits rund 85 KI-Gesetze in 27 US-Bundesstaaten 2026 verabschiedet wurden, dürfte Kaliforniens Entscheidung erneut als Vorbild für andere Bundesstaaten dienen.",
+      "url": "https://natlawreview.com/article/ai-legislation-2026-legislative-wrap",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "UK-Parlament treibt eigenes KI-Sicherheitsgesetz voran",
+      "region": "UK",
+      "detail": "Das \"AI Regulation and Safety Bill\" hat am 3. Juli seine zweite Lesung im House of Lords passiert und markiert damit den Abschied Grossbritanniens von seinem bisher rein freiwilligen, sektorspezifischen KI-Ansatz. Vorgesehen sind eine gesetzliche Sorgfaltspflicht für Entwickler von Frontier-Modellen ab einer bestimmten Rechenleistungs-Schwelle, verpflichtende Sicherheitsbewertungen vor dem Einsatz solcher Systeme sowie eine gesetzlich verankerte Prüfbefugnis für das UK AI Safety Institute. Ausschussphase und dritte Lesung stehen noch aus, bevor das Gesetz endgültig verabschiedet werden könnte.",
+      "url": "https://bills.parliament.uk/bills/3942",
+      "auswirkung": "mittel"
+    }
+  ]
+}

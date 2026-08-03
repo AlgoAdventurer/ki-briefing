@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-03",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.2 Instant",
+      "version": "Update",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat ein Update für GPT-5.2 Instant ausgerollt, das Antwortstil und -qualität verbessert: Der Ton wirkt massvoller und geerdeter, Antworten auf Ratschlags- und How-to-Fragen sollen klarer und relevanter ausfallen. Es handelt sich nicht um eine neue Modellgeneration, sondern eine gezielte Feinabstimmung des Standardmodells von ChatGPT.",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.6 Flash & Gemini 3.5 Flash-Lite",
+      "version": "GA",
+      "anbieter": "Google",
+      "detail": "Nach der Preview-Phase sind Gemini 3.6 Flash und Gemini 3.5 Flash-Lite jetzt allgemein verfügbar (General Availability). Gemini 3.6 Flash bietet verbesserte Token-Effizienz sowie stärkere Code- und Agentenplanung zu einem günstigeren Preis als 3.5 Flash, während 3.5 Flash-Lite als besonders latenzarmes und kosteneffizientes Subagenten-Modell für hochvolumige Automatisierung positioniert ist.",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Forum",
+      "version": "",
+      "anbieter": "Meta",
+      "detail": "Meta hat still und leise Forum veröffentlicht, eine eigenständige iOS-App, die sich auf Facebook-Gruppen konzentriert. Mit einem auf Community-Diskussionen zugeschnittenen Feed zielt Meta erkennbar darauf ab, Nutzerinnen und Nutzer von Reddit und anderen Foren-Plattformen anzuziehen – ein weiteres Beispiel dafür, wie Big-Tech-Konzerne bestehende Netzwerkeffekte für neue, fokussierte Produkte nutzen.",
+      "url": "https://about.fb.com/news/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    }
+  ]
+}

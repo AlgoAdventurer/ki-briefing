@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-03",
+  "name": "Vibe Coding Platform von Vercel",
+  "tagline": "Open-Source-Baukasten für eigene KI-Coding-Apps im Bolt/v0-Stil",
+  "beschreibung": "Vercel hat sein Vibe-Coding-Platform-Template als Open Source veröffentlicht: eine fertige Next.js-Anwendung, die AI SDK, ein LLM-Backend und sandboxed Code-Ausführung kombiniert, damit Nutzerinnen und Nutzer per Chat-Prompt eigene Web-Apps generieren und live im Browser testen können. Statt ein solches Produkt von Grund auf zu bauen, können Entwicklerteams das Template forken und direkt auf der Vercel-AI-Cloud betreiben. Damit senkt Vercel die Einstiegshürde für eigene \"Prompt-zu-App\"-Tools deutlich.",
+  "useCase": "Ein Entwicklerteam forkt das Template, tauscht das Branding aus und bietet internen Fachabteilungen ein eigenes, selbst gehostetes Tool an, mit dem sie per Texteingabe kleine interne Dashboards oder Prototypen erstellen können, ohne Code selbst zu schreiben.",
+  "url": "https://vercel.com/templates/ai/vibe-coding-platform",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Vibe Coding", "Open Source", "Next.js", "AI SDK"]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Digitale Athleten-Zwillinge zur Trainingsplan-Simulation nach Vorbild von Simile",
+      "kontext": "Simile hat gerade 200 Millionen Dollar eingesammelt, um menschliches Verhalten in grossem Massstab digital zu simulieren, damit Firmen Entscheidungen testen können, bevor sie echte Personen betreffen.",
+      "umsetzung": "Contoura könnte auf Basis historischer Trainings-, Split-Zeit- und Fehlerdaten ein einfaches Simulationsmodell pro Athlet aufbauen, das vorhersagt, wie sich ein geplanter Trainingsblock voraussichtlich auf Performance-Index und Fehlerquote auswirkt – bevor der Athlet ihn tatsächlich läuft. Das würde Trainerinnen und Trainern helfen, Trainingspläne datenbasiert zu priorisieren statt nur retrospektiv auszuwerten.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Selbst gehostetes Open-Weight-Modell für güstige Fehlerklassifikation",
+      "kontext": "Mit GLM-5.2 und DeepSeek V4-Flash stehen mittlerweile mehrere leistungsstarke, günstig oder MIT-lizenziert nutzbare Open-Weight-Modelle mit grossem Kontextfenster zur Verfügung, die sich auch selbst hosten lassen.",
+      "umsetzung": "Contoura könnte ein selbst gehostetes offenes Modell einsetzen, um Split-Zeiten automatisch nach Fehlerart (Navigation, Tempo, Technik) zu klassifizieren und Fehlerstatistiken zu generieren. Bei wachsender Nutzerzahl entfallen so laufende Kosten pro API-Aufruf, was die Funktion auch für ein kostenloses oder günstiges Abo-Tier tragbar macht.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "\"Sign in with ChatGPT\" als zusätzliche Login-Option prüfen",
+      "kontext": "OpenAI erlaubt Partner-Apps jetzt den Login über bestehende ChatGPT-Konten, ähnlich wie \"Sign in with Google\".",
+      "umsetzung": "Für eine KI-affine Zielgruppe könnte Contoura mittelfristig \"Sign in with ChatGPT\" als zusätzliche Anmeldeoption neben E-Mail und bestehenden Social-Logins anbieten, um die Registrierungshürde für neue Athletinnen und Athleten weiter zu senken.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

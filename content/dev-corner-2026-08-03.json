@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "\"Sign in with ChatGPT\": OAuth-Login für Drittanbieter-Apps",
+      "typ": "API",
+      "detail": "OpenAI öffnet ChatGPT-Konten als OAuth-Identity-Provider für Partner-Apps wie Airtable, GitLab, HubSpot, Notion, Supabase und Vercel. Für Entwicklerteams bedeutet das einen zusätzlichen, potenziell sehr breiten Login-Kanal, über den sich Nutzerinnen und Nutzer ohne neues Passwort anmelden können – ähnlich wie \"Sign in with Google\", nur mit Zugriff auf ChatGPT-Kontext statt reiner Identität. Wer eigene Produkte für eine KI-affine Zielgruppe baut, sollte die Integration auf dem Radar haben.",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "NIST/CAISI veröffentlicht unabhängige Bewertung von GLM-5.2",
+      "typ": "Sicherheitsbewertung",
+      "detail": "Das US Center for AI Standards and Innovation (CAISI) am NIST hat eine eigene Bewertung von Zhipu AIs offenem Coding-Modell GLM-5.2 (753B Parameter, MIT-Lizenz, 1M-Token-Kontext) veröffentlicht. Für Teams, die ein chinesisches Open-Weight-Modell für Coding- oder Agenten-Workloads selbst hosten wollen, liefert der Bericht eine seltene unabhängige Referenz zu Fähigkeiten und Risiken jenseits der Herstellerangaben – ein nützlicher Datenpunkt vor dem produktiven Einsatz.",
+      "url": "https://www.nist.gov/news-events/news/2026/07/caisi-assessment-zais-glm-52",
+      "codebeispiel": ""
+    }
+  ]
+}
