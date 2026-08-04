@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission startet Durchsetzung der KI-Act-Transparenzpflichten",
+      "quelle": "European Commission",
+      "quelleUrl": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+      "zusammenfassung": "Seit dem 2. August gelten die Transparenzpflichten aus Artikel 50 des EU AI Act verbindlich: KI-generierte Inhalte und Chatbot-Interaktionen müssen erkennbar gekennzeichnet werden. Die EU-KI-Behörde beginnt zusammen mit nationalen Aufsichtsbehörden mit der aktiven Durchsetzung, Verstösse können mit bis zu 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes geahndet werden.",
+      "kategorie": "Regulierung",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Europe.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Alibaba veröffentlicht Qwen3.8-Max mit 2,4 Billionen Parametern",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "zusammenfassung": "Alibaba hat mit Qwen3.8-Max sein bisher grösstes KI-Modell veröffentlicht und beansprucht Benchmark-Werte auf Augenhöhe mit Anthropic. Das 2,4-Billionen-Parameter-Modell übertrifft in mehreren Tests das kürzlich vorgestellte Kimi K3 von Moonshot AI und unterstreicht, wie stark chinesische Anbieter im Wettlauf um die stärksten Modelle aufholen.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Alibaba.com_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Big-Tech-Quartalszahlen lösen KI-Kapex-Schock an der Börse aus",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/07/26/big-tech-earnings-meta-microsoft-apple-amazon-market-revolt-ai-spending/",
+      "zusammenfassung": "Nach den jüngsten Quartalszahlen verlor Alphabet an einem einzigen Handelstag über 7 Prozent, weil die Kapitalausgaben 2026 auf bis zu 205 Milliarden Dollar steigen und der freie Cashflow erstmals seit dem Börsengang 2004 negativ wurde. Meta verlor über 85 Milliarden Dollar Marktwert, während Amazon dank stark wachsender Cloud-Umsätze über 15 Prozent zulegte – der Markt verlangt zunehmend sichtbare Erträge aus den enormen KI-Investitionen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Microsoft testet bidirektionales Sprachmodell MAI-Realtime",
+      "quelle": "TestingCatalog",
+      "quelleUrl": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+      "zusammenfassung": "Microsoft lässt ausgewählte Partner das neue Sprachmodell MAI-Realtime testen, das erstmals echtes gleichzeitiges Sprechen und Zuhören statt abwechselndem Dialog ermöglicht. Das Modell unterstützt 17 Sprachen und ist offenbar auf Anwendungsfälle wie Kundenservice, Copilot-Gespräche und freihändige Assistenz zugeschnitten – ein öffentlicher Launch wurde noch nicht bestätigt.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Model Context Protocol wird mit neuer Spezifikation zustandslos",
+      "quelle": "MCP Blog",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "zusammenfassung": "Die neue MCP-Spezifikation vom 28. Juli macht das Protokoll von einer zustandsbehafteten zu einer zustandslosen Request/Response-Architektur, was den Betrieb von MCP-Servern hinter einfachen Round-Robin-Loadbalancern ohne Sticky Sessions ermöglicht. Beta-SDKs für Python, TypeScript, Go und C# sind bereits verfügbar – für alle, die eigene MCP-Server betreiben, eine der grössten Architekturänderungen seit Einführung des Protokolls.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

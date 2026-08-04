@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8-Max",
+      "version": "3.8-Max",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas bisher grösstes Sprachmodell mit 2,4 Billionen Parametern erreicht laut Unternehmensangaben Benchmark-Werte auf Niveau von Anthropic und übertrifft Moonshots Kimi K3 in mehreren Tests. Das Modell positioniert Alibaba weiter an der Spitze der chinesischen Frontier-Modelle und verschärft den globalen Wettbewerb um die leistungsfähigsten KI-Systeme.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/alibaba-drops-another-china-ai-model-with-breakthrough-performance",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Alibaba.com_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "MAI-Realtime",
+      "version": "Preview",
+      "anbieter": "Microsoft",
+      "detail": "Microsoft testet intern ein neues bidirektionales Sprachmodell, das gleichzeitiges Sprechen und Zuhören statt abwechselndem Dialog ermöglicht und damit natürlicher wirken soll als das bisherige MAI-Voice-2. Unterstützt werden 17 Sprachen sowie zwei Stimmen (Victoria und Grant); ein öffentlicher Rollout ist noch nicht bestätigt.",
+      "url": "https://www.testingcatalog.com/exclusive-microsoft-tests-new-mai-realtime-voice-model/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Microsoft_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Model Context Protocol",
+      "version": "2026-07-28",
+      "anbieter": "MCP-Community / Anthropic",
+      "detail": "Die neue MCP-Spezifikation macht das Protokoll zustandslos: Statt einer bidirektionalen, zustandsbehafteten Verbindung nutzt MCP jetzt ein klassisches Request/Response-Modell, das horizontale Skalierung mit einfachen Loadbalancern erlaubt. Beta-SDKs für Python, TypeScript, Go und C# sind bereits verfügbar.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "bild": ""
+    }
+  ]
+}

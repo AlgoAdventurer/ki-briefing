@@ -1,0 +1,14 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Safe Superintelligence (SSI)",
+      "betrag": "$5B",
+      "runde": "Strategische Investition",
+      "investoren": "Nvidia",
+      "beschreibung": "Nvidia investiert 5 Milliarden Dollar in Ilya Sutskevers Safe Superintelligence und sichert dem noch produkt- und umsatzlosen Startup zugleich frühen Zugang zur kommenden Vera-Rubin-Chipplattform. Die Grössenordnung der Investition unterstreicht, wie sehr Nvidia bereit ist, in reine Forschungswetten auf dem Weg zu \"sicherer Superintelligenz\" zu investieren, statt nur in Firmen mit bestehenden Produkten.",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Nvidia_logo.svg"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-04",
+  "name": "MemoryCustodian",
+  "tagline": "Repo-natives, versioniertes Projektgedächtnis für Coding-Agents",
+  "beschreibung": "MemoryCustodian ist ein quelloffenes CLI-Tool, das Architekturentscheidungen, verworfene Ansätze und Projektregeln als einfache Markdown-Dateien unter docs/memory/ im Repo ablegt statt in einer Vektor-Datenbank oder Cloud. Ein Manifest lädt nur die für die aktuelle Aufgabe relevanten Fragmente, sodass Coding-Agents wie Claude Code, Codex oder Gemini nicht jede Session neu erklärt bekommen müssen, was das Team bereits entschieden hat. Weil das Gedächtnis wie normaler Code in Git liegt, lässt es sich diffen, reviewen und bei Bedarf zurückrollen.",
+  "useCase": "Ein Team hinterlegt in docs/memory/ eine Datei mit der Begründung, warum eine bestimmte Bibliothek bewusst nicht verwendet wird. Jede neue Claude-Code- oder Codex-Session lädt diesen Kontext automatisch mit und schlägt die verworfene Lösung nicht erneut vor, ohne dass jemand sie im Prompt wiederholen muss.",
+  "url": "https://github.com/waittim/MemoryCustodian",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding-Agents", "Open Source", "Memory", "CLI"]
+}

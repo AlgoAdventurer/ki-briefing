@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Repo-natives Memory-System für interne Contoura-Entwicklungsentscheidungen",
+      "kontext": "MemoryCustodian zeigt, wie Coding-Agents Projektentscheidungen als versioniertes Markdown im Repo statt in einer Vektor-Datenbank speichern können, damit jede neue Agent-Session sie automatisch mitbekommt.",
+      "umsetzung": "Contoura könnte MemoryCustodian im eigenen Repo einführen, um Entscheidungen zu Datenmodell, Performance-Index-Berechnung und bewusst verworfenen Ansätzen (z. B. bestimmte Zeitreihen-Bibliotheken) festzuhalten. Das würde verhindern, dass Claude Code oder andere Agents bei künftigen Feature-Entwicklungen bereits diskutierte und verworfene Lösungen erneut vorschlagen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Transparenzkennzeichnung für KI-generierte Trainingskommentare vorbereiten",
+      "kontext": "Die EU-Transparenzpflichten aus Artikel 50 des AI Act sind seit 2. August verbindlich und verlangen erkennbare Kennzeichnung KI-generierter Inhalte gegenüber Nutzerinnen und Nutzern.",
+      "umsetzung": "Sollte Contoura künftig automatisch generierte Trainingskommentare oder Fehleranalysen per LLM anbieten, sollte schon jetzt ein einheitlicher, gut sichtbarer Hinweis (\"KI-generiert\") in der UI vorgesehen werden. Das vermeidet nachträglichen Umbauaufwand, falls Contoura mit einem EU-Publikum wächst und selbst unter die Pflichten fällt oder freiwillig Vertrauen schaffen will.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 3,
+      "titel": "Chip-Investitionswelle senkt mittelfristig Kosten für eigenes Modell-Hosting",
+      "kontext": "Milliardeninvestitionen wie Nvidias 5-Milliarden-Dollar-Einsatz bei Safe Superintelligence und der parallele Kapex-Boom bei Big-Tech-Cloud-Anbietern treiben das Angebot an KI-Recheninfrastruktur massiv nach oben.",
+      "umsetzung": "Contoura sollte die Preisentwicklung bei Cloud-GPU-Inferenz beobachten: Mit wachsendem Infrastrukturangebot dürfte selbst gehostetes Fine-Tuning eines offenen Modells für Fehlerklassifikation oder Kartenanalyse mittelfristig günstiger werden als heute, was eigene KI-Features auch für ein kleines Sport-Startup wirtschaftlich attraktiver macht.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

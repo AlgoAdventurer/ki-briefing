@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird zustandslos",
+      "typ": "SDK",
+      "detail": "Das Model Context Protocol wechselt von einer bidirektionalen, zustandsbehafteten Verbindung zu einem klassischen Request/Response-Modell. Damit lassen sich MCP-Server hinter gewöhnlichen Loadbalancern horizontal skalieren, ohne Sticky Sessions verwalten zu müssen – bislang eines der grössten Betriebs-Probleme beim produktiven Einsatz eigener MCP-Server. Beta-SDKs für Python, TypeScript, Go und C# stehen bereits zum Testen bereit; das TypeScript-SDK v2 löst das bisherige monolithische Paket zudem in fokussierte Pakete wie @modelcontextprotocol/server und @modelcontextprotocol/client auf.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MemoryCustodian: Repo-natives Gedächtnis für Coding-Agents",
+      "typ": "Open Source",
+      "detail": "Statt Architekturentscheidungen und Projektregeln bei jeder neuen Agent-Session erneut im Prompt zu erklären, legt MemoryCustodian sie als Markdown-Dateien im Repository ab und lädt per Manifest nur die gerade relevanten Fragmente nach. Das Gedächtnis wird wie normaler Code versioniert, ist diffbar und ohne Vektor-Datenbank oder Cloud-Abhängigkeit nutzbar – kompatibel mit Claude Code, Codex und Gemini.",
+      "url": "https://github.com/waittim/MemoryCustodian",
+      "codebeispiel": "npx memory-custodian init\n# legt docs/memory/ + manifest.json im Repo an"
+    },
+    {
+      "id": 3,
+      "titel": "\"Sign in with ChatGPT\" als OAuth-Provider für eigene Apps",
+      "typ": "API",
+      "detail": "OpenAI hat ChatGPT-Konten als OAuth-Identity-Provider für Drittanbieter geöffnet; Partner wie Airtable, GitLab, HubSpot, Notion, Supabase und Vercel binden den Login bereits ein. Für eigene Produkte mit KI-affiner Zielgruppe ist das ein zusätzlicher Login-Kanal analog zu \"Sign in with Google\", der zugleich Zugriff auf ChatGPT-Kontext statt reiner Identität liefert.",
+      "url": "https://help.openai.com/en/articles/9624314-model-release-notes",
+      "codebeispiel": ""
+    }
+  ]
+}

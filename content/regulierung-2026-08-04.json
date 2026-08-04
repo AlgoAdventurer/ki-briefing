@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission beginnt Durchsetzung der AI-Act-Transparenzpflichten",
+      "region": "EU",
+      "detail": "Seit 2. August gelten die Transparenzpflichten aus Artikel 50 des EU AI Act verbindlich: Anbieter und Betreiber bestimmter KI-Systeme müssen KI-generierte Inhalte und Chatbot-Interaktionen erkennbar kennzeichnen, damit Nutzerinnen und Nutzer erkennen, wann sie mit KI statt mit Menschen interagieren. Die EU-KI-Behörde beginnt gemeinsam mit den nationalen Aufsichtsbehörden aktiv mit der Durchsetzung; Verstösse können mit bis zu 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes geahndet werden. Der \"Digital Omnibus\" hat parallel die Übergangsfrist für Anbieter von KI-generierten Inhalten von sechs auf drei Monate verkürzt, mit neuer Frist am 2. Dezember 2026.",
+      "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_1714",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Digital Omnibus verschiebt strengere Hochrisiko-Regeln um über ein Jahr",
+      "region": "EU",
+      "detail": "Während die Transparenzpflichten planmässig in Kraft treten, verschiebt der zwischen Rat und Parlament vereinbarte \"Digital Omnibus on AI\" die aufwendigeren Pflichten für Hochrisiko-KI-Systeme um mehr als ein Jahr nach hinten. Für Unternehmen, die Hochrisiko-Anwendungen entwickeln, bedeutet das mehr Vorbereitungszeit, während gleichzeitig die für Endnutzer sichtbaren Kennzeichnungspflichten schon jetzt greifen – eine bewusste Entkopplung des ursprünglich einheitlichen Zeitplans.",
+      "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/05/07/artificial-intelligence-council-and-parliament-agree-to-simplify-and-streamline-rules/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
