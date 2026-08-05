@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-05",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8-Max",
+      "version": "3.8",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas neues Flaggschiff-Modell nutzt eine Sparse-Mixture-of-Experts-Architektur mit 2,4 Billionen Parametern, von denen pro Anfrage nur 95 Milliarden aktiv sind, und verarbeitet bis zu einer Million Tokens Kontext über Text, Bild und Video hinweg. Auf der Vergleichsplattform Arena.AI ist es bereits das bestplatzierte chinesische Modell für Textaufgaben, liegt bei den Spitzenwerten aber noch hinter Anthropics neuesten Modellen. Offene Gewichte sollen kommende Woche folgen – erstmals in dieser Grössenordnung für Alibaba.",
+      "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek-V4-Flash-0731",
+      "version": "0731",
+      "anbieter": "DeepSeek",
+      "detail": "DeepSeek hat die Preview-Phase beendet und sein 284-Milliarden-Parameter-MoE-Modell (13 Milliarden aktive Parameter, 1-Million-Token-Kontext) als offizielle API in den Public Beta überführt. Die neue Version übertrifft laut Hersteller den eigenen Vorgänger DeepSeek V4-Pro auf allen neun veröffentlichten Agenten- und Coding-Benchmarks und kostet bei Output-Tokens nur rund ein Drittel so viel. Die Preise bleiben bei 0,14 US-Dollar pro Million Input- und 0,28 US-Dollar pro Million Output-Tokens.",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-flash-0731",
+      "bild": ""
+    }
+  ]
+}

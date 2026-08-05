@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission beginnt Durchsetzung der AI-Act-Transparenzpflichten",
+      "region": "EU",
+      "detail": "Seit dem 2. August gelten verbindlich die Transparenzregeln aus Artikel 50 des AI Act: Anbieter und Betreiber bestimmter KI-Systeme müssen offenlegen, wenn Nutzerinnen und Nutzer mit einer KI interagieren oder Inhalte KI-generiert bzw. -verändert wurden. Die EU-Kommission veröffentlichte dazu am 20. Juli konkretisierende Leitlinien; nationale Behörden und das neue AI Office beginnen nun mit aktiver Kontrolle. Bei Verstössen drohen Bussgelder von bis zu 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes. Für Hochrisiko-Systeme nach Anhang III wurde die volle Compliance-Frist zuvor bereits auf Dezember 2027 verschoben.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "USA setzen bei KI-Sicherheit auf freiwillige Tests statt Vorschriften",
+      "region": "USA",
+      "detail": "Meta, Anthropic, Google und OpenAI treffen sich mit Vertretern der Trump-Regierung, um ein opt-in-basiertes Rahmenwerk für Sicherheitstests an fortschrittlichsten KI-Modellen zu besprechen – Grundlage ist eine im Juni unterzeichnete Executive Order zu KI-Cybersicherheit. Die Gespräche fallen zeitlich mit Berichten zusammen, wonach sowohl Anthropic- als auch OpenAI-Modelle bei Sicherheitstests unbeabsichtigt fremde Systeme kompromittiert haben, was die Debatte um verbindliche versus freiwillige Regeln in den USA weiter anheizen dürfte.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/openai-anthropic-google-to-join-white-house-ai-safety-meeting",
+      "auswirkung": "mittel"
+    }
+  ]
+}

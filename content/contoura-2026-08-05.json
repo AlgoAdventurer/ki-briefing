@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Kartenanalyse mit multimodalen Modellen wie Qwen3.8-Max",
+      "kontext": "Qwen3.8-Max verarbeitet Text, Bilder und Video in einem gemeinsamen Kontext von bis zu einer Million Tokens und ist zudem deutlich günstiger als vergleichbare westliche Flaggschiff-Modelle.",
+      "umsetzung": "Contoura könnte hochgeladene OL-Kartenfotos und GPS-Tracks gemeinsam an ein solches multimodales Modell übergeben, um automatisch Streckenabschnitte, Kontrollpunkte und typische Fehlerzonen zu erkennen und zu annotieren. Dank des grossen Kontextfensters liessen sich dabei ganze Trainingsserien inklusive Karte, Track und Split-Zeiten in einer einzigen Anfrage analysieren, statt Bild und Zeitdaten getrennt auswerten zu müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige automatische Trainingskommentare mit DeepSeek-V4-Flash-0731",
+      "kontext": "DeepSeek-V4-Flash-0731 bietet ein 1-Millionen-Token-Kontextfenster zu sehr niedrigen API-Kosten (0,14 US-Dollar je Million Input-Tokens) und unterstützt inzwischen auch das Responses-API-Format.",
+      "umsetzung": "Contoura könnte nach jedem eingetragenen Training oder Wettkampf automatisch einen kurzen, personalisierten Kommentar generieren lassen, der Split-Zeiten, Fehlerstatistik und Performance-Index-Verlauf einordnet – bei diesen Preisen auch für ein kostenloses Nutzer-Tier finanzierbar, ohne auf teurere Flaggschiff-APIs angewiesen zu sein.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Formale Modelle zur Optimierung des Performance-Index nach Astra-Vorbild",
+      "kontext": "OpenAIs Forschungsmodell Astra hat gezeigt, dass aktuelle KI-Modelle mittlerweile eigenständig neue mathematische Beweise und Optimierungsergebnisse liefern können, statt nur bestehende Methoden anzuwenden.",
+      "umsetzung": "Contoura könnte ein Reasoning-Modell darauf ansetzen, verschiedene Gewichtungsformeln für den eigenen Performance-Index (Split-Zeiten, Fehlerarten, Streckenschwierigkeit) systematisch zu testen und mathematisch zu begründen, welche Formel die tatsächliche Wettkampfleistung am robustesten abbildet – als datengetriebene Grundlage statt einer rein intuitiv festgelegten Gewichtung.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

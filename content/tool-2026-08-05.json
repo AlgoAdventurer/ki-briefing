@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-05",
+  "name": "Zinley",
+  "tagline": "Ein persönlicher KI-Vertreter mit eigener Telefonnummer und E-Mail-Adresse",
+  "beschreibung": "Zinley ist kein Chatbot, sondern ein proaktiver digitaler Assistent mit eigener Telefonnummer, eigenem E-Mail-Postfach und eigenem Rechner. Er nimmt Anrufe entgegen, beantwortet E-Mails, bucht Termine und erledigt Aufgaben innerhalb vorgegebener Regeln, ohne dass man ihn dafür jedes Mal explizit anstossen muss. Zinley merkt sich Kontakte und Beziehungen und meldet Ergebnisse anschliessend in natürlicher Sprache zurück – wie eine echte Assistenzkraft statt eines passiven Werkzeugs.",
+  "useCase": "Eine Selbstständige lässt Zinley eingehende Kundenanrufe und E-Mails filtern, Rückrufwünsche direkt im eigenen Kalender terminieren und am Abend eine Zusammenfassung aller erledigten und offenen Punkte schicken – ohne dass sie tagsüber selbst ans Telefon muss.",
+  "url": "https://www.producthunt.com/products/zinley",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Persönlicher Assistent", "Voice AI", "Automatisierung", "Agentic AI"]
+}

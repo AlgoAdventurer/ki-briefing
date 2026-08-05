@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-05",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1.5B",
+      "runde": "Series D",
+      "investoren": "Atreides Management, Index Ventures, TCV (Co-Lead), u.a. Bessemer, Insight Partners, Lightspeed, Menlo Ventures, NVIDIA",
+      "beschreibung": "Fireworks betreibt eine Inference-Plattform für Unternehmens-KI und hat mit der neuen Runde eine Bewertung von 17,5 Milliarden Dollar erreicht. Die annualisierte Umsatzrate liegt bereits über einer Milliarde Dollar, das täglich verarbeitete Token-Volumen hat sich seit der letzten Runde fast verdreifacht. Zu den Kunden zählen Uber, Shopify, GitLab, Cursor und Harvey – ein Beleg dafür, wie stark der Markt für spezialisierte, günstige Inference-Infrastruktur gerade wächst.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "SambaNova",
+      "betrag": "$1B",
+      "runde": "Series F (erster Closing-Schritt)",
+      "investoren": "General Atlantic (Lead), BlackRock, Intel Capital, Qatar Investment Authority, Battery Ventures",
+      "beschreibung": "Der KI-Chip- und Infrastrukturanbieter SambaNova erreicht mit dem ersten Closing seiner Series F eine Bewertung von 11 Milliarden Dollar – nur fünf Monate nach der letzten Mega-Runde. Statt reiner Chip-Geschwindigkeit verkauft SambaNova einen kompletten Stack aus Chips, Systemen, Software und Cloud direkt an Unternehmen und Behörden; JPMorganChase setzt die SN40/SN50-Systeme bereits für sicheres On-Premise-Agenten-Inferencing ein.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: grösster Umbau seit dem Launch des Protokolls",
+      "typ": "SDK",
+      "detail": "Die neue Model-Context-Protocol-Revision macht das Protokoll zustandslos: Statt Handshake plus durchgehender Session-ID lassen sich MCP-Server jetzt einfach per Round-Robin-Load-Balancer skalieren, ganz ohne Sticky Sessions oder gemeinsam verwalteten Session-Speicher. Alle vier Tier-1-SDKs (Python, TypeScript, Go, C#) unterstützen die neue Spec bereits in Version 2, zusätzlich ermöglichen neue \"Multi Round-Trip Requests\" (MRTR) komplexere Server-zu-Client-Interaktionen. Für Entwicklerteams, die eigene MCP-Server betreiben, lohnt sich ein Blick auf die vereinfachte Deployment-Architektur.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI veröffentlicht Lean-4-Beweiszertifikate für zehn gelöste Mathe-Probleme",
+      "typ": "Open Source",
+      "detail": "Neben dem Ergebnisbericht zu Astra hat OpenAI ein 249-seitiges Manuskript, modellgeschriebene Beweisführungen und maschinell verifizierbare Lean-4-Zertifikate für alle zehn gelösten Probleme öffentlich gemacht. Für Entwicklerteams, die sich mit formaler Verifikation oder KI-gestützter Theorembeweisführung beschäftigen, ist das ein seltener, vollständig nachvollziehbarer Datensatz realer KI-Beweise inklusive Rechenkosten (rund 2000 US-Dollar für alle zehn Resultate).",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI senkt GPT-5.6-Luna-Preise um 80 Prozent",
+      "typ": "API",
+      "detail": "Seit dem 30. Juli kostet GPT-5.6 Luna nur noch 0,20 US-Dollar pro Million Input- und 1,20 US-Dollar pro Million Output-Tokens (zuvor 1/6 US-Dollar), GPT-5.6 Terra wurde um 20 Prozent günstiger. Für Teams, die kosten-sensitive Agenten- oder Massen-Workloads auf GPT-5.6 aufbauen, senkt das die Rechnung deutlich, ohne dass sich am Modellverhalten etwas ändert – ein Zeichen für den zunehmenden Preisdruck durch günstige chinesische Open-Weight-Modelle.",
+      "url": "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
+      "codebeispiel": ""
+    }
+  ]
+}
