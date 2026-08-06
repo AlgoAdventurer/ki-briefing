@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic sichert sich Compute für 10 Milliarden Dollar beim Nvidia-gestützten Startup Volta",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/04/anthropic-signs-10-billion-deal-with-ai-cloud-startup-volta/",
+      "zusammenfassung": "Anthropic hat einen sechsjährigen Cloud-Compute-Vertrag über 10 Milliarden Dollar mit dem erst im Januar gegründeten Infrastruktur-Startup Volta abgeschlossen. Bitdeer baut dafür ein 133-Megawatt-Wasserkraft-Rechenzentrum im norwegischen Tydal mit Nvidias neuer Vera-Rubin-Chip-Architektur; ein Kreditbackstop von JPMorgan über 1,3 Milliarden Dollar macht den Deal überhaupt erst finanzierbar. Die erste Kapazitätsstufe soll bis Ende 2026 stehen, die zweite bis März 2027.",
+      "kategorie": "Infrastruktur",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Berufungsgericht kippt Amazons Verbot gegen Perplexitys KI-Shopping-Agent Comet",
+      "quelle": "Engadget",
+      "quelleUrl": "https://www.engadget.com/2230471/perplexity-has-successfully-overturned-amazon-injunction-on-its-ai-shopping-bot/",
+      "zusammenfassung": "Der Ninth Circuit hat die einstweilige Verfügung aufgehoben, die Perplexitys Comet-Browser den automatisierten Einkauf auf Amazon untersagt hatte. Das Gericht befand, Amazon werde durch Nutzer und nicht durch Perplexity selbst 'zugegriffen' – der KI-Agent handle lediglich als Werkzeug im Auftrag des Nutzers, weshalb Bundesgesetze wie der Computer Fraud and Abuse Act nicht griffen. Der Fall geht nun zur weiteren Verhandlung zurück ans zuständige Bezirksgericht und dürfte richtungsweisend dafür sein, wie viel Handlungsfreiheit KI-Agenten auf fremden Plattformen künftig haben.",
+      "kategorie": "Recht",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anaconda übernimmt Sicherheitsfirma Enkrypt AI, nachdem 143'000 Schwachstellen in MCP-Servern gefunden wurden",
+      "quelle": "HPCwire / AIwire",
+      "quelleUrl": "https://www.hpcwire.com/aiwire/2026/08/04/anaconda-acquires-enkrypt-ai-to-secure-the-trillion-token-enterprise/",
+      "zusammenfassung": "Anaconda erweitert seine Plattform für KI-native Entwicklung um Enkrypt AIs Sicherheits- und Governance-Technologie. Enkrypt AI hatte in den letzten zwei Monaten über 268'000 Tools auf 25'000 MCP-Servern gescannt und dabei mehr als 143'000 Schwachstellen gefunden – 73 Prozent der geprüften Server waren betroffen. Die Übernahme folgt drei Wochen nach Anacondas Kauf des Coding-Agenten Kilo Code und zeigt, wie dringend Unternehmen Absicherung für ihre wachsende Zahl an KI-Agenten und MCP-Integrationen brauchen.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Microsoft bremst eigene Entwickler: Token-Budgets gegen 'Tokenmaxxing'",
+      "quelle": "The Register",
+      "quelleUrl": "https://www.theregister.com/ai-and-ml/2026/08/05/microsoft-tells-engineers-to-curb-their-token-burning-enthusiasm/",
+      "zusammenfassung": "Microsoft-EVP Jay Parikh hat den Engineering-Teams in einer internen E-Mail feste KI-Token-Budgets pro Abteilung verordnet und das günstigere GPT-5.6 zum internen Standardmodell gemacht. Sein Argument: 'Tokenmaxxing ist nicht das, was wir optimieren wollen' – es gehe um Geschäftsergebnisse statt maximalen KI-Verbrauch, nachdem manche Engineers monatlich mehrere tausend Dollar an Token-Kosten verursacht hatten. Ein bemerkenswertes Signal, da ausgerechnet ein KI-Vorreiter wie Microsoft intern auf die Kostenbremse tritt.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

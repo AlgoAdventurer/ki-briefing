@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Gesprochenes Nachlauf-Debriefing per Voice-Agent",
+      "kontext": "xAIs neues Grok Voice Think Fast 2.0 liefert deutlich natürlichere, schnellere Sprache-zu-Sprache-Gespräche mit präziser Transkription – ein Qualitätssprung gegenüber bisherigen Voice-Modellen.",
+      "umsetzung": "Contoura könnte Athletinnen und Athleten direkt nach dem Zieleinlauf per Sprachmemo ihre Eindrücke schildern lassen ('Kontrolle 4 verloren, Gelände zu dicht gelesen') und daraus automatisch strukturierte Trainingsnotizen samt Verknüpfung zu den passenden Split-Zeiten erzeugen – schneller erfasst als über ein Formular, besonders direkt nach einem anstrengenden Lauf.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Sicherheits-Check für künftige Athleten-Datenagenten",
+      "kontext": "Enkrypt AI fand bei einem Scan von 25'000 MCP-Servern über 143'000 Sicherheitslücken – ein Beleg dafür, wie leicht KI-Agenten-Integrationen unbeabsichtigt sensible Daten offenlegen können, wenn sie ungeprüft aufgesetzt werden.",
+      "umsetzung": "Sollte Contoura künftig einen MCP-Server anbieten, über den externe KI-Agenten auf Trainings- und Leistungsdaten von Athleten zugreifen können, lohnt sich von Anfang an ein Sicherheits-Audit nach diesem Muster – etwa mit Open-Source-Scannern für Tool-Berechtigungen –, bevor persönliche Leistungsdaten für Drittanbieter-Agenten zugänglich gemacht werden.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstigere Echtzeit-Analyse durch photonische Inferenz-Chips",
+      "kontext": "Das frisch finanzierte Startup OLIX baut photonische KI-Chips, die Inferenz mit Licht statt klassischer Elektronik berechnen und dadurch potenziell deutlich günstiger und energieeffizienter laufen als heutige GPU-Infrastruktur.",
+      "umsetzung": "Fällt die Inferenz-Rechenzeit über die nächsten Jahre so stark im Preis wie bei früheren Hardware-Generationen, würde das Contoura erlauben, aufwendigere Live-Auswertungen – etwa laufende GPS-Track-Analyse während eines Wettkampfs statt erst danach – kostentechnisch tragbar anzubieten, ohne die Nutzerpreise deutlich zu erhöhen.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

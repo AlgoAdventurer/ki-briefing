@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Volta",
+      "betrag": "$300M",
+      "runde": "Series A",
+      "investoren": "Andreessen Horowitz und Altimeter Capital (Co-Lead), mit Beteiligung von Nvidia und Dell-Gründer Michael Dell",
+      "beschreibung": "Das im Januar von Ex-Brookfield-Managern gegründete Startup finanziert und least KI-Rechenkapazität für Firmen, die sich teure Nvidia-Chips sonst nicht leisten könnten – unterlegt mit einem eigenen 5-Milliarden-Dollar-Finanzierungspool. Kaum aus der Stealth-Phase raus, verkündete Volta praktisch zeitgleich den 10-Milliarden-Dollar-Compute-Deal mit Anthropic und erreichte mit der neuen Runde eine Bewertung von 2,4 Milliarden Dollar.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "OLIX",
+      "betrag": "$312M",
+      "runde": "Series C",
+      "investoren": "Arm Holdings, Netflix-Mitgründer Reed Hastings, u.a.",
+      "beschreibung": "OLIX baut photonische Inferenz-Chips, die KI-Berechnungen mit Licht statt mit klassischer Elektronik durchführen und damit deutlich energieeffizienter arbeiten sollen als herkömmliche GPUs. Die neue Runde bewertet das Unternehmen mit 3,3 Milliarden Dollar und reiht sich in einen Trend ein, bei dem gerade die physische Infrastruktur hinter der KI-Inferenz – Chips, Strom, Rechenzentren – zum grössten Investitionsschwerpunkt wird.",
+      "bild": ""
+    }
+  ]
+}

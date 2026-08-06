@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kaliforniens AI Transparency Act (SB 942) tritt in Kraft",
+      "region": "USA",
+      "detail": "Seit dem 2. August müssen grosse Anbieter generativer KI-Systeme mit über einer Million monatlichen Nutzern in Kalifornien kostenlose Erkennungstools sowie sichtbare und maschinenlesbare Kennzeichnungen für KI-generierte Inhalte bereitstellen. Das ursprünglich für Januar 2026 geplante Gesetz (SB 942) wurde durch die Nachbesserung AB 853 auf den 2. August verschoben und um zusätzliche Pflichten für Hosting-Plattformen ab 2027 ergänzt. Kalifornien positioniert sich damit als eigenständiger, strengerer US-Regulierungsakteur, während auf Bundesebene weiter auf freiwillige Rahmenwerke gesetzt wird.",
+      "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202320240SB942",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "China setzt neue Regeln für KI-Begleiter und emotionale Chatbots durch",
+      "region": "China",
+      "detail": "Seit dem 15. Juli gelten Chinas 'Interim Measures' für anthropomorphe KI-Interaktionsdienste: Anbieter virtueller Begleiter und persönlichkeitsimitierender Chatbots müssen ihre Algorithmen registrieren, eine Sicherheitsprüfung durchlaufen, klar offenlegen, dass keine menschliche Person antwortet, Anti-Sucht-Hinweise und Krisenpfade bei Selbstgefährdung einbauen sowie Minderjährige besonders schützen. Bei Verstössen drohen je nach Schwere Bussgelder oder die Zwangseinstellung des Dienstes – eines der ersten landesweiten Regelwerke speziell für emotionale KI weltweit.",
+      "url": "https://iapp.org/news/a/chinas-regulation-on-ai-companions-takes-force",
+      "auswirkung": "mittel"
+    }
+  ]
+}

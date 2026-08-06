@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Rust-Projekt führt formelle Richtlinie für LLM-Beiträge ein",
+      "typ": "Open Source",
+      "detail": "Fünf Teams des rust-lang/rust-Monorepos haben eine Policy verabschiedet, die regelt, wie LLMs bei Beiträgen zum Compiler genutzt werden dürfen. Kernpunkte: Niemand muss LLMs einsetzen, Richtlinien müssen zuerst für Menschen geschrieben und erst danach für Maschinen zusammengefasst werden, und ein LLM-Review ersetzt nie ein menschliches Review oder Self-Review. Rein privat genutzte LLM-Inhalte, die nie im Projekt gepostet werden, sind ohne Offenlegungspflicht weiterhin erlaubt. Ein interessantes Muster für jedes Open-Source-Projekt, das gerade selbst über eine LLM-Policy nachdenkt.",
+      "url": "https://blog.rust-lang.org/inside-rust/2026/08/05/rust-langrust-is-adopting-an-llm-policy/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GitHub Copilot CLI zeigt jetzt Live-Timing pro Tool-Aufruf",
+      "typ": "SDK",
+      "detail": "Mit Version 1.0.78 vom 3. August zeigt die Copilot CLI an, wie lange jeder einzelne Tool-Aufruf tatsächlich dauert – hilfreich, um langsame Schritte in agentischen Workflows zu identifizieren, bevor sie zum Flaschenhals werden. Das Update bringt zudem eine genauere Token-Zuordnung im /context-Befehl und eine bessere Isolation zwischen Extensions.",
+      "url": "https://github.blog/changelog/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI rollt 'Sign in with ChatGPT' bei ersten Partner-Apps aus",
+      "typ": "API",
+      "detail": "Airtable, GitLab, HubSpot, Notion, Supabase und Vercel testen aktuell einen OAuth-Login mit dem eigenen ChatGPT-Konto. Für Entwickler eigener Tools bedeutet das einen möglichen neuen Auth-Provider neben Google und GitHub – besonders relevant für Produkte, die ohnehin ChatGPT- oder Agenten-Integrationen anbieten und Nutzern einen zusätzlichen Login-Reibungspunkt ersparen wollen.",
+      "url": "https://help.openai.com/en/articles/6825453-chatgpt-release-notes",
+      "codebeispiel": ""
+    }
+  ]
+}

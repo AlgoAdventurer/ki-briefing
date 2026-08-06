@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-06",
+  "items": [
+    {
+      "id": 1,
+      "name": "Grok Voice Think Fast",
+      "version": "2.0",
+      "anbieter": "xAI",
+      "detail": "xAI hat sein bislang leistungsfähigstes Sprache-zu-Sprache-Modell veröffentlicht: stärkere Intelligenz, präzisere Transkription, schnelleres Reasoning und deutlich flüssigere Gespräche als beim Vorgänger. Seit dem 5. August leitet 'grok-voice-latest' automatisch auf dieses neue Modell um, wovon alle bestehenden Voice-Integrationen ohne Codeänderung profitieren.",
+      "url": "https://x.ai/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Claude Code",
+      "version": "2.1.222",
+      "anbieter": "Anthropic",
+      "detail": "Das neue Release schliesst eine Sicherheitslücke, durch die Worktree-isolierte Sessions und ihre Subagenten destruktive Git-Befehle gegen den eigentlichen Haupt-Checkout ausführen konnten. Die Isolation gilt jetzt konsequent für Dateibearbeitungen und Bash-Aufrufe in jedem Session-Typ – ein wichtiges Update für alle, die Claude Code mit mehreren parallelen Worktrees oder Subagenten einsetzen.",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "bild": ""
+    }
+  ]
+}

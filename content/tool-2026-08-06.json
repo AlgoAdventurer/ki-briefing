@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-06",
+  "name": "Google Antigravity",
+  "tagline": "Agenten-first Entwicklungsumgebung, bei der KI-Agenten selbst Editor, Terminal und Browser bedienen",
+  "beschreibung": "Google Antigravity ist eine agentenzentrierte IDE, in der KI-Agenten direkten Zugriff auf Editor, Terminal und Browser erhalten, um Aufgaben eigenständig zu planen, Code zu schreiben, lokal zu testen und die Ergebnisse zu verifizieren. Statt nur Codevorschläge zu liefern, erstellt Antigravity nachvollziehbare 'Artifacts' wie Aufgabenlisten, Implementierungspläne, Screenshots und Browser-Aufnahmen, mit denen sich die Arbeit des Agenten auf einen Blick prüfen lässt. Entwickler können dabei zwischen Gemini 3 Pro, Claude Sonnet 4.5 und GPT-OSS wechseln, je nachdem welches Modell für die Aufgabe am besten passt.",
+  "useCase": "Ein Entwickler gibt Antigravity die Aufgabe 'Baue eine Login-Seite mit Formvalidierung': Der Agent erstellt selbstständig einen Plan, schreibt den Code, startet einen lokalen Server, testet das Formular im Browser und liefert am Ende Screenshots sowie eine Browser-Aufzeichnung als Beleg, dass alles funktioniert.",
+  "url": "https://antigravity.google/product/antigravity-ide",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Agentic Coding", "IDE", "Gemini", "Multi-Model"]
+}
