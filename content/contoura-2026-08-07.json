@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kennzeichnung für automatisch generierte Trainingskommentare",
+      "kontext": "Seit dem 2. August setzt die EU die AI-Act-Transparenzpflichten durch: KI-generierte Inhalte müssen künftig klar und maschinenlesbar als solche gekennzeichnet werden.",
+      "umsetzung": "Sollte Contoura künftig automatisierte Trainingsanalysen oder KI-generierte Kommentare zu Athletenleistungen anbieten, lohnt sich eine klare Kennzeichnung schon jetzt als Standard – auch wenn Contoura selbst noch nicht unter die EU-Regulierung fällt. Das schafft von Anfang an Vertrauen bei Athletinnen und Athleten und erspart eine spätere Nachrüstung, falls die Plattform wächst und in den regulierten Bereich fällt.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Agentische Coding-Tools für schnellere Feature-Entwicklung nutzen",
+      "kontext": "Mit Metas neuem Muse Code gibt es nun einen dritten grossen Anbieter (nach Claude Code und Cursor 3/Composer) für Terminal-Agenten, die ganze Engineering-Aufgaben eigenständig von der Planung bis zum getesteten Ergebnis durchziehen.",
+      "umsetzung": "Für die nächste grössere Contoura-Feature, etwa eine neue Fehlerstatistik-Visualisierung oder den Ausbau der Split-Zeit-Analyse, könnte ein solcher Coding-Agent einen Grossteil der Standard-Implementierung übernehmen, während das Team sich auf OL-spezifisches Domänenwissen und Code-Review konzentriert – das spart Entwicklungszeit bei einer kleinen Plattform mit begrenzten Ressourcen.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Kartenanalyse mit offenen Langkontext-Modellen",
+      "kontext": "Moonshots frei verfügbares Kimi K3 bietet natives Bildverständnis und ein 1-Millionen-Token-Kontextfenster zu einem Bruchteil der Kosten proprietärer Spitzenmodelle wie GPT-5.6 oder Fable 5.",
+      "umsetzung": "Für automatisierte OL-Kartenanalyse – etwa das Erkennen von Postenstandorten, Geländetypen oder den Vergleich verschiedener Routenwahlen auf gescannten Karten – könnte Contoura ein offenes Modell wie Kimi K3 testen, statt für jede Anfrage teure proprietäre Vision-APIs zu bezahlen. Gerade bei grossen Kartenmengen oder häufigen Analysen macht sich der Kostenunterschied schnell bemerkbar.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

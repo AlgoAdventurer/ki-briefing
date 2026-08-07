@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU beginnt Durchsetzung der AI-Act-Transparenzpflichten",
+      "region": "EU",
+      "detail": "Seit dem 2. August setzen die EU-Kommission und die nationalen Behörden die Transparenzpflichten aus Artikel 50 des AI Act durch: Chatbots und andere interaktive KI-Systeme müssen offenlegen, dass Nutzer es mit KI und nicht mit einem Menschen zu tun haben, Deepfakes müssen gekennzeichnet und KI-generierte Inhalte mit maschinenlesbaren Markierungen versehen werden. Grundlage sind die am 20. Juli verabschiedeten Leitlinien der Kommission. Bei Verstössen drohen Bussgelder bis zu 15 Millionen Euro oder 3 Prozent des weltweiten Jahresumsatzes, je nachdem was höher ist.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Fristen für Hochrisiko-KI-Systeme im AI Act deutlich verschoben",
+      "region": "EU",
+      "detail": "Parallel zum Start der Transparenzpflichten gilt inzwischen die im Omnibus-Verfahren beschlossene Fristverschiebung für Hochrisiko-Systeme: Eigenständige Anwendungen nach Anhang III haben nun bis zum 2. Dezember 2027 Zeit, KI in regulierten Produkten nach Anhang I sogar bis zum 2. August 2028 – statt wie ursprünglich vorgesehen bereits im August 2026. Für Unternehmen, die Hochrisiko-KI-Systeme entwickeln oder einsetzen, verschafft das deutlich mehr Vorlaufzeit, ändert aber nichts an den bereits scharf gestellten Transparenzregeln.",
+      "url": "https://www.gibsondunn.com/eu-ai-act-omnibus-agreement-postponed-high-risk-deadlines-and-other-key-changes/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

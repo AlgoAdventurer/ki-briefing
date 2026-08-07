@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-07",
+  "name": "Muse Code",
+  "tagline": "Metas erster autonomer Coding-Agent fürs Terminal, angetrieben von Muse Spark 1.2",
+  "beschreibung": "Muse Code ist Metas neuer, per Terminal installierbarer Coding-Agent, der auf dem frisch veröffentlichten Modell Muse Spark 1.2 basiert. Statt nur Codevorschläge zu liefern, plant der Agent eigenständig ganze Engineering-Aufgaben, schreibt den Code, lässt mehrere Agenten parallel an Teilaufgaben arbeiten und prüft die Ergebnisse selbstständig, während im Hintergrund weitere Agenten als Reviewer mitlaufen. Auf dem Terminal-Bench-2.1-Benchmark erreicht Muse Spark 1.2 in Muse Code 82.9 Prozent und liegt damit vor GPT-5.6 Terra in Codex und Grok 4.5 in Grok Build, aber noch hinter Claude Opus 5 in Claude Code. Für Entwickler ist es ein weiteres Signal, dass Meta nach OpenAI und Anthropic nun ernsthaft im Markt für agentische Coding-Tools mitspielt.",
+  "useCase": "Ein Entwicklerteam gibt Muse Code den Auftrag 'Migriere das Backend von REST auf GraphQL': Der Agent analysiert das bestehende Repository, erstellt einen Umsetzungsplan, lässt mehrere Teil-Agenten parallel an Schema, Resolvern und Tests arbeiten und meldet sich erst zurück, wenn das Ergebnis lokal getestet und funktionsfähig ist.",
+  "url": "https://developer.meta.com/ai/models/muse-spark/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding Agent", "Terminal", "Multi-Agent", "Meta"]
+}

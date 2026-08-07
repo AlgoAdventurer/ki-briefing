@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-07",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Spark",
+      "version": "1.2",
+      "anbieter": "Meta",
+      "detail": "Meta hat mit Muse Spark 1.2 sein neuestes Coding-Modell veröffentlicht, das speziell für agentische Softwareentwicklung ausgelegt ist: Es versteht grosse Repositories, koordiniert mehrere KI-Agenten gleichzeitig und arbeitet an lang laufenden Entwicklungsaufgaben, bis das Ziel erreicht ist. Zusammen mit dem Modell erschien Muse Code (Beta), ein Terminal-Agent, der ganze Engineering-Aufgaben übernimmt. Beides ist ab sofort über die Meta Model API verfügbar und markiert Metas ernsthaften Einstieg in den Wettbewerb um agentische Coding-Tools.",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Kimi K3",
+      "version": "",
+      "anbieter": "Moonshot AI",
+      "detail": "Das chinesische Startup Moonshot AI hat mit Kimi K3 das nach eigenen Angaben grösste offen verfügbare KI-Modell veröffentlicht: 2,8 Billionen Parameter, ein 1-Millionen-Token-Kontextfenster, native Bildverarbeitung und ein permanenter 'Thinking Mode'. Moonshot beansprucht für K3 eine Leistung auf Augenhöhe mit Anthropics Fable 5 und deutlich vor Opus 4.8 sowie GPT-5.6 Sol. Die Gewichte stehen unter einer Lizenz, die kommerzielle Anbieter mit über 20 Millionen Dollar Jahresumsatz zu einem separaten Vertrag mit Moonshot verpflichtet – für alle anderen ist es frei nutzbar.",
+      "url": "https://venturebeat.com/technology/chinas-moonshot-ai-releases-kimi-k3-the-largest-open-source-model-ever-rivaling-top-u-s-systems",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Das Protokoll wird zustandslos",
+      "typ": "Protokoll / SDK",
+      "detail": "Die neue MCP-Spezifikation vom 28. Juli macht aus dem bisher bidirektionalen, zustandsbehafteten Protokoll ein zustandsloses Request/Response-Protokoll: Handshake und Session-ID entfallen, Protokollversion und Client-Fähigkeiten werden bei jedem Request mitgeschickt, ein neuer server/discover-Call liefert die Fähigkeiten eines Servers. Alle vier Tier-1-SDKs unterstützen die neue Version bereits, das Python-SDK kam gleichzeitig in Version 2.0 mit umbenannter Kernklasse und standardmässigem OpenTelemetry. Praktischer Vorteil für Entwickler: MCP-Server lassen sich jetzt mit simplem Round-Robin-Load-Balancing skalieren, ganz ohne Sticky Sessions oder geteilten Session-Speicher.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Cursor 3 öffnet Composer 2 und MCP Apps für Drittanbieter-Agenten",
+      "typ": "Tool",
+      "detail": "Cursor 3 hat die IDE um ein eigenständiges Agents Window erweitert, in dem sich mehrere KI-Agenten parallel über Desktop, Web, Mobile und Integrationen wie Slack oder GitHub steuern lassen. Das hauseigene Composer-2-Modell erreicht 73.7 Punkte auf SWE-bench Multilingual, dazu kommen Automations, ein Design Mode für Visual-to-Code-Workflows und Unterstützung für MCP Apps, mit denen sich Drittanbieter-Tools direkt in die Agenten-Oberfläche einklinken lassen – relevant für Teams, die eigene interne Tools als MCP-Server an ihre Coding-Agenten anbinden wollen.",
+      "url": "https://www.datacamp.com/blog/cursor-3",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "NVIDIA und Hugging Face bringen offenes Vision-Language-Action-Modell für Robotik",
+      "typ": "Open Source",
+      "detail": "NVIDIA und Hugging Face haben das offene Reasoning-VLA-Modell Isaac GR00T 1.7 sowie das Isaac-Teleop-Framework in LeRobot integriert, Hugging Faces Open-Source-Bibliothek für Robotik. Entwickler können damit Roboter per Teleoperation trainieren und auf ein frei verfügbares Vision-Language-Action-Modell aufsetzen, statt bei null anzufangen – ein Baustein für alle, die KI-Agenten künftig auch mit physischer Sensorik oder Robotik-Hardware verbinden wollen. NVIDIA kündigte zudem das Physical-AI-Modell Cosmos 3 für die nahe Zukunft an.",
+      "url": "https://blogs.nvidia.com/blog/hugging-face-lerobot-models-frameworks-open-robotics/",
+      "codebeispiel": ""
+    }
+  ]
+}

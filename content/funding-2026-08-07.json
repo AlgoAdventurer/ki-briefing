@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-07",
+  "items": [
+    {
+      "id": 1,
+      "firma": "HappyRobot",
+      "betrag": "$150M",
+      "runde": "Series C",
+      "investoren": "Prysm Capital und Eurazeo (Co-Lead), mit a16z, Base10, Y Combinator, Koch Disruptive Technologies u.a.",
+      "beschreibung": "Das auf 'Enterprise Superintelligence' fokussierte Startup baut KI-Agenten, die operative Abläufe in Logistik und Supply Chain über Sprache, E-Mail und Dokumente hinweg eigenständig koordinieren – Kunden sind unter anderem DHL, Kuehne + Nagel und Uber. Mit der neuen Runde steigt die Bewertung auf 1,2 Milliarden Dollar, HappyRobot wird damit zum Einhorn und hat sich seit der Series B verfünffacht.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Function",
+      "betrag": "$450M",
+      "runde": "Wachstumsfinanzierung",
+      "investoren": "General Catalysts Customer Value Fund (CVF)",
+      "beschreibung": "Die Präventivmedizin-Plattform Function kombiniert über 160 Labortests mit ihrem KI-gestützten 'Medical Intelligence Lab', das kontinuierliche Gesundheitstrends analysiert und künftige Gesundheitsrisiken vorhersagen soll. Die Runde kommt nur acht Monate nach einer 298-Millionen-Dollar-Series-B und soll die Expansion der Plattform beschleunigen, nachdem Function dieses Jahr bereits die Bildgebungsfirma Ezra sowie Getlabs und SuppCo übernommen hat.",
+      "bild": ""
+    }
+  ]
+}
