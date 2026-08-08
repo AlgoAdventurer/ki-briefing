@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Spark",
+      "version": "1.2",
+      "anbieter": "Meta",
+      "detail": "Coding-fokussiertes Update von Muse Spark 1.1 mit deutlich mehr Trainingscompute für Coding-Aufgaben und diverseren Trainingsumgebungen. Verbessert Codegenerierung, komplexes Debugging und Codebase-Verständnis, akzeptiert Text, Bild, Video, Audio und PDFs bei 1M-Token-Kontext und wurde gemeinsam mit dem neuen Coding-Agenten Muse Code trainiert.",
+      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek V4-Flash",
+      "version": "0731",
+      "anbieter": "DeepSeek",
+      "detail": "Am 31. Juli veröffentlichtes Preis-Leistungs-Modell zu 0,14 $ pro Million Input- und 0,28 $ pro Million Output-Token. Positioniert sich als günstige Alternative für Anwendungen mit hohem Token-Volumen und verschärft den Preiswettbewerb unter Frontier-Anbietern weiter.",
+      "url": "https://llm-stats.com/ai-news",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "GPT-5.6 Luna",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI senkt die API-Preise für GPT-5.6 Luna um 80% auf 0,20 $ pro Million Input- und 1,20 $ pro Million Output-Token (zuvor 1 $ / 6 $). GPT-5.6 Terra wird um 20% günstiger. OpenAI begründet den Schritt mit Effizienzgewinnen bei Inferenz-Systemen und Kernel-Optimierungen, die die End-to-End-Kosten um rund 20% gesenkt haben.",
+      "url": "https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html",
+      "bild": ""
+    }
+  ]
+}

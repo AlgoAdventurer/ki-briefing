@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Transparenzpflichten und Durchsetzung starten, Hochrisiko-Regeln verschoben",
+      "region": "EU",
+      "detail": "Seit 2. August 2026 müssen KI-Anbieter offenlegen, wenn Nutzer mit KI interagieren oder Inhalte KI-generiert bzw. -verändert sind (Art. 50 AI Act). Die EU-Kommission und nationale Behörden beginnen mit der Durchsetzung, Bußgelder drohen bis zu 15 Mio. € oder 3% des weltweiten Jahresumsatzes. Gleichzeitig hat das 'Digital Omnibus'-Paket die strengeren Hochrisiko-Regeln um über ein Jahr verschoben — die Regulierung läuft damit auf zwei Geschwindigkeiten.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "USA: Voluntäres Regulierungs-Framework für Frontier-Modelle mit Big Tech finalisiert",
+      "region": "USA",
+      "detail": "Vertreter von rund einem Dutzend KI-Firmen — darunter Anthropic, OpenAI, Google und Meta — trafen sich am 4. August mit dem Weißen Haus, um ein freiwilliges Framework zur Regulierung fortgeschrittener KI-Modelle abzuschließen. Basierend auf einer Executive Order zu KI-Cybersicherheit soll die Regierung künftig bis zu 30 Tage vor Veröffentlichung Zugang zu neuen Frontier-Modellen erhalten — ohne verpflichtendes Lizenzierungssystem. Details des Frameworks bleiben größtenteils vertraulich.",
+      "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "auswirkung": "mittel"
+    }
+  ]
+}

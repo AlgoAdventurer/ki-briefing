@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Video-Analyse von Laufaufnahmen",
+      "kontext": "Metas neues Muse Spark 1.2 verarbeitet nativ Video, Bild und Audio bei 1-Million-Token-Kontext — genug, um komplette Renn- oder Trainingsaufnahmen am Stück zu analysieren.",
+      "umsetzung": "Contoura könnte Helm- oder Actioncam-Aufnahmen automatisch analysieren lassen: Postenanlauf-Fehler erkennen, Kartenlese-Pausen markieren und diese Momente automatisch mit den bestehenden Split-Zeiten und Fehlerstatistiken korrelieren, statt dass Athleten Videos manuell durchschauen müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Leichtgewichtiger MCP-Server für Performance-Daten",
+      "kontext": "Die neue MCP-Spezifikation 2026-07-28 macht Server zustandslos und ermöglicht Deployment auf Serverless-/Edge-Infrastruktur ohne eigenen Dauerbetrieb.",
+      "umsetzung": "Contoura könnte einen schlanken MCP-Server bereitstellen, der Split-Zeiten, Fehlerstatistiken und den Performance-Index eines Athleten direkt für Claude oder andere KI-Assistenten zugänglich macht — z.B. für Fragen wie 'Wie hat sich meine Postenanlauf-Präzision diese Saison entwickelt?' — ohne dass Contoura dafür eigene Server rund um die Uhr betreiben muss.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Automatisch generierte Trainingskommentare zu Niedrigkosten",
+      "kontext": "OpenAIs 80%-Preissenkung bei GPT-5.6 Luna auf 0,20 $ / 1,20 $ pro Million Token macht LLM-gestützte Consumer-Features im großen Maßstab erstmals günstig genug für breite Nutzerbasen.",
+      "umsetzung": "Contoura könnte jedem Athleten nach dem Training automatisch personalisierte, textbasierte Kommentare liefern (z.B. 'deine Postenanläufe waren diese Woche 12% schneller als im Schnitt'), generiert aus den vorhandenen Trainings- und Split-Zeit-Daten, ohne die Infrastrukturkosten pro Nutzer spürbar zu erhöhen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google DeepMind: Hassabis wird Chairman, Kavukcuoglu übernimmt operative Führung",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-05/google-deepmind-boss-hassabis-moves-to-chair-role-in-shakeup",
+      "zusammenfassung": "Demis Hassabis tritt als CEO von Google DeepMind zurück und wird Chairman sowie Chief Scientist von Alphabet, bleibt aber Chef von Isomorphic Labs. CTO Koray Kavukcuoglu übernimmt als SVP die operative Leitung inklusive Gemini-Entwicklung. Zeitgleich verlassen Jeff Dean und Sanjay Ghemawat Google nach 27 Jahren, um mit Oriol Vinyals und Quoc Le das neue Startup Discovery Loop zu gründen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Meta veröffentlicht Muse Spark 1.2 und ersten eigenen Coding-Agenten Muse Code",
+      "quelle": "MarkTechPost",
+      "quelleUrl": "https://www.marktechpost.com/2026/08/05/meta-superintelligence-labs-releases-muse-code/",
+      "zusammenfassung": "Meta Superintelligence Labs hat mit Muse Spark 1.2 ein auf Coding spezialisiertes Reasoning-Modell mit 1-Million-Token-Kontext veröffentlicht, das Text, Bild, Video, Audio und PDFs verarbeitet. Gleichzeitig startet Muse Code, Metas erster Terminal-Coding-Agent, der eigens mit dem Modell co-trainiert wurde und in einem 24-Stunden-Test über 1.000 Tool-Aufrufe zuverlässig ausführte.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI beantragt Abweisung von Apples Klage wegen Geschäftsgeheimnissen",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/08/06/openai-apple-motion-to-dismiss",
+      "zusammenfassung": "OpenAI hat in einem 31-seitigen Antrag die Abweisung von Apples Klage gefordert, die dem Unternehmen und zwei ehemaligen Apple-Mitarbeitern Diebstahl von Geschäftsgeheimnissen vorwirft. OpenAI argumentiert, Apple habe keine schützenswerten Geheimnisse konkret benannt und nutze die Klage, um eigene Versäumnisse bei KI-Integration und Mitarbeiterbindung zu kaschieren. Eine Anhörung ist für den 1. Oktober angesetzt.",
+      "kategorie": "Recht & Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Anthropic beruft Tino Cuéllar zum ersten Chief Global Affairs Officer",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/tino-cuellar",
+      "zusammenfassung": "Der frühere Richter am California Supreme Court und Ex-Präsident der Carnegie Endowment for International Peace, Mariano-Florentino 'Tino' Cuéllar, übernimmt bei Anthropic die neu geschaffene Rolle des Chief Global Affairs Officer und berichtet an Präsidentin Daniela Amodei. Er soll globale Politik- und Regierungsbeziehungen verantworten, während Anthropic seine Zusammenarbeit mit Regierungen weltweit vertieft.",
+      "kategorie": "Unternehmen",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "EU AI Act: Transparenzpflichten treten in Kraft, Durchsetzung beginnt",
+      "quelle": "European Commission",
+      "quelleUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "zusammenfassung": "Seit dem 2. August 2026 gelten die Transparenzpflichten aus Artikel 50 des EU AI Act: KI-Anbieter müssen offenlegen, wenn Nutzer mit KI interagieren oder Inhalte KI-generiert sind. Die EU-Kommission und nationale Behörden beginnen nun mit der Durchsetzung, bei Verstößen drohen Bußgelder bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    }
+  ]
+}

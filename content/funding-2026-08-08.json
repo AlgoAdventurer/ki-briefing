@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "firma": "OLIX Computing",
+      "betrag": "$312M",
+      "runde": "Series B",
+      "investoren": "Arm, Hudson River Trading, Fundomo, UK Sovereign AI Venture Fund, Reed Hastings (Angel)",
+      "beschreibung": "Das Londoner Startup baut photonische Optical Tensor Processing Units (OTPUs), die Licht statt Elektrizität für KI-Inferenz nutzen. Der erste Chip DX-1 zielt auf die Decode-Phase von LLM-Inferenz und nutzt SRAM statt HBM. Mit 3,3 Mrd. $ Bewertung ist dies Europas bislang größte Halbleiter-Finanzierungsrunde; erste Kundenauslieferungen sind für H2 2027 geplant.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "HappyRobot",
+      "betrag": "$150M",
+      "runde": "Series C",
+      "investoren": "Prysm Capital, Eurazeo, a16z, Base10, Y Combinator",
+      "beschreibung": "Das Startup aus Madrid/New York automatisiert Telefonate, E-Mails und Terminplanung in Lieferketten mit KI-Voice-Agenten und arbeitet bereits mit über 150 Enterprise-Kunden wie DHL, Kuehne+Nagel und Uber. Mit der neuen Runde bei 1,2 Mrd. $ Bewertung expandiert HappyRobot von Logistik in Versicherung, Energie, Telekommunikation und Airlines.",
+      "bild": ""
+    }
+  ]
+}

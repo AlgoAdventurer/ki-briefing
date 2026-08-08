@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Stateless Core und Serverless-Deployment",
+      "typ": "Protokoll / SDK",
+      "detail": "Anthropic hat eine grundlegend überarbeitete MCP-Spezifikation veröffentlicht: Statt eines bidirektionalen, zustandsbehafteten Protokolls setzt MCP nun auf ein Request/Response-Modell, wodurch Server auf Serverless- und Edge-Infrastruktur laufen können. Neu sind zudem eine versionierte Extensions-Framework für Apps und Tasks sowie OAuth 2.0/OIDC-Unterstützung für Enterprise-Identity-Systeme wie Entra oder Okta. Claude listet aktuell über 950 MCP-Server im Connector-Verzeichnis, der Support für die neue Spezifikation rollt in Kürze aus.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Muse Code im Belastungstest: 1.000+ Tool-Aufrufe in 24 Stunden",
+      "typ": "Open Source / Coding Agent",
+      "detail": "Metas neuer Terminal-Agent Muse Code hielt in einem 24-Stunden-Dauertest über 1.000 aufeinanderfolgende Tool-Aufrufe zuverlässig durch, ohne den Kontext zu verlieren. Für Entwickler relevant ist vor allem die zugrunde liegende Architektur für lang laufende Agentic-Workflows: Muse Code kann als planender Haupt-Agent oder als parallel arbeitender Sub-Agent eingesetzt werden, was Multi-Agent-Pipelines in echten Codebasen erleichtert.",
+      "url": "https://interestingengineering.com/ai-robotics/meta-muse-code-1000-tool-calls-gpu-optimization",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI senkt GPT-5.6 Luna API-Preise um 80%",
+      "typ": "API",
+      "detail": "Die drastische Preissenkung bei GPT-5.6 Luna (0,20 $ / 1,20 $ pro Million Token) macht das Modell für Entwickler mit hohem Token-Volumen deutlich attraktiver und verschiebt die Kosten-Nutzen-Rechnung gegenüber günstigeren Open-Weight-Modellen wie DeepSeek V4-Flash. Wer Luna bereits produktiv einsetzt, sollte die eigene Kostenkalkulation aktualisieren — bei 100M Input- und 20M Output-Token pro Monat sinken die Kosten von rund 220 $ auf 44 $.",
+      "url": "https://www.infoworld.com/article/4203865/openai-drops-gpt-5-6-luna-and-terra-api-prices-by-up-to-80.html",
+      "codebeispiel": ""
+    }
+  ]
+}
