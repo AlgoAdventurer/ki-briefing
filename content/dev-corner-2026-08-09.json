@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kimi K3 in GitHub Copilot: GA-Ankündigung direkt nach Launch pausiert",
+      "typ": "Open Source / Model Integration",
+      "detail": "GitHub hat das offene Agentic-Coding-Modell Kimi K3 (gehostet über Fireworks AI) am 6. August als generell verfügbar für Copilot Pro, Pro+, Max, Business und Enterprise angekündigt — inklusive günstiger nutzungsbasierter Preise. Noch am selben Tag pausierte GitHub den Rollout wegen eines parallelen GitHub-Actions-Vorfalls. Für Enterprise/Business-Admins gilt: Kimi K3 muss zusätzlich explizit per Policy in den Copilot-Einstellungen aktiviert werden, bevor Teammitglieder es auswählen können.",
+      "url": "https://github.blog/changelog/2026-08-06-kimi-k3-is-now-available-in-github-copilot/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GitHub fügt Enterprise-MCP-Allowlists für Copilot hinzu",
+      "typ": "Security / MCP",
+      "detail": "Mit den neuen, generell verfügbaren MCP-Allowlists in den GitHub-Managed-Settings können Organisationen zentral festlegen, welche MCP-Server für Copilot-Clients vertrauenswürdig sind und welche blockiert werden. Die Policy-Kontrollen greifen geschichtet über alle unterstützten Copilot-Apps hinweg und sind ein wichtiger Baustein, um das wachsende MCP-Ökosystem (aktuell über 950 Server allein im Claude-Connector-Verzeichnis) in Enterprise-Umgebungen sicher nutzbar zu machen.",
+      "url": "https://github.blog/changelog/label/copilot/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Copilot CLI v1.0.78: Live-Timeline für Tool-Aufrufe",
+      "typ": "Tool / CLI",
+      "detail": "Das am 3. August veröffentlichte Update der GitHub Copilot CLI zeigt in der Terminal-Oberfläche jetzt Timeline-Header, die live mitzählen, wie lange jeder einzelne Tool-Aufruf eines Agenten läuft. Für Entwickler, die Copilot CLI in Automatisierungs-Pipelines oder für längere Agentic-Sessions nutzen, erleichtert das die Diagnose von hängenden oder ungewöhnlich langsamen Tool-Calls direkt im Terminal, ohne separate Logs durchsuchen zu müssen.",
+      "url": "https://www.havoptic.com/tools/github-copilot",
+      "codebeispiel": ""
+    }
+  ]
+}

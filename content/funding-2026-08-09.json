@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-09",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Valar Atomics",
+      "betrag": "$1,2 Mrd. (davon $1 Mrd. Equity)",
+      "runde": "Series B + Kreditlinie",
+      "investoren": "Sequoia (Lead), Apandion, Atreides Management, Conviction, Dream Ventures, HOF Capital, Point72, Riot Ventures, Snowpoint Ventures, Valor Equity Partners; Kreditlinie mit Erebor Bank und J.P. Morgan",
+      "beschreibung": "Valar Atomics baut modulare, fabrikgefertigte Kernreaktoren, um den Strombedarf von KI-Rechenzentren zu decken. Die neue Runde verdreifacht die Bewertung auf 6 Milliarden Dollar gegenüber der 450-Millionen-Runde vom April. Ein erster 30-MW-Reaktor versorgt bereits einen Nvidia-Blackwell-Cluster und soll nun in Serie produziert werden.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Lumilens",
+      "betrag": "$700M+ (Gesamtfinanzierung über $900M)",
+      "runde": "Series C",
+      "investoren": "Atreides Management, Bain Capital Ventures, Meritech, Seligman Ventures, Spark Capital u.a.",
+      "beschreibung": "Lumilens ist erst zwei Jahre nach Gründung aus dem Stealth-Modus gekommen und liefert optische Interconnect-Lösungen (Near-Package Optics, Co-Packaged Optics, Pluggable-Transceiver) gegen die Konnektivitäts-Engpässe in KI-Rechenzentren. Bei 5,5 Milliarden Dollar Bewertung liefert das Unternehmen sein erstes Produkt bereits im Rahmen eines milliardenschweren Kundenvertrags an Hyperscaler aus.",
+      "bild": ""
+    }
+  ]
+}

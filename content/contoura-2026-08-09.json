@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kostenloser KI-Trainingsassistent für alle Athleten",
+      "kontext": "OpenAI macht GPT-5.6 Luna für ChatGPT-Free-Nutzer unlimitiert und praktisch kostenlos — ein Beleg dafür, dass Inferenzkosten für einfache Chat-Interaktionen inzwischen vernachlässigbar klein sind.",
+      "umsetzung": "Contoura könnte jedem Athleten, auch im kostenlosen Tarif, einen Chat-Assistenten anbieten, der Fragen zu den eigenen Split-Zeiten, Fehlerstatistiken und dem Performance-Index in natürlicher Sprache beantwortet ('Wo verliere ich aktuell am meisten Zeit?'), ohne dass die Kosten pro Nutzer spürbar ins Gewicht fallen.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Mehrtägiger Analyse-Agent für die Saisonauswertung",
+      "kontext": "Alibabas neues Qwen3.8-Max kann laut Hersteller autonome Aufgaben über mehr als 10 Tage am Stück durchhalten, ohne den Kontext oder Zwischenergebnisse zu verlieren.",
+      "umsetzung": "Contoura könnte am Saisonende einen lang laufenden Agenten mit sämtlichen Trainings- und Wettkampfdaten eines Athleten füttern, der eigenständig über mehrere Tage Trends erkennt, Trainingsempfehlungen für die nächste Saison ableitet und einen fertigen Auswertungsbericht erstellt — statt dass Trainer:innen die Analyse manuell zusammenstellen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Echtzeit-Auffälligkeitserkennung nach jedem Training",
+      "kontext": "Googles neues Gemini 3.6 Flash bietet verbesserte Agentic-Planning-Fähigkeiten bei niedrigeren Kosten als Vorgängermodelle und eignet sich damit für hochvolumige, automatisierte Auswertungen.",
+      "umsetzung": "Contoura könnte jeden neu hochgeladenen Trainings- oder Wettkampfdatensatz automatisch von einem schlanken Agenten prüfen lassen, der ungewöhnliche Muster (z.B. plötzlich stark abweichende Postenanlaufzeiten oder Anzeichen von Übermüdung) erkennt und Trainer:innen proaktiv benachrichtigt — bei Kosten, die selbst bei täglicher Nutzung durch die gesamte Athletenbasis kaum ins Gewicht fallen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

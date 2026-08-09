@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-09",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8-Max",
+      "version": "3.8",
+      "anbieter": "Alibaba",
+      "detail": "2,4-Billionen-Parameter-MoE-Modell (95 Mrd. aktive Parameter) mit 1M-Token-Kontext, Text-/Bild-/Video-Input und bis zu 131.072 Output-Token. Übertrifft laut Alibaba Claude Opus 4.8, Claude Fable 5 sowie teilweise GPT-5.6 Sol bei Coding- und Multimodal-Benchmarks wie Terminal-Bench 2.1 und OSWorld-Verified. Aktuell nur per API über QwenCloud verfügbar, Open-Weights-Release auf Hugging Face und ModelScope für kommende Woche angekündigt.",
+      "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.6 Flash",
+      "version": "3.6",
+      "anbieter": "Google",
+      "detail": "Neues Flash-Modell mit verbesserter Token-Effizienz und stärkeren Agentic-Planning-Fähigkeiten bei niedrigerem Preis als Gemini 3.5 Flash. Adressiert Entwickler-Feedback zu übermäßig langen Antworten. Ergänzt wird die Reihe um Gemini 3.5 Flash-Lite als besonders günstige, latenzarme Subagent-Option für hochvolumige Automatisierung. Gemini 3.5 Flash selbst wurde am 4. August aus der globalen Region der Gemini-Enterprise-App entfernt.",
+      "url": "https://docs.cloud.google.com/gemini/enterprise/docs/release-notes",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "GPT-5.6 Luna",
+      "version": "Free-Rollout",
+      "anbieter": "OpenAI",
+      "detail": "GPT-5.6 Luna wird zum neuen Standardmodell für alle ChatGPT-Free- und Go-Nutzer, inklusive unlimitierter Text-Chats und einem neuen 'Think'-Button für tieferes Nachdenken bei komplexen Anfragen. Der Rollout folgt auf die bereits Anfang August umgesetzte 80-prozentige API-Preissenkung und positioniert Luna als Massenmarkt-Modell gegen Gemini Flash und Claude Haiku-Klasse.",
+      "url": "https://www.macrumors.com/2026/08/06/chatgpt-free-unlimited-text-chats/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/OpenAI_Logo.svg"
+    }
+  ]
+}

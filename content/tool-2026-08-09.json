@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-09",
+  "name": "Qwen3.8-Max",
+  "tagline": "Alibabas 2,4-Billionen-Parameter-Flaggschiff schlägt GPT-5.6 Sol auf zahlreichen Benchmarks",
+  "beschreibung": "Qwen3.8-Max ist Alibabas neuestes und bislang leistungsstärkstes Modell: eine Mixture-of-Experts-Architektur mit 2,4 Billionen Parametern, von denen pro Anfrage nur rund 95 Milliarden aktiv sind. Es verarbeitet Text, Bild und Video bei einem Kontextfenster von 1 Million Token und bis zu 131.072 Output-Token pro Antwort. Laut Alibaba kann das Modell autonome Software-Engineering-Aufgaben über mehr als 10 Tage am Stück durchhalten, ohne den Kontext zu verlieren.",
+  "useCase": "Ein Entwicklerteam lässt Qwen3.8-Max über QwenCloud ein mehrtägiges Feature end-to-end umsetzen — von der Planung über die Implementierung bis zu Tests — während parallel die multimodalen Fähigkeiten genutzt werden, um Screenshots, Diagramme oder Videoaufnahmen als Spezifikation einzubeziehen.",
+  "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+  "kategorie": "API",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["LLM", "Alibaba", "Multimodal", "Agentic Coding", "Open Weights (bald)"]
+}
