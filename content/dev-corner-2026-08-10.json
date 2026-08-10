@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Code: Auto-Modus wird ab 14. August Standard",
+      "typ": "Tool / Agentic Coding",
+      "detail": "Anthropic schaltet den Auto-Modus in Claude Code für Pro-, Max- und Team-Accounts standardmäßig ein. Statt jede Aktion einzeln freizugeben, läuft der Agent künftig durch, solange eine Aktion nicht als irreversibel, destruktiv oder außerhalb der eigenen Umgebung eingestuft wird. Entwickler, die granulare Kontrolle behalten wollen, sollten die Einstellung vor dem 14. August prüfen und ggf. manuell auf den bisherigen Bestätigungsmodus zurückstellen.",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Spezifikation 2026-07-28: Model Context Protocol wird zustandslos",
+      "typ": "API / Protokoll",
+      "detail": "Die neue MCP-Spezifikation wandelt das Protokoll von einem bidirektionalen, zustandsbehafteten in ein zustandsloses Request/Response-Modell um — eines der meistgewünschten Features der Community. Remote-MCP-Server, die bisher Sticky Sessions und einen geteilten Session-Store benötigten, können künftig hinter einem einfachen Round-Robin-Load-Balancer laufen und Routing über den Mcp-Method-Header abwickeln, während Clients tools/list-Antworten cachen können. GitHubs MCP-Server unterstützt die neue Spezifikation bereits vor dem offiziellen Release.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Kitesurf: Browser-Automation ohne Chromium-Overhead",
+      "typ": "Open Source / Infrastructure",
+      "detail": "Cloudflares neuer Agent-Browser Kitesurf kombiniert die Rendering-Engine Blitz, Firefox' CSS-Parser Stylo und die JavaScript-Engine Boa zu einem in Rust geschriebenen, zu WebAssembly kompilierten Browser, der komplett auf Workers läuft. Für Entwickler, die Browser-Agenten in großem Maßstab betreiben, senkt das laut Cloudflare CPU- und Speicherverbrauch um das 3- bis 7-fache gegenüber Chromium-basierten Lösungen wie Playwright oder Puppeteer im Headless-Betrieb.",
+      "url": "https://developers.cloudflare.com/browser-run/kitesurf/",
+      "codebeispiel": ""
+    }
+  ]
+}

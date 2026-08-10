@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-10",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Spark 1.2 & Muse Code",
+      "version": "1.2",
+      "anbieter": "Meta",
+      "detail": "Meta Superintelligence Labs hat Muse Spark 1.2 veröffentlicht, das dritte Modell-Update in vier Monaten, zusammen mit Muse Code, einem neuen Terminal-Coding-Agenten für große Repositories. Muse Spark 1.2 unterstützt ein 1-Millionen-Token-Kontextfenster, koordiniert mehrere Agenten parallel und verbessert sich laut Meta iterativ selbst, bis ein Ziel erreicht ist. Auf dem Artificial-Analysis-Intelligence-Index stieg der Score von 51 (Version 1.1) auf 54. Neu ist außerdem ein günstigerer 'Contributor'-Tarif, bei dem Nutzer im Austausch für Trainingsrechte auf ihre Prompts stark reduzierte API-Preise erhalten.",
+      "url": "https://venturebeat.com/orchestration/meta-enters-the-ai-coding-wars-with-muse-spark-1-2-and-muse-code-with-persistent-async-background-agents",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek-V4-Flash-0731",
+      "version": "0731",
+      "anbieter": "DeepSeek",
+      "detail": "Die finale Version von DeepSeek V4-Flash ist mit MIT-Lizenz auf Hugging Face erschienen, die offizielle API ging parallel in die öffentliche Beta. Das MoE-Modell hat 284 Milliarden Parameter (13 Mrd. aktiv pro Token), unterstützt 1 Million Token Kontext und übertrifft laut DeepSeek das größere V4-Pro-Modell auf allen neun veröffentlichten Agenten- und Coding-Benchmarks — bei rund einem Drittel der Output-Kosten. Preis: 0,14 $ pro Million Input-Token, 0,28 $ pro Million Output-Token.",
+      "url": "https://datanorth.ai/news/deepseek-releases-deepseek-v4-flash-0731",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "Kitesurf",
+      "version": "Beta",
+      "anbieter": "Cloudflare",
+      "detail": "Neuer, ressourcenschonender Cloud-Browser speziell für KI-Agenten, läuft komplett auf Cloudflare Workers und ist während der Beta-Phase kostenlos über Browser Run nutzbar. Details siehe Tool des Tages.",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-08-06-kitesurf/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Cloudflare_Logo.svg"
+    }
+  ]
+}

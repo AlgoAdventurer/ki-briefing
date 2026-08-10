@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigener Recherche- und Analyse-Agent für Trainer:innen",
+      "kontext": "Cloudflares neuer Kitesurf-Browser macht es deutlich günstiger, KI-Agenten im großen Stil Webseiten auslesen und Daten extrahieren zu lassen — bei einem Bruchteil des Ressourcenverbrauchs klassischer Headless-Browser.",
+      "umsetzung": "Contoura könnte einen Hintergrund-Agenten betreiben, der automatisch Ranglisten, Streckendaten und Ergebnislisten von o-l.ch und anderen OL-Verbandsseiten einsammelt und strukturiert in die Plattform einspeist, ohne dass Athlet:innen oder Trainer:innen Daten manuell nachpflegen müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Auto-Modus-Agent für die automatische Wochenauswertung",
+      "kontext": "Anthropic macht den Auto-Modus in Claude Code zum Standard, bei dem Agenten mehrstufige Aufgaben eigenständig bis zum Ziel durchführen, statt bei jedem Schritt auf Freigabe zu warten.",
+      "umsetzung": "Contoura könnte intern einen ähnlichen Auto-Modus-Agenten einsetzen, der jede Woche automatisch neue Trainings- und Splitzeitdaten aller Athlet:innen durchgeht, Auffälligkeiten wie Formkurven oder wiederkehrende Postenfehler erkennt und daraus eigenständig einen kurzen Wochenbericht für Trainer:innen erstellt.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Langzeit-Repository-Analyse für die Weiterentwicklung der Plattform",
+      "kontext": "Metas neues Muse Spark 1.2 bietet ein 1-Millionen-Token-Kontextfenster und einen stark vergünstigten 'Contributor'-Tarif für Coding-Aufgaben über ganze Repositories hinweg.",
+      "umsetzung": "Das Contoura-Entwicklerteam könnte ein solches günstiges Langkontext-Modell nutzen, um die gesamte Codebasis auf einmal analysieren zu lassen — etwa um technische Schulden zu identifizieren oder eine geplante Funktion (z.B. automatische Fehlerklassifikation) konsistent über alle betroffenen Module hinweg zu implementieren.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

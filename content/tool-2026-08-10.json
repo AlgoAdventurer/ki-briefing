@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-10",
+  "name": "Kitesurf (Cloudflare)",
+  "tagline": "Ein schlanker Cloud-Browser, gebaut nicht für Menschen, sondern für KI-Agenten",
+  "beschreibung": "Kitesurf ist Cloudflares neuer Browser, der komplett auf Workers läuft und aus einer modularen Rendering-Engine (Blitz), Firefox' CSS-Parser Stylo sowie der JS-Engine Boa zusammengesetzt ist. Alles, was ein Mensch braucht, aber ein Agent nicht — Tabs, Erweiterungen, Themes, 60-fps-Scrolling — wurde entfernt, dafür bleiben strukturierte Content-Extraktion, Screenshots und isolierte Sessions. Laut Cloudflare verbraucht Kitesurf 3,1- bis 3,8-mal weniger CPU und bis zu 7-mal weniger Arbeitsspeicher als Chromium bei typischen Automatisierungsaufgaben. In nur zwölf Wochen entwickelt, zeigt das Tool, wie stark sich Infrastruktur für KI-Agenten inzwischen von klassischer Browser-Software unterscheidet.",
+  "useCase": "Ein Entwicklerteam baut einen Recherche-Agenten, der hunderte Webseiten parallel öffnet, Inhalte extrahiert und Screenshots erstellt — dank Kitesurfs geringem Ressourcenverbrauch lässt sich das über Cloudflare Browser Run deutlich günstiger und schneller skalieren als mit klassischen Headless-Chromium-Instanzen.",
+  "url": "https://developers.cloudflare.com/browser-run/kitesurf/",
+  "kategorie": "API / Developer Infrastructure",
+  "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Cloudflare_Logo.svg",
+  "kostenlos": true,
+  "tags": ["Browser-Automation", "KI-Agenten", "Cloudflare Workers", "WebAssembly", "Beta"]
+}

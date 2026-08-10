@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission beginnt Durchsetzung der AI-Act-Transparenzpflichten",
+      "region": "EU",
+      "detail": "Seit dem 2. August gelten und werden EU-weit die Transparenzpflichten aus Artikel 50 des AI Act durchgesetzt: Systeme, die direkt mit Menschen interagieren, müssen sich als KI zu erkennen geben, Deepfakes und manipulierte Audio-, Bild- oder Videoinhalte müssen als künstlich erzeugt gekennzeichnet werden, und Emotionserkennungs- sowie biometrische Kategorisierungssysteme müssen betroffene Personen informieren. Eigenständige Hochrisikosysteme (u.a. Recruiting, Kreditwürdigkeitsprüfung, Bildung, Strafverfolgung) erhalten dagegen eine Fristverlängerung bis Dezember 2027. Verstöße können mit bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes geahndet werden.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens AI Transparency Act tritt in Kraft",
+      "region": "USA",
+      "detail": "Der California AI Transparency Act (SB 942, ergänzt durch AB 853) ist am 2. August wirksam geworden, nachdem das Inkrafttreten von Januar auf August verschoben worden war. Anbieter generativer KI-Systeme mit mehr als einer Million monatlichen Nutzer:innen in Kalifornien müssen ab sofort ein kostenloses KI-Erkennungstool bereitstellen und Herkunftsdaten (Provenance) in KI-generierte Bild-, Video- und Audioinhalte einbetten. Verstöße kosten 5.000 Dollar pro Tag und Verstoß.",
+      "url": "https://www.jdsupra.com/legalnews/new-california-ai-laws-taking-effect-in-3581780/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

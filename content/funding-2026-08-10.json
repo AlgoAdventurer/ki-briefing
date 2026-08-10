@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-10",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Simile",
+      "betrag": "$200M+",
+      "runde": "Series B",
+      "investoren": "Greenoaks, Index Ventures (Lead)",
+      "beschreibung": "Simile trainiert Foundation-Modelle, die als 'agentische Zwillinge' simulieren, wie Kunden, Patient:innen, Mitarbeitende oder Bürger:innen auf eine geplante Entscheidung reagieren würden — bevor sie in der Realität getroffen wird. Nur fünf Monate nach einer 100-Millionen-Dollar-Series-A wird das erst Ende 2025 gegründete Startup nun mit 2 Milliarden Dollar bewertet.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "OLIX Computing",
+      "betrag": "$312M",
+      "runde": "Series B",
+      "investoren": "Fundomo (Lead), Arm, Hudson River Trading, Reed Hastings, UK Sovereign AI Fund",
+      "beschreibung": "Das britische Chip-Startup OLIX baut photonische 'Optical Tensor Processing Units', die Licht statt Elektrizität für KI-Berechnungen nutzen und dadurch schneller, kühler und energieeffizienter sein sollen als klassische GPUs. Die Bewertung springt auf 3,3 Milliarden Dollar, nach 220 Millionen Dollar Series A erst im Februar — das Kapital fließt in die Fertigstellung des ersten Chips DX-1 mit Kundenzugang ab 2027.",
+      "bild": ""
+    }
+  ]
+}
