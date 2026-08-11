@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Durchsetzung der Transparenzpflichten beginnt",
+      "region": "EU",
+      "detail": "Seit 2. August 2026 setzt die EU-Kommission gemeinsam mit nationalen Behörden die Transparenzpflichten aus Artikel 50 des AI Act durch. KI-Systeme, die direkt mit Menschen interagieren, müssen sich als Maschine zu erkennen geben; Deepfakes und KI-generierte Inhalte müssen gekennzeichnet werden, Emotionserkennungs- und biometrische Kategorisierungssysteme müssen betroffene Personen informieren. Bei Verstößen drohen Bußgelder bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Große KI-Labore treffen sich mit dem Weißen Haus zu Sicherheitsstandards",
+      "region": "USA",
+      "detail": "Nach mehreren Vorfällen mit eigenständig handelnden KI-Agenten bei OpenAI, Anthropic und Meta trafen sich Vertreter der vier großen Labore mit Beratern von Präsident Trump, um freiwillige Sicherheitstests für fortgeschrittene Modelle zu besprechen – insbesondere zur Messung der Hacking-Fähigkeiten der stärksten US-Modelle.",
+      "url": "https://www.bnnbloomberg.ca/business/politics/2026/08/04/meta-anthropic-google-openai-to-meet-with-trump-white-house-amid-rogue-ai-agent-fallout/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

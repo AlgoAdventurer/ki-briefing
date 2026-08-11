@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Lokale Kartenanalyse mit offenem Vision-Modell",
+      "kontext": "Metas neues 30B-Modell Muse Glimmer läuft dank 4-Bit-Quantisierung auf einer einzelnen Consumer-GPU und ist speziell für agentische Tool-Nutzung optimiert – ideal für Self-Hosting ohne laufende API-Kosten.",
+      "umsetzung": "Contoura könnte ein selbst gehostetes Vision-Modell einsetzen, um eingescannte OL-Karten automatisch zu analysieren: Postenlage erkennen, Streckenverlauf mit GPS-Tracks abgleichen und Athleten automatisch auf mögliche Fehlerquellen in schwierigen Geländeabschnitten hinweisen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisierte Trainingskommentare per MCP-Agenten-Server",
+      "kontext": "Die neue MCP-Spezifikation 2026-07-28 macht KI-Agenten-Integrationen deutlich robuster und einfacher zu betreiben, da das Protokoll jetzt zustandslos und beliebig lastverteilbar ist.",
+      "umsetzung": "Contoura könnte einen MCP-Server bauen, der Trainings- und Wettkampfdaten (Split-Zeiten, Fehlerstatistiken, Performance-Index) bereitstellt, sodass ein Claude- oder GPT-Agent automatisch verständliche Trainingskommentare und konkrete Verbesserungsvorschläge pro Athlet generiert.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Leichtgewichtiger Agent für automatischen Ranglisten-Import",
+      "kontext": "Cloudflares neuer Kitesurf-Browser ist speziell für automatisierte Agenten gebaut und deutlich ressourcenschonender als klassische Headless-Browser wie Chromium.",
+      "umsetzung": "Contoura könnte einen Agenten bauen, der automatisiert Ranglisten und Split-Zeiten von o-l.ch oder Livelox abruft und importiert, betrieben auf Cloudflare Workers mit Kitesurf statt eigener teurer Chromium-Infrastruktur.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

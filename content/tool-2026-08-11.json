@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-11",
+  "name": "Kitesurf",
+  "tagline": "Ein leichtgewichtiger, cloud-gehosteter Browser, gebaut speziell für KI-Agenten statt für Menschen.",
+  "beschreibung": "Kitesurf ist Cloudflares Antwort auf das Problem, dass klassische Browser wie Chromium für autonome KI-Agenten viel zu ressourcenhungrig sind. Der Rust-basierte Browser läuft vollständig in V8-Isolates auf Cloudflare Workers und kombiniert Blitz zum Rendering, Firefox' Stylo-CSS-Parser sowie die Boa-JavaScript-Engine. Er verzichtet bewusst auf für Menschen gedachte Features wie Tabs oder Themes und ist dadurch bis zu 7x sparsamer im Speicherverbrauch als Chromium. Aktuell ist Kitesurf kostenlos in offener Beta über Cloudflares Browser-Run-Service verfügbar, Open-Source-Pläne wurden angekündigt.",
+  "useCase": "Ein Entwickler baut einen autonomen Recherche-Agenten, der hunderte Webseiten pro Stunde per Playwright durchsucht und Inhalte extrahiert – mit Kitesurf sinkt der Speicherverbrauch pro Instanz um bis zu Faktor 7, wodurch deutlich mehr Agenten parallel auf derselben Infrastruktur laufen können.",
+  "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+  "kategorie": "API / Developer Tools",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Browser-Automation", "AI-Agents", "Cloudflare Workers", "Rust", "Beta"]
+}

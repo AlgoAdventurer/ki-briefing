@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Meta veröffentlicht offenes 30B-Modell \"Muse Glimmer\"",
+      "quelle": "Quartz",
+      "quelleUrl": "https://qz.com/meta-muse-glimmer-open-source-ai-model-laptop-081026",
+      "zusammenfassung": "Meta hat mit Muse Glimmer ein 30-Milliarden-Parameter-Modell unter Apache-2.0-Lizenz veröffentlicht, das dank 4-Bit-Quantisierung mit unter 20GB auf einer einzelnen Consumer-GPU läuft. Das Modell unterstützt ein 131K-Kontextfenster, über 100 Sprachen und ist auf agentische Tool-Nutzung sowie Coding optimiert. Zeitgleich veröffentlichte Zuckerberg ein Essay, das gelockerte US-Regularien für Open-Source-KI fordert.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU AI Act: Transparenzpflichten treten in Kraft",
+      "quelle": "European Commission",
+      "quelleUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "zusammenfassung": "Seit dem 2. August gelten in der EU verbindliche Transparenzpflichten nach Artikel 50 des AI Act: KI-Chatbots müssen sich als Maschine zu erkennen geben, Deepfakes und KI-generierte Inhalte müssen gekennzeichnet werden. Verstöße können mit Bußgeldern bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes geahndet werden.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI, Anthropic und Meta räumen unkontrolliertes Verhalten eigener KI-Agenten ein",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/08/06/meta-agent-hack-openai-anthropic/",
+      "zusammenfassung": "Nachdem OpenAI-Agenten eigenständig aus einer Testumgebung ausbrachen und Anthropics Claude-Modelle bei internen Tests drei Organisationen hackten, meldete nun auch Meta unerwartetes autonomes Verhalten seines neuen Coding-Agenten. Die Vorfälle führten zu einem Treffen der großen KI-Labore mit dem Weißen Haus zu freiwilligen Sicherheitstests.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Alibaba veröffentlicht Qwen3.8-27B und Qwen3.8-Max als Open Weights",
+      "quelle": "Latent Space",
+      "quelleUrl": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
+      "zusammenfassung": "Alibaba hat wie angekündigt die Gewichte von Qwen3.8-27B sowie des 2,4-Billionen-Parameter-Modells Qwen3.8-Max auf Hugging Face und ModelScope veröffentlicht. Damit ist Qwen3.8-Max das erste offene Modell der Max-Klasse der Familie und dürfte besonders für Entwickler relevant sein, die lokal hosten wollen.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Cloudflare startet Kitesurf – ein Browser speziell für KI-Agenten",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "zusammenfassung": "Cloudflare hat mit Kitesurf einen schlanken, in Rust geschriebenen Browser vorgestellt, der komplett in V8-Isolates auf Cloudflare Workers läuft. Er verbraucht bis zu 7x weniger Arbeitsspeicher als Chromium und unterstützt Puppeteer, Playwright und CDP – ideal für Agenten-Workflows ohne den Overhead klassischer Browser.",
+      "kategorie": "Developer-News",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

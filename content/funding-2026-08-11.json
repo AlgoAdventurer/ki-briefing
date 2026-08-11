@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-11",
+  "items": [
+    {
+      "id": 1,
+      "firma": "OLIX Computing",
+      "betrag": "$312M",
+      "runde": "Series B",
+      "investoren": "Fundomo, Arm, Hudson River Trading (neu); Hummingbird Ventures, Crane, Plural, Creandum u.a. (Bestand); Reed Hastings (Angel)",
+      "beschreibung": "Das britische Chip-Startup OLIX (früher Flux Computing) baut photonische \"Optical Tensor Processing Units\", die mit Licht statt Elektrizität rechnen und dabei auf teuren HBM-Speicher verzichten. Die Runde bewertet OLIX mit 3,3 Milliarden Dollar und finanziert den ersten Inferenz-Beschleuniger DX-1, der ab 2027 bei ersten Kunden laufen soll.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Function Health",
+      "betrag": "$450M",
+      "runde": "Growth Financing",
+      "investoren": "General Catalyst (Customer Value Fund)",
+      "beschreibung": "Die Präventivmedizin-Plattform Function bietet über 160 Labortests sowie eine KI-gestützte \"Medical Intelligence Lab\"-Analyse zur Vorhersage von Gesundheitsrisiken. Die Runde – acht Monate nach einer $298M-Series-B – soll das Wachstum beschleunigen und folgt auf Zukäufe wie das Bildgebungs-Startup Ezra.",
+      "bild": ""
+    }
+  ]
+}

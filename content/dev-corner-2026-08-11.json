@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Umbau zu zustandslosem Protokoll",
+      "typ": "SDK / Protokoll",
+      "detail": "Das Model Context Protocol wandelt sich von einem bidirektionalen, zustandsbehafteten Protokoll zu einem zustandslosen Request/Response-Modell. Ein neuer server/discover-Call liefert die Fähigkeiten eines Servers, wodurch Requests auf beliebige Instanzen treffen können – ein simpler Round-Robin-Loadbalancer reicht aus. Die TypeScript-SDK wird in fokussierte Pakete aufgeteilt (@modelcontextprotocol/server, @modelcontextprotocol/client), Python- und C#-SDK erhielten parallel ein v2.0-Release. Legacy-Clients bleiben dank Fallback auf das alte initialize-Handshake kompatibel.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Kitesurf: Cloudflares Browser-Engine für Agenten im Detail",
+      "typ": "Open Source / Tool",
+      "detail": "Kitesurf läuft komplett in V8-Isolates auf Cloudflare Workers und kombiniert Blitz (Rendering), Stylo (CSS-Parser von Firefox) und die Rust-JS-Engine Boa. Für Entwickler von Web-Scraping- und Browser-Automation-Agenten heißt das: gleiche Puppeteer/Playwright/CDP-APIs wie gewohnt, aber 3-7x weniger Ressourcenverbrauch. Einschränkung: kein Video/WebGL-Support, komplexe Seiten benötigen weiterhin Chromium, und Task-Laufzeiten sind aktuell 70-80% länger.",
+      "url": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Agentische Dev-Tools werden alltagstauglich",
+      "typ": "Tool / API",
+      "detail": "Agentische Entwicklerwerkzeuge wie GitHub Copilot Workspace, Slack-Workflow-Automatisierung und automatische Report-Generierung gelten laut aktuellen Marktbeobachtungen inzwischen als alltagstauglich für Entwicklerteams – ein Zeichen, dass sich Agenten-Tools 2026 von Experimenten zu festen Bestandteilen der Toolchain entwickeln.",
+      "url": "https://www.aiapps.com/blog/august-2026-ai-mega-update-major-breakthroughs-launches/",
+      "codebeispiel": ""
+    }
+  ]
+}
