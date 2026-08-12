@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisch generierte Trainings-Recap-Videos",
+      "kontext": "ByteDances neues Seedance 2.5 erzeugt aus multimodalen Inputs (Bild, Video, Text) durchgehende 30-Sekunden-Clips mit regionsbasiertem Editing einzelner Bildbereiche.",
+      "umsetzung": "Contoura könnte aus GPS-Track, Split-Zeiten und Kartenausschnitten eines Trainings automatisch ein kurzes Recap-Video generieren lassen – z.B. mit eingeblendeten Fehlerzonen und Tempo-Verlauf –, das Athleten nach jedem Lauf direkt in der App als Zusammenfassung sehen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Server für Athleten-Performance-Daten",
+      "kontext": "Databox zeigt mit seinem neuen MCP-Server, wie sich Business-Metriken direkt und validiert (statt geschätzt) in Claude abfragen lassen, angebunden an über 130 Datenquellen.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bauen, der Performance-Index, Split-Zeiten und Fehlerstatistiken pro Athlet bereitstellt. Trainer könnten dann in Claude in natürlicher Sprache fragen wie 'Wo verliert Athlet X aktuell am meisten Zeit?' und erhalten präzise, aus echten Daten berechnete Antworten statt LLM-Schätzungen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Synthetische Athleten-Zwillinge zur Pacing-Simulation",
+      "kontext": "Das frisch finanzierte Startup Simile trainiert Foundation-Modelle, die simulieren, wie reale Personen auf bestimmte Entscheidungen reagieren würden – bislang für Marketing und Produktforschung eingesetzt.",
+      "umsetzung": "Contoura könnte auf Basis historischer Trainings- und Wettkampfdaten pro Athlet ein 'synthetisches Abbild' trainieren, das vorhersagt, wie sich unterschiedliche Pacing-Strategien oder Geländeabschnitte auf die Leistung auswirken würden – nutzbar zur Wettkampfvorbereitung, bevor eine Strategie im echten Rennen getestet wird.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic gründet Data-Center-Joint-Venture \"Theseus\" mit Macquarie und GIC",
+      "quelle": "Macquarie Group",
+      "quelleUrl": "https://www.macquarie.com/au/en/about/news/2026/anthropic-mam-gic-data-centre-infrastructure-partnership.html",
+      "zusammenfassung": "Anthropic hat mit Macquarie Asset Management und dem Staatsfonds GIC eine Infrastruktur-Partnerschaft namens Theseus angekündigt, um dedizierte US-Rechenzentren für Claude zu bauen. Macquarie und GIC finanzieren den Großteil des Eigenkapitals, Anthropic tritt als Ankermieter auf und übernimmt Stromkosten-Risiken. Die Vereinbarung ergänzt Anthropics bestehendes Milliarden-Commitment mit AWS und soll die Rechenkapazität deutlich ausbauen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU verpflichtet Google, Android für ChatGPT und Claude zu öffnen",
+      "quelle": "The Next Web",
+      "quelleUrl": "https://thenextweb.com/news/google-eu-android-gemini-rivals-dma",
+      "zusammenfassung": "Die EU-Kommission hat unter dem Digital Markets Act zwei bindende Anordnungen erlassen: Google muss bis August 2027 elf Android-Systemfunktionen wie Sprachaktivierung und App-Kontext für konkurrierende Assistenten wie ChatGPT und Claude öffnen. Ab Januar 2027 muss Google zudem anonymisierte Suchdaten mit Rivalen teilen. Bei Verstößen drohen Strafen von bis zu 10% des weltweiten Umsatzes; die Regeln gelten vorerst nur in der EU.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Stanford-Forscher erzeugen erstmals komplette Virengenome per KI",
+      "quelle": "BetaNews",
+      "quelleUrl": "https://betanews.com/article/ai-designed-viruses-stanford-arc-institute/",
+      "zusammenfassung": "Ein Team um Stanford-Professor Brian Hie und das Arc Institute hat mit den Genom-Sprachmodellen Evo 1 und Evo 2 erstmals 16 vollständige, funktionsfähige Virengenome vollständig KI-generiert. Die Viren infizieren gezielt Bakterien und sind laut den Forschern ungefährlich für Menschen, die im Fachjournal Science veröffentlichte Arbeit markiert aber einen Meilenstein und wirft neue Biosicherheits-Fragen auf, falls die Technik missbraucht würde.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "ByteDance veröffentlicht Seedance 2.5 mit durchgehenden 30-Sekunden-Videos",
+      "quelle": "BigGo Finance",
+      "quelleUrl": "https://finance.biggo.com/news/294e2524-fb1f-4e3d-873a-04fea623872b",
+      "zusammenfassung": "ByteDances neues Videomodell Seedance 2.5 erzeugt in einem Durchgang bis zu 30 Sekunden Video in bis zu 4K – doppelt so lang wie die Vorgängerversion. Es akzeptiert bis zu 50 multimodale Referenz-Inputs und erlaubt präzises regionsbasiertes Editing einzelner Bildbereiche, ohne den ganzen Clip neu zu generieren. Der Rollout läuft aktuell über ByteDances Apps Jimeng und Dreamina.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Alibaba open-sourced Wan-Animate-2 für Echtzeit-Charakteranimation",
+      "quelle": "Open Source For You",
+      "quelleUrl": "https://www.opensourceforu.com/2026/08/alibaba-open-sources-wan-animate-2/",
+      "zusammenfassung": "Alibabas Tongyi Lab hat Wan-Animate-2 unter Apache-2.0-Lizenz veröffentlicht: Modellgewichte, Inferenz-Skripte und Paper sind frei auf GitHub und Hugging Face verfügbar. Das Framework animiert Charaktere posefrei in Echtzeit direkt aus rohen Video-Latents, erhält dabei feine Details wie Handbewegungen und Mikroexpressionen und unterstützt Mehrpersonen-Szenen ohne Retraining.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

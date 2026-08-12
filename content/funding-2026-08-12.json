@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Simile",
+      "betrag": "$200M",
+      "runde": "Series B",
+      "investoren": "Greenoaks (Lead), Index, Hanabi, Bain Capital Ventures, A*, Factory, Definition, CVS Health Ventures",
+      "beschreibung": "Das Stanford-Spin-off Simile trainiert Foundation-Modelle, die simulieren, wie Kunden, Patienten oder Mitarbeitende auf bestimmte Entscheidungen reagieren würden. Die Runde bewertet das Unternehmen mit 2 Milliarden Dollar – nur fünf Monate nach einer $100M-Series-A und bringt die Gesamtfinanzierung auf über $300M. Kunden wie CVS Health, Wealthfront und Deloitte nutzen die synthetischen Nutzer bereits für Marketing- und Produktforschung.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "June AI",
+      "betrag": "$20M",
+      "runde": "Pre-Seed",
+      "investoren": "Time Ventures (Marc Benioff, Lead), Michael Dell, Diane Greene, Aaron Levie, George Kurtz u.a.",
+      "beschreibung": "June AI ist aus der Stealth-Phase gekommen und automatisiert mit KI-Agenten die Einführung, Migration und Konfiguration von Unternehmenssoftware, um technische Schulden zu reduzieren und KI-Transformationen zu beschleunigen. Gegründet von einem Team, das zuvor Bonobo AI an Salesforce verkaufte.",
+      "bild": ""
+    }
+  ]
+}

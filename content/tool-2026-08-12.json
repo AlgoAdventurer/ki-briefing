@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-12",
+  "name": "Kilo Code",
+  "tagline": "Open-Source-Coding-Agent, der in IDE, Terminal, Browser und Cloud arbeitet.",
+  "beschreibung": "Kilo Code ist ein quelloffener autonomer Coding-Agent, der planen, Code schreiben, refactoren und direkt in der Entwicklungsumgebung ausführen kann. Er bietet mehrere Modi – Code, Architect und Debug – für unterschiedliche Aufgaben und funktioniert als Extension in VS Code, JetBrains, Cursor und anderen VS-Code-Forks sowie als CLI-Tool. Über 500 Modelle lassen sich per eigenem API-Key ohne Aufpreis anbinden, alternativ laufen auch lokale Modelle für maximale Code-Privatsphäre. Damit positioniert sich Kilo Code als offene Alternative zu proprietären Coding-Agenten wie Cursor oder Copilot.",
+  "useCase": "Ein Entwicklerteam nutzt Kilo Code im Architect-Modus, um aus einer Feature-Beschreibung zunächst einen Implementierungsplan erstellen zu lassen, wechselt dann in den Code-Modus für die Umsetzung und lässt im Debug-Modus automatisch auftretende Fehler analysieren und beheben – bei freier Wahl des zugrundeliegenden Modells je nach Budget oder Datenschutzanforderung.",
+  "url": "https://kilo.ai/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Open Source", "Coding Agent", "VS Code", "Multi-Model", "CLI"]
+}

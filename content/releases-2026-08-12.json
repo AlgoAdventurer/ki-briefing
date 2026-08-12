@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "name": "Seedance",
+      "version": "2.5",
+      "anbieter": "ByteDance",
+      "detail": "Neues Video-Generierungsmodell mit durchgehenden 30-Sekunden-Clips in bis zu 4K, bis zu 50 multimodalen Referenz-Inputs (Bild, Video, Audio, Text) und präzisem regionsbasiertem Editing einzelner Bildbereiche ohne Neugenerierung des gesamten Clips. Eine separate Ultra-Long-Beta erlaubt sogar 180-Sekunden-Videos.",
+      "url": "https://finance.biggo.com/news/294e2524-fb1f-4e3d-873a-04fea623872b",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Wan-Animate-2",
+      "version": "2",
+      "anbieter": "Alibaba (Tongyi Lab)",
+      "detail": "Open-Source-Framework (Apache 2.0) für posefreie Echtzeit-Charakteranimation direkt aus rohen Video-Latents statt klassischer Skelett-Extraktion. Erhält feine Details wie Handbewegungen und Mikroexpressionen, unterstützt Mehrpersonen-Szenen sowie eine Lite-Variante für 24-FPS-Echtzeit-Streaming und schlägt laut Blindtests kommerzielle Tools wie Dreamina und KLING MotionControl.",
+      "url": "https://www.opensourceforu.com/2026/08/alibaba-open-sources-wan-animate-2/",
+      "bild": ""
+    }
+  ]
+}

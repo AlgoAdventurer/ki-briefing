@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU verpflichtet Google, Android für konkurrierende KI-Assistenten zu öffnen",
+      "region": "EU",
+      "detail": "Die EU-Kommission hat unter dem Digital Markets Act zwei bindende Anordnungen gegen Google erlassen: Bis August 2027 muss Google elf Android-Systemfunktionen – etwa Sprachaktivierung, Bildschirm-Kontext und autonome App-Steuerung – für Assistenten wie ChatGPT, Claude und Copilot öffnen, die bislang nur Gemini vorbehalten waren. Ab Januar 2027 muss zudem anonymisierte Suchdaten mit Wettbewerbern geteilt werden. Bei Verstößen drohen Strafen von bis zu 10% des weltweiten Jahresumsatzes; Google kann Einspruch einlegen, die Regeln gelten vorerst nur in der EU/EWR.",
+      "url": "https://thenextweb.com/news/google-eu-android-gemini-rivals-dma",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Biosicherheits-Debatte nach erstem vollständig KI-generiertem Virengenom",
+      "region": "Global",
+      "detail": "Nachdem Stanford-Forscher mit den Genom-Modellen Evo 1 und Evo 2 erstmals 16 komplette, funktionsfähige (aber für Menschen ungefährliche) Virengenome KI-generiert haben, wächst die Debatte um Biosicherheits-Leitplanken für Genom-Sprachmodelle. Regulierer in den USA und der EU beobachten das Feld genau, da die gleiche Technik theoretisch für gefährlichere Erreger missbraucht werden könnte – konkrete neue Regeln existieren aktuell aber noch nicht.",
+      "url": "https://betanews.com/article/ai-designed-viruses-stanford-arc-institute/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

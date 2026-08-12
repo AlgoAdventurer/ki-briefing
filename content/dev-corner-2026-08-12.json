@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Databox MCP: Business-Metriken direkt in Claude abfragen",
+      "typ": "MCP-Server",
+      "detail": "Databox hat einen MCP-Server veröffentlicht, der Claude, ChatGPT, Cursor und n8n mit über 130 Datenquellen (u.a. HubSpot, Shopify) verbindet. Fragen zu Umsatz, Kampagnen oder Pipeline werden dabei nicht vom LLM geschätzt, sondern von einer echten Query-Engine berechnet und als validierte Zahlen zurückgegeben – ein gutes Praxisbeispiel dafür, wie MCP-Server LLM-Halluzinationen bei Datenanalysen vermeiden.",
+      "url": "https://databox.com/how-to-connect-business-data-to-claude",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "9 Open-Source-Projekte für KI- und MCP-gestützte Entwicklerproduktivität",
+      "typ": "Open Source",
+      "detail": "GitHub hat eine Liste kuratierter Open-Source-Projekte veröffentlicht, die MCP-Integrationen und KI-Agenten für den Entwickleralltag nutzbar machen – von Automatisierungs-Toolkits bis zu Agenten-nativen Workflows. Nützlicher Startpunkt für Teams, die eigene interne Tools per MCP an Claude Code, Copilot oder andere Agenten anbinden wollen.",
+      "url": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Claude Opus 5: Wie viel Tool-Nutzung wirklich bringt",
+      "typ": "Benchmark",
+      "detail": "Anthropics Claude Opus 5 zeigt im Chartography-Benchmark einen Sprung von 29,6% (ohne Tools) auf 83,0% (mit Container und Bildzuschnitt-Tool) – ein konkreter Beleg dafür, wie stark gezielt bereitgestellte Tools die Zuverlässigkeit von Agenten bei visuellen und Datenanalyse-Aufgaben erhöhen. Für Entwickler, die eigene Agenten bauen, ein starkes Argument, Tool-Design nicht als Nebensache zu behandeln.",
+      "url": "https://www.marktechpost.com/2026/07/24/meet-the-new-claude-opus-5-frontier-class-agentic-coding-and-computer-use-at-unchanged-opus-pricing/",
+      "codebeispiel": ""
+    }
+  ]
+}
