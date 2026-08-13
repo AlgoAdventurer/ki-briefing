@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-13",
+  "name": "Muse Code",
+  "tagline": "Metas erster terminalbasierter KI-Coding-Agent für ganze Engineering-Aufgaben.",
+  "beschreibung": "Muse Code ist Metas neuer autonomer Coding-Agent, der direkt im Terminal läuft und komplette Software-Engineering-Workflows übernimmt: von der Planung einer Codeänderung über die Implementierung bis zur automatischen Validierung des Ergebnisses. Angetrieben wird er vom eigens co-trainierten Modell Muse Spark 1.2 mit 1-Million-Token-Kontext, das speziell für große, bestehende Codebasen ausgelegt ist. Die Installation erfolgt mit einem einzigen Terminal-Befehl auf macOS und Linux. Ein besonderes Preismodell bietet einen günstigeren \"Contributor\"-Tarif für Nutzer, die zustimmen, dass ihre Prompts und Ergebnisse fürs Training verwendet werden.",
+  "useCase": "Ein Entwicklerteam lässt Muse Code über eine große, gewachsene Codebasis laufen, um ein Feature zu implementieren: Der Agent plant selbstständig die nötigen Änderungen über mehrere Dateien hinweg, schreibt den Code, führt Tests aus und validiert das Ergebnis – ohne dass jeder Zwischenschritt manuell angestoßen werden muss.",
+  "url": "https://www.meta.ai/musecode",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Coding Agent", "Terminal", "Meta", "Beta", "Large Codebases"]
+}

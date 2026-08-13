@@ -1,0 +1,34 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: größte Überarbeitung seit Launch",
+      "typ": "SDK / Protokoll",
+      "detail": "Das Model Context Protocol wird von einem bidirektionalen, zustandsbehafteten Protokoll auf ein zustandsloses Request/Response-Modell umgestellt: Client-Handshake und Session-ID entfallen, Protokollversion und Client-Fähigkeiten werden bei jedem Request mitgeschickt, ein neuer server/discover-Call liefert die Server-Fähigkeiten. Das macht MCP-Server hinter simplen Round-Robin-Loadbalancern skalierbar, ohne Sticky Sessions verwalten zu müssen. Alle vier Tier-1-SDKs (Python, TypeScript, Java, C#) unterstützen bereits die neue Spec, das Rust-SDK folgt in Beta.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/"
+    },
+    {
+      "id": 2,
+      "titel": "MCP Python SDK v2.0 veröffentlicht",
+      "typ": "SDK",
+      "detail": "Mit der neuen Spec kam auch Version 2.0 des offiziellen Python-SDKs, inklusive Umbenennung der zentralen Server-Klasse, auf der die meisten Python-basierten MCP-Server aufbauen. Bestehende Server müssen für Kompatibilität mit dem zustandslosen Modell angepasst werden.",
+      "url": "https://pydantic.dev/articles/mcp-python-sdk-v2-beta",
+      "codebeispiel": "from mcp.server import Server\n\nserver = Server(\"contoura-mcp\")\n\n@server.tool()\nasync def get_performance_index(athlete_id: str) -> dict:\n    return {\"athlete_id\": athlete_id, \"index\": 87.4}"
+    },
+    {
+      "id": 3,
+      "titel": "Muse Code: Multi-Agent-Coding mit vollständig beobachtbarem Event-Log",
+      "typ": "Open Source / Tool",
+      "detail": "Metas neuer Coding-Agent Muse Code ist als Multi-Agent-System gebaut, bei dem jeder Subagent-Spawn, Tool-Call, Steer- und Cancel-Vorgang über ein Event-Log beobachtbar und replaybar ist. Für Entwickler, die eigene Agenten-Workflows bauen, ist das ein interessantes Referenzmuster für Nachvollziehbarkeit in Multi-Agent-Systemen.",
+      "url": "https://www.explainx.ai/blog/meta-muse-code-coding-agent-muse-spark-1-2-launch-august-2026"
+    },
+    {
+      "id": 4,
+      "titel": "Hugging Face führt hf_fs ein – einheitliches Interface für Repos, Storage und Docs",
+      "typ": "Tool",
+      "detail": "Hugging Face hat mit hf_fs ein neues Tool veröffentlicht, das Repositories, Storage, Dokumentation und Paper-Suche über eine einzige Schnittstelle mit integrierter Suchfunktion zugänglich macht. Praktisch für Entwickler, die programmatisch mit dem Hugging-Face-Ökosystem arbeiten, statt mehrere APIs einzeln anzusprechen.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026"
+    }
+  ]
+}

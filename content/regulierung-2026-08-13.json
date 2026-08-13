@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kalifornien entscheidet heute über rund 30 KI-Gesetzesvorlagen",
+      "region": "USA",
+      "detail": "Am 13. August stimmen sowohl die kalifornische Assembly als auch der Senat in entscheidenden 'Suspense File'-Abstimmungen über rund 30 KI-Gesetzesvorlagen ab – darunter Regelungen zu Kinderschutz auf Social Media, Urheberrechtsschutz für Trainingsdaten und Anpassungen am California AI Transparency Act. Vorlagen, die hier keine Mehrheit erhalten, sind für diese Legislaturperiode endgültig gescheitert. Kalifornien positioniert sich damit zunehmend als de-facto-Regulator für KI in den USA.",
+      "url": "https://www.techtimes.com/articles/322386/20260731/california-ai-bills-face-kill-survive-vote-monday-eu-fines-start.htm",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU beginnt Durchsetzung neuer AI-Act-Transparenzpflichten",
+      "region": "EU",
+      "detail": "Seit 2. August setzen die EU-Kommission und nationale Behörden die Transparenzpflichten aus Artikel 50 des AI Act durch: Systeme, die direkt mit Menschen interagieren, müssen offenlegen, dass eine Maschine antwortet; Deepfakes und manipulierte Audio-, Bild- oder Videoinhalte müssen als KI-generiert gekennzeichnet werden; Emotionserkennungs- und biometrische Kategorisierungssysteme müssen betroffene Personen informieren. Verstöße können mit bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes geahndet werden. Für Systeme, die bereits vor dem 2. August im Markt waren, gilt eine Übergangsfrist bis 2. Dezember 2026.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI beschränkt Zugang zu Offensiv-Cybersicherheitsmodell GPT-5.6-Cyber",
+      "region": "Global",
+      "detail": "Mit dem Launch von GPT-5.6-Cyber, das laut OpenAI die Risikoschwelle 'High' im Cyber-Bereich erreicht, verschärft sich die Debatte um Governance besonders leistungsfähiger KI-Modelle. OpenAI beschränkt den Zugang auf geprüfte Sicherheitsfirmen und -partner über das Daybreak-Red-Programm – ein Modell, das als Präzedenzfall für den Umgang mit dual-use-fähigen KI-Systemen mit hohem Missbrauchspotenzial gilt.",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "auswirkung": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI veröffentlicht GPT-5.6-Cyber für autorisierte Offensiv-Cybersicherheit",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/openai-launches-gpt-5-6-cyber-with-reduced-refusals-95-completion-on-advanced-cybersecurity-tasks",
+      "zusammenfassung": "OpenAI hat mit GPT-5.6-Cyber sein erstes Modell speziell für fortgeschrittene, autorisierte Cybersicherheitsarbeit veröffentlicht – trainiert für Zero-Day-Suche, Exploit-Chains und Privilege Escalation. Zugriff gibt es nur über das stark eingeschränkte Daybreak-Red-Programm für ausgewählte Partner wie Accenture, IBM, CrowdStrike und Palo Alto Networks. OpenAI stuft das Modell in die Risikokategorie \"High\" ein, knapp unterhalb des als möglicherweise \"Critical\" eingestuften Modells Astra.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Meta startet Muse Code, ersten eigenen KI-Coding-Agenten",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "zusammenfassung": "Meta bringt mit Muse Code einen terminalbasierten Coding-Agenten in die Beta, der komplette Engineering-Aufgaben übernimmt: Planung, Implementierung und automatische Validierung über große Codebasen hinweg. Angetrieben wird er vom neuen, auf Coding optimierten Modell Muse Spark 1.2 mit 1-Million-Token-Kontext. Ein \"Contributor\"-Tarif bietet stark reduzierte Preise, wenn Nutzer im Gegenzug erlauben, dass ihre Prompts und Ergebnisse fürs Training verwendet werden.",
+      "kategorie": "KI-Tools",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Alibaba macht Qwen3.8-Max als größtes Modell der Qwen-Familie breit verfügbar",
+      "quelle": "South China Morning Post",
+      "quelleUrl": "https://www.scmp.com/tech/article/3362738/alibabas-ai-model-qwen38-max-made-widely-accessible-ahead-open-weights-release",
+      "zusammenfassung": "Alibabas neues Flaggschiff Qwen3.8-Max hat 2,4 Billionen Parameter (95 Milliarden aktiv, MoE-Architektur), verarbeitet Text, Bild und Video mit bis zu 1 Million Token Kontext und ist bereits über Alibaba Cloud verfügbar. Offene Gewichte folgen diese Woche auf Hugging Face. Auf der Arena.AI-Rangliste ist es das stärkste chinesische Textmodell, liegt aber weiterhin hinter mehreren Anthropic-Modellen wie Claude Fable 5.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "DARPA und US Air Force fliegen erstmals einsatzfähigen F-16 unter KI-Kontrolle",
+      "quelle": "DARPA",
+      "quelleUrl": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "zusammenfassung": "Im Rahmen des VENOM-Programms hat ein modifizierter, einsatzfähiger F-16-Kampfjet erstmals einen Flug unter Kontrolle eines KI-Agenten absolviert, während ein Pilot als Sicherheitsnetz an Bord blieb und per Schalter jederzeit die Kontrolle übernehmen kann. Das Ereignis gilt als Meilenstein auf dem Weg zu autonomen Kampfflugzeugen und baut auf früheren Tests mit dem Experimentalflugzeug X-62A VISTA auf.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "OpenAI und Anthropic vereinnahmen 43% des globalen VC-Kapitals im ersten Halbjahr 2026",
+      "quelle": "Crunchbase News",
+      "quelleUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-defense-fintech-robotics/",
+      "zusammenfassung": "Laut Crunchbase flossen im ersten Halbjahr 2026 weltweit 510 Milliarden Dollar Venture-Kapital – mehr als in ganz 2025. Allein OpenAI und Anthropic vereinnahmten davon 217 Milliarden Dollar, also 43% jedes investierten Dollars. Anthropic kletterte nach einer Finanzierungsrunde auf eine Bewertung von rund 965 Milliarden Dollar und liegt auf dem Crunchbase Unicorn Board damit direkt hinter dem inzwischen börsennotierten SpaceX.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

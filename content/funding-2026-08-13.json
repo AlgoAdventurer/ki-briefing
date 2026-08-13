@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "firma": "OLIX Computing",
+      "betrag": "$312M",
+      "runde": "Series B",
+      "investoren": "Nicht im Detail bekannt (London-basierte Investoren)",
+      "beschreibung": "Das Londoner Startup OLIX Computing entwickelt photonische Chips für KI-Inferenz und wurde in der Runde mit 3,3 Milliarden Dollar bewertet. Photonische Ansätze gelten als vielversprechender Weg, den enormen Energiebedarf von KI-Inferenz zu senken – ein Engpass, der angesichts der Rechenzentrums-Boom-Investitionen von OpenAI, Anthropic und Co. zunehmend kritisch wird.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Chai Discovery",
+      "betrag": "$400M",
+      "runde": "Series C",
+      "investoren": "Nicht im Detail bekannt",
+      "beschreibung": "Das auf KI-gestützte Medikamentenentwicklung spezialisierte Startup Chai Discovery erreichte mit der Runde eine Bewertung von 3,8 Milliarden Dollar. Das Unternehmen nutzt Foundation-Modelle für Proteinstruktur- und Wirkstoffvorhersage und reiht sich damit in eine wachsende Gruppe stark finanzierter KI-Biotech-Firmen ein.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Anthropic",
+      "betrag": "$965B Bewertung",
+      "runde": "Wachstumsrunde",
+      "investoren": "Nicht im Detail bekannt",
+      "beschreibung": "Nach einer weiteren Finanzierungsrunde wird Anthropic mit rund 965 Milliarden Dollar bewertet und liegt damit auf dem Crunchbase Unicorn Board direkt hinter dem inzwischen börsennotierten SpaceX. Anthropic hat zudem bereits vertrauliche IPO-Unterlagen eingereicht und könnte OpenAI an die Börse zuvorkommen.",
+      "bild": ""
+    }
+  ]
+}

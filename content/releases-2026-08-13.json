@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6-Cyber",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Spezialmodell für autorisierte, fortgeschrittene Cybersicherheitsarbeit (Zero-Day-Suche, Exploit-Chains, Privilege Escalation). Erreicht laut OpenAI 95% Task-Completion bei fortgeschrittenen Sicherheitsaufgaben, Zugang nur über das restriktive Daybreak-Red-Programm für geprüfte Partner.",
+      "url": "https://www.securityweek.com/openai-unveils-new-cybersecurity-model-gpt-5-6-cyber/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Muse Spark 1.2",
+      "version": "1.2",
+      "anbieter": "Meta",
+      "detail": "Auf Coding optimiertes Foundation-Modell mit 1-Million-Token-Kontext, gemeinsam mit dem neuen Agenten Muse Code trainiert. Bildet die technische Basis für Metas ersten eigenständigen Coding-Agenten.",
+      "url": "https://www.forbes.com/sites/jonmarkman/2026/08/06/meta-launches-muse-code-a-new-ai-coding-agent-powered-by-spark-12/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Qwen3.8-Max",
+      "version": "3.8",
+      "anbieter": "Alibaba",
+      "detail": "Neues Flaggschiff-Modell mit 2,4 Billionen Parametern (95 Mrd. aktiv, MoE), multimodal (Text, Bild, Video) mit 1 Mio. Token Kontext. Bereits über Alibaba Cloud verfügbar, offene Gewichte folgen diese Woche auf Hugging Face. Preis: $2/1M Input-, $6/1M Output-Token.",
+      "url": "https://www.marktechpost.com/2026/08/03/alibaba-qwen-releases-qwen3-8-max/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Gemma 4",
+      "version": "4",
+      "anbieter": "Google",
+      "detail": "Neue Generation von Googles offenem Modell, voll multimodal mit Text-, Bild-, Video- und in kleineren Varianten sogar nativer Audio-Verarbeitung. Frei über Hugging Face verfügbar.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "bild": ""
+    }
+  ]
+}

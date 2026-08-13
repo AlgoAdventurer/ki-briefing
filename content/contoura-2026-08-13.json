@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigener MCP-Server für Trainer-Abfragen in natürlicher Sprache",
+      "kontext": "Die MCP-Spezifikation 2026-07-28 macht MCP-Server zustandslos und damit einfach hinter Standard-Loadbalancern skalierbar – ein deutlich geringerer Betriebsaufwand als beim bisherigen zustandsbehafteten Modell.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bauen, der Split-Zeiten, Fehlerstatistiken und Performance-Index pro Athlet bereitstellt. Dank der neuen zustandslosen Spec ließe sich das ohne Session-Management einfach hinter einem Standard-Loadbalancer betreiben, sodass Trainer über Claude direkt Fragen wie 'Wo verliert Athlet X aktuell am meisten Zeit?' stellen können.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Muse-Code-Ansatz für automatisierte Datenpipeline-Wartung",
+      "kontext": "Metas neuer Coding-Agent Muse Code übernimmt eigenständig komplette Engineering-Aufgaben über große Codebasen hinweg – von der Planung bis zur automatischen Validierung des Ergebnisses.",
+      "umsetzung": "Contoura könnte einen ähnlichen Agenten-Workflow für die Wartung der eigenen Datenpipeline (Split-Zeit-Import, Fehlerklassifikation) einsetzen: Neue Datenformate von GPS-Trackern oder Zeitmesssystemen ließen sich automatisch erkennen, der Importcode entsprechend anpassen und gegen Testdaten validieren lassen, ohne dass Entwickler jede Änderung manuell umsetzen müssen.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 3,
+      "titel": "Gemma 4 für lokale, datenschutzfreundliche Live-Analyse am Wettkampftag",
+      "kontext": "Googles neues offenes Modell Gemma 4 ist voll multimodal (Text, Bild, Video, Audio) und läuft dank kleinerer Varianten auch lokal ohne Cloud-Anbindung.",
+      "umsetzung": "Contoura könnte eine kleine Gemma-4-Variante lokal auf einem Tablet am Wettkampf-Sekretariat laufen lassen, um direkt vor Ort – ganz ohne Internetverbindung im Wald – aus Kartenfotos und Streckenaufnahmen erste automatische Fehleranalysen zu erstellen, bevor die vollständigen GPS-Daten hochgeladen sind.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}
