@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6 Sol Ultrafast",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Neue Service-Stufe für GPT-5.6 Sol, die dank Cerebras-Hardware bis zu 14-mal schneller läuft (bis zu 750 Output-Token/Sekunde) bei identischer Modell-Intelligenz zum Standard-Modus. Zunächst limitierte API-Preview für ausgewählte Kunden.",
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek-V4-Pro",
+      "version": "V4-Pro-0813",
+      "anbieter": "DeepSeek",
+      "detail": "Neuestes Flaggschiff-Modell von DeepSeek, veröffentlicht am 13. August. Reiht sich in die schnelle Update-Kadenz chinesischer Anbieter ein, die im August 2026 mit mehreren Frontier-Modell-Releases um die Spitze der Leistungs-Rankings konkurrieren.",
+      "url": "https://llm-stats.com/ai-news",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Inkling",
+      "version": "",
+      "anbieter": "Thinking Machines",
+      "detail": "Neues General-Purpose-Modell mit 975 Milliarden Gesamt- und 41 Milliarden aktiven Parametern (Mixture-of-Experts), multimodal für Text-, Bild- und Audio-Eingaben mit Text-Ausgabe. Support kam mit Transformers v5.14.0 in die Hugging-Face-Ökosphäre.",
+      "url": "https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Pixel 11 / Tensor G6",
+      "version": "11",
+      "anbieter": "Google",
+      "detail": "Neue Pixel-Generation (Pixel 11, 11 Pro, 11 Pro XL) mit dem neuen Tensor-G6-Chip, deutlich verbesserter Kamera und tieferer On-Device-Integration von Gemini-KI-Funktionen. Start ab 899 Dollar.",
+      "url": "https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/",
+      "bild": ""
+    }
+  ]
+}

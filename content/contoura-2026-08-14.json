@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Latenzarme Live-Kommentare während des Trainings dank Ultrafast-Modellen",
+      "kontext": "OpenAIs neuer Ultrafast-Modus für GPT-5.6 Sol liefert dank Cerebras-Hardware bis zu 750 Output-Token pro Sekunde bei gleicher Modellqualität wie der Standard-Modus – schnell genug für echte Echtzeit-Anwendungen statt nur asynchroner Auswertungen.",
+      "umsetzung": "Contoura könnte damit direkt während oder unmittelbar nach einem Trainingslauf automatisch generierte Kurzkommentare zu Split-Zeiten und Fehlern liefern (z.B. per Push-Nachricht kurz nach Zieleinlauf), statt wie bisher nur nachträgliche Batch-Auswertungen anzubieten – die Latenz wird kein limitierender Faktor mehr.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Kosten-/Qualitäts-Dial für automatisch generierte Trainingsberichte",
+      "kontext": "Aktuelle Frontier-Modelle wie Claude Opus 5 bieten einen einstellbaren 'Effort Dial', mit dem sich Rechenaufwand und damit Kosten gegen Antwortqualität abwägen lassen.",
+      "umsetzung": "Contoura könnte Trainern zwei Stufen automatisch generierter Berichte anbieten: eine günstige Kurzzusammenfassung für den Alltag (niedriger Effort) und eine tiefere, teurere Analyse mit Trainingsempfehlungen vor wichtigen Wettkämpfen (hoher Effort) – nutzergesteuert je nach Bedarf und Budget.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Offline-Analyse von GPS- und Kartendaten direkt im Wald",
+      "kontext": "Kleine, lokal lauffähige Open-Weight-Modelle wie Metas neues Muse Glimmer sind für Agenten-Aufgaben auf normaler Consumer-Hardware ohne Cloud-Anbindung optimiert.",
+      "umsetzung": "Contoura könnte ein leichtgewichtiges lokales Modell für die erste Auswertung von GPS-Tracks und Kartenausschnitten direkt auf dem Gerät des Athleten anbieten – nützlich bei fehlendem Netzempfang im Wald und aus Datenschutzsicht, da Trainingsdaten das Gerät gar nicht erst verlassen müssen.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}
