@@ -1,0 +1,26 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GitHub Copilot bekommt Claude Opus 5 und Grok 4.5, Code Review mit Agent Skills jetzt GA",
+      "typ": "API / Tool",
+      "detail": "GitHub Copilot unterstützt jetzt sowohl Claude Opus 5 als auch Grok 4.5 als wählbare Modelle. Gleichzeitig ist 'Copilot Code Review' mit Agent Skills und MCP-Integration allgemein verfügbar geworden – Entwickler können damit eigene Review-Regeln und externe Tools per MCP-Server in den automatisierten PR-Review einbinden.",
+      "url": "https://github.blog/changelog/?label=copilot"
+    },
+    {
+      "id": 2,
+      "titel": "Claude Sonnet 5 wird Standardmodell in Claude Code, Einführungspreis bis 31. August",
+      "typ": "API / Pricing",
+      "detail": "Claude Code nutzt Claude Sonnet 5 jetzt standardmäßig. Die API läuft bis Ende August zu Einführungspreisen von 2 Dollar pro Million Input- und 10 Dollar pro Million Output-Token – relevant für Teams, die Coding-Agenten produktiv im großen Maßstab einsetzen wollen, bevor die regulären Preise greifen.",
+      "url": "https://code.claude.com/docs/en/changelog"
+    },
+    {
+      "id": 3,
+      "titel": "Claude Code behebt MCP-OAuth-Bug bei vorregistrierten Clients (z.B. Slack)",
+      "typ": "Bugfix / SDK",
+      "detail": "Ein Fix vom 13. August behebt einen Fehler, bei dem der MCP-OAuth-Login mit 'redirect URI mismatch' fehlschlug, sobald ein MCP-Server einen vorregistrierten OAuth-Client nutzt – etwa bei der Slack-Integration. Relevant für alle, die eigene MCP-Server mit OAuth-Anbindung betreiben.",
+      "url": "https://code.claude.com/docs/en/changelog"
+    }
+  ]
+}

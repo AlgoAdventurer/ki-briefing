@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "firma": "HappyRobot",
+      "betrag": "$150M",
+      "runde": "Series C",
+      "investoren": "Nicht im Detail bekannt",
+      "beschreibung": "HappyRobot baut KI-Agenten, die komplexe Enterprise-Workflows automatisieren. Mit der Series C erreicht das Startup eine Bewertung von 1,2 Milliarden Dollar und wird damit zum Unicorn – ein weiteres Zeichen für den anhaltenden Kapitalzufluss in Richtung Agenten-basierter Unternehmenssoftware.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Firmus Grid",
+      "betrag": "$2B",
+      "runde": "Series G",
+      "investoren": "Nvidia",
+      "beschreibung": "Der KI-Infrastruktur-Anbieter Firmus Grid sichert sich in einer von Nvidia angeführten Series G die bislang größte offengelegte Finanzierungsrunde im August 2026. Die Summe unterstreicht, wie stark weiterhin in Rechenkapazität und Infrastruktur für KI-Training und -Inferenz investiert wird.",
+      "bild": ""
+    }
+  ]
+}

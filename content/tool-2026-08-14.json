@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-14",
+  "name": "Wispr Flow",
+  "tagline": "KI-Diktier-Tastatur, die in jeder App gesprochene Sprache in sauberen, formatierten Text verwandelt.",
+  "beschreibung": "Wispr Flow läuft systemweit auf Mac, Windows und iPhone: Ein Hotkey aktiviert die Aufnahme, das Gesagte wird nicht nur transkribiert, sondern von der KI automatisch in sinnvoll formulierten, korrekt formatierten Text umgewandelt – egal ob in Gmail, Notion, Slack oder direkt im Code-Editor. Ein 'Personalized Style' passt den Ton je nach App zwischen sehr locker und formell an, und der 'Command Mode' erlaubt nachträgliches Umschreiben markierten Texts per Sprachbefehl ('mach das kürzer', 'übersetze ins Polnische'). Über 100 Sprachen werden unterstützt.",
+  "useCase": "Ein Entwickler diktiert im Terminal oder Editor komplexe Erklärtexte, Commit-Messages oder Doku-Abschnitte per Sprache statt zu tippen, während Wispr Flow im Hintergrund automatisch Interpunktion, Absätze und Tonfall an die jeweilige App anpasst.",
+  "url": "https://wisprflow.ai",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Voice-to-Text", "Diktieren", "Produktivität", "Cross-Platform", "Freemium"]
+}

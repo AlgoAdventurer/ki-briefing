@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic verhandelt Milliarden-Übernahme des israelischen KI-Startups Decart",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-13/anthropic-said-in-talks-to-buy-ai-startup-decart-for-6-billion",
+      "zusammenfassung": "Anthropic verhandelt über den Kauf des israelischen Startups Decart AI für rund 6 Milliarden Dollar – die bislang größte bekannte Übernahme des Unternehmens. Decart, gegründet von Unit-8200-Veteranen, entwickelt Technologie für Echtzeit-Videogenerierung, Weltmodelle und effizientere Chip-Auslastung. Ziel ist es, Anthropics eigene Recheninfrastruktur angesichts stark steigender Nachfrage besser auszulasten.",
+      "kategorie": "M&A",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic meldet erstes profitables Quartal bei 10,9 Milliarden Dollar Umsatz",
+      "quelle": "TechStartups",
+      "quelleUrl": "https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/",
+      "zusammenfassung": "Anthropic hat im zweiten Quartal 2026 erstmals einen Gewinn ausgewiesen, bei einem Umsatz von 10,9 Milliarden Dollar. Der Meilenstein zeigt, wie schnell sich das Unternehmen von einem stark verlustfinanzierten Forschungslabor zu einem profitablen KI-Konzern entwickelt – parallel zu den milliardenschweren Übernahmeplänen rund um Decart.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI startet 'Ultrafast'-Modus: GPT-5.6 Sol bis zu 14-mal schneller",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed/",
+      "zusammenfassung": "OpenAI hat mit Ultrafast eine neue Service-Stufe für GPT-5.6 Sol vorgestellt, die dank einer Partnerschaft mit Chiphersteller Cerebras bis zu 750 Output-Token pro Sekunde liefert – bei gleicher Modell-Intelligenz wie der Standard-Modus. Der Zugang ist zunächst als limitierte Preview für ausgewählte API-Kunden verfügbar, gedacht etwa für Incident Response, Kundenservice und Finanzmarktanalyse in Echtzeit.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google stellt Pixel 11 mit tieferer Gemini-Integration vor",
+      "quelle": "techstartups.com",
+      "quelleUrl": "https://techstartups.com/2026/08/13/top-tech-news-today-august-13-2026-anthropic-deepmind-google-lenovo-microsoft-spacexai-more/",
+      "zusammenfassung": "Google hat die Pixel-11-Serie (Pixel 11, 11 Pro, 11 Pro XL) vorgestellt, angetrieben vom neuen Tensor-G6-Chip. Neben deutlichen Kamera-Verbesserungen liegt der Fokus auf einer tieferen Integration von Gemini-KI-Funktionen direkt im Betriebssystem. Die Geräte starten bei 899 Dollar.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "UK-Parlament billigt KI-Sicherheitsgesetz mit Prüfrechten für Foundation-Modelle",
+      "quelle": "Cubbbix",
+      "quelleUrl": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "zusammenfassung": "Das britische Unterhaus hat am 14. August den 'AI Regulation and Safety Bill' verabschiedet. Das Gesetz gibt dem UK AI Safety Institute gesetzliche Befugnisse, leistungsstarke Foundation-Modelle vor ihrer Veröffentlichung zu prüfen, und verpflichtet Entwickler hochleistungsfähiger KI-Systeme, Sicherheitstestergebnisse mit der Regierung zu teilen. Die königliche Zustimmung wird für Oktober erwartet.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

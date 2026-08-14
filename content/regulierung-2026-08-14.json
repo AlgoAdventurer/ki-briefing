@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "UK-Unterhaus verabschiedet 'AI Regulation and Safety Bill'",
+      "region": "UK",
+      "detail": "Das britische Unterhaus hat am 14. August das AI Regulation and Safety Bill verabschiedet. Es verleiht dem UK AI Safety Institute gesetzliche Befugnisse, leistungsstarke Foundation-Modelle vor ihrer Markteinführung zu prüfen, und verpflichtet Entwickler hochleistungsfähiger General-Purpose-KI, Sicherheitstestergebnisse mit der Regierung zu teilen. Die königliche Zustimmung (Royal Assent) wird für Oktober erwartet – damit bekäme Großbritannien ein eigenständiges, von der EU AI Act unabhängiges Prüfregime.",
+      "url": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens Frontier AI Safety Act passiert letzte Assembly-Abstimmung",
+      "region": "USA",
+      "detail": "Kaliforniens 'Frontier AI Safety Act' hat am 10. August die abschließende Abstimmung in der Assembly überstanden und wartet nun auf die Unterschrift des Gouverneurs. Das Gesetz reiht sich in eine wachsende Zahl bundesstaatlicher US-Regelwerke ein (u.a. Colorados SB-205 zu algorithmischer Diskriminierung), die faktisch die föderale Regulierungslücke in den USA füllen.",
+      "url": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
