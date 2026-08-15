@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek-V4-Pro-0813",
+      "version": "0813 (GA)",
+      "anbieter": "DeepSeek",
+      "detail": "Die finale, allgemein verfügbare Version von DeepSeek-V4-Pro löst die Preview ab. Neu ist ein dreistufiger reasoning_effort-Parameter (low/high/max), mit dem Entwickler die Denktiefe je nach Aufgabe steuern können – von einfachen Anfragen bis zu komplexen Agenten-Workflows. Gleichzeitig hat DeepSeek seine Agenten-Software 'Harness' als Open-Source-Alternative zu Claude Code veröffentlicht, allerdings bei leicht höheren API-Preisen.",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google",
+      "detail": "Googles neues Workhorse-Modell für Coding und Agenten mit deutlich besseren Benchmark-Werten gegenüber Gemini 3.6 Flash und einem Einführungspreis von 0,75 $ pro Million Input-Token. Rollout erfolgt sofort auch in Gemini Spark, Googles Abo-Agentendienst in über 160 Ländern.",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Qwen3.8 Max",
+      "version": "3.8 Max",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas neuestes Flaggschiff-Modell, veröffentlicht Anfang August, reiht sich in das dichte Release-Tempo chinesischer Anbieter ein und zielt auf Spitzenleistungen bei Reasoning- und Agenten-Aufgaben.",
+      "url": "https://blog.mean.ceo/new-ai-model-releases-news-august-2026/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "GPT-5.6 Ultrafast (Preview)",
+      "version": "Ultrafast-Tier",
+      "anbieter": "OpenAI",
+      "detail": "Neue API-Service-Stufe für GPT-5.6, die dank Cerebras-Hardware bis zu 14-mal schneller läuft als der Standardmodus und bis zu 750 Output-Token pro Sekunde erzeugt – gedacht für latenzkritische Agenten- und Live-Anwendungen.",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-august-50b",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI pausiert Modell 'Astra' wegen möglicher kritischer Cyber-Fähigkeiten",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "zusammenfassung": "OpenAI hat interne Tests seines nächsten Modells 'Astra' gestoppt, nachdem erste Auswertungen nicht ausschliessen konnten, dass das Modell die Schwelle zu 'kritischen' Cyber-Fähigkeiten überschreitet – also eigenständig Angriffe auf gut geschützte reale Systeme planen könnte. Es ist das erste Mal, dass ein KI-Labor öffentlich die Entwicklung eines Modells explizit aus Cybersicherheits-Gründen verlangsamt. OpenAI hat als Reaktion isolierte Testumgebungen, eingeschränkten Netzwerkzugriff und zusätzliches Monitoring der Modell-Gedankengänge eingeführt.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google veröffentlicht Gemini 3.7 Flash für Coding und Agenten",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "zusammenfassung": "Nur 23 Tage nach Gemini 3.6 Flash bringt Google mit Gemini 3.7 Flash sein bisher stärkstes Workhorse-Modell für Coding- und Agenten-Workflows. Auf dem FrontierCode-1.1-Benchmark steigt der Score von 34,4 % auf 43,6 %, bei DeepSWE v1.1 von rund 49 % auf 65,3 %. Bis Jahresende kostet das Modell zum Einführungspreis nur 0,75 $ pro Million Input-Token – halb so viel wie der Vorgänger.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Uber und Pony.ai bringen über 2.000 Robotaxis nach Europa",
+      "quelle": "Euronews",
+      "quelleUrl": "https://www.euronews.com/next/2026/08/14/uber-and-chinas-pony-ai-to-launch-over-2000-robotaxis-across-europe",
+      "zusammenfassung": "Der chinesische Autonomiefahr-Anbieter Pony.ai weitet seine Partnerschaft mit Uber deutlich aus: Von aktuell Zagreb aus sollen über 2.000 Robotaxis in vier weiteren europäischen Städten sowie im Nahen Osten an den Start gehen. Pony.ai liefert die L4-Selbstfahrtechnologie, Uber die Vermittlungsplattform, lokale Partner übernehmen Flottenmanagement wie Wartung und Laden.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Stanford und Arc Institute: KI entwirft funktionsfähige Viren",
+      "quelle": "Tech-Berichterstattung (u.a. Forbes)",
+      "quelleUrl": "https://www.forbes.com/sites/jonmarkman/2026/08/09/openai-pauses-astra-after-it-nears-first-ever-critical-cyber-risk/",
+      "zusammenfassung": "Eine Studie von Stanford und dem Arc Institute zeigt, dass eine KI 16 funktionsfähige Viren entwerfen konnte – einige davon wirksamer gegen Bakterien als ihre natürlichen Vorbilder. Der Fall befeuert die Debatte um biologische Risiken generativer KI und dürfte mit dazu beigetragen haben, dass OpenAI kurz danach die Weiterentwicklung von Astra wegen ähnlicher Sicherheitsbedenken pausierte.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "GitHub veröffentlicht offenen Plugin-Standard 'Agent Plugins 1.0'",
+      "quelle": "GitHub Changelog",
+      "quelleUrl": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+      "zusammenfassung": "Mit Agent Plugins 1.0 stellt GitHub einen offenen, portablen Standard vor, mit dem Plugins über verschiedene Copilot-kompatible Clients hinweg funktionieren – inklusive Marketplace-Installation, geteilten Skills und MCP-Server-Packaging. AWS, Anysphere, Microsoft, OpenAI und Vercel unterstützen den Standard von Beginn an, Google ist als weiterer Kern-Maintainer eingestiegen.",
+      "kategorie": "Developer-News",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

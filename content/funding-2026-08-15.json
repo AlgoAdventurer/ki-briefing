@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Firmus",
+      "betrag": "$2.000.000.000",
+      "runde": "Strategische Kapitalrunde",
+      "investoren": "Nvidia, Blackstone, Coatue Management, Jane Street",
+      "beschreibung": "Der frühere Bitcoin-Miner Firmus baut KI-Rechenzentren nach Nvidias DSX-AI-Factory-Referenzarchitektur und hat mit der neuen Runde seine Bewertung auf über 10,5 Mrd. $ fast verdoppelt. Das Kapital fliesst vor allem in 'Project Southgate', den Ausbau der KI-Infrastruktur in Australien und im übrigen Asien-Pazifik-Raum.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Cohere",
+      "betrag": "$400.000.000",
+      "runde": "Growth Round",
+      "investoren": "n/a (Growth-Investoren)",
+      "beschreibung": "Mit der neuen Growth-Runde steigt Coheres Gesamtfinanzierung auf über 2,5 Mrd. $. Das kanadische Unternehmen positioniert sich weiter als Enterprise-fokussierter Anbieter von LLM-Infrastruktur abseits der grossen Konsumenten-Chatbots.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Perplexity AI",
+      "betrag": "$300.000.000",
+      "runde": "Series E",
+      "investoren": "n/a",
+      "beschreibung": "Perplexity finanziert mit der Series E die Weiterentwicklung seiner KI-Suche und der Enterprise-Recherche-Plattform – ein Zeichen dafür, dass Kapital weiterhin gezielt zu Anbietern mit klarer Enterprise-Nachfrage fliesst.",
+      "bild": ""
+    }
+  ]
+}

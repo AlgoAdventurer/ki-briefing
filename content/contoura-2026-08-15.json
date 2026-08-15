@@ -1,0 +1,37 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainingskommentare mit steuerbarer Denktiefe",
+      "kontext": "DeepSeek-V4-Pro-0813 führt einen reasoning_effort-Parameter (low/high/max) ein, mit dem sich Rechenaufwand und Kosten pro Anfrage gezielt steuern lassen.",
+      "umsetzung": "Contoura könnte nach jedem hochgeladenen Training automatisch einen kurzen Kommentar generieren: 'low' für Standard-Trainings mit einfacher Zusammenfassung, 'max' für Wettkampf-Auswertungen mit tiefer Fehler- und Split-Zeit-Analyse. So bleiben die API-Kosten für Massentrainings niedrig, während Wettkampf-Analysen von voller Modellqualität profitieren.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige Kartenanalyse aus Fotos mit Gemini 3.7 Flash",
+      "kontext": "Gemini 3.7 Flash bietet stark verbesserte Coding- und Vision-Fähigkeiten zu einem Einführungspreis von nur 0,75 $ pro Million Input-Token.",
+      "umsetzung": "Athleten könnten ein Foto ihrer Wettkampfkarte mit eingezeichneter Route hochladen; Gemini 3.7 Flash extrahiert Postenreihenfolge, erkennt Umwege und speist die Daten direkt in die bestehende Fehlerstatistik und Split-Zeit-Analyse ein – ohne manuelle Nacherfassung.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Codebasis vor jedem Release automatisch scannen lassen",
+      "kontext": "Anthropics neues Claude Security Plugin scannt Codebasen im Terminal auf Schwachstellen und schlägt stilkonforme Patches vor, ohne automatisch zu committen.",
+      "umsetzung": "Contoura könnte /claude-security als festen Schritt vor jedem Deployment einbauen, um Auth- und Datenbank-Zugriffslogik der Athleten-Performance-Daten regelmässig gegen Schwachstellen zu prüfen – insbesondere vor Releases, die neue API-Endpunkte für Trainingsdaten öffnen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "KI-Kennzeichnungspflicht für automatisch generierte Trainingskommentare beachten",
+      "kontext": "Seit 2. August gelten in der EU verbindliche Transparenzpflichten (Art. 50 AI Act) für KI-generierte Inhalte, denen sich auch Anthropic mit Wasserzeichen für Claude-Output angeschlossen hat.",
+      "umsetzung": "Falls Contoura künftig automatisch generierte Trainingskommentare oder Analysen an Athleten in der EU/Schweiz ausspielt, sollte frühzeitig eine einfache Kennzeichnung ('KI-generiert') eingeplant werden, um spätere Nacharbeiten zu vermeiden, sobald die Übergangsfristen enden.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "DeepSeek V4 Pro: reasoning_effort-Parameter für flexible Agenten-Workflows",
+      "typ": "API",
+      "detail": "Statt eines fixen Denkmodus lässt sich bei DeepSeek-V4-Pro-0813 per API-Parameter reasoning_effort zwischen low, high und max wählen. So lassen sich Kosten und Latenz gezielt gegen Antwortqualität abwägen – z.B. low für einfache Klassifizierungs-Calls, max für komplexe mehrstufige Agenten-Aufgaben.",
+      "url": "https://api-docs.deepseek.com/updates/",
+      "codebeispiel": "response = client.chat.completions.create(\n    model=\"deepseek-v4-pro-0813\",\n    reasoning_effort=\"high\",\n    messages=[{\"role\": \"user\", \"content\": \"Fasse die Trainingsdaten zusammen\"}]\n)"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI Ultrafast: API-Tier mit bis zu 750 Token/s",
+      "typ": "API",
+      "detail": "Der neue Ultrafast-Preview-Tier für GPT-5.6 läuft auf Cerebras-Hardware und liefert bis zu 14x höheren Durchsatz als der Standard-Endpoint. Relevant für Entwickler, die latenzkritische Voice- oder Live-Agenten bauen und bisher an Streaming-Geschwindigkeit gescheitert sind.",
+      "url": "https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-august-50b",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Spezifikation wird stateless, GitHub MCP Server zieht nach",
+      "typ": "SDK / Open Source",
+      "detail": "Mit der MCP-Revision vom 28. Juli 2026 entfallen Sessions und der initialize-Handshake zugunsten eines zustandslosen Kerns, der Deployments einfacher skalierbar macht. Der GitHub MCP Server unterstützt die neue Spezifikation bereits, und das offizielle MCP-C#-SDK v2.0 folgt. Das MCP-Ökosystem umfasst inzwischen über 22.000 Server, die Governance liegt neu bei der Agentic AI Foundation der Linux Foundation.",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+      "codebeispiel": ""
+    }
+  ]
+}

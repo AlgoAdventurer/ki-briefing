@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-15",
+  "name": "Claude Security Plugin",
+  "tagline": "Multi-Agenten-Schwachstellenscanner direkt im Terminal von Claude Code",
+  "beschreibung": "Anthropic hat mit dem Claude Security Plugin ein offizielles Beta-Tool für Claude Code veröffentlicht, das Codebasen auf Sicherheitslücken scannt – wahlweise als vollständiger Scan des gesamten Repos oder gezielt für Änderungen kurz vor einem Commit. Ein Multi-Agenten-System kartiert zunächst die Code-Architektur, identifiziert potenzielle Bedrohungen, verifiziert Funde zur Vermeidung von False Positives und schlägt anschliessend stilkonforme Patches vor. Menschen prüfen und übernehmen jeden Fix manuell – das Tool committet nie automatisch.",
+  "useCase": "Vor jedem Merge Request automatisch per /claude-security die geänderten Dateien auf Schwachstellen wie SQL-Injection oder unsichere Auth-Logik prüfen lassen, statt auf ein separates Security-Audit zu warten.",
+  "url": "https://code.claude.com/docs/en/claude-security",
+  "kategorie": "Coding / Security",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["security", "claude-code", "terminal", "devtools"]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Transparenzpflichten seit 2. August in Kraft, Durchsetzung gestartet",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 setzen das AI Office der EU-Kommission und nationale Behörden die Transparenzpflichten nach Art. 50 des AI Act durch. Systeme mit direktem Nutzerkontakt müssen offenlegen, dass eine Maschine antwortet, Deepfakes und manipulierte Medien müssen als künstlich erzeugt gekennzeichnet werden. Verstösse können mit Bussgeldern bis 15 Mio. € oder 3 % des weltweiten Jahresumsatzes geahndet werden. Für bereits im Markt befindliche Systeme gilt eine Übergangsfrist für maschinenlesbare Kennzeichnung bis 2. Dezember 2026.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic führt weltweit unsichtbare Wasserzeichen für Claude-Texte ein",
+      "region": "EU / Global",
+      "detail": "Als Reaktion auf Art. 50 des AI Act versieht Anthropic von Claude erzeugte Texte mit einem subtilen, im Wortmuster verankerten Wasserzeichen und Dateien mit signierten C2PA-Provenienzdaten. Die Kennzeichnung gilt ohne Opt-out global über alle Claude-Oberflächen hinweg – API, Claude Code, Claude Cowork sowie Deployments über AWS, Google Cloud und Microsoft Foundry. Anthropic ist damit dem freiwilligen EU-Verhaltenskodex zur Transparenz KI-generierter Inhalte beigetreten.",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
