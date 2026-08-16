@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Glimmer",
+      "version": "30B",
+      "anbieter": "Meta",
+      "detail": "Offenes, aus Muse Spark destilliertes 30B-Parameter-Modell unter Apache 2.0, das dank Kompression auf unter 20 GB Speicherbedarf auf einer einzelnen Consumer-GPU läuft. Optimiert für dauerhaft lokale Agenten-Workflows wie Terminplanung, Dateiorganisation und Coding; übertrifft laut Meta vergleichbare offene Modelle wie Gemma 4 31B in Agenten-Benchmarks.",
+      "url": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Qwen3.8-27B",
+      "version": "27B",
+      "anbieter": "Alibaba / Qwen",
+      "detail": "Am 13./14. August veröffentlichtes dichtes Hybrid-Attention-Modell mit nativer Bild- und Videoverarbeitung, 262'144 Token Kontext (erweiterbar bis 1 Mio.) und deutlichen Sprüngen gegenüber Qwen3.6-27B: Terminal-Bench 2.1 steigt von 63,4 auf 73,0, OSWorld-Verified von 63,9 auf 84,3. Läuft dank eingebautem Multi-Token-Prediction-Draft-Head effizient auf Desktop-Hardware und steht unter Apache 2.0 auf Hugging Face bereit.",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Grok Imagine Image 2.0",
+      "version": "2.0",
+      "anbieter": "xAI",
+      "detail": "Seit 7. August als Quality Mode auf grok.com/imagine sowie in den iOS- und Android-Apps live. Neu sind punktgenaue Bereichs-Bearbeitung per Magic-Wand-Tool, Segmentierung, freistellbarer Hintergrund und Multi-Referenz-Editing mit bis zu fünf Eingabebildern. Das Modell rangiert aktuell auf Platz 2 der Text-to-Image- und Image-Edit-Arena, hinter GPT-Image-2 – eine öffentliche API ist angekündigt, aber noch ohne Termin.",
+      "url": "https://www.unite.ai/xai-ships-grok-imagine-image-2-0-with-precise-editing-and-a-top-arena-ranking/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Grok_logo.svg"
+    },
+    {
+      "id": 4,
+      "name": "Seed 2.1 Turbo",
+      "version": "2.1 Turbo",
+      "anbieter": "ByteDance",
+      "detail": "Günstigere, schnellere Variante von Seed 2.1 Pro für hochfrequente Enterprise-Workloads, mit gleichem Funktionsumfang: End-to-End-Coding über ganze Projektzyklen, mehrstufige Agenten-Workflows mit Tool-Nutzung und multimodales Verständnis von Text, Bild und Video – bei etwa halbem Preis pro Token gegenüber Seed 2.1 Pro. ByteDance positioniert Seed 2.1 als Alternative zu Claude Opus 4.6 bei deutlich niedrigeren Kosten.",
+      "url": "https://datanorth.ai/news/bytedance-releases-seed-2-1-pro-and-seed-2-1-turbo",
+      "bild": ""
+    }
+  ]
+}

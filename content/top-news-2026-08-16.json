@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Googles Gemini App knackt 1 Milliarde monatliche Nutzer",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/11/googles-gemini-app-surges-to-one-billion-users/",
+      "zusammenfassung": "Am 11. August meldete Google, dass die Gemini-App die Marke von 1 Milliarde monatlich aktiven Nutzern überschritten hat – von rund 750 Millionen Anfang des Jahres über 950 Millionen im Juli. Damit ist Gemini laut Sundar Pichai das am schnellsten wachsende Produkt in der 28-jährigen Firmengeschichte und das 14. Google-Produkt, das diese Grössenordnung erreicht. Über 100 Millionen der monatlichen Nutzer greifen von Apple-Geräten aus zu.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_Gemini_logo_2025.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google DeepMind verliert CEO und Chef-Wissenschaftler gleichzeitig",
+      "quelle": "CNBC / Axios",
+      "quelleUrl": "https://www.cnbc.com/2026/08/05/google-chief-scientist-jeff-dean-leaving-company-after-27-years.html",
+      "zusammenfassung": "Demis Hassabis gibt die operative Führung von Google DeepMind ab und wird Chairman der Einheit sowie Chief Scientist von Alphabet; die Tagesgeschäfte übernimmt CTO Koray Kavukcuoglu als Senior VP. Gleichzeitig verlässt Chef-Wissenschaftler Jeff Dean nach 27 Jahren Google, um mit Sanjay Ghemawat, Oriol Vinyals und Quoc Le die neue Firma 'Discovery Loop' zu gründen, die KI-gestützte wissenschaftliche Entdeckung automatisieren soll – Google bleibt als Investor und Cloud-Partner beteiligt.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_DeepMind_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "KI-Notiztool tl;dv liess 181'874 Meetings monatelang offen im Netz",
+      "quelle": "bobdahacker / Dark Reading",
+      "quelleUrl": "https://bobdahacker.com/blog/tldv-hack",
+      "zusammenfassung": "Eine fehlende Firestore-Zugriffsregel beim KI-Meeting-Notizdienst tl;dv (über 2 Mio. Nutzer) machte die Datenbank monatelang zu einem durchsuchbaren Index fremder Videocalls: 181'874 Meetings von 84'312 Nutzern aus 35'003 Domains waren einsehbar, inklusive E-Mail-Adressen, beitretbarer Meeting-IDs und Live-Status – betroffen waren Behörden aus 23 Ländern sowie Firmen wie HubSpot. Der Sicherheitsforscher hatte die Lücke laut eigenen Angaben bereits im Januar gemeldet, ohne dass sie geschlossen wurde.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Meta veröffentlicht offenes 30B-Agentenmodell 'Muse Glimmer'",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/meta-returns-to-open-source-with-muse-glimmer-an-apache-2-0-licensed-30b-parameter-ai-model-optimized-for-agents-available-now",
+      "zusammenfassung": "Mit Muse Glimmer bringt Meta unter Apache-2.0-Lizenz ein aus Muse Spark destilliertes 30-Milliarden-Parameter-Modell, das dank Kompression auf unter 20 GB Speicherbedarf auf einer einzelnen Consumer-Grafikkarte läuft. Es ist auf dauerhaft lokale Agenten-Workflows wie Terminplanung, Dateiorganisation und Coding zugeschnitten und übertrifft laut Meta vergleichbare offene Modelle wie Gemma 4 31B und Qwen3.6-27B in Agenten-Benchmarks. Die Gewichte stehen auf Hugging Face bereit.",
+      "kategorie": "Open Source KI",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic holt erste Chief Global Affairs Officer und sichert Mega-Compute",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/tino-cuellar",
+      "zusammenfassung": "Anthropic hat den früheren Richter am California Supreme Court, Mariano-Florentino 'Tino' Cuéllar, als ersten Chief Global Affairs Officer berufen, der künftig Politik-Beziehungen und internationale Regierungskontakte verantwortet. Parallel untermauert das Unternehmen seinen Compute-Hunger: über 100 Mrd. $ Investition in AWS-Technologie für bis zu 5 GW neue Kapazität sowie ein 50-Mrd.-$-Rechenzentrumsdeal mit dem britischen Anbieter Fluidstack, um Training und Betrieb von Claude langfristig abzusichern.",
+      "kategorie": "Business",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

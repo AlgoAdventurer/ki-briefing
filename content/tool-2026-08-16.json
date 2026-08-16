@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-16",
+  "name": "DeepSeek Harness",
+  "tagline": "Open-Source-Agenten-Framework von DeepSeek, bei dem alles ein Plugin ist",
+  "beschreibung": "DeepSeek hat mit Harness (CLI-Befehl dsh) sein Agenten-Runtime unter MIT-Lizenz öffentlich gemacht – als offene Alternative zu Claude Code und ähnlichen Coding-Agenten. Modelle, Tools, Loops, Sessions, Sandboxes und die UI sind allesamt austauschbare Plugins, sodass Session-, Tool- und Freigabe-Logik erhalten bleibt, während sich nur der Modell-Adapter wechseln lässt. Neben DeepSeek-Modellen sind Anthropic, OpenAI sowie native Anbindungen an Bedrock, Vertex, Azure und Codex vorkonfiguriert.",
+  "useCase": "Ein Entwicklerteam kann mit npx @deepseek-ai/dsh web ohne Clone oder Build sofort eine eigene Agenten-Umgebung starten, per Plugin einen firmeninternen Tool-Zugriff (z.B. auf interne APIs) ergänzen und je nach Aufgabe zwischen güstigen DeepSeek-Modellen und Claude oder GPT für kritischere Schritte wechseln.",
+  "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+  "kategorie": "Coding / Open Source",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["open-source", "coding-agent", "cli", "plugin-architektur"]
+}

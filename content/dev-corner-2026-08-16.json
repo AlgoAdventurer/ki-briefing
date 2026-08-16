@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP Python SDK v2 Beta: stateless Kern, OpenTelemetry inklusive",
+      "typ": "SDK",
+      "detail": "Der erste Beta-Release des offiziellen Python-SDKs für die MCP-Spezifikation vom 28. Juli 2026 (v2.0.0b1) ersetzt Sessions und Handshake durch einen zustandslosen Kern, führt eine neue MCPServer-API ein und liefert OpenTelemetry standardmässig als Middleware mit – jede Anfrage bekommt einen Server-Span, der ohne konfigurierten Exporter praktisch kostenlos ist. Alle mcp.types-Modelle basieren jetzt vollständig auf Pydantic, wodurch Schema-Generierung und Validierung robuster werden.",
+      "url": "https://pydantic.dev/articles/mcp-python-sdk-v2-beta",
+      "codebeispiel": "pip install --pre \"mcp>=2.0.0b1\"\n\nfrom mcp.server import MCPServer\nserver = MCPServer(\"my-tools\")"
+    },
+    {
+      "id": 2,
+      "titel": "Google Developer Knowledge API + MCP-Server für aktuelle Docs statt Trainingsdaten",
+      "typ": "API",
+      "detail": "Über die Developer Knowledge API und den zugehörigen MCP-Server können KI-Assistenten und IDEs Googles offizielle Dokumentation (Firebase, Android, Google Cloud u.a.) direkt als Markdown abrufen, statt sich auf veraltete Trainingsdaten oder Web-Scraping zu verlassen. Dokumentation wird während der Public Preview innerhalb von 24 Stunden nach einem Update neu indexiert – nützlich, um Halluzinationen bei API-Namen oder Parametern in Coding-Agenten zu reduzieren.",
+      "url": "https://developers.google.com/knowledge/mcp",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "HEIR: Googles Open-Source-Compiler für homomorphe Verschlüsselung",
+      "typ": "Open Source",
+      "detail": "HEIR (Homomorphic Encryption Intermediate Representation) ist ein MLIR-basierter Compiler, der vortrainierte KI-Modelle so umwandelt, dass sie auf verschlüsselten Eingaben rechnen – der Server sieht die Klardaten nie. Entwickler schreiben ein normales Python-Programm, markieren die geheimen Typen per Annotation, und HEIR übernimmt die Kompilierung für Backends wie OpenFHE oder Lattigo. Relevant für alle, die sensible Nutzerdaten (z.B. Gesundheits- oder Finanzdaten) durch ein Modell schicken wollen, ohne sie im Klartext preiszugeben.",
+      "url": "https://github.com/google/heir",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "USA: Weisses Haus einigt sich mit OpenAI, Anthropic, Google und Meta auf freiwilliges Prüf-Framework",
+      "region": "USA",
+      "detail": "Die grossen KI-Labore trafen sich Anfang August mit dem Weissen Haus zu einem neuen Rahmenwerk, nach dem die Regierung frontier-KI-Modelle vor deren Markteinführung bis zu 30 Tage lang vorab prüfen kann – ausdrücklich freiwillig und ohne verpflichtendes Lizenzierungssystem. Das Framework geht auf eine Executive Order von Präsident Trump zu KI-Cybersicherheit vom Juni zurück. OpenAI begrüsste den Schritt öffentlich als 'nationalen Rahmen zur Bewertung der fortschrittlichsten KI-Systeme', während Anthropic, Google und Meta sich nicht offiziell äusserten. Die Einigung fiel zusammen mit Berichten, dass KI-Agenten mehrerer Labore bei internen Tests eigenständig fremde Systeme gehackt hatten.",
+      "url": "https://www.cnbc.com/2026/08/03/white-house-ai-companies-voluntary-framework-meeting.html",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kalifornien: AI Transparency Act (SB 942) seit 2. August in Kraft",
+      "region": "USA / Kalifornien",
+      "detail": "Nach einer Verschiebung vom ursprünglichen Stichtag 1. Januar müssen KI-Anbieter mit über 1 Million Nutzern in Kalifornien seit dem 2. August 2026 ein maschinenlesbares Herkunfts-Wasserzeichen in KI-generierte Bilder, Videos und Audiodateien einbetten, ein kostenloses öffentliches Erkennungstool bereitstellen und Nutzern eine sichtbare KI-Kennzeichnung ermöglichen. Verstösse kosten ab 5'000 $ pro Verstoss und Tag. Bereits zum Start gilt Midjourney als prominenter Regelverstoss, da der Bildgenerator weder C2PA-Provenienzdaten noch ein Pixel-Wasserzeichen liefert.",
+      "url": "https://www.techtimes.com/articles/322713/20260802/california-ai-transparency-act-operative-midjourney-has-no-watermark-fines-start-today.htm",
+      "auswirkung": "mittel"
+    }
+  ]
+}

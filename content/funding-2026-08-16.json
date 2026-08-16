@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Valar Atomics",
+      "betrag": "$1.000.000.000",
+      "runde": "Series B",
+      "investoren": "Sequoia Capital (Lead), Point72, Riot Ventures, Valor Equity Partners u.a.",
+      "beschreibung": "Der Nuklear-Startup aus Hawthorne (Kalifornien) baut kleine, in Serie produzierbare Reaktoren gezielt für den Strombedarf von KI-Rechenzentren. Nach der erfolgreichen Kritikalitäts-Demonstration seines Ward-250-Reaktors und dem Betrieb eines Nvidia-DGX-Spark-Systems mit Reaktorstrom steigt die Bewertung auf 6 Mrd. $; gemeinsam mit Nvidia entsteht nun eine 30-Megawatt-Atomstrom-KI-Anlage in Utah.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "HappyRobot",
+      "betrag": "$150.000.000",
+      "runde": "Series C",
+      "investoren": "Prysm Capital, Eurazeo (Co-Lead), a16z, Y Combinator u.a.",
+      "beschreibung": "HappyRobot baut KI-Agenten, die operative Workflows über Telefon, E-Mail und Dokumente automatisieren, und wird mit der neuen Runde zum Einhorn (1,2 Mrd. $ Bewertung). Über 150 Enterprise-Kunden wie DHL, Kuehne+Nagel und Uber nutzen die Plattform bereits in der Logistik; das frische Kapital soll die Expansion in Versicherung, Energie und Telekommunikation finanzieren.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Eliyan",
+      "betrag": "$145.000.000",
+      "runde": "Series C",
+      "investoren": "Seligman Ventures (Lead), Cisco Ventures, Lumentum",
+      "beschreibung": "Der Chiplet-Interconnect-Spezialist aus dem Silicon Valley erreicht mit der Runde eine Bewertung von 1 Mrd. $. Eliyans Chip-zu-Chip- und Rack-zu-Rack-Verbindungstechnologie soll Datenengpässe zwischen Rechen-, Speicher- und Netzwerk-Layern in KI-Clustern lösen – ein wachsender Flaschenhals, da einzelne KI-Racks immer mehr Chips vernetzen müssen.",
+      "bild": ""
+    }
+  ]
+}

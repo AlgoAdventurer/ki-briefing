@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-16",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Offline-Trainingskommentare direkt auf dem Gerät des Athleten",
+      "kontext": "Metas neues Open-Weight-Modell Muse Glimmer (30B, Apache 2.0) läuft dank Kompression auf unter 20 GB auf einer einzigen Consumer-Grafikkarte und ist speziell für dauerhafte, lokale Agenten-Workflows optimiert.",
+      "umsetzung": "Contoura könnte eine optionale lokale Auswertung anbieten: Ein Athlet mit eigener GPU lädt Muse Glimmer herunter und lässt Trainingskommentare oder erste Fehleranalysen direkt auf dem eigenen Rechner erzeugen – ganz ohne Cloud-API-Kosten und ohne dass Trainingsdaten Contouras Server verlassen. Das wäre besonders für Vereine mit vielen Athleten und begrenztem API-Budget interessant.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Video-Analyse ganzer Wettkampf-Läufe",
+      "kontext": "Qwen3.8-27B versteht laut Anbieter native stundenlange Videos und verarbeitet bis zu 1 Million Token Kontext bei gleichzeitig starker Bild- und Diagrammerkennung.",
+      "umsetzung": "Athleten könnten ihr komplettes Livelox- oder GPS-Trackingvideo eines Wettkampfs hochladen; das Modell erkennt Streckenabschnitte, Stehenbleiben, Umwege und Postenkontakte automatisch und ordnet sie den bestehenden Split-Zeiten in Contoura zu – ohne dass der Athlet den Lauf manuell Minute für Minute nachverfolgen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Datenbank-Zugriffsregeln der Athleten-Performance-Daten gegenhecken",
+      "kontext": "Beim KI-Notiztool tl;dv legte eine einzige fehlende Firestore-Zugriffsregel 181'874 private Meetings monatelang offen im Netz frei – ein Fehler, der über sechs Monate unbemerkt blieb.",
+      "umsetzung": "Contoura sollte die Zugriffsregeln der eigenen Datenbank (insbesondere für Trainingsdaten, Split-Zeiten und Performance-Index einzelner Athleten) gezielt gegen fehlende Tenant-Isolation prüfen, z.B. mit einem automatisierten Test, der sicherstellt, dass ein Nutzer nie Datensätze eines anderen Athleten per direkter ID-Anfrage abrufen kann.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    }
+  ]
+}
