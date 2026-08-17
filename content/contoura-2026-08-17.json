@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Autonomer Saison-Analyse-Agent für Langzeit-Performance-Reports",
+      "kontext": "Grok 4.6 zeigt, wie weit lang laufende Agenten inzwischen sind: Sie bleiben über viele Schritte an einer Aufgabe, recherchieren unbekannte Bereiche selbstständig und verfeinern Ergebnisse durch wiederholtes Selbst-Testing statt nach einem einzigen Prompt-Antwort-Zyklus aufzuhören.",
+      "umsetzung": "Contoura könnte einen Agenten bauen, der eigenständig eine ganze Saison an Split-Zeiten und Fehlerstatistiken eines Athleten durchgeht, Muster über mehrere Wettkämpfe hinweg erkennt (z.B. wiederkehrende Fehlertypen bei bestimmten Bahnprofilen) und daraus einen mehrseitigen Trainingsbericht mit konkreten Handlungsempfehlungen erstellt – inklusive einer Rückfrage-Schlaufe, bei der der Agent bei Unklarheiten in den Rohdaten gezielt nachhakt, bevor er den finalen Report liefert.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "'Coach Chat': Natürlichsprachliche Steuerung der Trainingsdaten-Ansicht",
+      "kontext": "Sunos neues 'Studio Chat' zeigt ein Interaktionsmuster, das über reine Textgenerierung hinausgeht: Ein KI-Agent steuert direkt die Anwendungsoberfläche per Texteingabe – organisiert Projekte, editiert Inhalte und baut sogar eigene Werkzeuge on the fly.",
+      "umsetzung": "In Contoura könnte ein Chat-Feld direkt in der Performance-Ansicht eingebaut werden, über das Athleten oder Trainer Anfragen wie 'zeig alle Posten mit Fehlerzeit über 30 Sekunden aus den letzten drei Rennen als Diagramm' oder 'vergleiche meinen Performance-Index dieser Saison mit der letzten' stellen – der Agent übersetzt das direkt in Datenbankabfragen und generiert das passende Diagramm, ohne dass der Nutzer Filter oder Menüs manuell bedienen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Leichtgewichtige, richtlinienbasierte Moderation für Team-Feeds",
+      "kontext": "Mistrals neues Shieldstral zeigt, dass sich Moderationsmodelle heute mit frei formulierbaren Richtlinien zur Laufzeit füttern lassen, statt fixe Kategorien fest zu trainieren – und das kompakt genug, um lokal statt über eine teure Cloud-API zu laufen.",
+      "umsetzung": "Für Team- und Vereins-Feeds in Contoura, in denen Athleten Trainingsnotizen und Kommentare teilen, liesse sich ein kleines, on-device lauffähiges Modell wie Shieldstral einsetzen, um unangemessene Inhalte zu filtern – mit pro Verein anpassbaren Richtlinien (z.B. strengere Regeln für Jugend-Teams), ohne dass für jede Anpassung ein neues Modell trainiert werden muss.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

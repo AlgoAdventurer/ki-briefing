@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-17",
+  "name": "Suno Studio 2.0",
+  "tagline": "Browserbasierte KI-DAW mit MIDI-Support und einem KI-Chat, der die Produktion selbst übernimmt",
+  "beschreibung": "Mit Studio 2.0 macht Suno aus seiner browserbasierten Musikproduktions-Umgebung ein ernsthaftes Produktionswerkzeug: MIDI-Import, -Aufnahme und -Editierung direkt auf der Timeline, Stem-Splitting in bis zu 12 einzelne Spuren sowie neue Effekte und Automationen. Herzstück ist 'Studio Chat', ein agentischer KI-Assistent, der die komplette DAW per Texteingabe steuert – er generiert Sounds, organisiert Projekte, editiert MIDI- und Audiospuren und kann sogar per Vibe-Coding eigene, massgeschneiderte Audio-Plugins aus einem Prompt erzeugen. Für Premier-Abonnenten entfällt zudem das Export-Limit für 32-Bit/48kHz-Multitracks und Stems.",
+  "useCase": "Ein Musiker ohne DAW-Erfahrung kann Studio Chat bitten, aus einer Gesangsspur automatisch einen passenden Drum- und Bass-Layer zu bauen, die Stems einzeln zu isolieren und ein eigenes Delay-Plugin mit spezifischem Klangcharakter zu generieren – alles im Browser, ohne klassische Musiksoftware.",
+  "url": "https://suno.com/studio",
+  "kategorie": "Musik / Kreativität",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["musikproduktion", "midi", "ki-agent", "vibe-coding", "audio"]
+}

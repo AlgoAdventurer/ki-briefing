@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Grosser Anthropic-Ausfall legt Claude.ai, Claude Code und Claude Cowork lahm",
+      "quelle": "BleepingComputer",
+      "quelleUrl": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-in-major-outage-affecting-multiple-services/",
+      "zusammenfassung": "Am 16. August gegen 21:58 UTC begann ein grosser Ausfall bei Anthropic: Zunächst konnten sich Nutzer nicht mehr bei Claude.ai, Claude Code und Claude Cowork anmelden, wenige Minuten später meldete das Unternehmen eine breitere Störung mit stark verschlechterter Leistung auf Claude.ai und platform.claude.com. Betroffen waren Login, das Laden der Oberfläche und laufende Anfragen; eine Ursache hatte Anthropic zum Zeitpunkt der Berichterstattung noch nicht genannt.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "DeepSeek erhöht API-Preise für V4-Modelle um bis zu 14-fach",
+      "quelle": "Engadget / Fortune / InfoWorld",
+      "quelleUrl": "https://www.engadget.com/2236912/deepseek-ai-models-get-four-times-pricier/",
+      "zusammenfassung": "Seit 16. August, 16:00 UTC, gilt bei DeepSeek eine radikal neue Preisstruktur: Output-Token für V4 Pro kosten in Spitzenzeiten 3,96 $ pro Million statt bisher 0,87 $ (gut das Vierfache), V4 Flash steigt von 0,28 $ auf 1,32 $. Neu eingeführt wird zudem ein Peak/Off-Peak-Modell, bei dem Nebenzeiten die Hälfte des Spitzenpreises kosten. DeepSeek begründet den Schritt mit der stark gestiegenen Nachfrage, die die verfügbare Rechenkapazität an ihre Grenzen bringt – ein deutlicher Kurswechsel für den bislang für aggressiv niedrige Preise bekannten Anbieter.",
+      "kategorie": "KI-Modelle",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Apple liess mit Alibabas Hilfe eigenes KI-Modell für den chinesischen Markt trainieren",
+      "quelle": "MacRumors / The Information",
+      "quelleUrl": "https://www.macrumors.com/2026/08/14/apple-trained-own-ai-model-for-china/",
+      "zusammenfassung": "Apple hat laut mehreren mit dem Vorhaben vertrauten Personen abseits der Öffentlichkeit ein eigenes KI-Modell speziell für China trainiert – mit Unterstützung von Alibaba, das den Trainingsprozess technisch begleitet haben soll. Der Schritt weicht von Apples ursprünglichem Plan ab, in China vollständig auf Drittanbieter-Modelle zu setzen, und soll helfen, lokale Vorschriften einzuhalten sowie mehr Kontrolle über die KI-Erfahrung auf chinesischen Geräten zu behalten. Apple Intelligence soll in den kommenden Monaten in China starten, wobei laut Berichten zusätzlich Alibabas Qwen für kompatible iPhones, iPads und Macs eingebunden werden soll.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Apple_logo_black.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Nvidia steckt bis zu 3 Milliarden Dollar in Stromversorger Lancium für Stargate-Rechenzentren",
+      "quelle": "The Information / Reuters",
+      "quelleUrl": "https://www.theinformation.com/articles/nvidia-invest-3-billion-blackstone-backed-power-firm-behind-stargate",
+      "zusammenfassung": "Nvidia investiert laut übereinstimmenden Berichten zunächst 2 Milliarden Dollar für rund 20% Anteile am Blackstone-gestützten Energie-Infrastrukturentwickler Lancium, mit einer möglichen Aufstockung um weitere 1 Milliarde Dollar bei Erreichen bestimmter Meilensteine wie neuer Netzanschlüsse. Lancium betreibt Land- und Stromkapazitäten für das Stargate-Rechenzentrumsprojekt in Texas und wird durch den Deal mit rund 10 Milliarden Dollar bewertet; das Kapital soll den Ausbau vorantreiben, eine mögliche Börsennotierung ist für 2027 im Gespräch. Der Deal unterstreicht, wie sehr Stromkapazität inzwischen zum Engpass und strategischen Investitionsziel für KI-Infrastruktur geworden ist.",
+      "kategorie": "Business",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/NVIDIA_logo.svg",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

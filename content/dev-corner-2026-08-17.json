@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Code 2.1.233: GitLab-Merge-Request-Support, schnellere Self-Hosted-Runner und MCP-v2-Fix",
+      "typ": "Tool / SDK",
+      "detail": "Das Update vom 15. August bringt GitLab-Merge-Request-URLs in das --worktree-Flag sowie die claude agents-Ansicht (MRs erscheinen dort als !N), was Claude Code erstmals gleichwertig zu GitHub-PRs auf GitLab-Workflows nutzbar macht. Self-Hosted-Runner starten spürbar schneller, weil der Session-Branch ohne vollständiges Neuschreiben des Arbeitsbaums angelegt wird und zwei blockierende Server-Roundtrips vor dem Agenten-Start entfallen. Zusätzlich behebt das Release einen MCP-v2-Bug, bei dem Verbindungen zu Servern mit festem Stream-Timeout (z.B. Serverless-Hosts) endlos neu geöffnet wurden, sowie eine Windows-Sicherheitslücke, über die NT-Pfade mit \\??\\-Präfix die UNC-Pfadvalidierung umgehen und NTLM-Zugangsdaten leaken konnten.",
+      "url": "https://releasebot.io/updates/anthropic/claude-code",
+      "codebeispiel": "claude --worktree !42   # GitLab-MR !42 direkt als Worktree öffnen"
+    },
+    {
+      "id": 2,
+      "titel": "Mistral veröffentlicht Shieldstral: 3B-Safety-Classifier mit Policies statt fixer Kategorien",
+      "typ": "Open Source",
+      "detail": "Shieldstral ist ein offenes 3-Milliarden-Parameter-Modell unter Apache 2.0, das Text und Bilder gegen frei formulierte Moderationsrichtlinien prüft, statt auf ein fest trainiertes Set an Schadenskategorien angewiesen zu sein – Policies werden erst zur Inferenzzeit übergeben. Laut Mistral erreicht das kompakte Modell auf einer einzelnen 16-GB-GPU die Textsicherheits-Performance offener Guard-Modelle mit bis zum Siebenfachen der Parameterzahl und setzt bei multimodaler Moderation einen neuen Bestwert. Für Entwicklerteams bedeutet das: unternehmensspezifische Richtlinien lassen sich ohne Retraining direkt als Prompt an den Classifier übergeben.",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "codebeispiel": ""
+    }
+  ]
+}

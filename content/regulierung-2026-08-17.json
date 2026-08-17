@@ -1,0 +1,13 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic führt unsichtbare Text-Wasserzeichen für Claude ein – Nutzer kritisieren Kontrollverlust",
+      "region": "EU / Global",
+      "detail": "Als Reaktion auf den seit 2. August durchgesetzten Transparency Code zu Artikel 50 des EU AI Act versieht Anthropic Claude-generierte Texte weltweit mit einem unsichtbaren Wasserzeichen: Die Wortwahl wird subtil so beeinflusst, dass sich bei ausreichend Textmenge ein erkennbares Muster ergibt, das auch beim Kopieren erhalten bleibt. Bei Dateien signalisieren zusätzlich C2PA-Metadaten die KI-Beteiligung und helfen, nachträgliche Manipulation zu erkennen. Anthropic betont Grenzen der Methode: Ältere Modelle, starke Nachbearbeitung oder kurze Texte erzeugen oft kein zuverlässig erkennbares Signal, und ein fehlendes Wasserzeichen schliesst KI-Generierung nicht aus. Auf X kritisierten laut Business Insider zahlreiche Nutzer die Neuerung – einige kündigten ihr Abo, weil sie fürchten, beim Einsatz von Claude in Job oder Studium erwischt zu werden.",
+      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

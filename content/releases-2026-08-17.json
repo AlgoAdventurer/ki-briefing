@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "name": "Grok 4.6",
+      "version": "4.6",
+      "anbieter": "xAI",
+      "detail": "Am 12. August veröffentlichtes Flaggschiff-Update, das gezielt auf lang laufende Agenten-Aufgaben zugeschnitten ist: Grok 4.6 bleibt über viele Schritte hinweg bei komplexen Aufgaben – von Recherche über Codebasis-Analyse bis zum fertigen Software-Artefakt – und zeigt bei längeren Läufen deutlich mehr Selbst-Testing. Es bleibt beim 500K-Kontext und dem Preis von 2 $/6 $ pro Million Token, ergänzt aber eine neue 'xhigh'-Reasoning-Stufe und erreicht 61 Punkte im Artificial Analysis Intelligence Index (Platz 4, knapp hinter Claude Opus 5). Verfügbar in Cursor, Grok Build, der xAI-API, OpenRouter, Vercel und Cloudflare.",
+      "url": "https://x.ai/news/grok-4-6",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/XAI_Logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "Microsoft 365 Copilot Researcher",
+      "version": "",
+      "anbieter": "Microsoft",
+      "detail": "Microsoft rollt das neue Researcher-Feature aus und stellt im Gegenzug die kostenlose Deep-Research-Funktion innerhalb weniger Tage ein. Researcher liefert tiefergehende, mit Quellen belegte Berichte und bindet Microsoft-365-Daten stärker ein, ist aber Microsoft-365-Premium- und Copilot-Business-Lizenzen vorbehalten – kostenlose Nutzer verlieren damit den Zugang zu vergleichbar tiefgehender Recherche innerhalb der Copilot-Oberfläche.",
+      "url": "https://www.techtimes.com/articles/324537/20260814/microsoft-copilot-rollout-starts-free-deep-research-retired-four-days.htm",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Imagen 4 API-Endpunkte",
+      "version": "",
+      "anbieter": "Google",
+      "detail": "Google zieht am 17. August endgültig den Stecker bei den aktuellen Imagen-4-Endpunkten der Gemini-API; Aufrufe werden künftig auf das neuere Gemini-Bildmodell umgeleitet. Entwickler, die Imagen 4 fest in ihre Pipelines integriert haben, müssen ihre Integrationen entsprechend anpassen, um Ausfälle zu vermeiden.",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "bild": ""
+    }
+  ]
+}

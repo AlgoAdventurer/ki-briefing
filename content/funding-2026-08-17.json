@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-17",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Lovable",
+      "betrag": "$400.000.000",
+      "runde": "Series C",
+      "investoren": "Menlo Ventures (Lead), Scaleup Europe Fund / EQT (Co-Lead), Balderton Capital, Tencent, Regent u.a.",
+      "beschreibung": "Der schwedische 'Vibe-Coding'-Anbieter Lovable, mit dem sich Software-Anwendungen per natürlichsprachlichem Prompt bauen lassen, sichert sich in der am 12. August verkündeten Runde eine Bewertung von 13,3 Mrd. Dollar. Über 60 Millionen Projekte wurden seit dem Start im November 2024 auf der Plattform erstellt, die damit gebauten Apps verzeichnen über 900 Millionen Besuche pro Monat. Das Kapital soll vor allem in den Ausbau des Teams auf rund 450 Mitarbeitende fliessen, mit Fokus auf Machine Learning, Produkt, Infrastruktur und Security.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Lancium",
+      "betrag": "bis zu $3.000.000.000",
+      "runde": "Strategische Investition",
+      "investoren": "Nvidia",
+      "beschreibung": "Nvidia investiert zunächst 2 Mrd. Dollar für rund 20% am Blackstone-gestützten Energie-Infrastrukturentwickler Lancium, mit einer möglichen Aufstockung um 1 Mrd. Dollar bei Erreichen von Meilensteinen wie neuen Netzanschlüssen. Lancium stellt Land- und Stromkapazitäten für das Stargate-Rechenzentrumsprojekt in Texas bereit und wird durch den Deal mit rund 10 Mrd. Dollar bewertet – ein Beleg dafür, dass Stromversorgung zum zentralen Engpass und Investitionsziel im KI-Infrastruktur-Wettlauf geworden ist.",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/NVIDIA_logo.svg"
+    }
+  ]
+}
