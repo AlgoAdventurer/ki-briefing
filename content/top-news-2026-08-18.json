@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Stripe übernimmt KI-Gateway OpenRouter für über 7 Milliarden Dollar",
+      "quelle": "TechCrunch / Bloomberg",
+      "quelleUrl": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+      "zusammenfassung": "Stripe übernimmt OpenRouter, das KI-Modell-Gateway, über das rund 8 Millionen Entwickler per einheitlicher API zwischen mehr als 400 Modellen von OpenAI, Anthropic, Google, Meta und DeepSeek wechseln können. Der Preis liegt bei über 7 Milliarden Dollar – mehr als das Fünffache der 1,3-Mrd.-Bewertung aus OpenRouters eigener Series-B-Runde nur drei Monate zuvor. Es ist eine der grössten Übernahmen in Stripes Geschichte und ein deutlicher Schritt tiefer in die KI-Infrastruktur- und Abrechnungswelt.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic meldet ersten operativen Gewinn bei Q2-Umsatz von über 11,5 Milliarden Dollar",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "zusammenfassung": "Anthropic hat für das zweite Quartal 2026 einen Umsatz von über 11,5 Mrd. Dollar gemeldet – ein Sprung von 787 Mio. Dollar im Vorjahresquartal und ein Plus von rund 130% gegenüber dem ersten Quartal. Erstmals verzeichnet das Unternehmen dabei ein positives operatives Ergebnis von rund 559 Mio. Dollar, zwei Jahre früher als ursprünglich geplant. Haupttreiber ist die Enterprise-Nachfrage nach Claude und Claude Code, das allein innerhalb von sechs Monaten die Marke von 1 Mrd. Dollar annualisiertem Umsatz überschritten hat.",
+      "kategorie": "Business",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Anthropic_logo.svg",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAIs Umsatz-Rate übersteigt vor geplantem Börsengang 40 Milliarden Dollar",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-13/openai-s-revenue-run-rate-tops-40-billion-ahead-of-ipo",
+      "zusammenfassung": "OpenAIs annualisierte Umsatz-Rate hat sich seit Ende 2025 auf über 40 Mrd. Dollar etwa verdoppelt, während sich das Unternehmen auf einen möglichen Börsengang vorbereitet. Parallel soll ChatGPT laut Berichten die Marke von 1 Milliarde aktiven Nutzern überschritten haben. Die Zahlen unterstreichen, wie stark sich die grossen KI-Labore inzwischen finanziell voneinander abheben – und wie viel bei einem IPO auf dem Spiel steht.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google DeepMind: Demis Hassabis übergibt CEO-Rolle, Koray Kavukcuoglu übernimmt Tagesgeschäft",
+      "quelle": "Fortune / CNBC",
+      "quelleUrl": "https://fortune.com/2026/08/05/demis-hassabis-steps-down-google-deepmind-ai-shakeup/",
+      "zusammenfassung": "Demis Hassabis wechselt bei Google DeepMind vom CEO-Posten in die Rolle des Chairman und wird zusätzlich Chief Scientist bei Alphabet. Koray Kavukcuoglu, bisher CTO von DeepMind und Alphabets Chief AI Architect, übernimmt als SVP das operative Geschäft inklusive Verantwortung für die Gemini-Modellentwicklung. Hassabis will sich stärker auf Forschung konzentrieren und erwähnte intern bereits Fortschritte am noch unveröffentlichten Gemini 4. Nahezu zeitgleich verliess auch Langzeit-Google-Chefwissenschaftler Jeff Dean das Unternehmen, um ein eigenes Startup mitzugründen.",
+      "kategorie": "Big Tech",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "EU beginnt Durchsetzung der KI-Act-Transparenzpflichten",
+      "quelle": "Europäische Kommission",
+      "quelleUrl": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "zusammenfassung": "Seit dem 2. August 2026 setzen EU-Kommission und nationale Behörden die Transparenzpflichten aus Artikel 50 des EU AI Act durch: KI-Systeme, die direkt mit Menschen interagieren, müssen dies offenlegen, Deepfakes und synthetische Medien müssen als KI-generiert gekennzeichnet werden, und Emotionserkennungssysteme müssen betroffene Personen informieren. Verstösse können bis zu 15 Mio. Euro oder 3% des weltweiten Jahresumsatzes kosten. Für bereits im Markt befindliche Systeme gilt eine Übergangsfrist bis Dezember 2026 – die Regel betrifft praktisch alle Anbieter, die in der EU aktiv sind, unabhängig vom Firmensitz.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    }
+  ]
+}

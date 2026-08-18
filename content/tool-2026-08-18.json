@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-18",
+  "name": "Google Antigravity 2.0",
+  "tagline": "Googles agentenbasierte Entwicklungsplattform – vom IDE-Plugin zur vollen Multi-Agent-Plattform ausgebaut",
+  "beschreibung": "Antigravity startete im November 2025 zusammen mit Gemini 3 als kostenlose, agenten-first IDE auf VS-Code-Basis. Zur I/O 2026 hat Google die Plattform zu Version 2.0 ausgebaut: eine eigenständige Desktop-App mit Multi-Agent-Orchestrierung im Zentrum, die ursprüngliche VS-Code-Erweiterung, eine Go-basierte CLI sowie ein SDK zum Bauen eigener Agenten. Statt Code Zeile für Zeile zu schreiben, formuliert man High-Level-Aufgaben, die mehrere koordinierte Agenten selbstständig in HTML, Backend-Logik, Tests und Bugfixes umsetzen.",
+  "useCase": "Ein Entwickler gibt die Aufgabe 'baue ein Login-Formular mit Datenbankanbindung' ein – Antigravity erstellt eigenständig Frontend, Backend-Code und Validierung, schreibt passende Tests und behebt auftretende Fehler über mehrere koordinierte Agenten hinweg, bevor der Mensch das Ergebnis nur noch reviewt.",
+  "url": "https://antigravity.google/",
+  "kategorie": "Coding / Developer-Plattform",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["agentic coding", "ide", "multi-agent"]
+}

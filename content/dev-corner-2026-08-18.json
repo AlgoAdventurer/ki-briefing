@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: grösste Revision seit Protokollstart macht Server zustandslos",
+      "typ": "Protokoll-Update / SDK",
+      "detail": "Der Kern des Model Context Protocol wechselt von einem bidirektionalen, zustandsbehafteten Protokoll zu einem zustandslosen Request/Response-Modell. MCP-Server werden dadurch zu gewöhnlichen HTTP-Services, die auf normaler Serverless- oder Edge-Infrastruktur laufen können – jede Anfrage ist selbstbeschreibend, ein Initialize-Handshake oder gehaltene Sessions sind nicht mehr nötig. Neu hinzu kommen serverseitig gerenderte UIs ('MCP Apps'), eine Tasks-Extension für lang laufende Arbeit sowie eine Autorisierung näher an OAuth/OpenID-Connect-Standards. Die Version ist nicht wire-kompatibel mit älteren MCP-Versionen, Clients und Server benötigen aktualisierte SDKs.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": "POST /mcp\nMCP-Protocol-Version: 2026-07-28\nMcp-Method: tools/call\n\n{\"jsonrpc\":\"2.0\",\"method\":\"tools/call\",\"params\":{\"name\":\"getSplitTimes\",\"arguments\":{\"athleteId\":42}}}"
+    },
+    {
+      "id": 2,
+      "titel": "GLM-5.3 findet automatisiert reale Sicherheitslücken in Open-Source-Projekten",
+      "typ": "Open Source / Security-Tooling",
+      "detail": "Z.ais neues Modell GLM-5.3 demonstriert praktisch, wie weit KI-gestütztes Vulnerability-Scanning inzwischen ist: In einem Testlauf gegen 269 reale Open-Source-Projekte fand das Modell 2.436 Schwachstellen, davon 1.097 mittel- oder hochkritisch – darunter eine ernste Lücke im populären Editor Cursor. Für Entwicklerteams zeigt das einen realistischen Einsatzweg für Security-Reviews: automatisiertes Erst-Scanning der eigenen Codebasis vor jedem Release, ergänzend zu klassischen Static-Analysis-Tools.",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Hugging Face führt hf_fs-Tool für schnellere Hub-Navigation durch KI-Agenten ein",
+      "typ": "SDK / Plattform-Tool",
+      "detail": "Das neue hf_fs-Tool bietet eine einheitliche Schnittstelle zu Repositories, Storage, Dokumentation und Papers auf dem Hugging-Face-Hub mit integrierter Suche – KI-Assistenten können den gesamten Hub damit in rund 1.000 Tokens navigieren, statt viele einzelne API-Aufrufe zusammenzustückeln. Ergänzend bietet die neue Spaces-Erstellungsseite die Option, direkt mit einem KI-Agenten zu bauen, der Befehle zur iterativen Weiterentwicklung generiert.",
+      "url": "https://huggingface.co/blog/state-of-os-hf-spring-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

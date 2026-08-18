@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "firma": "River AI",
+      "betrag": "$1.100.000.000",
+      "runde": "Seed/Series A",
+      "investoren": "General Catalyst und AMP PBC (Lead), mit Nvidia, AMD Ventures, Y Combinator und Temasek",
+      "beschreibung": "River AI, gegründet von xAI-Mitgründer Igor Babuschkin (zuvor DeepMind, OpenAI), sichert sich nur rund vier Monate nach der Gründung eine Riesenrunde. Das Unternehmen baut einen 'offenen KI-Stack', mit dem Entwickler eigene, frontier-nahe Open-Weight-Modelle trainieren, per LoRA feintunen und über eine token-basierte API ausliefern können – positioniert als kontrollierbare Alternative zu den geschlossenen grossen Laboren.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Volta Infrastructure Holdings",
+      "betrag": "$300.000.000",
+      "runde": "Seed + Series A (kombiniert)",
+      "investoren": "Azora, Andreessen Horowitz, Altimeter Capital, Nvidia, Matter Venture Partners, Michael Dells Family Office",
+      "beschreibung": "Die aus dem Stealth-Modus kommende KI-Cloud-Plattform Volta erreicht mit der kombinierten Runde eine Bewertung von 2,4 Mrd. Dollar. Kurz zuvor wurde bekannt, dass Volta einen 10-Mrd.-Dollar-Vertrag mit Anthropic für den Bau einer 133-Megawatt-KI-Rechenzentrumskampagne in Norwegen abgeschlossen hat – ein Beleg dafür, wie eng Kapital, Energie und Rechenleistung im aktuellen KI-Infrastruktur-Wettlauf zusammenhängen.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Harvey",
+      "betrag": "bis zu $500.000.000",
+      "runde": "Neue Finanzierungsrunde (in Verhandlung)",
+      "investoren": "u.a. Andreessen Horowitz als Bestandsinvestor",
+      "beschreibung": "Der Legal-AI-Anbieter Harvey, dessen Software bereits von Kanzleien wie A&O Shearman und Ashurst sowie Kunden wie KKR und Bridgewater genutzt wird, verhandelt Berichten zufolge über eine neue Runde bei einer Bewertung von 15,5 Mrd. Dollar – nur wenige Monate nach 200 Mio. Dollar bei 11 Mrd. Bewertung im März. Die Gespräche sind noch nicht final abgeschlossen, zeigen aber die weiter beschleunigte Bewertungsdynamik bei vertikalen Legal-AI-Anbietern.",
+      "bild": ""
+    }
+  ]
+}

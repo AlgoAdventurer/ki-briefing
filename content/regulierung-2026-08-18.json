@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission setzt neue KI-Act-Transparenzpflichten durch",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 werden die Transparenzpflichten aus Artikel 50 des EU AI Act aktiv durchgesetzt: KI-Systeme mit direktem Nutzerkontakt müssen offenlegen, dass eine Maschine beteiligt ist, Deepfakes und manipulierte Medien müssen als künstlich erzeugt gekennzeichnet werden, und Emotionserkennungssysteme müssen betroffene Personen informieren. Bereits im Markt befindliche Systeme haben bis 2. Dezember 2026 Zeit für die maschinenlesbare Kennzeichnung. Verstösse können bis zu 15 Mio. Euro oder 3% des weltweiten Jahresumsatzes kosten – betroffen sind praktisch alle Anbieter mit EU-Nutzern, unabhängig vom Firmensitz.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "KI-finanzierte Super-PACs fluten US-Zwischenwahlen mit Rekordsummen",
+      "region": "USA",
+      "detail": "Crypto- und KI-finanzierte Super-PACs haben in diesem Wahlzyklus bereits über 321 Mio. Dollar gesammelt, davon rund 107 Mio. Dollar von explizit KI-fokussierten Komitees. Zwei Lager stehen sich gegenüber: 'Leading the Future', unterstützt u.a. von Andreessen Horowitz und OpenAI-Mitgründer Greg Brockman, kämpft für eine bundesweite Vereinheitlichung und gegen einzelstaatliche KI-Gesetze; 'Public First Action', mitfinanziert mit 40 Mio. Dollar von Anthropic, setzt sich für stärkere Regulierung ein. Der Machtkampf zwischen Bundes- und Einzelstaatenkompetenz bei der KI-Regulierung dürfte die US-Politik bis zu den Zwischenwahlen prägen.",
+      "url": "https://azcapitoltimes.com/news/2026/08/16/ai-super-pacs-flood-money-into-state-elections/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

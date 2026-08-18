@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigener MCP-Server für Zeitmess- und GPS-Uhren-Integrationen",
+      "kontext": "Die neue MCP-Spezifikation 2026-07-28 macht MCP-Server zustandslos und damit zu gewöhnlichen HTTP-Diensten, die auf normaler Serverless-Infrastruktur laufen – ganz ohne gehaltene Sessions oder Protokoll-Handshake.",
+      "umsetzung": "Contoura könnte einen leichten, serverlos gehosteten MCP-Server bauen, der Split-Zeiten, GPS-Tracks und Fehlerstatistiken standardisiert für KI-Assistenten wie Claude oder ChatGPT zugänglich macht. Trainer oder Athleten könnten dann direkt in ihrem gewohnten Chat-Tool Fragen wie 'zeig mir alle Bahnprofile, bei denen ich in den letzten drei Rennen überdurchschnittlich viel Fehlerzeit hatte' stellen, ohne dass Contoura selbst eine Chat-Oberfläche bauen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisiertes Sicherheits-Audit der eigenen Codebasis mit offenen Modellen",
+      "kontext": "GLM-5.3 zeigt praktisch, wie zuverlässig offene KI-Modelle inzwischen reale Schwachstellen in Software finden – in einem Test wurden über 2.400 Sicherheitslücken in 269 Open-Source-Projekten entdeckt, darunter kritische Fälle.",
+      "umsetzung": "Contoura könnte vor jedem grösseren Release ein automatisiertes Scanning der eigenen Codebasis mit einem offenen, güstigen Sicherheitsmodell einrichten – als CI-Schritt, der insbesondere Athleten-Datenendpunkte (Trainingsdaten, Split-Zeiten) auf typische Schwachstellen wie fehlerhafte Zugriffskontrollen prüft, bevor sensible Leistungsdaten produktiv gehen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Agentische Feature-Prototypen mit schnellen, günstigen Coding-Modellen",
+      "kontext": "Mit Gemini 3.7 Flash und Antigravity 2.0 sinken die Kosten und die Latenz für agentisches Coding weiter – ein einzelnes kleines Devteam kann High-Level-Aufgaben formulieren, während mehrere Agenten Frontend, Backend und Tests parallel umsetzen.",
+      "umsetzung": "Contoura könnte neue Auswertungs-Features (z.B. ein neues Diagramm für Fehlerstatistik-Trends über eine Saison) zunächst als agentisch generierten Prototyp bauen lassen – Aufgabe formulieren, Agent liefert lauffähigen Entwurf inklusive Tests, das kleine Team reviewt und verfeinert nur noch, statt jede Komponente von Grund auf selbst zu schreiben.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

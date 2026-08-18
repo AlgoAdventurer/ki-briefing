@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-18",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google",
+      "detail": "Nur drei Wochen nach Gemini 3.6 Flash veröffentlicht, nennt Google es das 'intelligenteste Arbeitspferd-Modell' für Coding und Agenten. Der DeepSWE-Benchmark springt von 49,0% auf 65,3%, FrontierCode 1.1 von 34,4% auf 43,6%. Bis Jahresende gilt ein Einführungspreis von 0,75$/Mio Input- und 3,75$/Mio Output-Token – die Hälfte von 3.6 Flash –, danach steigen die Preise auf 1,50$/7,50$. Verfügbar in Gemini, Antigravity, AI Studio und Android Studio.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek V4 Pro",
+      "version": "V4 Pro",
+      "anbieter": "DeepSeek",
+      "detail": "Nach einer Preview seit April folgt der offizielle Launch: ein Mixture-of-Experts-Modell mit 1,6 Billionen Parametern unter MIT-Lizenz, ausgelegt auf fortgeschrittenes Reasoning, komplexes Software-Engineering und lang laufende Agenten-Aufgaben. Drei Reasoning-Stufen (low/high/max), bis zu 1 Mio Token Kontext und 384.000 Token Output. Auf Terminal-Bench 2.1 erreicht das Modell 87,9 Punkte. Mit dem Launch hat DeepSeek gleichzeitig die API-Preise drastisch angehoben – je nach Modellvariante um bis zu 14-fach.",
+      "url": "https://www.geeky-gadgets.com/deepseek-v4-pro-review/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/DeepSeek_logo.svg"
+    },
+    {
+      "id": 3,
+      "name": "GPT-5.6 Sol Ultrafast",
+      "version": "Ultrafast-Modus",
+      "anbieter": "OpenAI (mit Cerebras)",
+      "detail": "Neuer Service-Tier lässt GPT-5.6 Sol bis zu 14-mal schneller laufen als im Standard-Modus – rund 750 Output-Tokens pro Sekunde – dank Cerebras' Wafer-Scale-Engine mit 44GB On-Chip-Speicher statt externem RAM. Die Intelligenz des Modells bleibt dabei unverändert, nur die Geschwindigkeit steigt drastisch: Bei Humanity's Last Exam (2500 Fragen) beantwortete Ultrafast alle Fragen in rund 11 Stunden statt mehrerer Tage. Aktuell als limitierte Preview für ausgewählte Kunden über die API verfügbar.",
+      "url": "https://openai.com/index/previewing-ultrafast/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "GLM-5.3",
+      "version": "5.3",
+      "anbieter": "Z.ai",
+      "detail": "Neues Modell mit Fokus auf Cybersicherheit, zunächst nur über den GLM Coding Plan verfügbar; die Gewichte sollen innerhalb von zwei Wochen offen auf Hugging Face folgen. GLM-5.3 erzielt den höchsten Score aller Open-Source-Modelle auf Terminal-Bench 3.0 und 84,5% bei der Schwachstellenerkennung CyberGym – damit vor Claude und GPT-5.6 Sol. In einem Test fand das Modell 2.436 Schwachstellen in 269 Open-Source-Projekten, darunter eine ernste Lücke im Editor Cursor.",
+      "url": "https://venturebeat.com/technology/glm-5-3-is-here-with-advanced-cyber-capabilities-and-reportedly-already-found-a-serious-vulnerability-in-cursor",
+      "bild": ""
+    }
+  ]
+}
