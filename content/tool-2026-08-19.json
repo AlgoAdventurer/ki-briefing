@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-19",
+  "name": "Kilo Code",
+  "tagline": "Open-Source KI-Coding-Agent für VS Code, JetBrains und CLI – ohne Preisaufschlag",
+  "beschreibung": "Kilo Code ist ein MIT-lizenzierter, quelloffener KI-Coding-Agent, der direkt in VS Code, JetBrains-IDEs oder über die CLI läuft. Statt eines Abos nutzt man den eigenen API-Key von Anthropic, OpenAI, Google oder über 60 weiteren Anbietern – Kilo verlangt dabei keinerlei Aufschlag auf die Listenpreise. Über verschiedene Agenten-Modi (Code, Architect, Debug, Ask) plant, schreibt, refactored und debuggt es Code eigenständig, das Orchestrator-Mode zerlegt komplexe Aufgaben zudem automatisch in Teilaufgaben für spezialisierte Sub-Agenten.",
+  "useCase": "Ein Entwicklerteam verbindet Kilo Code mit seinem bestehenden Anthropic-API-Key und lässt den Orchestrator-Modus ein neues Feature komplett end-to-end umsetzen: Architect-Agent plant die Struktur, Coder-Agent implementiert, Debugger-Agent schreibt und prüft Tests – alles ohne zusätzliche Abo-Kosten oberhalb der reinen Modell-Nutzung.",
+  "url": "https://kilo.ai",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Open Source", "Coding-Agent", "VS Code", "Agentisch"]
+}

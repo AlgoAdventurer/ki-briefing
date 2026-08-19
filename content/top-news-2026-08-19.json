@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Nvidia sichert Finanzierung von über 105 Milliarden Dollar für OpenAI-Rechenzentrum in Ohio",
+      "quelle": "CNBC / Axios",
+      "quelleUrl": "https://www.cnbc.com/2026/08/17/nvidia-financing-open-ai-data-center-ohio.html",
+      "zusammenfassung": "Nvidia garantiert bis zu 105 Mrd. Dollar Finanzierung für den neuen 'PORTS-Pike'-Rechenzentrumscampus von SB Energy in Ohio, den OpenAI über einen 20-Jahres-Mietvertrag exklusiv nutzen wird. Die Anlage startet mit 4,25 Gigawatt Rechenleistung und kann auf bis zu 8 Gigawatt skaliert werden, gestützt durch 10 Gigawatt Energieversorgung von SoftBank/SB Energy sowie eine separate 1,5-Mrd.-Dollar-Eigenkapitalbeteiligung Nvidias an SB Energy. Erste Kapazität soll ab 2028 ans Netz gehen, das Projekt soll bis 2032 rund 35'000 Bauarbeitsplätze schaffen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI startet ChatGPT for Teens weltweit",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it/",
+      "zusammenfassung": "OpenAI führt ab dem 18. August eine dedizierte ChatGPT-Version für 13- bis 17-Jährige ein, die per Alterserkennungs-Technologie automatisch aktiviert wird. Sie bringt striktere Inhaltsfilter bei Themen wie Selbstverletzung und expliziten Inhalten, Lern-Features wie einen Study-Mode sowie Eltern-Konten, über die Ruhezeiten festgelegt und Sicherheits-Benachrichtigungen empfangen werden können – Eltern können die Chats selbst aber nicht mitlesen.",
+      "kategorie": "Produkt",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Chinas Zhipu übertrifft mit offenem Modell GLM-5.3 westliche KI bei Cybersecurity-Benchmark",
+      "quelle": "South China Morning Post",
+      "quelleUrl": "https://www.scmp.com/tech/big-tech/article/3364077/zhipu-launches-flagship-model-glm-53-china-seeks-mythos-level-edge-cyber-defence",
+      "zusammenfassung": "Zhipus neues Modell GLM-5.3 erreicht beim Sicherheits-Benchmark CyberGym eine Erfolgsquote von 84,5%, knapp vor Anthropics Mythos (83,8%) und OpenAIs GPT-5.6 Sol (83,6%). In eigenen Tests mit chinesischen Sicherheitsteams fand das Modell 2'436 Schwachstellen in 269 realen Open-Source-Projekten, darunter über 1'000 mittel- bis hochkritische. Die Modellgewichte sollen in zwei Wochen offen veröffentlicht werden – ein weiteres Zeichen, wie schnell offene chinesische Modelle bei sicherheitskritischen Aufgaben aufholen.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI führt Ultrafast-Tier für GPT-5.6 Sol ein – 14x schneller dank Cerebras",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/news/product-releases/",
+      "zusammenfassung": "Mit 'Ultrafast' bringt OpenAI eine neue API-Service-Stufe für GPT-5.6 Sol, die dank Cerebras-Hardware bis zu 14-mal schneller antwortet als der Standard-Tier. Das Angebot richtet sich an Entwickler, die latenzkritische Anwendungen wie Voice-Agents oder Echtzeit-Coding-Assistenten bauen, und markiert einen weiteren Schritt im Wettlauf um Inferenz-Geschwindigkeit zwischen den grossen KI-Anbietern.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Reddit testet KI-vertonte Kurzvideos aus Text-Posts",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/08/18/top-tech-news-today-august-18-2026-apple-baidu-bytedance-google-meta-openai-xiaomi-more/",
+      "zusammenfassung": "Reddit startete am 17. und 18. August ein begrenztes Experiment, das ausgewählte Text-Posts und Top-Kommentare automatisch in kurze Videos mit KI-generierter Vertonung und eingeblendetem Text umwandelt. CEO Steve Huffman begründet den Schritt damit, dem Trend entgegenzuwirken, dass Drittanbieter-Kanäle Reddit-Inhalte als Podcast- und TikTok-Content vertonen und so Engagement von der Plattform abziehen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

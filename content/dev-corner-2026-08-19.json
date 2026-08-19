@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Model Context Protocol wird zustandslos",
+      "typ": "Protokoll / SDK",
+      "detail": "Die neue MCP-Spezifikation macht das Protokoll von einer bidirektionalen, zustandsbehafteten Verbindung zu einem klassischen, zustandslosen Request/Response-Modell. Jede Anfrage ist selbstbeschreibend und kann dank Methoden- und Namens-Headern (Mcp-Method, Mcp-Name) von jedem Gateway ganz normal per Round-Robin-Load-Balancer verteilt werden – MCP-Server laufen damit auf gewöhnlicher Serverless-Infrastruktur statt gehaltener Sessions. Python- und TypeScript-SDK liegen bereits als v2 vor, C# hat v2.0 erreicht, Go- und Rust-SDKs unterstützen den neuen Standard in Beta.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Cloudflare Agents Week: DeepSeek V4 und Agent-Wallets in Workers AI",
+      "typ": "Plattform / API",
+      "detail": "Im Rahmen der 'Agents Week' hat Cloudflare über 20 neue Produkte veröffentlicht: DeepSeek V4 Flash und V4 Pro (je 1-Mio-Token-Kontext, Function Calling, Vision) sind neu in Workers AI verfügbar, ein einheitlicher Inference-Layer bindet Modelle von über 14 Anbietern an, und Entwickler können erstmals eine 'Cloudflare Wallet' für autonome Agenten beanspruchen, mit der ein Agent innerhalb vorher festgelegter Limits selbstständig online bezahlen kann.",
+      "url": "https://blog.cloudflare.com/agents-week-in-review/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GLM-5.3: Offenes Sicherheits-Coding-Modell in zwei Wochen als Open Weights",
+      "typ": "Open Source",
+      "detail": "Zhipus GLM-5.3 basiert auf demselben rund 700-Mrd.-Parameter-Modell wie GLM-5.2, verdankt seine Sprünge bei Coding und Schwachstellenanalyse aber ausschliesslich zusätzlichem Post-Training. Die Modellgewichte sollen nach Abschluss interner Sicherheitsprüfungen offen veröffentlicht werden – für Entwickler ein potenziell kostenloser Ersatz für proprietäre Modelle bei automatisierten Code-Reviews und Schwachstellen-Scans.",
+      "url": "https://the-decoder.com/zhipu-ai-releases-glm-5-3-claims-its-the-strongest-open-weights-coding-model/",
+      "codebeispiel": ""
+    }
+  ]
+}

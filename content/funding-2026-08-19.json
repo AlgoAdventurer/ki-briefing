@@ -1,0 +1,14 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Etched",
+      "betrag": "$700M",
+      "runde": "Wachstumsrunde (nach Series C)",
+      "investoren": "Jane Street (Lead), Kleiner Perkins, Sequoia, Andreessen Horowitz, Tiger Global, Bain Capital Ventures",
+      "beschreibung": "Der KI-Chip-Hersteller Etched, der Inferenz-Beschleuniger für verschiedene Modellarchitekturen baut, verdoppelt seine Bewertung innerhalb eines Monats von 10,3 auf 21 Mrd. Dollar. Auslöser ist unter anderem die erste produktive Kundenauslieferung an Jane Street, das nun auch als Lead-Investor auftritt – ein Signal für wachsendes Vertrauen in spezialisierte KI-Inferenz-Hardware abseits von Nvidia.",
+      "bild": ""
+    }
+  ]
+}

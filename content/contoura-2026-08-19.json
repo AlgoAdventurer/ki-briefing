@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Trainingsdaten-Chat auf dem Edge mit DeepSeek V4 Flash über Cloudflare Workers AI",
+      "kontext": "Cloudflare hat während der 'Agents Week' DeepSeek V4 Flash und Pro mit 1-Mio-Token-Kontext in Workers AI integriert und bietet über einen einheitlichen Inference-Layer günstigen Zugriff auf Modelle von über 14 Anbietern direkt am Edge.",
+      "umsetzung": "Contoura könnte die komplette Saison an Split-Zeiten, GPS-Tracks und Fehlerstatistiken eines Athleten als Kontext in ein am Edge gehostetes Modell laden und so ein Chat-Interface anbieten, in dem Trainer und Athleten in natürlicher Sprache nach Mustern über die ganze Saison fragen können – deutlich günstiger und latenzärmer als über zentrale API-Aufrufe eines grossen Anbieters.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Schnellere Prototypen für neue Auswertungs-Features mit Gemini 3.7 Flash",
+      "kontext": "Googles neues Gemini 3.7 Flash bringt deutlich bessere Agentic-Coding- und Webdev-Fähigkeiten bei halbiertem Einführungspreis und generiert funktionsfähigere Layouts in weniger Prompts als der Vorgänger.",
+      "umsetzung": "Contoura könnte neue Dashboard-Ansichten – etwa Performance-Index-Trends über eine Saison – zunächst als agentisch generierten Prototyp mit Gemini 3.7 Flash bauen lassen, bevor das kleine Devteam Zeit in die finale Umsetzung investiert. Das senkt die Kosten pro Iteration und erlaubt, mehr UI-Varianten parallel auszuprobieren.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Transparenz-Kennzeichnung für automatisch generierte Trainingskommentare",
+      "kontext": "Anthropic markiert seit August alle Claude-Ausgaben weltweit mit unsichtbaren Wasserzeichen und C2PA-Metadaten, um EU-Transparenzpflichten (AI Act Art. 50) zu erfüllen – ein Standard, der sich zunehmend als Best Practice für KI-generierte Inhalte etabliert.",
+      "umsetzung": "Sobald Contoura automatisierte Trainingskommentare oder Analyse-Texte per LLM generiert, könnte die Plattform von Anfang an klar kennzeichnen, welche Inhalte KI-generiert sind – etwa über ein kleines Badge im Athleten-Dashboard. Das schafft Vertrauen bei Athleten und Trainern und positioniert Contoura regulatorisch frühzeitig auf der sicheren Seite.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

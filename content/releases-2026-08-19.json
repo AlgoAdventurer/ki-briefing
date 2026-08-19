@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7 Flash",
+      "anbieter": "Google DeepMind",
+      "detail": "Googles neues 'Workhorse'-Modell für Coding und Agenten verbessert sich deutlich bei Software-Engineering-Benchmarks (DeepSWE v1.1: von 49,0% auf 65,3%) und Web-Entwicklung (Elo 1588 in der WebDev Arena). Der Einführungspreis liegt bei 0,75$ pro Mio. Input- und 3,75$ pro Mio. Output-Token – die Hälfte des Vorgängerpreises. Verfügbar ist das Modell aktuell über Googles Agenten-Tool Spark sowie für Entwickler über die API, bei gleichbleibendem 1-Mio-Token-Kontextfenster.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GPT-5.6 Sol Ultrafast",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "Neue API-Service-Stufe, die GPT-5.6 Sol dank Cerebras-Hardware bis zu 14-mal schneller ausliefert als der Standard-Tier. Zielt auf latenzkritische Anwendungsfälle wie Voice-Agents und Live-Coding-Assistenten und positioniert OpenAI im wachsenden Wettbewerb um schnelle Inferenz gegenüber Anbietern wie Groq und Cerebras selbst.",
+      "url": "https://openai.com/news/product-releases/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Code / Muse Spark 1.2",
+      "version": "1.2",
+      "anbieter": "Meta",
+      "detail": "Metas erster eigener KI-Coding-Agent für Terminal-basierte End-to-End-Softwareentwicklung – von Planung über Implementierung bis Validierung – auf Basis des aktualisierten Muse-Spark-1.2-Modells. Meta positioniert sich damit erstmals direkt als Konkurrenz zu Claude Code und OpenAIs Codex, unter anderem über niedrigere Token-Kosten als viele etablierte Anbieter.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Claude Compliance API",
+      "version": "Beta-Erweiterung",
+      "anbieter": "Anthropic",
+      "detail": "Anthropic erweitert seine Compliance-API auf Cowork und Claude Code über Desktop, Web, Mobile und CLI hinweg. Sicherheitsteams von Claude-Enterprise-Kunden können damit erstmals über eine einheitliche API Sitzungsinhalte und Metadaten für Audits und eDiscovery aus allen Claude-Oberflächen abrufen.",
+      "url": "https://www.anthropic.com/news",
+      "bild": ""
+    }
+  ]
+}

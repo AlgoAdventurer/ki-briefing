@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-19",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic markiert Claude-Ausgaben weltweit mit Wasserzeichen wegen EU AI Act",
+      "region": "EU / Global",
+      "detail": "Als Reaktion auf Artikel 50 des EU AI Act, der seit dem 2. August durchgesetzt wird, versieht Anthropic Claude-generierten Text mit unsichtbaren, statistisch erkennbaren Wasserzeichen und Dateien mit C2PA-Provenienz-Metadaten. Die Kennzeichnung gilt ohne Opt-out und weltweit, nicht nur für EU-Nutzer – Anthropic hat zudem den freiwilligen EU-Verhaltenskodex zur Transparenz KI-generierter Inhalte unterzeichnet, was eine Konformitätsvermutung nach Art. 50 verschafft.",
+      "url": "https://techcrunch.com/2026/08/11/anthropic-says-it-will-watermark-text-generated-by-its-ai-models/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Schweiz: Bundesamt für Justiz erarbeitet Vernehmlassungsvorlage zur KI-Regulierung",
+      "region": "Schweiz",
+      "detail": "Die Schweiz hat weiterhin kein übergreifendes KI-Gesetz und setzt auf eine Kombination aus bestehendem Recht, punktuellen Anpassungen und freiwilligen Branchenlösungen. Das Bundesamt für Justiz arbeitet bis Ende 2026 an einer Vernehmlassungsvorlage; parallel haben Schweizer Medienhäuser (Verlegerverband, SRG SSR, Keystone-SDA) bereits einen eigenen, verbindlichen KI-Kodex mit Kennzeichnungspflicht und Ombudsstelle vorgestellt, der bis Jahresende umgesetzt werden soll.",
+      "url": "https://www.inside-it.ch/schweiz-braucht-klare-ki-regeln-20260814",
+      "auswirkung": "mittel"
+    }
+  ]
+}
