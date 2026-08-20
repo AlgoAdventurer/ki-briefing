@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-20",
+  "name": "DeepSeek Harness",
+  "tagline": "Quelloffener Agenten-Harness von DeepSeek als direkter Konkurrent zu Claude Code",
+  "beschreibung": "DeepSeek Harness ist ein neu veröffentlichter, offener Agenten-Harness (v0.1) für terminal-basiertes, agentisches Coding – der Quellcode liegt seit dem 13. August offen einsehbar vor. Er wird zusammen mit DeepSeek-V4-Pro angeboten, einem auf agentische Workloads spezialisierten Flaggschiff-Modell, kann aber grundsätzlich mit verschiedenen kompatiblen Modellen betrieben werden. Damit positioniert sich DeepSeek als offene Alternative zu proprietären Coding-Agenten wie Claude Code oder OpenAI Codex, mit voller Kontrolle über Hosting und Anpassung des Harness selbst.",
+  "useCase": "Ein Entwicklerteam, das ungern von einem einzelnen Anbieter abhängig ist, hostet DeepSeek Harness auf eigener Infrastruktur, bindet es an DeepSeek-V4-Pro über die API an und passt die Agenten-Logik für interne Coding-Workflows – etwa automatisierte Refactorings über ein grosses Legacy-Repository hinweg – gezielt an eigene Bedürfnisse an.",
+  "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Open Source", "Coding-Agent", "Terminal", "Agentisch"]
+}

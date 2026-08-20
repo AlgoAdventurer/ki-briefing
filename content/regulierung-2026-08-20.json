@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Pennsylvania macht KI-Rechenzentrums-Standards per Erlass rechtsverbindlich",
+      "region": "USA",
+      "detail": "Gouverneur Josh Shapiro unterzeichnete am 18. August die Executive Order 2026-05, mit der Pennsylvanias 'GRID'-Standards für Betreiber von Rechenzentren rechtsverbindlich werden. Neue Projekte benötigen künftig eine Consent Order, die Entwickler zu lokaler Genehmigung, vollständiger Finanzierung neuer Stromnetz-Infrastruktur, Wasserschutz-Massnahmen und lokaler Beschäftigung verpflichtet – eine direkte Reaktion auf den durch KI-Rechenzentren stark gestiegenen Energie- und Wasserbedarf.",
+      "url": "https://techstartups.com/2026/08/19/top-tech-news-today-august-19-2026-landspace-microsoft-nvidia-openai-samsung-unitree-z-ai-more/",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens AI Transparency Act (SB 942) seit 2. August in Kraft",
+      "region": "USA",
+      "detail": "Kaliforniens SB 942 verpflichtet Anbieter generativer KI-Systeme, Wasserzeichen, versteckte Herkunftskennzeichnungen (Latent Disclosures) sowie öffentlich zugängliche Erkennungstools für KI-generierte Inhalte bereitzustellen. Das Gesetz ergänzt die EU-Transparenzpflichten aus Artikel 50 des AI Act um eine eigenständige US-Regulierung und dürfte insbesondere globale Anbieter wie OpenAI, Google und Anthropic zu einheitlichen, länderübergreifenden Kennzeichnungsstandards drängen.",
+      "url": "https://en.wikipedia.org/wiki/California_AI_laws",
+      "auswirkung": "mittel"
+    }
+  ]
+}

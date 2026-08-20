@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Lokale, datenschutzfreundliche Athletenanalyse mit Muse Glimmer",
+      "kontext": "Metas neues offenes 30B-Modell Muse Glimmer läuft dank Apache-2.0-Lizenz vollständig lokal auf einer einzelnen Consumer-GPU, ganz ohne Cloud-API und laufende Token-Kosten.",
+      "umsetzung": "Contoura könnte Muse Glimmer auf einem eigenen Server oder sogar lokal beim Verein hosten, um sensible Trainings- und Gesundheitsdaten von Athleten (Split-Zeiten, Pulswerte, Fehlerstatistiken) zu analysieren, ohne sie je an einen externen Cloud-Anbieter zu senden. Das senkt laufende Kosten bei wachsender Nutzerzahl und macht die Datenschutz-Kommunikation gegenüber Athleten und Verbänden deutlich einfacher.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Eigener Analyse-Agent auf Basis des offenen DeepSeek Harness",
+      "kontext": "DeepSeek hat seinen Coding-Agenten-Harness quelloffen veröffentlicht und zeigt damit im Detail, wie ein produktionsreifer, agentischer Workflow technisch aufgebaut ist.",
+      "umsetzung": "Contouras Devteam könnte den offenen Harness als Vorlage nutzen, um einen spezialisierten internen Agenten zu bauen, der automatisch aus GPS-Tracks, Splitzeiten und Fehlerstatistiken einer Saison wiederkehrende technische Schwächen eines Athleten erkennt und daraus konkrete Trainingsempfehlungen ableitet – ganz ohne Abhängigkeit von einem proprietären Agenten-Anbieter.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Transparente KI-Kennzeichnung als Vorbereitung auf US- und EU-Standards",
+      "kontext": "Sowohl Kaliforniens SB 942 als auch der EU AI Act verlangen mittlerweile explizite Kennzeichnung KI-generierter Inhalte – ein regulatorischer Trend, der sich über weitere Länder ausbreiten dürfte.",
+      "umsetzung": "Sobald Contoura automatisiert generierte Trainingskommentare, Auswertungstexte oder Empfehlungen einsetzt, lohnt es sich, frühzeitig ein einheitliches Kennzeichnungssystem (z.B. ein Badge oder Hinweis im Athleten-Dashboard) einzuführen. Das schafft nicht nur Vertrauen bei Athleten und Trainern, sondern positioniert Contoura auch international regulatorisch auf der sicheren Seite, bevor entsprechende Pflichten überhaupt greifen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

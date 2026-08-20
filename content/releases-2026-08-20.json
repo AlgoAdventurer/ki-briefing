@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-20",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Glimmer",
+      "version": "30B",
+      "anbieter": "Meta",
+      "detail": "Meta veröffentlicht mit Muse Glimmer ein offenes 30-Milliarden-Parameter-Modell unter Apache-2.0-Lizenz, das speziell für lokale KI-Agenten auf Consumer-Hardware entwickelt wurde – lauffähig auf einem einzelnen Mac oder PC mit nur einer Consumer-GPU. Zusammen mit der Veröffentlichung positioniert Mark Zuckerberg das Modell explizit als Gegenentwurf zu Metas eigenem, geschlossenem Spitzenmodell Muse Spark und wirbt dafür, dass leistungsfähige KI 'für alle' statt nur für wenige grosse Labore zugänglich sein soll.",
+      "url": "https://www.cnbc.com/2026/08/10/meta-muse-glimmer-open-weight-ai.html",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "DeepSeek-V4-Pro",
+      "version": "V4-Pro",
+      "anbieter": "DeepSeek",
+      "detail": "DeepSeeks neues Flaggschiffmodell V4-Pro ist auf agentische Workloads zugeschnitten und wird zusammen mit dem offenen DeepSeek-Harness-Agenten veröffentlicht. Anders als frühere DeepSeek-Modelle kommt V4-Pro über die API zu höheren Preisen als sein Vorgänger – ein Hinweis darauf, dass auch chinesische Anbieter bei Spitzenmodellen zunehmend von reiner Niedrigpreisstrategie abrücken und stärker auf Leistungsfähigkeit bei agentischen Aufgaben setzen.",
+      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Grok 4.6",
+      "version": "4.6",
+      "anbieter": "xAI",
+      "detail": "xAI hat Grok 4.6 veröffentlicht, das im Artificial-Analysis-Intelligence-Index mit 61 Punkten gleichauf mit OpenAIs GPT-5.6 Sol Max liegt – bei identischer Preisstruktur von 2$/6$ pro Mio. Input-/Output-Token wie der Vorgänger Grok 4.5. Damit bleibt xAI im engen Wettrennen um Top-Benchmark-Ergebnisse zwischen den grossen US-Anbietern konkurrenzfähig, ohne die Preise zu erhöhen.",
+      "url": "https://www.buildfastwithai.com/blogs/ai-news-today-august-2-2026",
+      "bild": ""
+    }
+  ]
+}

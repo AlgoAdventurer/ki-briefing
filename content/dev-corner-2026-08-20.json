@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI veröffentlicht Codex Security CLI und TypeScript-SDK",
+      "typ": "SDK / CLI",
+      "detail": "Mit Codex Security bringt OpenAI ein eigenständiges Kommandozeilen-Tool samt TypeScript-SDK für automatisierte Sicherheitsprüfungen von Code. Es unterstützt Repository- und Change-Reviews, Bulk-Scans über ganze Codebasen, Historie-Analysen, Einbindung in CI-Workflows sowie SARIF-Output und ein Feedback-System für False Positives – gedacht als Baustein, den Teams direkt in bestehende Sicherheits-Pipelines einhängen können.",
+      "url": "https://techcrunch.com/2026/08/12/openai-launches-a-security-focused-coding-tool/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Google veröffentlicht Antigravity SDK für vollständig anpassbare Agenten",
+      "typ": "SDK",
+      "detail": "Das neue Antigravity SDK erlaubt es Entwicklern, Googles Agenten-Framework nicht nur zu konfigurieren, sondern grundlegend anzupassen und komplett auf eigener Infrastruktur zu deployen – statt zwingend auf Googles gehostete Agenten-Plattform angewiesen zu sein. Das senkt die Einstiegshürde für Teams, die eigene Agenten-Logik, Datenhaltung oder Compliance-Anforderungen abseits der Standardkonfiguration umsetzen müssen.",
+      "url": "https://developers.googleblog.com/all-the-news-from-the-google-io-2026-developer-keynote/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "DeepSeek Harness v0.1: Quelloffener Coding-Agent als Referenzimplementierung",
+      "typ": "Open Source",
+      "detail": "Der Quellcode von DeepSeek Harness v0.1 liegt seit dem 13. August offen vor und zeigt konkret, wie ein produktionsnaher, agentischer Coding-Assistent aufgebaut ist – von Tool-Aufrufen über Kontextverwaltung bis zur Anbindung an DeepSeek-V4-Pro. Für Entwicklerteams, die eigene Agenten-Harnesses bauen oder verstehen wollen, wie Wettbewerber zu Claude Code technisch strukturiert sind, ist der Code eine seltene offene Referenz.",
+      "url": "https://venturebeat.com/technology/deepseek-harness-launches-as-open-source-rival-to-claude-code-alongside-v4-pro-on-api-with-higher-prices",
+      "codebeispiel": ""
+    }
+  ]
+}

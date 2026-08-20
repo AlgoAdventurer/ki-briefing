@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-20",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI pausiert grösstes Frontier-Training wegen wachsender Cyber-Risiken",
+      "quelle": "Help Net Security / OpenAI",
+      "quelleUrl": "https://openai.com/index/pacing-model-development-cyber-capabilities/",
+      "zusammenfassung": "OpenAI hat das Reinforcement-Learning-Training seines nächsten Frontier-Modells Astra für rund zwei Wochen pausiert, nachdem interne Tests zeigten, dass das System nahe an eine als 'kritisch' eingestufte Cybersecurity-Fähigkeit heranreicht. Parallel härtet das Unternehmen Forschungsumgebungen ab, weitet Monitoring über Aktivierungs-Klassifizierer aus und blockiert einigen Modellen bei riskanten Aufgaben den Internetzugriff – eine direkte Reaktion auf einen kürzlichen Sicherheitsvorfall rund um Hugging Face.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia H200-Chips fliessen wieder nach China – ByteDance und Tencent erhalten je rund 10'000 Stück",
+      "quelle": "Financial Times / Benzinga",
+      "quelleUrl": "https://www.benzinga.com/markets/tech/26/08/61293582/nvidias-h200-chips-are-flowing-into-china-again-bytedance-tencent-get-around-10000-each-report-says",
+      "zusammenfassung": "Nach Lockerung der US-Exportkontrollen erreichen Nvidias H200-Chips wieder in kleineren Mengen chinesische Grosskonzerne wie ByteDance und Tencent. Washington erlaubt chinesischen Firmen den Kauf von bis zu 100'000 H200-Chips, während paradoxerweise nun Peking selbst die Einfuhrmengen begrenzt und einen Teil der Lieferungen über Hongkong umleitet – ein bemerkenswerter Rollentausch im Chip-Handelskonflikt.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Stripe schliesst Übernahme von KI-Gateway OpenRouter für über 7 Milliarden Dollar ab",
+      "quelle": "Bloomberg / Tech Times",
+      "quelleUrl": "https://www.techtimes.com/articles/324688/20260817/stripe-closes-7-billion-openrouter-deal-payment-giant-now-bills-routes-ai-traffic.htm",
+      "zusammenfassung": "Der Zahlungsdienstleister Stripe übernimmt OpenRouter, das über eine einzige API-Schnittstelle Zugriff auf mehr als 400 KI-Modelle für rund 8 Millionen Nutzer bietet. Der Kaufpreis liegt mehr als fünfmal über der 1,3-Mrd.-Dollar-Bewertung, die OpenRouter erst drei Monate zuvor in einer Series-B-Runde erzielte – ein Zeichen, wie stark Modell-Routing und -Abrechnung inzwischen als Zahlungsinfrastruktur-Geschäft gesehen werden.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI schaltet ab 24. August Werbung in ChatGPT für Europa frei",
+      "quelle": "Netzwoche",
+      "quelleUrl": "https://www.netzwoche.ch/news/2026-08-19/openai-bringt-werbung-in-chatgpt-nach-europa",
+      "zusammenfassung": "OpenAI führt ab dem 24. August in 31 europäischen Märkten – darunter Deutschland, Österreich und die Schweiz – Werbeanzeigen für Free- und Go-Nutzer von ChatGPT ein, zahlende Abonnenten höherer Tarife bleiben werbefrei. Nutzer müssen für personalisierte Werbung explizit zustimmen; ohne Einwilligung gibt es stattdessen kontextbezogene Anzeigen ohne Zugriff auf persönliche Chatverläufe. Der Schritt soll die Monetarisierung der rund 1 Milliarde monatlich aktiven Nutzer verbessern, von denen über 80% die kostenlose Version nutzen.",
+      "kategorie": "Produkt",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "Samsung erhöht Preise für fortschrittliche Chipfertigung um bis zu 15%",
+      "quelle": "SammyFans",
+      "quelleUrl": "https://www.sammyfans.com/2026/08/19/samsung-raises-4nm-and-5nm-chipmaking-prices/",
+      "zusammenfassung": "Samsung hat die Preise für seine 4-Nanometer- (SF4) und 5-Nanometer-Fertigung (SF5) für neue Bestellungen um 5 bis 15% angehoben, besonders stark betroffen sind Kunden aus China und den USA. Grund ist die durch KI-Nachfrage ausgelöste Kapazitätsknappheit bei Foundries – ein weiteres Signal dafür, dass der Bedarf an KI-Chips die verfügbare Fertigungskapazität derzeit übersteigt.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
