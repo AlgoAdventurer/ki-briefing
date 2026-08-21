@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-Kommission setzt AI-Act-Transparenzpflichten konsequent durch",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 gelten die Transparenzpflichten aus Artikel 50 des EU AI Act verbindlich, und die AI-Office der Kommission hat gemeinsam mit nationalen Behörden mit der aktiven Durchsetzung begonnen. Systeme, die direkt mit Menschen interagieren, müssen offenlegen, dass eine Maschine dahintersteckt, Deepfakes und manipulierte Inhalte müssen als KI-generiert gekennzeichnet werden. Verstösse können mit bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes geahndet werden; für bereits im Markt befindliche Systeme gilt für Wasserzeichen-Pflichten eine Übergangsfrist bis Dezember 2026.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "China warnt vor geopolitischer Spaltung durch US-geführte KI-Allianzen",
+      "region": "Global",
+      "detail": "Das chinesische Aussenministerium hat sich gegen erzwungene geopolitische Lager in der KI-Politik ausgesprochen und fordert digitale Souveränität für jedes Land. Die Aussage reagiert auf Pläne der USA, KI-Partnerländer stärker an sich zu binden, und signalisiert eine mögliche Aufspaltung der globalen KI-Infrastruktur in konkurrierende Ökosysteme – mit direkten Folgen für den internationalen Zugang zu Chips, Modellen und Cloud-Diensten.",
+      "url": "https://www.aidapted.ro/en/articles/ai-news-of-the-day-august-20-2026/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

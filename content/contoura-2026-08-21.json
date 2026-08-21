@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Coding-Agent-Governance als Vorbild für automatisierte Trainingsauswertung",
+      "kontext": "Anthropic gibt Managed Agents auf der Claude Developer Platform jetzt feingranulare Kontrollen: Session-Budgets, Advisor-Modelle und Geo-Pinning für Daten sorgen dafür, dass automatisierte Agenten-Workflows nachvollziehbar und kostenkontrolliert bleiben.",
+      "umsetzung": "Contoura könnte einen intern gehosteten Agenten bauen, der nach jedem Wettkampf automatisch GPS-Track, Splitzeiten und Fehlerstatistiken auswertet und einen Trainingskommentar entwirft – mit festem Token-Budget pro Athlet und Saison, damit Kosten bei wachsender Nutzerzahl planbar bleiben, statt bei jedem Lauf neu zu explodieren.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Schnelles, günstiges Vision-Modell für automatische Kartenanalyse",
+      "kontext": "Gemini 3.7 Flash ist gezielt auf agentische, mehrstufige Aufgaben mit Bild- und Videoverarbeitung getrimmt und dabei deutlich günstiger als grosse Reasoning-Modelle (0,75$/1M Input-Tokens).",
+      "umsetzung": "Contoura könnte Streckenkarten und Fotos von Kontrollpunkten automatisch mit Gemini 3.7 Flash analysieren lassen, um Laufwege aus hochgeladenen Kartenfotos zu extrahieren und mit den erfassten Split-Zeiten abzugleichen – bei niedrigen Kosten auch für viele Athleten gleichzeitig einsetzbar, ohne das Budget zu sprengen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Transparenzkennzeichnung für KI-generierte Trainingsempfehlungen vorbereiten",
+      "kontext": "Der EU AI Act verlangt seit dem 2. August verbindlich, dass KI-generierte Inhalte, die direkt mit Personen interagieren, klar als solche gekennzeichnet werden – mit Bussgeldern bis zu 15 Millionen Euro bei Verstössen.",
+      "umsetzung": "Sobald Contoura automatisierte Trainingskommentare oder Empfehlungen im Athleten-Dashboard ausspielt, sollte frühzeitig eine einheitliche, gut sichtbare Kennzeichnung eingeführt werden. Das schafft Vertrauen bei Athleten und Verbänden und positioniert Contoura rechtlich auf der sicheren Seite, falls die Plattform künftig auch in der EU genutzt wird.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

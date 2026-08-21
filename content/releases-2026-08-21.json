@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-21",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google DeepMind",
+      "detail": "Nur drei Wochen nach Gemini 3.6 Flash veröffentlicht, ist 3.7 Flash Googles schnelles, günstiges Modell, diesmal gezielt für Software-Engineering, Agenten-Workflows und mehrstufige Aufgaben optimiert statt für reines Reasoning. Es verarbeitet Text, Bild, Video, Audio und PDF und erzielt bei Coding-Benchmarks wie FrontierCode 1.1 Main (43,6% vs. 34,4%) und DeepSWE v1.1 (65,3% vs. 49,0%) deutliche Sprünge gegenüber dem Vorgänger. Einführungspreis: 0,75$/1M Input-Tokens, 3,75$/1M Output-Tokens.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Google_2015_logo.svg"
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.3",
+      "version": "5.3",
+      "anbieter": "Z.ai",
+      "detail": "GLM-5.3 nutzt dieselbe 743B-Basis wie GLM-5.2, alle Verbesserungen stammen aus zusätzlichem Post-Training mit mehr und realistischeren Agenten-Umgebungen. Bei Terminal-Bench 3.0 springt der Score von 4,6 auf 28,3, bei DeepSWE v1.1 von 46,2 auf 66,9. Besonders auffällig: Im Cybersecurity-Benchmark CyberGym erreicht GLM-5.3 84,5% und liegt damit vor Anthropics Mythos 5 (83,8%) – in Sicherheitstests fand das Modell bereits 2.436 Schwachstellen in 269 Projekten.",
+      "url": "https://www.marktechpost.com/2026/08/14/z-ai-ships-glm-5-3-without-retraining-the-base-model-better-at-complex-coding-and-long-horizon-tasks/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Glimmer",
+      "version": "",
+      "anbieter": "Meta",
+      "detail": "Muse Glimmer ist ein neues offenes multimodales 30B-Parameter-Modell von Meta für agentische Anwendungsfälle wie Coding, Dokumentenanalyse und persönliche Assistenten. Es steht unter Apache-2.0-Lizenz und läuft dank kompakter Grösse lokal auf gängiger Consumer-Hardware, was es besonders für datenschutzsensible Deployments interessant macht. Unterstützung ist bereits in Transformers v5.15.0 integriert.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "bild": "https://commons.wikimedia.org/wiki/Special:FilePath/Meta_Platforms_Inc._logo.svg"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-21",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird zustandslos",
+      "typ": "SDK / Protokoll",
+      "detail": "Die neue Model-Context-Protocol-Spezifikation macht aus dem bisher bidirektionalen, zustandsbehafteten Protokoll ein zustandsloses Request/Response-Modell: Der Initialize-Handshake und der Mcp-Session-Id-Header entfallen, serverseitig initiierte Requests werden durch ein Retry-Muster ersetzt, und die Autorisierung wird um CIMD neu aufgebaut. Passend dazu sind bereits Tier-1-SDKs erschienen, darunter ein grundlegend überarbeitetes Python SDK v2 und die Version 2.0 des offiziellen C#-SDKs für .NET.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Developer Platform: Files API jetzt GA, mehr Kontrolle für Managed Agents",
+      "typ": "API",
+      "detail": "Die Files API im Claude API ist nun allgemein verfügbar – Requests an die /v1/files-Endpunkte benötigen keinen Beta-Header mehr. Gleichzeitig hat Anthropic die Claude Developer Platform um Steuerungsmöglichkeiten für Managed Agents erweitert: Session-Budgets, Advisor-Modelle, Inference-Geo-Pinning und GitHub-gehostete Skills geben Teams mehr Governance und Datenresidenz-Optionen für produktiv eingesetzte Agenten.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Transformers v5.15.0 mit neuer Modellunterstützung",
+      "typ": "Open Source",
+      "detail": "Hugging Face hat Transformers v5.15.0 veröffentlicht, mit Support für neue Architekturen wie Metas Muse Glimmer und Granite sowie AXK1, AXK2 und Cosmos3 Edge. Dazu kommen Verbesserungen bei Attention-Mechanismen, Vision- und Audio-Pipelines, Caching und Quantisierung – relevant für alle, die aktuelle Open-Weight-Modelle lokal oder auf eigener Infrastruktur betreiben wollen.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

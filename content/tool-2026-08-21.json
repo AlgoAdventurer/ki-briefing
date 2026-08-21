@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-21",
+  "name": "Higgsfield",
+  "tagline": "KI-Videoplattform, die mehrere Top-Modelle wie Sora 2, Veo 3.1 und Kling 3.0 in einem Workspace bündelt",
+  "beschreibung": "Higgsfield lässt Nutzer aus einem Text oder Bild kurze Videoclips mit Kamerabewegung, Licht und Physik generieren, ohne zwischen einzelnen Modell-Websites wechseln zu müssen. Die 'Cinema Studio'-Funktion simuliert reale Kameraoptik (Objektiv, Brennweite, Kamerakörper) für professionell wirkende Ergebnisse, und Referenzbilder oder bestehendes Footage lassen sich für Stil- und Charakterkonsistenz einbinden. Das Unternehmen hat gerade eine 400-Millionen-Dollar-Series-B-Runde abgeschlossen, die die Bewertung in acht Monaten auf 5,4 Milliarden Dollar vervierfacht hat – ein Zeichen für die enorme Nachfrage nach KI-Videowerkzeugen.",
+  "useCase": "Ein Social-Media-Team erstellt für eine Produktkampagne mehrere Videovarianten mit unterschiedlichen Kameraeinstellungen, vergleicht die Outputs verschiedener Modelle direkt nebeneinander und wählt das überzeugendste Ergebnis aus, statt jedes Modell einzeln zu testen.",
+  "url": "https://higgsfield.ai/",
+  "kategorie": "Video / Design",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Video-Generierung", "Multimodell", "Kreativ-Tool", "Cinema Studio"]
+}

@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-21",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Etched",
+      "betrag": "$700M",
+      "runde": "Series D",
+      "investoren": "Jane Street (Lead), Sequoia Capital, Andreessen Horowitz, Kleiner Perkins, Blackstone, Peter Thiel",
+      "beschreibung": "Der KI-Chip-Hersteller Etched hat seine Bewertung innerhalb eines Monats von 10,3 auf 21 Milliarden Dollar verdoppelt, nachdem Jane Street den transformer-spezialisierten Inferenz-Chip 'Sohu' getestet und gekauft hat. Sohu ist kein Allzweck-GPU, sondern ein ASIC, das ausschliesslich auf schnelle und effiziente Transformer-Inferenz zugeschnitten ist – Etched gibt bereits über 1 Milliarde Dollar an Kundenverträgen an.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Rillet",
+      "betrag": "$100M",
+      "runde": "Series C",
+      "investoren": "ICONIQ (Lead), Sequoia Capital, Andreessen Horowitz, Bain Capital Ventures, Battery Ventures",
+      "beschreibung": "Die KI-native Buchhaltungsplattform Rillet erreicht mit der dritten Finanzierungsrunde innerhalb eines Jahres Einhorn-Status bei 1 Milliarde Dollar Bewertung. Über 600 Firmenkunden nutzen die Software zur Automatisierung komplexer Finanzprozesse; der ARR hat sich in den letzten drei Monaten verdoppelt.",
+      "bild": ""
+    }
+  ]
+}
