@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "US-Bundesstaaten verschärfen KI-Chatbot-Gesetze im Rekordtempo",
+      "region": "USA",
+      "detail": "Während der Bund unter der Trump-Administration einen deregulierenden Kurs fährt und frühere KI-Sicherheitsvorgaben zurücknimmt, haben allein 2026 bereits zehn US-Bundesstaaten eigene Chatbot-Gesetze erlassen – fast 100 entsprechende Gesetzesvorschläge sind aktuell in 34 Staaten in Bearbeitung. Die neuen Regeln verlangen unter anderem, dass Nutzer klar über die KI-Natur eines Chatbots informiert werden und Anbieter Schutzmechanismen bei Suizidgedanken oder Selbstverletzung von Minderjährigen implementieren.",
+      "url": "https://www.transparencycoalition.ai/news/watershed-year-for-chatbot-safety-measures-14-new-state-laws-enacted-so-far-in-2026",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Binance lässt KI-Agenten ohne Verlustlimit handeln – Aufsichtslücke im Fokus",
+      "region": "Global",
+      "detail": "Mit dem Start von Agent OS erlaubt Binance KI-Agenten den eigenständigen Handel auf Unterkonten, wobei die Verantwortung für Risikogrenzen laut Berichten weitgehend bei den Nutzern selbst liegt statt bei der Plattform. Das wirft neue Fragen für Finanzaufsichtsbehörden auf, wie autonome Handelsagenten in bestehende Verbraucherschutz- und Marktaufsichtsregeln eingeordnet werden sollen, gerade weil Kryptobörsen wie Binance und Coinbase solche Schnittstellen derzeit im Eiltempo ausrollen.",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

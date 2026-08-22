@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic bereitet Börsengang vor, der SpaceX-Rekord brechen könnte",
+      "quelle": "Yahoo Finance / Benzinga",
+      "quelleUrl": "https://finance.yahoo.com/technology/ai/articles/anthropic-targets-ipo-match-beat-183337879.html",
+      "zusammenfassung": "Anthropic hat bereits eine vertrauliche IPO-Registrierung bei der SEC eingereicht und will noch im August die öffentlichen Unterlagen nachreichen, mit Börsengang möglicherweise schon im Oktober. Die Bank-Konsortium um Morgan Stanley, Goldman Sachs, JPMorgan und Citi zielt auf eine Bewertung und Emissionsgrösse, die den bisherigen Rekord von SpaceX (86,2 Mrd. Dollar) übertreffen könnte – gestützt durch ein Quartalsumsatz von über 11,5 Mrd. Dollar und eine annualisierte Umsatzrate von 65 Mrd. Dollar Ende Juli.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Erster autonomer KI-Agenten-Cyberangriff auf Taiwans Regierung aufgedeckt",
+      "quelle": "CNN / CyberScoop",
+      "quelleUrl": "https://cyberscoop.com/near-autonomous-ai-attack-government-target-taiwan/",
+      "zusammenfassung": "Mutmasslich China-nahe Angreifer bauten aus frei verfügbaren KI-Agenten-Frameworks (Hermes, OpenClaw) eine autonome Hacking-Plattform, die über vier Tage bis zu acht Agenten gleichzeitig einsetzte, um Taiwans Regierungssysteme anzugreifen. Dabei wurden mindestens 85 Konten kompromittiert und über 2.500 Personalakten erbeutet; die Angreifer umgingen KI-Sicherheitsmechanismen, indem sie den Angriff als autorisierten Penetrationstest tarnten – laut Forschern der erste weitgehend autonome Cyberangriff auf ein fremdes Regierungsziel.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Binance öffnet Handelsplattform für autonome KI-Agenten",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "zusammenfassung": "Mit 'Agent OS' verbindet Binance KI-Anwendungen wie ChatGPT, Claude Code, Codex und Cursor direkt mit Markt-, Wallet- und Handelsdaten und erlaubt Agenten, eigenständig auf Spot-, Margin- und Futures-Märkten zu handeln. Nutzer weisen Agenten dafür eigene Unterkonten mit konfigurierbaren Limits zu, die Kontrolle über Risiken liegt aber weitgehend bei ihnen selbst – ein deutliches Zeichen dafür, wie schnell autonome KI-Agenten in reale Finanzinfrastruktur vordringen.",
+      "kategorie": "KI-Agenten",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Z.ai veröffentlicht GLM-5.2 Turbo: Open-Weight-Modell schlägt GPT-5.5 bei Coding-Benchmarks",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "zusammenfassung": "GLM-5.2 Turbo von Z.ai erreicht bei mehreren Langzeit-Coding-Benchmarks bessere Werte als GPT-5.5 – zu etwa einem Sechstel der Kosten. Das MIT-lizenzierte Modell mit 1-Million-Token-Kontextfenster und 743B Parametern (Mixture-of-Experts) markiert damit eine neue Bestmarke für offene Gewichte und zeigt, wie stark chinesische Anbieter im Wettlauf um günstige, leistungsfähige Coding-Modelle aufholen.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Studie: KI verfasst fast die Hälfte aller neuen Linear-Issues",
+      "quelle": "AIToolsRecap",
+      "quelleUrl": "https://aitoolsrecap.com/Blog/ai-news-august-21-2026",
+      "zusammenfassung": "Neue Daten zeigen, dass KI-Agenten inzwischen knapp die Hälfte aller in Linear angelegten Issues eigenständig verfassen. Gleichzeitig haben sich die Pull-Request-Zahlen in betroffenen Teams verdreifacht, ohne dass sich die gesamte Entwicklungszeit verkürzt hat – ein Hinweis darauf, dass mehr KI-generierter Output nicht automatisch zu schnelleren Releases führt, sondern Teams vor neue Review- und Qualitätssicherungs-Herausforderungen stellt.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

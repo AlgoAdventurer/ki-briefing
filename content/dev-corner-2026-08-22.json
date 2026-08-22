@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Cursor Origin: eigenes Code-Hosting direkt im Editor",
+      "typ": "Tool / SDK",
+      "detail": "Cursor rollt mit 'Origin' eine neue Code-Hosting-Funktion im Early-Beta-Status für alle Bezahlpläne aus – zunächst mit Repos, Pull Requests, Code-Browsing und GitHub-Sync. Damit rückt Cursor näher an eine vollwertige Alternative zu GitHub als Hosting-Layer heran und könnte Review- und Agenten-Workflows enger mit dem Editor verzahnen, statt zwischen Tools zu wechseln.",
+      "url": "https://cursor.com/changelog",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Binance Agent OS: MCP-Server für Krypto-Handelsinfrastruktur",
+      "typ": "API / MCP",
+      "detail": "Binance bietet mit Agent OS einen MCP-Server, über den KI-Agenten Marktdaten abrufen, Kontostände prüfen und Trades ausführen können – jeweils auf ein dediziertes Unterkonto mit vom Nutzer festgelegten Limits beschränkt. Für Entwickler, die Trading-Bots oder Finanz-Agenten bauen, ist das ein konkretes Beispiel dafür, wie MCP zunehmend als Standard-Schnittstelle zwischen LLM-Anwendungen und produktiven Finanzsystemen genutzt wird.",
+      "url": "https://www.pymnts.com/news/artificial-intelligence/2026/binance-debuts-agent-os-link-ai-apps-finance-infrastructure/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub Copilot: dateiweite Edit-Vorschläge und JetBrains-Governance",
+      "typ": "Tool",
+      "detail": "GitHub Copilot schlägt jetzt zusammenhängende Änderungen über eine ganze Datei hinweg vor statt nur im unmittelbaren Cursor-Umfeld, was Konsistenz bei grösseren Refactorings erleichtert. Parallel dazu bekommen Unternehmen mit neuen 'Enterprise Managed Settings' für Copilot in JetBrains zentrale Kontrolle über Plugin-Governance, MCP-Server-Zugriff, OpenTelemetry und Permission-Modes – relevant für Teams, die Copilot in regulierten Umgebungen ausrollen wollen.",
+      "url": "https://releasebot.io/updates/github",
+      "codebeispiel": ""
+    }
+  ]
+}

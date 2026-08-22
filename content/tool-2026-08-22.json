@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-22",
+  "name": "HyNote for Mac",
+  "tagline": "Kostenloser, komplett lokaler KI-Notizassistent für Meetings, Audio und PDFs auf dem Mac",
+  "beschreibung": "HyNote for Mac transkribiert Systemaudio aus Zoom, Google Meet, Microsoft Teams, Browser-Tabs oder lokalen Apps direkt auf dem Gerät, ohne dass ein Bot dem Meeting beitreten oder Audio in die Cloud geschickt werden muss. Die App läuft nativ auf Apple Silicon (M1–M4) und erreicht laut Hersteller bis zu 99% Genauigkeit bei klarer Sprache in über 50 Sprachen. Aus Aufnahmen oder Dokumenten erstellt HyNote automatisch Zusammenfassungen, Kernpunkte und Action Items über mehr als 30 Vorlagen wie Meeting-Protokolle oder SWOT-Analysen. Damit positioniert sich das Tool als datenschutzfreundliche Alternative zu cloudbasierten Meeting-Assistenten, gerade für Nutzer mit sensiblen Gesprächsinhalten.",
+  "useCase": "Ein Berater nimmt ein Kundengespräch über Zoom auf, HyNote transkribiert es lokal auf dem MacBook ohne Cloud-Übertragung und erstellt automatisch ein strukturiertes Protokoll mit Action Items, das direkt nach dem Call verschickt werden kann.",
+  "url": "https://hynote.ai/downloads/mac",
+  "kategorie": "Productivity / Audio",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Transkription", "On-Device", "Privacy", "Meeting-Notizen"]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "name": "GLM-5.2 Turbo",
+      "version": "5.2 Turbo",
+      "anbieter": "Z.ai",
+      "detail": "GLM-5.2 Turbo wurde am 17. August veröffentlicht und Ende letzter Woche in weitere Inferenz-Plattformen wie LLM Gateway integriert. Das MIT-lizenzierte Modell (743B Parameter, Mixture-of-Experts, 1M-Token-Kontext) übertrifft GPT-5.5 bei mehreren Langzeit-Coding-Benchmarks wie FrontierSWE und Code Arena: Frontend – zu rund einem Sechstel der Kosten. Damit setzt Z.ai die neue Bestmarke unter offenen Modellen und verschärft den Preis-Leistungs-Wettbewerb bei Coding-Agenten spürbar.",
+      "url": "https://venturebeat.com/technology/z-ais-open-weights-glm-5-2-beats-gpt-5-5-on-multiple-long-horizon-coding-benchmarks-for-1-6th-the-cost",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "ChatGPT Update: Sites, Codex, Work",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat ein Bündel an Updates für ChatGPT ausgerollt: benutzerdefinierte Site-URLs, Apple-Messages-Unterstützung auf Apple-Silicon-Macs, erweiterten Zugriff auf den Computer-Verlauf sowie schreibgeschützte Codex-Chat-Snapshots zum sicheren Teilen von Konversationen. Zusätzlich synchronisieren sich angepinnte Chats jetzt zwischen Desktop und iOS – kleine, aber für den täglichen Workflow relevante Verbesserungen an der Plattform.",
+      "url": "https://releasebot.io/updates/openai/openai-models",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Binance Agent OS",
+      "version": "",
+      "anbieter": "Binance",
+      "detail": "Binance hat mit 'Agent OS' eine neue Entwicklerplattform samt MCP-Implementierung veröffentlicht, die KI-Anwendungen wie ChatGPT, Claude Code, Codex und Cursor standardisierten Zugriff auf Markt-, Wallet- und Handelsdaten gibt. Agenten können darüber lesend auf Kontodaten zugreifen und – innerhalb vom Nutzer konfigurierter Grenzen – eigenständig Trades auf Spot-, Margin-, Convert- und Futures-Märkten ausführen.",
+      "url": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
+      "bild": ""
+    }
+  ]
+}

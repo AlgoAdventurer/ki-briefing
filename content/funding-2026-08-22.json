@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1.505B",
+      "runde": "Series D",
+      "investoren": "Atreides Management, Index Ventures, TCV (Lead), Nvidia, Lightspeed Venture Partners, Bessemer Venture Partners, Menlo Ventures",
+      "beschreibung": "Fireworks AI, eine Plattform zur Spezialisierung von Allzweck-KI-Modellen auf firmeneigene Daten, erreicht mit der Runde eine Bewertung von 17,5 Milliarden Dollar. Das Unternehmen hat seine annualisierte Umsatzrate auf über 1 Milliarde Dollar gesteigert und die täglich verarbeiteten Tokens seit der letzten Runde von 15 auf über 40 Billionen fast verdreifacht – ein starkes Signal für die wachsende Nachfrage nach spezialisierter Inferenz-Infrastruktur.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "NeoTrade",
+      "betrag": "$11M",
+      "runde": "Pre-A",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "NeoTrade baut Infrastruktur für den Handel mit KI-Agenten und positioniert sich damit direkt im neu entstehenden Markt für autonome Trading-Agenten, den auch Binance mit seiner Agent-OS-Plattform diese Woche adressiert. Die frische Finanzierung soll den Ausbau der Handelsinfrastruktur beschleunigen, während Börsen wie Binance und Coinbase zunehmend eigene Schnittstellen für KI-Agenten öffnen.",
+      "bild": ""
+    }
+  ]
+}

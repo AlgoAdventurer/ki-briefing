@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-22",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Private, lokale Sprachnotizen für Athleten nach dem Lauf",
+      "kontext": "HyNote for Mac zeigt, wie gut on-device Spracherkennung inzwischen funktioniert – komplett lokal, ohne Cloud-Übertragung, mit bis zu 99% Genauigkeit und automatischer Zusammenfassung.",
+      "umsetzung": "Contoura könnte Athleten erlauben, direkt nach dem Zieleinlauf eine kurze Sprachmemo aufzunehmen ('Posten 7 verlaufen, Kompass zu spät gecheckt'), die lokal oder serverseitig automatisch transkribiert und den passenden Split-Zeiten und Fehlerkategorien im Trainingstagebuch zugeordnet wird – schneller und natürlicher als manuelles Eintippen nach einem anstrengenden Lauf.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige Coding-Agenten für schnellere Feature-Entwicklung nutzen",
+      "kontext": "GLM-5.2 Turbo zeigt, dass offene Modelle inzwischen bei Langzeit-Coding-Aufgaben mit Top-Anbietern mithalten können – zu einem Bruchteil der Kosten pro Aufgabe.",
+      "umsetzung": "Contoura könnte kostengünstige Coding-Agenten wie GLM-5.2 Turbo für klar abgegrenzte, sich wiederholende Entwicklungsaufgaben einsetzen (z.B. automatisierte Tests für neue Auswertungsfunktionen oder Datenmigrationen), um das Entwicklungsbudget zu schonen und Ressourcen für komplexere Produktentscheidungen freizuhalten.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Sandbox-Grenzen für eigene KI-Automatisierungen sauber definieren",
+      "kontext": "Der autonome KI-Agenten-Angriff auf Taiwans Regierung zeigt, wie Angreifer Sicherheitsmechanismen umgehen konnten, indem sie eine Aktion einfach als autorisierten Test tarnten.",
+      "umsetzung": "Für Contouras eigene KI-Automatisierungen (etwa automatisch generierte Trainingskommentare oder dieses tägliche News-Briefing) lohnt sich eine frühzeitige, klare Definition von Zugriffsrechten und Freigabegrenzen, damit automatisierte Agenten nur genau die Daten und Aktionen ausführen können, für die sie vorgesehen sind – auch wenn das Risiko bei einer internen Sport-Plattform deutlich geringer ist als bei einem Regierungsziel.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}
