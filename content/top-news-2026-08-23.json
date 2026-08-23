@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "ChatGPT-Werbung startet ab 24. August in 31 europäischen Ländern",
+      "quelle": "Euronews / TechXplore",
+      "quelleUrl": "https://www.euronews.com/next/2026/08/21/chatgpt-to-start-showing-ads-across-europe-next-week",
+      "zusammenfassung": "OpenAI führt ab dem 24. August Werbung für Gratis- und Go-Nutzer in 31 europäischen Märkten ein, darunter Deutschland, Österreich und die Schweiz. Angezeigt werden Anzeigen nur bei kostenlosen und dem günstigen Go-Abo, nicht auf Basis von Chatverlauf oder Memory, sondern anhand von Gesprächsthema, Standort und Gerätetyp – ein deutlicher Kurswechsel, nachdem CEO Sam Altman Werbung lange abgelehnt hatte.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google lanciert 'Preferred Sources'-Button gegen KI-bedingten Traffic-Einbruch bei Verlagen",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "zusammenfassung": "Google bietet Publishern jetzt einen einbettbaren Button, mit dem Leser eine Website direkt als bevorzugte Quelle für Suche, News und AI-Overviews markieren können – laut Google steigt dadurch die Klickwahrscheinlichkeit deutlich. Über 600.000 Quellen wurden bereits ausgewählt, eine Verdreifachung in wenigen Monaten. Der Schritt zeigt, wie stark KI-Suchfunktionen den Traffic klassischer Websites bedrohen und wie Google versucht, den Schaden für Verlage abzufedern.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Speicherchip-Krise durch KI-Boom: Apple erhöht Preise, US-Senat erhöht Druck auf chinesische Zulieferer",
+      "quelle": "Fortune / TechStartups",
+      "quelleUrl": "https://fortune.com/2026/08/13/tim-cook-warned-of-a-100-year-flood-in-memory-chip-pricing/",
+      "zusammenfassung": "Die massive Nachfrage nach Speicherchips für KI-Rechenzentren treibt DRAM- und HBM-Preise auf Rekordniveau – Apple musste die Kosten für iPhone-18-Pro-Speicher um 272% gegenüber dem Vorjahresmodell hinnehmen und bereits Preise für Mac und iPad erhöhen. Gleichzeitig verlangten US-Senatoren von Apple bis zum 21. August eine Erklärung, weshalb weiterhin Speicherchips von den chinesischen Herstellern YMTC und CXMT bezogen werden – ein Beispiel dafür, wie der KI-Boom zunehmend auf Konsumentenpreise und Geopolitik durchschlägt.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI, Google DeepMind und Anthropic fordern gemeinsam nationalen KI-Sicherheitsstandard",
+      "quelle": "Axios / OpenAI",
+      "quelleUrl": "https://openai.com/index/openai-frontier-governance-framework/",
+      "zusammenfassung": "Die Chefs der drei grössten KI-Labore sind sich laut Berichten erstmals einig, dass Frontier-KI-Modelle so bald wie möglich reguliert werden müssen. OpenAI plädiert konkret für einen einheitlichen US-Bundesstandard mit unabhängigen Audits und Zwischenfall-Meldepflichten statt eines Flickenteppichs aus Einzelstaats-Gesetzen, der Entwicklerressourcen von der eigentlichen Sicherheitsarbeit abziehe.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

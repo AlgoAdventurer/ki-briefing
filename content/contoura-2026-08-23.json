@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Sichtbarkeit in KI-Suchergebnissen für OL-Trainingswissen aufbauen",
+      "kontext": "Googles neuer 'Preferred Sources'-Button und die wachsende Bedeutung von AI Overviews zeigen, dass Suchtraffic zunehmend über KI-generierte Zusammenfassungen statt klassische Linklisten läuft.",
+      "umsetzung": "Contoura könnte Trainingsratgeber, Split-Zeit-Erklärungen und Fehlerstatistik-Guides gezielt so aufbereiten, dass sie von KI-Suchassistenten (Google AI Overviews, ChatGPT, Perplexity) als verlässliche Quelle zu Orientierungslauf-Themen zitiert werden – etwa durch klar strukturierte, faktenreiche Artikel statt reiner Marketing-Texte.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Asynchrone Hintergrund-Agenten für Datenaufbereitung nutzen",
+      "kontext": "Metas neuer Coding-Agent Muse Code und xAIs Grok Build zeigen, wie persistente Subagenten im Hintergrund eigenständig an Teilaufgaben weiterarbeiten, auch nach Beendigung der aktiven Session.",
+      "umsetzung": "Contouras Entwicklerteam könnte solche Hintergrund-Agenten für wiederkehrende, klar abgegrenzte Aufgaben einsetzen – etwa automatisiertes Bereinigen und Validieren von GPS- und Split-Zeit-Rohdaten neuer Wettkämpfe, während sich Entwickler auf neue Features konzentrieren.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Freemium-Modell mit klarer Differenzierung nach Vorbild von ChatGPT Go schärfen",
+      "kontext": "OpenAI führt Werbung gezielt nur für Gratis- und günstige Go-Nutzer ein, während zahlende Plus/Pro-Abonnenten werbefrei bleiben – ein Beispiel für scharf abgegrenzte Freemium-Stufen bei grossen KI-Plattformen.",
+      "umsetzung": "Contoura könnte die eigene Produktstufung überprüfen: eine kostenlose Basis-Trainingsdokumentation für alle Athleten, während tiefere Analysen wie Performance-Index-Trends oder detaillierte Fehlerstatistiken klar als Premium-Mehrwert positioniert werden, um Conversion in ein Bezahlmodell zu fördern.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

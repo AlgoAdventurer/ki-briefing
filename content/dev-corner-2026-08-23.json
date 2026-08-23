@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Firecrawl Developer Index: Such-API mit 70M+ Repos, Docs und Issues für Coding-Agenten",
+      "typ": "API / SDK",
+      "detail": "Firecrawl hat mit dem Developer Index eine spezialisierte Such-API für Coding-Agenten veröffentlicht, die Issues, gemergte Pull Requests und READMEs aus öffentlichen Repos sowie kuratierte Dokumentationsseiten indexiert. Auf 1.179 realen Entwicklerfragen erreicht der Index 63% Recall@10 und schlägt damit den nächstbesten externen Anbieter um rund 10 Prozentpunkte. Kein API-Key nötig zum Start, Setup läuft am einfachsten über die Firecrawl-CLI oder MCP.",
+      "url": "https://www.firecrawl.dev/developer-index",
+      "codebeispiel": "npx -y firecrawl-cli@latest setup developer-index"
+    },
+    {
+      "id": 2,
+      "titel": "Hugging Face MCP Server: grosses Update verbindet Editoren direkt mit dem Hub",
+      "typ": "MCP / Open Source",
+      "detail": "Der Hugging Face MCP Server wurde am 21. August aktualisiert und verbindet MCP-fähige Assistenten wie Cursor, VS Code, Zed oder Claude Desktop direkt mit dem Hugging Face Hub. Damit können Assistenten Modelle, Datasets und Spaces durchsuchen sowie Community-Tools nutzen, ohne den Editor zu verlassen. Der Server ist in TypeScript geschrieben, MIT-lizenziert und mit inzwischen 277 Stars und 97 Forks eines der aktiveren MCP-Projekte im HF-Ökosystem.",
+      "url": "https://github.com/huggingface/hf-mcp-server",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "x402: Cloudflares Protokoll für autonome Agenten-Zahlungen",
+      "typ": "API / Protokoll",
+      "detail": "Mit x402 stellt Cloudflare ein offenes Protokoll vor, über das KI-Agenten eigenständig für APIs, Daten oder Dienste bezahlen können, ohne dass ein Mensch jede Transaktion freigeben muss. Über 20 Unternehmen beteiligen sich bereits an solchen Agent-initiierten Zahlungsflüssen – relevant für Entwickler, die Agenten bauen, die Drittdienste nutzungsbasiert und automatisiert abrechnen sollen, etwa für Datenabfragen oder Rechenzeit.",
+      "url": "https://blog.cloudflare.com/",
+      "codebeispiel": ""
+    }
+  ]
+}

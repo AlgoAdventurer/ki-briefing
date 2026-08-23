@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google DeepMind",
+      "detail": "Nur drei Wochen nach dem letzten Flash-Modell hat Google Gemini 3.7 Flash veröffentlicht – laut eigenen Angaben das bisher leistungsfähigste 'Arbeitspferd' für Coding und Agenten. Bei Debugging und Issue-Resolution zeigt das Modell deutliche Sprünge gegenüber 3.6 Flash (z.B. 65,3% vs. 49,0% auf DeepSWE) und generiert funktionsfähigere Web-Apps mit weniger Prompts. Verfügbar ist es über die Gemini API, Google AI Studio, Android Studio, Google Antigravity und Gemini Enterprise, zum Einführungspreis von $0.75 pro 1M Input- und $3.75 pro 1M Output-Tokens bis Ende 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Muse Code (Beta)",
+      "version": "Beta",
+      "anbieter": "Meta",
+      "detail": "Meta hat mit Muse Code einen eigenen Coding-Agenten in Beta veröffentlicht, angetrieben vom neuen Muse-Spark-1.2-Modell. Das Tool bringt persistente, asynchrone Background-Subagenten mit, die auch nach Schliessen des Terminals weiterarbeiten können, sowie eingebaute Skills wie /plan, /grill und /goal für strukturierte Entwicklungs-Workflows. Verfügbar zunächst für macOS und Linux, reiht sich Muse Code neben Muse Glimmer in Metas Offensive ein, mit offenen und lokal lauffähigen Modellen zu OpenAI und Anthropic aufzuschliessen.",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Kitesurf",
+      "version": "Beta",
+      "anbieter": "Cloudflare",
+      "detail": "Cloudflare hat mit Kitesurf einen Browser vorgestellt, der komplett für KI-Agenten statt für Menschen gebaut ist und vollständig in V8-Isolates auf Cloudflare Workers läuft. Ohne Tabs, Themes oder Erweiterungen verbraucht Kitesurf 3- bis 7-mal weniger CPU und Speicher als Chromium, besteht über 235.000 Web-Platform-Tests und bietet einen CDP-Endpunkt, der zu bestehenden Puppeteer-, Playwright- und MCP-Clients kompatibel ist. Aktuell kostenlos in der Beta über Cloudflares Browser-Rendering-Plattform verfügbar.",
+      "url": "https://blog.cloudflare.com/",
+      "bild": ""
+    }
+  ]
+}

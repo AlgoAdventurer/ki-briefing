@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Rillet",
+      "betrag": "$100M",
+      "runde": "Series C",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Rillet baut eine KI-native ERP-Plattform für moderne Finanzteams und will mit der frischen Series-C-Runde den Ausbau von Buchhaltungs- und Finanzautomatisierung vorantreiben. Die Runde reiht sich in einen Trend ein, bei dem Kapital zunehmend in vertikale, unternehmensspezifische KI-Tools statt in reines Modelltraining fliesst.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Starcloud",
+      "betrag": "$250M",
+      "runde": "Series A (Extension)",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Starcloud entwickelt Rechenzentren im Weltraum und erreicht mit der Erweiterungsrunde eine Bewertung von 2,3 Milliarden Dollar. Die Idee: Solarstrom im All ist praktisch unbegrenzt verfügbar und könnte langfristig eine Antwort auf den explodierenden Energiebedarf von KI-Trainingsclustern sein.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Twin1 AI",
+      "betrag": "$20M",
+      "runde": "Seed",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Twin1 AI ist mit einer 20-Millionen-Dollar-Seed-Runde aus dem Stealth-Modus gekommen. Details zum genauen Produkt sind noch spärlich, die Grössenordnung der Runde zeigt aber, dass Investoren weiterhin bereit sind, früh und hoch in neue KI-Startups zu investieren.",
+      "bild": ""
+    }
+  ]
+}

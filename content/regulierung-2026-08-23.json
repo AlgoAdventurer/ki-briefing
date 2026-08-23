@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-23",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Führende KI-Labore fordern einheitlichen nationalen US-Sicherheitsstandard für Frontier-KI",
+      "region": "USA",
+      "detail": "OpenAI, Google DeepMind und Anthropic sollen sich laut übereinstimmenden Berichten erstmals einig sein, dass Frontier-Modelle dringend reguliert werden müssen. OpenAI plädiert konkret für einen einheitlichen Bundesstandard mit unabhängigen Audits und Zwischenfall-Meldepflichten, statt eines wachsenden Flickenteppichs aus Einzelstaats-Gesetzen, der laut den Unternehmen Entwicklerressourcen von eigentlicher Sicherheitsarbeit abziehe. Parallel dazu bringt ein überparteilicher Gesetzesentwurf im US-Repräsentantenhaus ('Great American Artificial Intelligence Act') ein erstes umfassendes Bundesrahmenwerk für Frontier-KI-Entwickler auf den Weg.",
+      "url": "https://openai.com/index/openai-frontier-governance-framework/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "US-Senat setzt Apple Frist bis 21. August für Ausstieg aus chinesischen Speicherchip-Zulieferern",
+      "region": "USA",
+      "detail": "Mehrere US-Senatoren forderten Apple auf, bis zum 21. August zu erklären, weshalb weiterhin Speicherchips der chinesischen Hersteller YMTC und CXMT bezogen werden. Der Vorstoss fällt mitten in eine Phase, in der die KI-getriebene Nachfrage nach Speicherchips die Preise für DRAM und HBM massiv nach oben treibt – und zeigt, wie geopolitische Lieferketten-Fragen und der KI-Boom zunehmend zusammenlaufen.",
+      "url": "https://www.tradingkey.com/analysis/stocks/us-stocks/262064316-us-stock-apple-aapl-tim-cook-ai-mac-ipad-vision-tradingkey",
+      "auswirkung": "mittel"
+    }
+  ]
+}

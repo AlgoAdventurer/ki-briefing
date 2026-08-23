@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-23",
+  "name": "Grok Build",
+  "tagline": "xAIs kostenloser Open-Source-Coding-Agent im Terminal, geschrieben in Rust",
+  "beschreibung": "Grok Build ist xAIs agentischer CLI-Coding-Assistent, den das Unternehmen im Juli vollständig unter Apache-2.0-Lizenz als xai-org/grok-build veröffentlicht hat. Die Vollbild-Terminal-Oberfläche liest den eigenen Code, bearbeitet Dateien, führt Shell-Befehle aus, durchsucht das Web und verwaltet lange laufende Aufgaben – inklusive eines dedizierten Plan-Modus und nativer paralleler Subagenten. Anders als bei vergleichbaren Tools arbeiten die Subagenten dank Git-Worktree-Isolation in eigenen Branches und lassen sich später zusammenführen, was parallele Experimente ohne gegenseitige Störung ermöglicht. Auf dem SWE-Bench-Verified-Benchmark erreicht Grok Build 70,8% und ist zudem kompatibel mit Anthropic Skills, MCP-Servern und dem Agent Client Protocol (ACP).",
+  "useCase": "Ein Entwicklerteam lässt Grok Build im Plan-Modus eine grössere Refactoring-Aufgabe in mehrere Teilschritte zerlegen und startet parallele Subagenten in isolierten Git-Worktrees, die unabhängig voneinander an verschiedenen Modulen arbeiten und ihre Ergebnisse anschliessend zusammenführen.",
+  "url": "https://github.com/xai-org/grok-build",
+  "kategorie": "Coding / CLI",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding-Agent", "Open-Source", "CLI", "Rust", "MCP"]
+}
