@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisierte Hypothesen-Test-Zyklen für Trainingsempfehlungen nach Vorbild von Claudes Protein-Design",
+      "kontext": "Anthropic zeigt mit Claudes autonomem Protein-Binder-Design, wie ein KI-Modell in einem iterativen Zyklus aus Generieren, Testen und Verfeinern bessere Trefferquoten erzielt als klassische Expertenarbeit – Design-Vorschläge werden dabei laufend an echten Labordaten validiert.",
+      "umsetzung": "Contoura könnte ein ähnliches Prinzip auf Trainingsempfehlungen anwenden: Claude generiert basierend auf Split-Zeiten und Fehlerstatistiken mehrere alternative Trainingsschwerpunkte pro Athlet, das System vergleicht danach automatisch die tatsächliche Performance-Index-Entwicklung nach jedem Wettkampf mit der Vorhersage und verfeinert das Empfehlungsmodell kontinuierlich anhand echter Ergebnisse statt einmaliger statischer Regeln.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Leichtgewichtiger Agent-Browser für automatisiertes Einlesen von Rangliste- und Split-Zeit-Daten",
+      "kontext": "Cloudflares neuer Kitesurf-Browser zeigt, dass headless Browser-Automatisierung für Agenten inzwischen extrem ressourcenschonend und direkt kompatibel mit bestehenden Playwright/Puppeteer-Workflows sein kann.",
+      "umsetzung": "Contoura könnte einen solchen Agent-Browser einsetzen, um Ranglisten- und Split-Zeit-Daten von o-l.ch/SOLV nach jedem Wettkampf automatisch und zuverlässig einzulesen und in die eigene Datenbank zu überführen, statt manuelles Copy-Paste oder fehleranfällige Scraper zu pflegen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Eigene Trainingsdaten als MCP-Server für KI-Coaching-Assistenten bereitstellen",
+      "kontext": "Die neue MCP-Roadmap setzt auf standardisierte Agent-Identität und HTTP-native Transports, wodurch es für Drittanbieter deutlich einfacher wird, eigene Datenquellen sicher an KI-Assistenten wie Claude oder ChatGPT anzubinden.",
+      "umsetzung": "Contoura könnte Performance-Index, Split-Zeiten und Fehlerstatistiken über einen eigenen MCP-Server zugänglich machen, sodass Athleten ihre Daten direkt in Claude oder anderen KI-Coaching-Tools abfragen und sich automatisch generierte Trainingskommentare oder Vergleiche über die Zeit erstellen lassen können – ohne dass Contoura selbst ein eigenes Chat-Interface bauen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Der Wechsel zu einem zustandslosen Protokoll",
+      "typ": "SDK / Protokoll",
+      "detail": "Die neue Model-Context-Protocol-Spezifikation vom 28. Juli 2026 markiert einen Architekturwechsel weg vom bisherigen zustandsbehafteten, bidirektionalen Protokoll hin zu einem zustandslosen Request/Response-Modell: Protokollversion und Client-Fähigkeiten werden nun bei jedem Request über einen neuen server/discover-Call mitgeschickt, sodass jede Anfrage von jeder Serverinstanz beantwortet werden kann – ein simpler Round-Robin-Loadbalancer genügt für Skalierung. Python-SDK 2.0, Go-SDK 1.7 und das C#-SDK 2.0 unterstützen die neue Spezifikation bereits vollständig.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Neue MCP-Roadmap: Agentische Messaging-Primitive, HTTP-native Transports und Agent-Identität",
+      "typ": "Roadmap",
+      "detail": "Das MCP-Projektteam veröffentlichte am 22. August 2026 eine aktualisierte Roadmap mit fünf Prioritäten: server-initiierte Events und komponierbare Tasks/Subscriptions für agentische Workloads, einheitliche HTTP-native Transports über alle Deployment-Modi hinweg (inklusive stdio), standardisierte Agent-Identität via Workload Identity Federation statt API-Keys, verbesserte Tool-Result-Primitive samt progressiver Tool-Discovery gegen Performance-Einbrüche bei grossen Tool-Katalogen, sowie generell bessere SDK-Ergonomie über alle Sprachen hinweg.",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Cloudflare Kitesurf: CDP-kompatibler Agent-Browser für Playwright, Puppeteer & MCP",
+      "typ": "Tool / Infrastruktur",
+      "detail": "Kitesurf exponiert einen Chrome-DevTools-Protocol-Endpunkt, der direkt mit bestehenden Playwright-, Puppeteer- und MCP-Clients kompatibel ist – Entwickler können also bestehenden Automatisierungscode praktisch unverändert gegen den deutlich leichtgewichtigeren, in Rust/WebAssembly gebauten Browser laufen lassen. Kitesurf besteht über 235.000 Web Platform Tests (97% DOM-, 96% HTML-Subtest-Abdeckung) und ist während der Beta-Phase kostenlos über Cloudflares Browser-Run-Produkt nutzbar.",
+      "url": "https://www.marktechpost.com/2026/08/06/cloudflare-introduces-kitesurf-an-agent-first-web-browser-that-runs-entirely-in-v8-isolates-on-cloudflare-workers/",
+      "codebeispiel": ""
+    }
+  ]
+}

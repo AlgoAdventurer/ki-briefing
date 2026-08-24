@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse Glimmer",
+      "version": "30B",
+      "anbieter": "Meta",
+      "detail": "Meta veröffentlicht mit Muse Glimmer ein auf 30 Milliarden Parameter destilliertes, multimodales Modell unter Apache-2.0-Lizenz, das gezielt für lokale, agentische Anwendungsfälle wie Coding, Dokumentenanalyse und persönliche Assistenten entwickelt wurde. Damit positioniert sich Meta erneut im Wettbewerb um leistungsfähige Open-Source-Modelle, die auch ohne Cloud-Anbindung datenschutzfreundlich auf eigener Hardware laufen können.",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.2 Turbo",
+      "version": "5.2",
+      "anbieter": "Z.AI",
+      "detail": "Z.AI (ehemals Zhipu AI) veröffentlicht mit GLM-5.2 Turbo eine beschleunigte Variante seiner Modellreihe und reiht sich damit in die Serie chinesischer Anbieter ein, die im August 2026 im Wochentakt neue leistungsstarke Modelle mit niedrigeren Preisen und höherer Inferenzgeschwindigkeit veröffentlichen.",
+      "url": "https://llm-stats.com/ai-news",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Qwen3.8",
+      "version": "2.4T-A95B",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas Qwen3.8 ist ein Sparse-Mixture-of-Experts-Modell mit 2,4 Billionen Gesamt- und 95 Milliarden aktiven Parametern. Die Architektur erlaubt sehr hohe Gesamtkapazität bei vergleichsweise günstigen Inferenzkosten, da pro Anfrage nur ein Bruchteil der Parameter aktiv gerechnet wird – ein Trend, den auch westliche Anbieter zunehmend übernehmen.",
+      "url": "https://llm-stats.com/llm-updates",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "DeepSeek-V4-Pro",
+      "version": "0813",
+      "anbieter": "DeepSeek",
+      "detail": "DeepSeek bringt mit V4-Pro-0813 ein weiteres Update seiner V4-Modellfamilie, die im August 2026 mehrfach iteriert wurde (u.a. V4-Flash-0731). Die schnelle Update-Kadenz zeigt, wie DeepSeek versucht, mit den grossen US-Anbietern bei Preis-Leistung Schritt zu halten, insbesondere bei Coding- und Reasoning-Aufgaben.",
+      "url": "https://llm-stats.com/llm-updates",
+      "bild": ""
+    }
+  ]
+}

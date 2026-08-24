@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic zeigt: Claude entwirft eigenständig funktionierende Protein-Binder",
+      "quelle": "Anthropic / The Next Web",
+      "quelleUrl": "https://www.anthropic.com/research/Claude-accelerates-protein-design",
+      "zusammenfassung": "Anthropic liess Claude Opus 4.8 und das experimentelle Modell 'Mythos Preview' eigenständig sogenannte Minibinder entwerfen – kleine Proteine, die gezielt an ein biologisches Zielmolekül andocken, ein zentraler erster Schritt der Medikamentenentwicklung. Bei 14 von 15 im Labor getesteten Zielen (mit Adaptyv Bio und Twist Bioscience) funktionierten die KI-Designs, mit einer Trefferquote von 22–35% gegenüber sonst üblichen 10–15% – bei vier Zielen erreichte oder übertraf Claude sogar bereits publizierte Bestwerte.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google DeepMind: Hassabis wird Chairman, Jeff Dean verlässt nach 27 Jahren",
+      "quelle": "CNBC / TIME",
+      "quelleUrl": "https://www.cnbc.com/2026/08/12/google-deepmind-koray-kavukcuoglu.html",
+      "zusammenfassung": "Google baut die KI-Führung neu auf: Mitgründer Demis Hassabis wechselt vom CEO-Posten zum Chairman von DeepMind und wird zusätzlich Alphabets Chief Scientist, während CTO Koray Kavukcuoglu das operative Tagesgeschäft übernimmt. Chief Scientist Jeff Dean verlässt das Unternehmen nach 27 Jahren, um ein eigenes KI-Startup zu gründen – ein Zeichen für den Druck auf Google, nach mehreren Verzögerungen bei Flaggschiff-Modellen wieder schneller mit OpenAI und Anthropic mitzuhalten.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Claude Opus 5 erobert Spitzenplatz im Fullstack Code Arena Leaderboard",
+      "quelle": "CryptoBriefing",
+      "quelleUrl": "https://cryptobriefing.com/opus-5-tops-fullstack-code-arena-leaderboard/",
+      "zusammenfassung": "Anthropics Claude Opus 5 setzt sich in der Max-Konfiguration mit 1699 Punkten an die Spitze des neu gestarteten Fullstack Code Arena Leaderboards und übertrifft damit auch das bisher führende Modell Fable 5 um 64 Punkte – bei rund der Hälfte der Kosten. Das Ergebnis unterstreicht den scharfen Wettbewerb um die besten Coding-Modelle, während sich die Community-Benchmarks zunehmend auf reale Full-Stack-Entwicklungsaufgaben statt einfacher Chat-Antworten verlagern.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI führt Zero Data Retention für Frontier-Modelle samt 'Private Safety Processing' ein",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/offering-zero-data-retention-for-frontier-models/",
+      "zusammenfassung": "OpenAI kündigt an, Zero Data Retention (ZDR) dauerhaft für berechtigte API-Kunden anzubieten – Prompts und Antworten werden dabei nach der Verarbeitung nicht gespeichert und stehen auch OpenAI-Mitarbeitenden nicht zur Einsicht. Mit 'Private Safety Processing' testet OpenAI zusätzlich ein System, das Missbrauchsmuster über mehrere Sitzungen hinweg automatisiert erkennen soll, ohne dass Personal Zugriff auf die zugrundeliegenden Inhalte erhält – ein Balanceakt zwischen Unternehmensdatenschutz und Sicherheit bei zunehmend autonomen KI-Agenten.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Cloudflare launcht Kitesurf – einen Browser speziell für KI-Agenten",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+      "zusammenfassung": "Cloudflare hat mit Kitesurf einen Browser vorgestellt, der komplett in V8-Isolates auf der Workers-Plattform läuft und 3- bis 7-mal weniger CPU und Speicher benötigt als Chromium. Statt Tabs, Erweiterungen oder Sync setzt Kitesurf auf maschinenlesbare Ausgaben, Skalierbarkeit und Kompatibilität mit Playwright, Puppeteer und MCP-Clients über einen CDP-Endpunkt – gebaut für die Annahme, dass jede Sitzung neu und jede Seite potenziell nicht vertrauenswürdig ist.",
+      "kategorie": "Developer-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

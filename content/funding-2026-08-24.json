@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1.505B",
+      "runde": "Series D",
+      "investoren": "Atreides Management, Index Ventures, TCV, mit Beteiligung von Nvidia, Lightspeed, Bessemer u.a.",
+      "beschreibung": "Fireworks AI, eine Plattform für Zugriff auf Hunderte Open-Source-Modelle samt Fine-Tuning-Tools, erreicht mit der Series D eine Bewertung von $17,5 Milliarden. Das Unternehmen hat den Jahresumsatz binnen eines Jahres verfünffacht auf über $1 Milliarde und verarbeitet inzwischen mehr als 40 Billionen Tokens pro Tag – ein deutliches Zeichen dafür, wie stark sich Kapital von reinem Modelltraining hin zu Inferenz-Infrastruktur verschiebt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "OLIX Computing",
+      "betrag": "$312M",
+      "runde": "Series B",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Das Londoner Startup OLIX Computing erreicht mit seiner Series-B-Runde eine Bewertung von $3,3 Milliarden für seine photonischen KI-Inferenzchips. Photonische Chips gelten als vielversprechender Ansatz, um den enormen Energiebedarf klassischer GPU-Inferenz für grosse Sprachmodelle zu senken – ein zunehmend wichtiges Thema angesichts der aktuellen Speicherchip- und Energiekrise im KI-Sektor.",
+      "bild": ""
+    }
+  ]
+}

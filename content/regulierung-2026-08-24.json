@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-24",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Office beginnt Durchsetzung der Transparenzpflichten aus dem AI Act",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 setzen die EU-Kommission und nationale Behörden aktiv die Transparenzvorgaben aus Artikel 50 des AI Acts durch: Chatbots und interaktive KI-Systeme müssen offenlegen, dass Nutzer mit KI statt einem Menschen interagieren, Deepfakes müssen gekennzeichnet werden, und KI-generierte Inhalte benötigen maschinenlesbare Markierungen. Verstösse können mit Bussgeldern von bis zu 15 Millionen Euro oder 3% des weltweiten Jahresumsatzes geahndet werden, während die Pflichten für Hochrisiko-Systeme (Annex III) im Rahmen des Digital-Omnibus-Pakets bis Dezember 2027 verschoben wurden.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "China erlässt erstes nationales Regelwerk für KI-Agenten",
+      "region": "Global",
+      "detail": "Mit den 'Implementation Opinions on intelligent agents', seit Juli 2026 in Kraft, führt China als eines der ersten Länder verbindliche Vorgaben speziell für autonome KI-Agenten ein: Anbieter generativer KI müssen sichtbare Kennzeichnungen sowie Metadaten- und Wasserzeichen-Herkunftsnachweise in ihre Produkte integrieren. Das Regelwerk positioniert China im internationalen Wettlauf um KI-Governance neben der EU und den USA, die ihrerseits an einem einheitlichen Bundesstandard arbeiten.",
+      "url": "https://theaiforest.com/ai-regulation-news-2026-us-eu-global-updates/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-24",
+  "name": "Grok Build",
+  "tagline": "xAIs vollständig quelloffener Coding-Agent für die Kommandozeile",
+  "beschreibung": "Grok Build ist xAIs Terminal-natives Coding-Agent-Tool, vergleichbar mit Claude Code oder Codex CLI, und läuft standardmässig auf Grok 4.6 mit 500.000 Token Kontextfenster inklusive Bild- und Text-Input. Nach anfänglichen Datenschutz-Bedenken hat xAI die komplette Rust-Codebasis (rund 844.000 Zeilen) unter Apache-2.0-Lizenz vollständig als Open Source veröffentlicht. Besonders auffällig ist die Fähigkeit, aus einem einzigen Prompt bis zu acht parallele Sub-Agenten zu starten, die jeweils an einem eigenen Branch der Codebasis arbeiten.",
+  "useCase": "Ein Entwicklerteam lässt Grok Build ein grösseres Refactoring in mehrere unabhängige Teilaufgaben zerlegen, die als parallele Sub-Agenten gleichzeitig an separaten Branches arbeiten – das Team muss die Ergebnisse danach nur noch reviewen und mergen, statt jeden Schritt manuell zu koordinieren.",
+  "url": "https://x.ai/news/grok-build-open-source",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding-Agent", "Open Source", "CLI", "xAI"]
+}
