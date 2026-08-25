@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Hugging Face Berichten zufolge in Verkaufsgesprächen bei 13 Milliarden Dollar Bewertung",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b/",
+      "zusammenfassung": "Die Open-Source-KI-Plattform Hugging Face soll laut mehreren Berichten Übernahmeangebote bei einer Bewertung von rund 13 Milliarden Dollar prüfen – fast das Dreifache der 4,5 Milliarden Dollar aus der Series-D-Runde 2023. Erst Anfang des Jahres hatte Hugging Face eine 500-Millionen-Dollar-Investition von Nvidia zu einer 7-Milliarden-Bewertung abgelehnt, um keinen dominanten Einzelinvestor zuzulassen; wer nun als Käufer im Gespräch ist, ist bislang unklar.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia erwägt Milliarden-Investition in Perplexity bei über 30 Milliarden Dollar Bewertung",
+      "quelle": "The Information",
+      "quelleUrl": "https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal",
+      "zusammenfassung": "Nvidia verhandelt über eine Beteiligung an einer neuen Finanzierungsrunde von Perplexity, die den KI-Such-Anbieter mit über 30 Milliarden Dollar bewerten würde – mehr als 50% über der letzten Runde vor einem Jahr. Perplexitys annualisierter Umsatz ist im Jahresverlauf von unter 250 Millionen auf über 750 Millionen Dollar gestiegen, was das Interesse grosser strategischer Investoren an profitablen KI-Such- und Agenten-Produkten unterstreicht.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI launcht GPT-5.6-Cyber und teilt Daybreak-Programm in Blue- und Red-Zugangsstufen",
+      "quelle": "The Hacker News",
+      "quelleUrl": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "zusammenfassung": "OpenAI stellt mit GPT-5.6-Cyber ein spezialisiertes Cybersicherheits-Modell vor, das 95% fortgeschrittener Cyber-Aufgaben löst (gegenüber 1,5% beim Basismodell GPT-5.6 Sol) und dabei gezielt gelockerte Leitplanken für Dual-Use-Aufgaben wie Exploit-Entwicklung besitzt. Der Zugang läuft über das neu aufgeteilte Daybreak-Programm: 'Blue' für verifizierte Verteidiger mit angepassten Sicherheitsmodellen, 'Red' für fortgeschrittene Sicherheitsforschung inklusive Schwachstellensuche und Exploit-Validierung.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Googles A2A-Protokoll wird Teil der Agentic AI Foundation mit über 250 Mitgliedern",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "zusammenfassung": "Das von Google entwickelte Agent2Agent-Protokoll (A2A) wechselt von der Linux Foundation in die spezialisierte Agentic AI Foundation (AAIF), die seit ihrer Gründung im Dezember 2025 von unter 40 auf über 250 Mitglieder gewachsen ist – darunter AWS, Anthropic, Microsoft, OpenAI, Bloomberg und Cloudflare als Platinum-Signatare. Ziel ist ein neutrales, offenes Zuhause für Interoperabilitäts-Standards, damit Agenten verschiedener Anbieter ohne massgeschneiderte Integrationen zusammenarbeiten können.",
+      "kategorie": "Developer-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "SoftBank plant Rekord-Anleihe über 6,3 Milliarden Dollar zur Finanzierung der OpenAI-Beteiligung",
+      "quelle": "AI News August 2026 Roundup",
+      "quelleUrl": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "zusammenfassung": "SoftBank bereitet eine Rekord-Retail-Anleihe über rund 1 Billion Yen (6,3 Milliarden Dollar) vor, um den Brückenkredit hinter seiner milliardenschweren OpenAI-Beteiligung zurückzuzahlen und weitere KI-Deals zu finanzieren. Die Anleihe zeigt, wie stark sich SoftBank finanziell auf den Erfolg seiner KI-Wetten verlässt, während gleichzeitig die Bewertungen führender KI-Labore weiter steigen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

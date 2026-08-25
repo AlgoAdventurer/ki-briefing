@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-25",
+  "name": "Amazon Bedrock AgentCore Web Search",
+  "tagline": "Verwaltetes Web-Such-Tool, das KI-Agenten in aktuellem, zitierfähigem Wissen erdet",
+  "beschreibung": "Amazon hat sein Web-Search-Tool für Bedrock AgentCore zur allgemeinen Verfügbarkeit gebracht: Agenten erhalten darüber relevante Snippets, Quell-URLs, Titel und Publikationsdaten, ohne dass Suchanfragen die AWS-Umgebung verlassen oder an Drittanbieter-Suchmaschinen gehen. Das Tool läuft über einen MCP-basierten Connector auf dem AgentCore Gateway und kombiniert Amazons eigenen Web-Index mit strukturierten Knowledge-Graph-Daten. Mit dem jüngsten Update lassen sich Domain-Filter (bis zu 100 pro Liste) und Veröffentlichungsdatums-Bereiche direkt im Tool-Aufruf setzen, zudem expandiert der Dienst nach Europa (Irland) und Asien-Pazifik (Tokio).",
+  "useCase": "Ein Unternehmen baut einen internen Recherche-Agenten, der aktuelle Marktdaten nur aus verifizierten, freigegebenen Domains zieht und dabei nachweisbar keine sensiblen Anfragen an externe Suchanbieter weitergibt – wichtig für regulierte Branchen mit strengen Datenschutzanforderungen.",
+  "url": "https://aws.amazon.com/blogs/aws/announcing-web-search-on-amazon-bedrock-agentcore-ground-your-ai-agents-in-current-accurate-web-knowledge/",
+  "kategorie": "API",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Agents", "API", "AWS", "MCP", "Web Search"]
+}

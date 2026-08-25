@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-5.6-Cyber",
+      "version": "5.6",
+      "anbieter": "OpenAI",
+      "detail": "Auf GPT-5.6 Sol basierendes, für Cybersicherheit spezialisiertes Modell mit gelockerten Leitplanken für Dual-Use-Aufgaben wie Schwachstellensuche und Exploit-Entwicklung. Löst laut OpenAI 95% fortgeschrittener Cyber-Testaufgaben (vs. 57,3% beim Vorgänger GPT-5.5-Cyber) und ist nur über das neu eingeführte Daybreak-Red-Zugangsprogramm für verifizierte Sicherheitsforschende verfügbar.",
+      "url": "https://thehackernews.com/2026/08/openai-launches-gpt-56-cyber-with.html",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google",
+      "detail": "Nur drei Wochen nach Gemini 3.6 Flash veröffentlicht, positioniert Google das neue Flash-Modell als bislang leistungsfähigstes Workhorse für Coding und Agenten-Workflows. Auf dem AutomationBench-Benchmark für Unternehmens-Automatisierung steigt der Score von 17,0% auf 30,4%, bei gleichzeitig etwa halbiertem Preis (0,75$/Mio. Input-Token bis Ende 2026) gegenüber dem Vorgänger.",
+      "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
+      "bild": ""
+    }
+  ]
+}

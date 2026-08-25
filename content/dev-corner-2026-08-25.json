@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Amazon Bedrock AgentCore Web Search: Domain-Filter und Datums-Range direkt im Tool-Call",
+      "typ": "API",
+      "detail": "Das GA-Release von Web Search auf Bedrock AgentCore erlaubt es nun, include/exclude-Domain-Listen (bis zu 100 Einträge) sowie einen Veröffentlichungsdatums-Bereich direkt beim Tool-Aufruf mitzugeben, zusätzlich zu Gateway-weiten Allowlists für Admins. Der Dienst läuft komplett innerhalb der AWS-Umgebung des Kunden über einen MCP-Connector und expandiert jetzt nach Europa (eu-west-1) und Asien-Pazifik (ap-northeast-1) – relevant für alle, die RAG- oder Such-Agenten bauen, ohne Anfragen an Drittanbieter-Suchmaschinen zu leaken.",
+      "url": "https://aws.amazon.com/about-aws/whats-new/2026/08/web-search-amazon-bedrock/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Developer Platform: Managed Agent Controls und Domain-Restriktionen für web_search/web_fetch",
+      "typ": "API / SDK",
+      "detail": "Anthropic erweitert die Claude Developer Platform um Session-Budgets, Advisor-Modelle, Inference-Geo-Pinning und GitHub-gehostete Skills für Managed Agents. Neu lässt sich zudem über allowed_domains bzw. blocked_domains im Tool-Eintrag direkt einschränken, welche Websites die web_search- und web_fetch-Tools eines Agenten erreichen dürfen – nützlich, um autonome Agenten in produktiven Umgebungen enger auf vertrauenswürdige Quellen zu begrenzen.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "A2A wechselt zur Agentic AI Foundation: ein neutrales Zuhause für Agent-Interoperabilität",
+      "typ": "Standard / Protokoll",
+      "detail": "Mit dem Wechsel des Agent2Agent-Protokolls von der Linux Foundation zur spezialisierten Agentic AI Foundation (AAIF) entsteht ein gemeinsames Governance-Dach für Agent-Kommunikationsstandards neben MCP. Für Entwickler bedeutet das mittelfristig verlässlichere, herstellerübergreifende Interop-Garantien beim Verknüpfen von Agenten unterschiedlicher Plattformen (Google, Microsoft, AWS, Anthropic u.a. sind Platinum-Mitglieder), statt proprietärer Punkt-zu-Punkt-Integrationen.",
+      "url": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "codebeispiel": ""
+    }
+  ]
+}

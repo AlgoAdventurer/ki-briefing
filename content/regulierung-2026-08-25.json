@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Büro verhängt Berichten zufolge erste Bussgelder unter dem AI Act",
+      "region": "EU",
+      "detail": "Nach dem Start der aktiven Durchsetzung am 2. August 2026 sollen laut Branchenberichten erste formelle Bussgelder in Höhe von insgesamt rund 47 Millionen Euro gegen drei Unternehmen verhängt worden sein – die ersten nennenswerten Sanktionen seit der vollen Anwendung des AI Acts. Sollte sich das bestätigen, wäre es ein deutliches Signal, dass die EU ihre Transparenz- und Hochrisiko-Vorgaben nicht nur auf dem Papier durchsetzt.",
+      "url": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "UK: AI Regulation and Safety Bill passiert House of Commons",
+      "region": "Global",
+      "detail": "Das britische AI Regulation and Safety Bill hat das Unterhaus passiert, der Royal Assent wird für Oktober 2026 erwartet. Damit bekäme Grossbritannien nach Jahren eines bewusst leichten, prinzipienbasierten Ansatzes erstmals ein umfassenderes gesetzliches Rahmenwerk für KI-Sicherheit – ein Kurswechsel, der die regulatorische Landschaft neben EU und USA weiter fragmentiert.",
+      "url": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "USA: Bundes-Präemptionsgesetz für KI-Regulierung stockt im Repräsentantenhaus",
+      "region": "USA",
+      "detail": "Der 'Great American AI Act', der mit einer strikten Präemptionsklausel bundesstaatliche KI-Gesetze aushebeln sollte, kommt im Repräsentantenhaus nicht voran. Bundesstaaten wie Kalifornien und Colorado setzen ihre eigenen KI-Regeln daher vorerst unvermindert weiter durch, während auf Bundesebene weiterhin Uneinigkeit über einen einheitlichen Standard herrscht.",
+      "url": "https://cubbbix.com/blog/ai-regulation-august-2026-global-update/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

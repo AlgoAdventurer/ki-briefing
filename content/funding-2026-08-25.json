@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Perplexity",
+      "betrag": "$30B+ (Bewertung)",
+      "runde": "Investitionsgespräche",
+      "investoren": "Nvidia (in Verhandlung)",
+      "beschreibung": "Nvidia verhandelt über eine Beteiligung an Perplexity zu einer Bewertung von über 30 Milliarden Dollar – über 50% mehr als bei der letzten Runde vor einem Jahr. Perplexitys annualisierter Umsatz ist binnen eines Jahres von unter 250 Millionen auf über 750 Millionen Dollar gewachsen, was das Vertrauen strategischer Investoren in profitable KI-Such-Produkte unterstreicht.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Hugging Face",
+      "betrag": "$13B (Bewertung)",
+      "runde": "Übernahmegespräche",
+      "investoren": "nicht öffentlich bekannt",
+      "beschreibung": "Die Open-Source-KI-Plattform soll Berichten zufolge Übernahmeangebote bei rund 13 Milliarden Dollar prüfen – fast das Dreifache der letzten offiziellen Bewertung von 2023. Zuvor hatte Hugging Face eine 500-Millionen-Dollar-Investition von Nvidia abgelehnt, um keinen dominanten Einzelinvestor zuzulassen.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "SoftBank",
+      "betrag": "¥1T / $6.3B",
+      "runde": "Anleihe",
+      "investoren": "Retail-Investoren (Japan)",
+      "beschreibung": "SoftBank plant eine Rekord-Retail-Anleihe, um den Brückenkredit hinter seiner grossen OpenAI-Beteiligung zurückzuzahlen und weitere KI-Deals zu finanzieren – ein Zeichen dafür, wie stark der Konzern finanziell auf den Erfolg seiner KI-Wetten setzt.",
+      "bild": ""
+    }
+  ]
+}

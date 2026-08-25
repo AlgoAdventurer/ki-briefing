@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-25",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Grounded Q&A-Assistent für Regelwerk, Bahnlegung und Wettkampfdetails via Web-Search-Agent",
+      "kontext": "Amazon Bedrock AgentCore Web Search zeigt, wie sich ein verwaltetes, zitierfähiges Such-Tool mit Domain-Filtern für Agenten in eine bestehende Cloud-Umgebung integrieren lässt, ohne Anfragen an externe Suchanbieter zu leaken.",
+      "umsetzung": "Contoura könnte einen Assistenten bauen, der Athleten Fragen zu Wettkampf-Ausschreibungen, IOF-Regeln oder Bahnlegungs-Konventionen beantwortet und dabei gezielt nur auf freigegebene Domains wie o-l.ch, SOLV oder IOF zugreift – mit nachvollziehbaren Quellenangaben statt reiner Chatbot-Antworten ohne Beleg.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Günstigere automatisierte Trainingskommentare dank dauerhaft niedrigerer Claude-Sonnet-Preise",
+      "kontext": "Anthropic hat die eigentlich zum 1. September 2026 geplante Preiserhöhung für Claude Sonnet 5 zurückgenommen und die bisherigen Einführungspreise dauerhaft gemacht – Modelle mit starkem Reasoning bleiben damit für Volumenanwendungen günstiger als geplant.",
+      "umsetzung": "Contoura könnte automatisch generierte Trainings- und Wettkampfkommentare (z.B. Zusammenfassung von Split-Zeiten-Trends oder Fehlerschwerpunkten pro Athlet) auf Basis von Claude Sonnet 5 im grösseren Umfang anbieten, ohne dass die Kosten pro Athlet und Monat wie ursprünglich erwartet steigen.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Offene Agent-Interoperabilität für Datenaustausch mit externen Coaching-Tools",
+      "kontext": "Mit dem A2A-Protokoll unter dem Dach der Agentic AI Foundation entsteht ein wachsender, herstellerübergreifender Standard dafür, wie Agenten verschiedener Plattformen sicher miteinander kommunizieren, statt jede Integration einzeln zu bauen.",
+      "umsetzung": "Contoura könnte seine Trainings- und Performance-Daten künftig über einen A2A-kompatiblen Agenten bereitstellen, sodass Athleten sie direkt mit anderen Coaching- oder Kalender-Agenten verknüpfen können (z.B. automatische Trainingsplan-Anpassung basierend auf Performance-Index-Trends), ohne dass Contoura für jede externe Plattform eine eigene Schnittstelle entwickeln muss.",
+      "aufwand": "hoch",
+      "prioritaet": "niedrig"
+    }
+  ]
+}
