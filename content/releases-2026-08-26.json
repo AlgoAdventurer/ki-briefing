@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-Live",
+      "version": "GPT-Live-1 / GPT-Live-1 mini",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI rollt sein neues Full-Duplex-Sprachmodell GPT-Live vollständig für alle zahlenden ChatGPT-Nutzer aus, der Rollout für Free-Nutzer läuft. GPT-Live kann gleichzeitig zuhören und sprechen, wodurch sich Gesprächspausen, Unterbrechungen und natürliche Füllwörter wie 'mhm' deutlich menschlicher anfühlen als bei bisherigen Voice-Modi. Das Modell nutzt zudem Websuche, Erinnerungen und kann Bilder in dasselbe Gespräch einbeziehen.",
+      "url": "https://openai.com/index/introducing-gpt-live/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Wan3.0",
+      "version": "3.0",
+      "anbieter": "Alibaba",
+      "detail": "Alibabas neues Videomodell Wan3.0 erzeugt aus Dokumenten wie Word-, PowerPoint- oder PDF-Dateien fertige Videoclips von bis zu 30 Sekunden Länge – doppelt so lang wie beim Vorgängermodell. Der Launch erfolgt einen Tag nach einer 10-Milliarden-Dollar-Aktienplatzierung, mit der Alibaba seine massiv steigenden KI-Infrastrukturkosten finanziert, und positioniert das Modell für Werbung, Kurzfilme und Tourismus-Marketing.",
+      "url": "https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Mac mini",
+      "version": "M6",
+      "anbieter": "Apple",
+      "detail": "Apples neuer Mac mini bringt den 2-nm-Chip M6 mit 12-Kern-CPU, 12-Kern-GPU und einer doppelten 16-Kern Neural Engine, die gezielt für On-Device-KI-Workloads ausgelegt ist. Zum Einstiegspreis von 899 Dollar positioniert Apple das Gerät als leistbaren Desktop-Rechner für lokale KI-Inferenz ohne Cloud-Abhängigkeit.",
+      "url": "https://techstartups.com/2026/08/25/top-tech-news-today-august-25-2026-apple-cisco-infineon-openai-meta-nvidia-spacex-more/",
+      "bild": ""
+    }
+  ]
+}

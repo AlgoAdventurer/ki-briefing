@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Poolside",
+      "betrag": "$6B (Lizenzdeal) + $1B (Investition)",
+      "runde": "Strategische Partnerschaft",
+      "investoren": "Nvidia",
+      "beschreibung": "Nvidia lizenziert für 6 Milliarden Dollar Poolsides interne 'Model Factory' und übernimmt über 100 Poolside-Ingenieure für das eigene Nemotron-Open-Weight-Projekt, zusätzlich investiert Nvidia weitere 1 Milliarde Dollar direkt in Poolside zu 12 Milliarden Dollar Pre-Money-Bewertung. Der Deal rettet Poolside, das zuvor eine wichtige Rechencluster-Finanzierung verloren hatte, und ist Teil von Nvidias Strategie für ein starkes US-Gegengewicht zu offenen chinesischen Modellen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "XPeng Robotics",
+      "betrag": "$900M+",
+      "runde": "Series A",
+      "investoren": "IDG Capital (Lead), Gaorong Ventures, Tencent, Alibaba",
+      "beschreibung": "Die humanoide-Roboter-Sparte von XPeng erzielt in ihrer ersten externen Runde eine Bewertung von 6,3 Milliarden Dollar – die grösste je verzeichnete private Einzelfinanzierung im chinesischen Embodied-AI-Sektor. Das Kapital fliesst in die Serienproduktion des Roboters IRON, der bis Ende 2026 monatlich zu 1.000 Einheiten gefertigt werden soll.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Airbound",
+      "betrag": "$37M",
+      "runde": "Series A",
+      "investoren": "Greenoaks (Lead), DoorDash, Lightspeed",
+      "beschreibung": "Airbound entwickelt autonome Frachtdrohnen, die leichter sind als ihre eigene Zuladung, und hat damit bereits über 13.000 autonome Missionen in Indien absolviert. Die Runde zeigt, wie sich KI-gestützte Autonomie zunehmend in die physische Logistik- und Lieferkette ausbreitet.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Niederländische Datenschutzbehörde verhängt 825-Millionen-Euro-DSGVO-Strafe gegen Uber",
+      "region": "EU / Niederlande",
+      "detail": "Die niederländische Datenschutzbehörde bestraft Uber mit 825 Millionen Euro, weil das Unternehmen zwischen 2018 und 2022 Fahrerkonten per automatisiertem System ohne menschliche Überprüfung und ohne ausreichende Information der Betroffenen sperrte oder deaktivierte. Es ist die zweithöchste je verhängte DSGVO-Busse und ein deutliches Signal an alle Unternehmen, die automatisierte Entscheidungssysteme ohne Human-in-the-Loop gegen Nutzer oder Mitarbeitende einsetzen – Uber kündigte bereits Berufung an.",
+      "url": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Bundesweiter Prozess gegen Meta wegen absichtlich süchtig machender Algorithmen für Minderjährige",
+      "region": "USA",
+      "detail": "Seit dem 18. August läuft vor einem US-Bundesgericht in Kalifornien ein auf sechs Wochen angesetzter Prozess, in dem eine Koalition von rund 30 US-Bundesstaaten Meta vorwirft, Instagram und Facebook bewusst mit suchtfördernden Mechanismen wie Endlos-Scroll, Autoplay und engagement-optimierten Algorithmen für Jugendliche gebaut zu haben. Der Fall gilt als möglicher 'Big-Tobacco-Moment' für Social-Media-Plattformen und könnte weitreichende Vorgaben für algorithmische Empfehlungssysteme gegenüber Minderjährigen nach sich ziehen.",
+      "url": "https://www.cnbc.com/2026/08/17/meta-attorneys-general-california-federal-trial-astronomical-consequences.html",
+      "auswirkung": "mittel"
+    }
+  ]
+}

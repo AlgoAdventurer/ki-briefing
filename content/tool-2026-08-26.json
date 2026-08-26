@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-26",
+  "name": "Cloudflare Kitesurf",
+  "tagline": "Ein schlanker, zustandsloser Browser, der speziell für KI-Agenten statt für Menschen gebaut ist",
+  "beschreibung": "Kitesurf ist Cloudflares neuer Browser, der komplett in V8-Isolates auf Cloudflare Workers läuft und gezielt auf das optimiert ist, was Agenten brauchen: niedriger Tokenverbrauch, Skalierbarkeit, Performance und Kosten – statt auf Tabs, Themes, Erweiterungen oder pixelgenaues Rendering wie ein klassischer Chromium-Browser. Für hochvolumige, einfache Browsing-Aufgaben wie Scraping, Linkvorschau-Generierung oder Screenshots verbraucht Kitesurf 3- bis 7-mal weniger CPU und Arbeitsspeicher als Chromium. Der Browser ist über einen Chrome-DevTools-Protocol-Endpunkt direkt mit bestehendem Playwright-, Puppeteer- und MCP-Code kompatibel.",
+  "useCase": "Ein Entwickler baut einen Agenten, der täglich tausende Produktseiten oder Statusdashboards abgrast und daraus strukturierte Daten oder Screenshots extrahiert – mit Kitesurf läuft der bestehende Playwright-Code nahezu unverändert, aber deutlich günstiger und ressourcenschonender als mit einem klassischen Chromium-Container.",
+  "url": "https://developers.cloudflare.com/browser-run/kitesurf/",
+  "kategorie": "Developer-Tools / Infrastruktur",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["ai-agents", "browser-automation", "cloudflare", "mcp"]
+}

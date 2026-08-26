@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Lokale KI-Auswertung direkt am Wettkampfort mit On-Device-Chips wie Apples M6",
+      "kontext": "Apples neuer Mac mini mit M6-Chip bringt eine doppelte 16-Kern Neural Engine speziell für On-Device-KI zum Einstiegspreis von 899 Dollar – leistungsstarke lokale Inferenz wird damit für kleine Vereine und Trainer erschwinglich.",
+      "umsetzung": "Contoura könnte eine leichtgewichtige, lokal laufende Analysekomponente anbieten, die auch ohne Internetverbindung am Waldrand oder in der Wettkampfzentrale direkt nach dem Zieleinlauf erste Splitzeit- und Fehleranalysen berechnet und erst später mit der Cloud-Version synchronisiert. Das löst ein reales Problem bei OL-Wettkämpfen in funklochreichen Wäldern und senkt gleichzeitig laufende API-Kosten.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Athleten-Gedächtnis als durchsuchbares Dateisystem statt starrer Datenbank-Tabellen",
+      "kontext": "ByteDances Open-Source-Projekt OpenViking zeigt, wie sich Agenten-Memory, Trainingswissen und Skills als virtuelles Dateisystem mit gestuften Detailebenen organisieren lassen, statt als klassische Vektor-Datenbank.",
+      "umsetzung": "Contoura könnte die Trainings- und Wettkampfhistorie eines Athleten (Splitzeiten, Fehlerstatistiken, Trainerkommentare über Jahre) nach diesem Prinzip strukturieren: eine kompakte Kurzübersicht pro Saison, eine mittlere Detailebene pro Wettkampf und volle Rohdaten pro Lauf, die ein KI-Coaching-Agent bei Bedarf gezielt nachlädt. Das würde präzisere, nachvollziehbare Trainingsempfehlungen ermöglichen, ohne bei jeder Anfrage die komplette Historie in den Kontext laden zu müssen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Automatisch generierte Kurzvideos aus Wettkampfdaten für Athleten und Sponsoren",
+      "kontext": "Alibabas neues Videomodell Wan3.0 erzeugt aus Dokumenten und Präsentationen fertige 30-sekündige Videoclips – eine Fähigkeit, die sich direkt auf strukturierte Sportdaten übertragen lässt.",
+      "umsetzung": "Contoura könnte aus GPS-Track, Splitzeiten-Tabelle und Performance-Index eines Laufs automatisch ein kurzes Zusammenfassungsvideo generieren lassen, das Athleten in sozialen Medien teilen oder Vereine für Sponsoren-Reportings nutzen können – ganz ohne manuellen Videoschnitt.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

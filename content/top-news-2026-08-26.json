@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Uber muss 825 Millionen Euro DSGVO-Strafe wegen automatisierter Fahrer-Sperrungen zahlen",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/23/uber-faces-fine-of-nearly-1b-over-automated-driver-suspensions/",
+      "zusammenfassung": "Die niederländische Datenschutzbehörde verhängt gegen Uber eine Strafe von 825 Millionen Euro, weil das Unternehmen Fahrerkonten zwischen 2018 und 2022 per Algorithmus ohne menschliche Prüfung sperrte oder deaktivierte. Es ist die zweithöchste je verhängte DSGVO-Strafe nach der 1,2-Milliarden-Euro-Busse gegen Meta 2023 und zeigt, wie ernst Regulierer automatisierte Entscheidungssysteme ohne Human-in-the-Loop inzwischen nehmen.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia zahlt 6 Milliarden Dollar an Poolside, um eigenes offenes KI-Modell gegen DeepSeek und Qwen zu bauen",
+      "quelle": "Forbes",
+      "quelleUrl": "https://www.forbes.com/sites/jonmarkman/2026/08/24/nvidia-pays-poolside-6b-to-license-its-model-factory-and-109-workers/",
+      "zusammenfassung": "Nvidia lizenziert für 6 Milliarden Dollar die 'Model Factory' des Startups Poolside und übernimmt zusätzlich mehr als 100 dessen Ingenieure für das hauseigene Nemotron-Open-Weight-Projekt – parallel investiert Nvidia weitere 1 Milliarde Dollar direkt in Poolside bei 12 Milliarden Dollar Pre-Money-Bewertung. Der Deal ist Teil von Jensen Huangs Strategie, ein starkes US-amerikanisches Gegengewicht zu offenen chinesischen Modellen wie DeepSeek, Kimi und Qwen aufzubauen.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic meldet über 11,5 Milliarden Dollar Quartalsumsatz und ersten operativen Gewinn",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/15/anthropic-revenue-jumps-to-over-11point5-billion-in-q2-report.html",
+      "zusammenfassung": "Anthropic meldet für das zweite Quartal 2026 vorläufige Einnahmen von über 11,5 Milliarden Dollar – gegenüber 787 Millionen Dollar im Vorjahresquartal – und erstmals einen positiven bereinigten operativen Gewinn. Das Unternehmen erreicht die Profitabilität damit rund zwei Jahre früher als ursprünglich intern geplant, während Konkurrent OpenAI weiterhin deutlich höhere Verluste ausweist.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "XPengs Robotik-Sparte sammelt über 900 Millionen Dollar für humanoide Roboter ein",
+      "quelle": "Electrek",
+      "quelleUrl": "https://electrek.co/2026/08/24/xpeng-robotics-900m-iron-humanoid-robot-valuation/",
+      "zusammenfassung": "Die Robotik-Tochter des chinesischen E-Auto-Herstellers XPeng erzielt in ihrer ersten externen Finanzierungsrunde über 900 Millionen Dollar bei einer Bewertung von 6,3 Milliarden Dollar – die grösste bekannte Einzelrunde im chinesischen Embodied-AI-Sektor. Das Geld fliesst in die Serienproduktion des humanoiden Roboters IRON, von dem XPeng bis Ende 2026 monatlich 1.000 Einheiten bauen will.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Alibaba veröffentlicht Video-Modell Wan3.0 einen Tag nach 10-Milliarden-Dollar-Aktienplatzierung",
+      "quelle": "TechNode",
+      "quelleUrl": "https://technode.com/2026/08/24/alibaba-launches-wan3-0-video-model-with-30-second-generation-and-document-input/",
+      "zusammenfassung": "Alibaba launcht mit Wan3.0 ein Videomodell, das aus Dokumenten wie PDFs, Word- und PowerPoint-Dateien fertige 30-sekündige Videoclips erzeugt – doppelt so lang wie beim Vorgänger. Der Launch erfolgt einen Tag nach einer 10-Milliarden-Dollar-Aktienplatzierung, mit der Alibaba seine stark steigenden KI-Infrastrukturkosten finanziert.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-26",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenViking: ByteDances quelloffene Kontext-Datenbank für Agenten als Dateisystem",
+      "typ": "Open Source / Infrastruktur",
+      "detail": "OpenViking von ByteDances Volcano-Engine-Team bricht mit dem klassischen Vektor-Datenbank-Ansatz von RAG-Systemen und organisiert Memory, Ressourcen und Skills eines Agenten stattdessen als virtuelles Dateisystem unter dem viking://-Protokoll. Agenten navigieren ihren eigenen Kontext mit ls, tree und find statt über eine Blackbox-Ähnlichkeitssuche, Inhalte werden gestuft in drei Detailebenen (Abstract, Overview, Details) bei Bedarf nachgeladen, und jeder Zugriff hinterlässt eine nachvollziehbare, debugbare Trajektorie.",
+      "url": "https://github.com/volcengine/OpenViking",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "mattpocock/skills: Wiederverwendbare Agent-Skills als Claude-Code-Plugin",
+      "typ": "Open Source / Tool",
+      "detail": "Der bekannte TypeScript-Entwickler Matt Pocock veröffentlicht seine intern genutzten Agent-Skills als Markdown-Dateien, die typische Fehlermuster von Claude Code, Codex und ähnlichen Coding-Agenten beheben sollen. Das Set lässt sich per 'claude plugins install mattpocock-skills' als schreibgeschütztes, sich automatisch aktualisierendes Bundle installieren oder über skills.sh als editierbare Dateien ins eigene Projekt kopieren – ein einfacher Weg, um bewährte Agenten-Workflows ins eigene Team zu holen, ohne sie selbst zu entwickeln.",
+      "url": "https://github.com/mattpocock/skills",
+      "codebeispiel": "claude plugins install mattpocock-skills"
+    },
+    {
+      "id": 3,
+      "titel": "Claude Tag in Slack liest jetzt ganze Gesprächsverläufe statt einzelner Nachrichten",
+      "typ": "API / Produkt-Update",
+      "detail": "Anthropic hat Claude Tag, den Slack-Agenten von Claude, so aktualisiert, dass er den kompletten Gesprächskontext eines Kanals einbezieht statt jede Nachricht isoliert zu bewerten – laut Anthropic wird die Entscheidung, wann (und wann nicht) sich der Agent unaufgefordert einschaltet, dadurch rund 30% besser. Für Entwickler, die eigene proaktive Team-Agenten bauen, zeigt das Update, wie wichtig Konversationskontext gegenüber Einzelnachricht-Klassifikation für sinnvolles, nicht nerviges Eingreifen ist.",
+      "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+      "codebeispiel": ""
+    }
+  ]
+}
