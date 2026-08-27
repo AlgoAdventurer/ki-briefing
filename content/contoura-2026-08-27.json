@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Eigener MCP-Server für Contoura-Trainingsdaten",
+      "kontext": "Die aktuelle MCP-Roadmap zeigt einen klaren Trend zu progressiver Tool-Discovery und standardisierten Datenanbindungen – KI-Assistenten wie Claude, ChatGPT oder Gemini sollen externe Datenquellen zunehmend über MCP statt über proprietäre APIs ansprechen.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server anbieten, über den Athleten und Trainer ihre Splitzeiten, Fehlerstatistiken und Performance-Index direkt aus Claude, ChatGPT oder einem eigenen Coaching-Bot abfragen und analysieren lassen können – ganz ohne eigene App zu öffnen. Das würde Contoura-Daten dort verfügbar machen, wo Trainer ohnehin schon mit KI-Assistenten arbeiten, ähnlich wie es Impala für Fördergeld-Daten bereits umgesetzt hat.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Agentisches Coaching-Paket nach Vorbild von Gemini Enterprise für Legal",
+      "kontext": "Googles neue branchenspezifischen Gemini-Enterprise-Pakete für Recht und Finanzwesen bündeln vorgefertigte Skills, Datenkonnektoren und eine Governance-Schicht für Audit und Zugriffskontrolle – ein Baukasten-Ansatz, der sich direkt auf Coaching-Software übertragen lässt.",
+      "umsetzung": "Contoura könnte ein 'Coaching-Agent'-Paket bauen: vorgefertigte Skills für Splitzeit-Analyse, automatische Trainingskommentare und Fehlermuster-Erkennung, kombiniert mit einer Governance-Ansicht, über die Vereinstrainer nachvollziehen können, welche KI-Empfehlung auf welchen Rohdaten beruht – wichtig, sobald mehrere Trainer gemeinsam mit KI-Unterstützung an denselben Athleten arbeiten.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

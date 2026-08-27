@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Auradine",
+      "betrag": "$110M",
+      "runde": "Series A",
+      "investoren": "Mayfield Fund, Samsung Catalyst",
+      "beschreibung": "Auradine entwickelt energieeffiziente Compute-Plattformen speziell für KI-Workloads und positioniert sich damit als Antwort auf die explodierenden Energiekosten von KI-Rechenzentren. Die Runde zeigt, wie stark Investoren aktuell in Infrastruktur abseits der klassischen Nvidia-GPU-Wertschöpfungskette wetten.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Apollo Atomics",
+      "betrag": "$31M",
+      "runde": "Seed",
+      "investoren": "Y Combinator, Alumni Ventures",
+      "beschreibung": "Apollo Atomics baut kompakte Kernreaktoren, die direkt neben KI-Rechenzentren stehen sollen, um deren rasant wachsenden Energiehunger zu decken. Die Runde ist Teil eines breiteren Trends, bei dem KI-Infrastrukturbedarf zunehmend Investitionen in neue Energieerzeugung auslöst.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Astromech",
+      "betrag": "$20M",
+      "runde": "Seed",
+      "investoren": "ARCH Venture Partners, Builders VC, PEAK6 Investments",
+      "beschreibung": "Astromech nutzt KI zur Analyse genomischer Daten und wird bei nur 20 Millionen Dollar frischem Kapital bereits mit 3,8 Milliarden Dollar bewertet. Die hohe Bewertung zeigt, wie gefragt KI-Anwendungen in der biomedizinischen Forschung derzeit bei Investoren sind.",
+      "bild": ""
+    }
+  ]
+}

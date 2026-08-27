@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Meta einigt sich auf bis zu 16,68 Milliarden Dollar Vergleich wegen Jugendschutz-Vorwürfen",
+      "region": "USA",
+      "detail": "Nach einem laufenden Bundesprozess in Kalifornien einigt sich Meta mit rund 29 US-Bundesstaaten auf einen Vergleich von bis zu 16,68 Milliarden Dollar wegen absichtlich süchtig machender Algorithmen bei Instagram und Facebook für Minderjährige. Der Vergleich verpflichtet Meta zu täglichen Nutzungslimits und Nachtsperren für Teenager, strengerer Altersverifikation, neuen Eltern-Kontrollen sowie Zahlungen für Jugend-Präventionsprogramme – einer der bisher grössten Vergleiche zum Thema Social-Media-Schäden bei Kindern.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-agree-to-settle-teen-social-media-harm-case",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Bundesnetzagentur übernimmt zentrale KI-Aufsicht in Deutschland",
+      "region": "Deutschland / EU",
+      "detail": "Mit dem neuen KI-Marktüberwachungs- und Innovationsförderungsgesetz (KI-MIG) ist die Bundesnetzagentur offizielle Marktüberwachungsbehörde, nationale Anlaufstelle und Beschwerdestelle für Verstösse gegen den EU AI Act in Deutschland. Das Gesetz schafft zugleich ein KI-Reallabor bei der Bundesnetzagentur, in dem vor allem kleine und mittlere Unternehmen neue KI-Systeme in kontrollierter Umgebung entwickeln und testen können – wichtig für alle Firmen, die KI-Produkte in Deutschland anbieten.",
+      "url": "https://www.heise.de/news/Neue-Befugnisse-Bundesnetzagentur-uebernimmt-KI-Aufsicht-in-Deutschland-11383935.html",
+      "auswirkung": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "name": "Jalapeño",
+      "version": "1. Generation",
+      "anbieter": "OpenAI",
+      "detail": "OpenAIs erster selbst entwickelter KI-Inferenz-Chip erreicht laut dem unabhängigen SemiAnalysis-Benchmark InferenceX 1,5- bis 1,9-mal mehr Rechenleistung pro Watt sowie deutlich niedrigere Latenz als Nvidias aktuelle Blackwell-Systeme. Die Produktion startet in kleinem Umfang Ende 2026, ein grösserer Rollout folgt 2027 – ein wichtiger Schritt für OpenAIs Unabhängigkeit von Nvidia-Hardware.",
+      "url": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini Enterprise für Legal",
+      "version": "Preview",
+      "anbieter": "Google Cloud",
+      "detail": "Googles neue branchenspezifische Agenten-Plattform für Kanzleien bündelt Skills für Vertragsprüfung, Rechtsrecherche und Regulierungs-Monitoring mit Konnektoren zu iManage, NetDocuments, Everlaw und Thomson Reuters. Freshfields, Cleary Gottlieb und Weil zählen zu den ersten Kunden der Preview-Version.",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini Enterprise für Financial Services",
+      "version": "Preview",
+      "anbieter": "Google Cloud",
+      "detail": "Parallel zum Legal-Paket veröffentlicht Google eine Finanz-Variante mit über 50 spezialisierten Agenten-Skills und einem eigenen Financial-Research-Agenten. Deutsche Bank, CME Group, BNY und Citi Wealth gehören zu den ersten Nutzern in Capital Markets und Corporate Banking.",
+      "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-financial-services",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Meta zahlt bis zu 16,68 Milliarden Dollar Vergleich wegen Social-Media-Schäden bei Jugendlichen",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-agree-to-settle-teen-social-media-harm-case",
+      "zusammenfassung": "Meta einigt sich mit rund 29 US-Bundesstaaten auf einen Vergleich von bis zu 16,68 Milliarden Dollar, um einen Prozess wegen absichtlich süchtig machender Algorithmen bei Instagram und Facebook für Minderjährige abzuwenden. Der Vergleich sieht tägliche Nutzungslimits, Nachtsperren für Teenager, strengere Altersverifikation und neue Elternkontrollen vor sowie Zahlungen für Jugend-Präventionsprogramme.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAIs erster eigener KI-Chip Jalapeño schlägt Nvidias Blackwell in unabhängigen Benchmarks",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/26/openai-jalapeno-ai-chip-nvidia.html",
+      "zusammenfassung": "OpenAI stellt mit Jalapeño sein erstes eigenes Inferenz-Chip-Design vor, das laut dem unabhängigen SemiAnalysis-Benchmark InferenceX 1,5- bis 1,9-mal mehr KI-Arbeit pro Watt und bis zu 3,6-mal geringere Latenz als Nvidias Blackwell-Systeme erreicht. Der Chip geht erst Ende 2026 in geringem Umfang in Produktion, gilt aber als deutliches Signal, dass grosse KI-Labore zunehmend auf eigene Custom-Silicon-Strategien setzen statt allein auf Nvidia-Hardware.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Amazon schliesst Mechanical Turk nach 21 Jahren – Opfer des KI-Booms",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html",
+      "zusammenfassung": "Amazon stellt seinen 2005 gestarteten Crowdworking-Marktplatz Mechanical Turk zum 30. September 2026 endgültig ein, nachdem die Plattform bereits Ende Juli keine neuen Kunden mehr aufnahm. Der einst von Jeff Bezos als 'künstliche künstliche Intelligenz' bezeichnete Dienst verlor zunehmend Nutzer an spezialisierte KI-Trainingsdaten-Anbieter wie Scale AI, Mercor und Prolific.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Google launcht Gemini Enterprise für Recht und Finanzwesen mit Top-Kanzleien und Banken",
+      "quelle": "Google Cloud Blog",
+      "quelleUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+      "zusammenfassung": "Google Cloud bringt mit Gemini Enterprise für Legal und für Financial Services die ersten beiden branchenspezifischen Pakete seiner Agenten-Plattform auf den Markt. Launch-Kunden sind Kanzleien wie Freshfields, Cleary Gottlieb und Weil sowie Finanzinstitute wie Deutsche Bank, CME Group und Citi Wealth, die Agenten für Vertragsprüfung, Recherche und Compliance einsetzen.",
+      "kategorie": "KI-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "OpenAI schaltet Assistants API endgültig ab – Zwangsumstieg auf Responses API",
+      "quelle": "OpenAI Developer Community",
+      "quelleUrl": "https://community.openai.com/t/assistants-api-beta-deprecation-august-26-2026-sunset/1354666",
+      "zusammenfassung": "Ein Jahr nach der Ankündigung hat OpenAI die Assistants-API-Beta am 26. August 2026 endgültig abgeschaltet – Aufrufe an /v1/assistants, /v1/threads und /v1/threads/runs liefern nun ohne Übergangsfrist nur noch Fehler. Entwickler müssen auf die modernere Responses API umsteigen, die zusätzlich Funktionen wie Deep Research, MCP-Unterstützung und Computer-Use bietet.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

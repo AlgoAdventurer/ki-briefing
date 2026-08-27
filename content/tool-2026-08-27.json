@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-27",
+  "name": "Gemini Enterprise für Legal",
+  "tagline": "Googles branchenspezifische Agenten-Plattform für Kanzleien und Rechtsabteilungen",
+  "beschreibung": "Gemini Enterprise für Legal ist Googles erste branchenspezifische Ausbaustufe seiner Agenten-Plattform Gemini Enterprise und richtet sich gezielt an Kanzleien und Rechtsabteilungen. Die Plattform kombiniert vorgefertigte Skills für typische juristische Aufgaben, sichere Konnektoren zu bestehender Legal-Software wie iManage, NetDocuments, Everlaw und RelativityOne, Agenten von Drittanbietern sowie eine Governance-Schicht, mit der IT- und Risiko-Teams Zugriffsrechte und Ausgaben kontrollieren können. Launch-Kunden sind namhafte Kanzleien wie Freshfields, Cleary Gottlieb, Weil und Williams & Connolly.",
+  "useCase": "Eine Kanzlei lässt einen Vertragsprüfungs-Agenten automatisch Klauseln in hunderten M&A-Verträgen gegen interne Richtlinien abgleichen, während ein Recherche-Agent parallel passende Präzedenzfälle über die angebundene Rechtsdatenbank CourtListener sucht – beides nachvollziehbar protokolliert für die Compliance-Abteilung.",
+  "url": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+  "kategorie": "Business / Recht",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["legal-tech", "google", "gemini-enterprise", "agents"]
+}

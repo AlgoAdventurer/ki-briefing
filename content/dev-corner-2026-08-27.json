@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-27",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI Assistants API endgültig abgeschaltet – jetzt zwingend auf Responses API migrieren",
+      "typ": "API / Migration",
+      "detail": "Nach einjähriger Übergangsfrist liefern Aufrufe an /v1/assistants, /v1/threads und /v1/threads/runs seit dem 26. August 2026 nur noch Fehler, ohne Degraded Mode oder weitere Gnadenfrist. Wer noch auf der Assistants API aufsetzt, muss jetzt sofort auf die Responses API umsteigen, die zusätzlich Deep Research, MCP-Integration und Computer-Use unterstützt – OpenAI stellt dafür einen offiziellen Migrationsleitfaden bereit.",
+      "url": "https://developers.openai.com/api/docs/assistants/migration",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Code Self-Hosted Environments jetzt in der Public Beta",
+      "typ": "Tool / Enterprise",
+      "detail": "Anthropic bringt Self-Hosted Environments für Claude Code in die öffentliche Beta: Team- und Enterprise-Kunden können damit Coding-Sessions auf eigener Infrastruktur mit internem Netzwerkzugriff, eigenem Tooling und Compliance-Kontrollen laufen lassen, statt auf Anthropics gehostete Umgebung angewiesen zu sein. Relevant für Firmen, die Agenten-gestütztes Coding einsetzen wollen, aber aus Sicherheits- oder Regulierungsgründen keine Daten in fremde Cloud-Umgebungen geben dürfen.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Roadmap verschiebt Fokus von Tool-Calling zu Agent-Identität und Progressive Discovery",
+      "typ": "Open Source / Protokoll",
+      "detail": "Das Model Context Protocol hat sich 2026 als de-facto-Standard zur Anbindung von KI-Agenten an externe Tools und Datenquellen etabliert. Die aktuelle Roadmap-Analyse zeigt eine Verschiebung weg vom simplen Tool-Calling hin zu Themen wie verifizierbarer Agent-Identität, progressiver Tool-Discovery (Agenten laden nur bei Bedarf weitere Tool-Definitionen nach), HTTP-Transport-Optionen und Primitiven für lang laufende, delegierte Tasks – wichtig für alle, die eigene MCP-Server bauen.",
+      "url": "https://radar.firstaimovers.com/mcp-won-agent-protocol-war-migrate-before-august-2026",
+      "codebeispiel": ""
+    }
+  ]
+}
