@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainings- und Wettkampf-Kommentare mit GLM-5.3-Flash",
+      "kontext": "Z.ai hat mit GLM-5.3-Flash ein multimodales Open-Weight-Modell mit 1 Mio. Token Kontext veröffentlicht, das zu einem Bruchteil der Kosten von Frontier-Modellen läuft (0,15 $ / 1M Input-Tokens).",
+      "umsetzung": "Contoura könnte Split-Zeiten, Fehlerstatistiken und GPS-Tracks eines Laufs als Kontext an ein günstiges Modell wie GLM-5.3-Flash übergeben und daraus automatisch eine verständliche Lauf-Analyse in Textform generieren lassen ('Auf Posten 4-6 hast du 40s verloren, vermutlich durch...'), ohne dass die Kosten pro Athlet explodieren.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Offline-Kartenanalyse direkt auf dem Handy",
+      "kontext": "Metas neues Muse-Glimmer-Modell (30B, Apache 2.0) ist multimodal, agentisch und läuft komplett lokal auf Consumer-Hardware, ganz ohne Internetverbindung.",
+      "umsetzung": "Ein On-Device-Modell wie Muse Glimmer könnte in der Contoura-App ein Foto der OL-Karte zusammen mit der eigenen GPS-Route analysieren und direkt im Wald – ganz ohne Netzabdeckung – Hinweise zu Routenwahl-Fehlern oder Geländefallen geben.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Live-Wetter- und Geländedaten für Wettkampfvorbereitung",
+      "kontext": "Amazon Bedrock AgentCore bietet seit 21. August ein GA-Tool, mit dem Agenten live Web-Daten inklusive Quellenangaben abrufen können, ohne eigene Such-Infrastruktur zu bauen.",
+      "umsetzung": "Contoura könnte einen Agenten einbauen, der vor einem Wettkampf automatisch aktuelle Wetter-, Gelände- und Kartenmaterial-Infos zur Wettkampfregion zusammensucht und den Athleten als kurzes Vorbereitungs-Briefing zur Verfügung stellt.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

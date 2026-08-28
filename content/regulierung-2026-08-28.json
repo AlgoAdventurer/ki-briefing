@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kalifornien stimmt vor Sitzungsende über rund 30 KI-Gesetze ab",
+      "region": "USA",
+      "detail": "Vor Ablauf der Legislaturperiode am 31. August 2026 bringt Kaliforniens Parlament ein komprimiertes Paket von rund 30 KI-Gesetzen zur Abstimmung: Chatbot-Sicherheit für Minderjährige, Transparenzpflichten für KI-generierte Inhalte im Urheberrecht, Schutz von Arbeitnehmern vor algorithmischem Management sowie eine neue, landesweit erste Zertifizierungsstelle für KI-Sicherheit. Kalifornien hatte mit SB 243 (Chatbot-Schutz für Minderjährige) und AB 489 (Verbot von KI-Chatbots, die sich als lizenzierte Fachkräfte ausgeben) bereits zuvor die schärfsten US-Regeln erlassen.",
+      "url": "https://www.techtimes.com/articles/324338/20260813/california-ai-bills-face-final-vote-today-chatbot-safety-copyright-us-first-commission.htm",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-KI-Gesetz: Durchsetzung der Transparenzpflichten läuft seit 2. August",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 setzen die EU-Kommission und nationale Behörden aktiv die Transparenzpflichten aus Artikel 50 des AI Act durch: Chatbots müssen offenlegen, dass Nutzer mit einer Maschine sprechen, Deepfakes müssen als KI-generiert markiert werden, und Systeme zur Emotionserkennung müssen informieren. Verstösse können mit bis zu 15 Mio. Euro oder 3 Prozent des weltweiten Jahresumsatzes geahndet werden – die Pflichten für Hochrisiko-Systeme wurden dagegen per Omnibus-Reform auf Dezember 2027 verschoben.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "mittel"
+    }
+  ]
+}

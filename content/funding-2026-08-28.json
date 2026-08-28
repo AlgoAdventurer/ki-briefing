@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "firma": "WRTN Technologies",
+      "betrag": "$72M",
+      "runde": "Series C",
+      "investoren": "Coreline Ventures, Eugene Asset Management, Goodwater Capital, Antler Global, Woori Venture Partners, Korea Development Bank",
+      "beschreibung": "Der koreanische KI-Assistent-Anbieter WRTN wird mit über 1 Billion Won (~760-870 Mio. Dollar) bewertet und ist damit der erste koreanische KI-Service-Startup mit Unicorn-Status. Das Geld fliesst in die internationale Expansion, nachdem der Umsatz gegenüber dem Vorjahr bereits vervierfacht wurde.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Emerald AI",
+      "betrag": "$150M",
+      "runde": "Series A",
+      "investoren": "Energize Capital, DCVC, Nvidia, Samsung Ventures, Siemens, Aramco Ventures, Salesforce Ventures",
+      "beschreibung": "Emerald AI baut Software, mit der KI-Rechenzentren ihren Stromverbrauch flexibel an die Lage im Stromnetz anpassen – die Runde bewertet das Startup mit 1,05 Milliarden Dollar und zeigt, wie viel Kapital gerade in die Energie-Infrastruktur rund um KI fliesst.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Stellaria",
+      "betrag": "$6.8M",
+      "runde": "Seed",
+      "investoren": "Business Angels (Dubai)",
+      "beschreibung": "Das Dubai-Startup (früher Farmin) kombiniert Satellitenbilder, Geodaten und KI-Modelle zu Lageberichten für Regierungen, Häfen, Verteidigung und Umweltmonitoring – bewertet mit rund 420 Mio. AED nach einer Seed-Runde von Angel-Investoren.",
+      "bild": ""
+    }
+  ]
+}

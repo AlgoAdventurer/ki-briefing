@@ -1,0 +1,45 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Nvidia verhandelt Übernahme von Hugging Face für rund 12,9 Milliarden Dollar",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "zusammenfassung": "Laut mehreren übereinstimmenden Berichten steht Nvidia kurz davor, die beliebteste Plattform für offene KI-Modelle und Datensätze für etwa 12,9 Milliarden Dollar zu übernehmen. Hugging Face zählt über 13 Millionen registrierte Nutzer sowie rund 2,5 Millionen Modelle und 950'000 Datensätze – ein Deal würde Nvidias Griff auf das gesamte Open-Source-KI-Ökosystem massiv ausweiten.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic sichert sich Rechenpower für 45 Milliarden Dollar bei Nscale",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "zusammenfassung": "Anthropic hat mit dem britischen Infrastruktur-Anbieter Nscale einen Sechs-Jahres-Deal über rund 45 Milliarden Dollar geschlossen und sichert sich damit 460 Megawatt Rechenkapazität in einem neuen Rechenzentrum in West Virginia, das Nvidias kommende Vera-Rubin-Chips nutzt. Es ist bereits der dritte Milliarden-Compute-Deal von Anthropic in wenigen Monaten – ein Zeichen dafür, wie knapp KI-Rechenkapazität weiterhin ist.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Z.ai veröffentlicht GLM-5.3-Flash – Open-Source-Modell läuft komplett ohne Nvidia-Chips",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html",
+      "zusammenfassung": "Das chinesische Unternehmen Z.ai (Zhipu) hat mit GLM-5.3-Flash ein multimodales Open-Weight-Modell (320 Milliarden Parameter, 18 Milliarden aktiv, 1 Mio. Token Kontext) unter MIT-Lizenz veröffentlicht, das laut Benchmarks nahe an Claude Opus 4.8 herankommt – trainiert und betrieben komplett auf chinesischen statt Nvidia-Chips. Die Aktie von Z.ai legte danach rund 8-9 Prozent zu.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Kaliforniens Parlament stimmt vor Fristende über rund 30 KI-Gesetze ab",
+      "quelle": "Tech Times",
+      "quelleUrl": "https://www.techtimes.com/articles/324338/20260813/california-ai-bills-face-final-vote-today-chatbot-safety-copyright-us-first-commission.htm",
+      "zusammenfassung": "Vor Ablauf der Legislaturperiode am 31. August stimmt Kaliforniens Parlament über rund 30 KI-Gesetze ab – darunter Chatbot-Schutz für Minderjährige, Transparenzpflichten bei KI-generierten Inhalten im Urheberrecht, Schutz von Arbeitnehmern vor algorithmischem Management und eine neue Zertifizierungsstelle für KI-Sicherheit. Kalifornien positioniert sich damit erneut als regulatorischer Vorreiter in den USA, während auf Bundesebene weiterhin ein Flickenteppich an Regeln entsteht.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    }
+  ]
+}

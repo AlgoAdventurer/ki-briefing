@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP wird zum zustandslosen Request/Response-Protokoll",
+      "typ": "Spezifikation / SDK",
+      "detail": "Mit der Spezifikation vom 28. Juli 2026 verwandelt sich das Model Context Protocol von einem bidirektionalen, zustandsbehafteten Protokoll in ein zustandsloses Request/Response-Protokoll – der initialize/initialized-Handshake und der Mcp-Session-Id-Header entfallen komplett. Das war eines der meistgeforderten Features, weil ein Remote-MCP-Server dadurch technisch nicht mehr anders zu betreiben ist als jeder normale HTTP-Service – deutlich einfacher zu hosten, zu skalieren und hinter Standard-Load-Balancern zu betreiben.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Amazon Bedrock AgentCore: Web Search jetzt GA",
+      "typ": "API",
+      "detail": "AWS hat 'Web Search' für Bedrock AgentCore am 21. August 2026 allgemein verfügbar gemacht – ein vollständig gemanagtes, serverseitiges Tool, mit dem Agenten live Web-Daten inklusive Quellenangaben abrufen können, ohne dass Daten das eigene AWS-Konto verlassen. Praktisch für jeden Agenten-Workflow, der aktuelle, belegbare Informationen aus dem Web braucht, ohne eine eigene Such-API oder Scraping-Infrastruktur zu bauen.",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Grok CLI: freier Open-Source-Coding-Agent",
+      "typ": "Tool",
+      "detail": "xAI hat mit Grok CLI einen kostenlosen, quelloffenen Kommandozeilen-Agenten veröffentlicht, der von Grok 4.6 angetrieben wird und direkt mit Terminal und Codebasis arbeitet – als Alternative zu Claude Code, OpenCode & Co. für Entwickler, die einen frei anpassbaren Agenten ohne Lizenzkosten suchen.",
+      "url": "https://x.ai/",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-28",
+  "items": [
+    {
+      "id": 1,
+      "name": "GLM-5.3-Flash",
+      "version": "5.3",
+      "anbieter": "Z.ai (Zhipu)",
+      "detail": "Multimodales Open-Weight-Modell mit 320 Mrd. Parametern (18 Mrd. aktiv), 1 Mio. Token Kontext, unter MIT-Lizenz. Erreicht laut Benchmarks fast das Niveau von Claude Opus 4.8, kostet aber nur 0,15 $ / 1M Input- und 0,50 $ / 1M Output-Tokens und läuft vollständig auf chinesischen statt Nvidia-Chips – relevant für alle, die günstige Coding- und Agenten-Workloads suchen.",
+      "url": "https://www.datanorth.ai/news/z-ai-releases-glm-5-3-flash",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Muse Glimmer",
+      "version": "30B",
+      "anbieter": "Meta Superintelligence Lab",
+      "detail": "Offenes multimodales 30-Milliarden-Parameter-Modell (Apache 2.0) mit eigenem Perception-Encoder, das für agentische Aufgaben komplett lokal auf Consumer-Hardware läuft – inklusive Tool-Nutzung, mehrstufigem Reasoning und Fehler-Recovery, ganz ohne Cloud-Anbindung. Ein leichtgewichtiges 'Drafter'-Modell (DFlash) beschleunigt die Inferenz per Block-Diffusion.",
+      "url": "https://huggingface.co/blog/muse-glimmer",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "MiniMax M2.5 auf Amazon Bedrock",
+      "version": "M2.5",
+      "anbieter": "MiniMax / AWS",
+      "detail": "AWS hat MiniMax M2.5 als vollständig gemanagtes Modell zu Amazon Bedrock hinzugefügt – ein 'agent-native' Mixture-of-Experts-Modell mit bis zu 196k Token Kontext, das per Reinforcement Learning auf token-effizientes Reasoning in agentischen Workflows trainiert wurde. Damit stehen Enterprise-Kunden günstigere Alternativen zu Frontier-Modellen für lange Dokumentenanalysen und Multi-File-Coding direkt in Bedrock zur Verfügung.",
+      "url": "https://aws.amazon.com/blogs/machine-learning/run-minimax-models-on-amazon-bedrock/",
+      "bild": ""
+    }
+  ]
+}
