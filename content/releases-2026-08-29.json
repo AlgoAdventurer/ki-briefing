@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8-Flash",
+      "version": "3.8-Flash",
+      "anbieter": "Alibaba",
+      "detail": "Günstigere 125-Milliarden-Parameter-Variante von Qwen3.8-Max (2,4 Billionen Parameter). Soll laut Alibaba mit Claude Opus 4.6 und DeepSeek V4-Flash mithalten können und ermöglicht so eine breitere, kosteneffiziente Nutzung der Qwen-Modellfamilie ausserhalb Chinas.",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GitHub Copilot Agent Plugins",
+      "version": "1.0 (GA)",
+      "anbieter": "GitHub / Microsoft",
+      "detail": "Agent Plugins sind jetzt allgemein verfügbar in VS Code, der Copilot CLI, dem Copilot SDK und der Copilot-App, inklusive Versionsverwaltung pro Plugin. Neu integriert sind ausserdem die Frontier-Modelle Kimi K3, Grok 4.6 und MAI-Code-1.1-Flash; ein neuer 'Customize'-Tab bündelt MCP-Server, Plugins, Skills und Canvases an einem Ort.",
+      "url": "https://github.blog/changelog/month/08-2026/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Claude Developer Platform",
+      "version": "",
+      "anbieter": "Anthropic",
+      "detail": "Die Einführungspreise für Sonnet 5 (2$/10$ pro Mio. Token) werden dauerhaft beibehalten — die für den 1. September geplante Erhöhung auf 3$/15$ wurde gestrichen. Neu lässt sich mit der Konfiguration agent_toolset_20260401 der Web-Zugriff von Agenten über web_search/web_fetch gezielt per allowed_domains/blocked_domains einschränken.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "bild": ""
+    }
+  ]
+}

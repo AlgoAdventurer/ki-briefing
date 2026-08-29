@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Bundesrichterin kippt Pentagon-Blacklist gegen Anthropic",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+      "zusammenfassung": "US-Bundesrichterin Rita Lin hat entschieden, dass das Pentagon Anthropic zu Unrecht als 'Supply-Chain-Risiko' eingestuft hatte, nachdem die KI-Firma den Einsatz von Claude für autonome Waffensysteme und Inlandsüberwachung eingeschränkt hatte. Das Gericht wertet die Blacklist als rechtswidrige Vergeltungsmassnahme, die gegen den ersten und fünften Verfassungszusatz verstösst — das Verteidigungsministerium muss die Anweisungen zurückziehen.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia vor Übernahme von Hugging Face für 12,9 Milliarden Dollar",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/27/nvidia-hugging-face-acquisition.html",
+      "zusammenfassung": "Laut mehreren übereinstimmenden Berichten (Bloomberg, CNBC, Forbes, The Information) hat sich Nvidia mit der Open-Source-Plattform Hugging Face auf eine Übernahme für rund 12,9 Milliarden Dollar geeinigt beziehungsweise steht kurz davor. Offiziell bestätigt ist der Deal noch nicht; Hugging Face hatte vor einem Jahr eine 500-Millionen-Investition von Nvidia noch aus Sorge vor zu grosser Abhängigkeit abgelehnt.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "AWS und Nvidia liefern zwei Millionen zusätzliche GPUs bis 2028",
+      "quelle": "AWS / Nvidia Newsroom",
+      "quelleUrl": "https://press.aboutamazon.com/aws/2026/8/aws-and-nvidia-to-deliver-2-million-additional-gpus-and-next-generation-infrastructure-for-agentic-and-physical-ai",
+      "zusammenfassung": "AWS und Nvidia haben ihre Partnerschaft ausgeweitet: Bis 2027/2028 sollen zwei Millionen weitere Blackwell-Ultra-, Rubin- und Rubin-Ultra-GPUs hinzukommen — zusätzlich zur bereits zugesagten Million. 100'000 GPUs davon sind für Workloads der US-Regierung und nationale Sicherheit reserviert.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Salesforce und Anthropic starten 'Claudeforce'-Partnerschaft",
+      "quelle": "Salesforce Newsroom",
+      "quelleUrl": "https://www.salesforce.com/news/press-releases/2026/08/26/salesforce-and-anthropic-announce-claudeforce/",
+      "zusammenfassung": "Salesforce und Anthropic bauen ihre Zusammenarbeit stark aus: Claude wird als Reasoning-Engine tief in Salesforce integriert, während ein neues Plugin mit 37 vorgefertigten Sales-Skills (u.a. Meeting-Vorbereitung, Deal-Health-Checks, Pipeline-Reviews) Salesforce-Funktionen direkt in Claude bringt. Der Schritt kommt inmitten der Debatte um eine drohende 'SaaSpocalypse' durch KI-Agenten.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Alibaba veröffentlicht kostengünstiges Modell Qwen3.8-Flash",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-26/alibaba-releases-smaller-cost-effective-qwen-ai-model",
+      "zusammenfassung": "Nach dem grossen Qwen3.8-Max (2,4 Billionen Parameter) hat Alibaba mit Qwen3.8-Flash (125 Milliarden Parameter) eine deutlich günstigere Variante veröffentlicht, die laut Unternehmen mit Anthropics Opus 4.6 und DeepSeeks V4-Flash mithalten soll. Ziel ist eine breitere globale Verbreitung der Qwen-Modellreihe.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

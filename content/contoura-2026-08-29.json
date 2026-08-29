@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Server für Contoura-Trainingsdaten dank neuer stateless Spec",
+      "kontext": "Die neue MCP-Spezifikation vom 28. Juli 2026 führt eine zustandslose Server-API ganz ohne Session-Handshake ein, wodurch MCP-Server viel einfacher serverless und autoskalierend betrieben werden können.",
+      "umsetzung": "Contoura könnte einen leichtgewichtigen MCP-Server bereitstellen, der Split-Zeiten, Fehlerstatistiken und Performance-Index eines Athleten als strukturierte Ressourcen exponiert. Athleten könnten ihre Contoura-Daten so direkt in Claude oder andere MCP-fähige KI-Assistenten einbinden und dort eigene Auswertungen oder Trainingspläne generieren lassen, ohne dass Contoura selbst eine Chat-Oberfläche bauen muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Domain-beschränkte Recherche-Agenten für Wettkampfvorbereitung",
+      "kontext": "Anthropics neue agent_toolset-Konfiguration erlaubt es, den Web-Zugriff von Agenten (web_search/web_fetch) gezielt per allowed_domains/blocked_domains einzuschränken.",
+      "umsetzung": "Contoura könnte einen Recherche-Agenten bauen, der vor einem Wettkampf gezielt nur vertrauenswürdige Quellen wie o-l.ch, SOLV und Livelox durchsucht und daraus automatisch ein kurzes Vorbereitungs-Briefing (Startliste, Geländeinfos, frühere Ergebnisse) erstellt — ohne Risiko, dass der Agent irrelevante oder falsche Web-Ergebnisse einbaut.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Flash-Modelle für automatisierte Trainingskommentare im grossen Massstab",
+      "kontext": "Mit Qwen3.8-Flash und weiteren günstigen Flash-Modellen wird automatisierte Textgenerierung pro Athlet immer preiswerter.",
+      "umsetzung": "Contoura könnte für jeden abgeschlossenen Trainingslauf automatisch einen kurzen KI-Kommentar generieren lassen (z.B. Vergleich zur letzten Session, auffällige Fehlermuster), ohne dass die Kosten mit wachsender Nutzerzahl explodieren.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

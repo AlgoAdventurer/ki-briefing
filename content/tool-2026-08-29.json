@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-29",
+  "name": "Grok Build",
+  "tagline": "xAI's Terminal-Coding-Agent, der bis zu 8 KI-Subagenten parallel an deiner Codebase arbeiten lässt.",
+  "beschreibung": "Grok Build ist ein Open-Source-CLI-Tool von xAI für professionelle Softwareentwicklung direkt im Terminal. Der Agent folgt einem Plan-Review-Approve-Workflow: Änderungen werden als Diffs vorgeschlagen, die vor der Ausführung kommentiert oder angepasst werden können. Besonders auffällig ist die Git-Worktree-Isolation, mit der mehrere Subagenten gleichzeitig in getrennten Branches arbeiten und ihre Ergebnisse danach zusammenführen. Grok Build unterstützt AGENTS.md-Dateien, MCP-Server, Plugins und Hooks und lässt sich auch headless in CI-Pipelines einsetzen.",
+  "useCase": "Ein Entwicklerteam migriert einen grossen Legacy-Codebase auf ein neues Framework: Grok Build teilt die Migration in Teilaufgaben (z.B. Frontend, API-Layer, Tests), lässt bis zu 8 Subagenten parallel in isolierten Git-Worktrees daran arbeiten und merged die Ergebnisse nach Review automatisch — deutlich schneller als sequenzielle Bearbeitung durch einen einzelnen Agenten.",
+  "url": "https://x.ai/news/grok-build-cli",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["CLI", "Coding-Agent", "Open Source", "Parallel-Agents", "xAI"]
+}

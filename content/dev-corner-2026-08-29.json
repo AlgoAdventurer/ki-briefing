@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28 & Python-SDK v2 Beta",
+      "typ": "SDK / Open Source",
+      "detail": "Die grösste Überarbeitung des Model Context Protocol seit dem Start bringt eine neue zustandslose MCPServer-API ganz ohne Session-Handshake (löst Autoscaling- und Serverless-Probleme), Multi-Roundtrip-Requests, ein Extensions-Framework, MCP Apps sowie standardmässig aktiviertes OpenTelemetry. Das TypeScript-SDK wurde zudem von Node.js auf Web Standards umgestellt, damit MCP-Server auch auf Bun, Deno oder Cloudflare Workers laufen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI-SDK-Updates in Python, Node und Go",
+      "typ": "SDK",
+      "detail": "Am 27. August erschienen zeitgleich neue Versionen der OpenAI-SDKs (Python v3.5.0, Node v7.8.0/v7.7.0, Go v3.54.0). Die Call-ID bei function_call_output ist nun optional, das Go-SDK hat zudem sein X.509-Workload-Identity-Handling verschärft — relevant für alle, die Tool-Calling-Flows gegen die OpenAI-API bauen.",
+      "url": "https://github.com/openai/openai-python/releases",
+      "codebeispiel": "response = client.responses.create(\n    model=\"gpt-5\",\n    input=[{\"type\": \"function_call_output\", \"output\": result}]\n)"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic: Domain-Restriktionen für Agent-Tools",
+      "typ": "API",
+      "detail": "Mit der neuen Konfiguration agent_toolset_20260401 lässt sich der Web-Zugriff von Claude-Agenten über web_search und web_fetch gezielt auf eine Liste erlaubter oder gesperrter Domains beschränken. Ausserdem gibt es einen neuen anthropic-workspace-id-Response-Header und GA-Admin-API-Endpunkte für die Nutzerverwaltung in Claude Enterprise.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Emerald AI",
+      "betrag": "$150M",
+      "runde": "Series A",
+      "investoren": "Energize Capital, DCVC, Nvidia, Samsung Ventures, Siemens, GE Vernova, RWE, Aramco Ventures u.a.",
+      "beschreibung": "Emerald AI entwickelt Software, die den Stromverbrauch von Rechenzentren dynamisch an die Netzbedingungen anpasst, statt Workloads einfach zu drosseln — ein direkter Ansatz gegen die durch KI-Rechenzentren verursachte Energie-Knappheit. Die breite Investorenmischung aus Chiphersteller, Energieversorgern und Ölkonzern unterstreicht, wie strategisch wichtig KI-Energieinfrastruktur geworden ist.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Faro AI",
+      "betrag": "$37.3M",
+      "runde": "Series B",
+      "investoren": "Merck Global Health Innovation Fund, S32 (Co-Lead), General Catalyst, Northpond Ventures u.a.",
+      "beschreibung": "Das Startup aus San Diego baut strukturierte Daten- und KI-Infrastruktur für die klinische Arzneimittelentwicklung und hilft Pharmaunternehmen, KI-Agenten über ihre gesamte Entwicklungsorganisation hinweg einzusetzen. Die starke Beteiligung von Merck zeigt das wachsende Interesse grosser Pharmakonzerne an Agenten-Infrastruktur.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "WRTN Technologies",
+      "betrag": "~$72.2M",
+      "runde": "Series C",
+      "investoren": "Coreline Ventures, Goodwater Capital, Antler Global, Korea Development Bank u.a.",
+      "beschreibung": "Das südkoreanische Startup betreibt ein Consumer-KI-'Portal' mit Modellzugriff und Entertainment-Produkten und monetarisiert über internationale Distribution — ein Beispiel für die wachsende Konsumenten-KI-Szene ausserhalb der USA und Chinas.",
+      "bild": ""
+    }
+  ]
+}

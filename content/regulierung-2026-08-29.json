@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-29",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Bundesrichterin kippt Pentagon-Blacklist gegen Anthropic",
+      "region": "USA",
+      "detail": "US-Bezirksrichterin Rita Lin (Nordkalifornien) hat entschieden, dass die Einstufung von Anthropic als 'Supply-Chain-Risiko' durch das Verteidigungsministerium rechtswidrig war. Sie wertet dies als Vergeltung dafür, dass Anthropic den Einsatz von Claude für autonome Waffen und Inlandsüberwachung eingeschränkt hatte, und sieht darin einen Verstoss gegen den ersten und fünften Verfassungszusatz. Das Pentagon muss die Anweisungen zurückziehen.",
+      "url": "https://www.axios.com/2026/08/28/judge-blocks-pentagon-anthropic-blacklist",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kalifornien verabschiedet weitere KI-Gesetze vor Fristende",
+      "region": "USA / Kalifornien",
+      "detail": "In der Woche vor dem Sitzungsende am 31. August hat das kalifornische Parlament mehrere weitere KI-Gesetze final verabschiedet, während rund 21 weitere Vorlagen noch zur Abstimmung standen — u.a. zu Chatbot- und Companion-KI-Sicherheit, Bildungstechnologie, Arbeitnehmerschutz, Gesundheits-KI und Überwachungspreisen. Gouverneur Newsom hat nach Sitzungsende 30 Tage Zeit, die Gesetze zu unterschreiben oder mit Veto zu belegen.",
+      "url": "https://www.transparencycoalition.ai/news/ai-legislative-update-august28-2026",
+      "auswirkung": "hoch"
+    }
+  ]
+}
