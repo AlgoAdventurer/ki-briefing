@@ -1,0 +1,41 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek-V4-Pro-0813",
+      "version": "0813",
+      "anbieter": "DeepSeek",
+      "detail": "Neues Sparse-MoE-Modell mit 1,57 Billionen Gesamt- und 48 Milliarden aktiven Parametern. Ein neues 'DSpark'-Modul für spekulative Dekodierung beschleunigt die Inferenz spürbar, zusätzlich lassen sich drei Reasoning-Stufen wählen, um Antwortqualität gegen Rechenkosten abzuwägen — praktisch für Entwickler, die Reasoning-Tiefe je nach Anwendungsfall dosieren wollen.",
+      "url": "https://huggingface.co/deepseek-ai",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.3-Flash",
+      "version": "5.3-Flash",
+      "anbieter": "Zhipu AI",
+      "detail": "Erstes nativ multimodales Modell der GLM-5-Familie, seit Transformers v5.16.1 offiziell unterstützt. Verarbeitet Text, Bild und weitere Modalitäten in einem einzigen Modell statt über separate Encoder, was Latenz und Integrationsaufwand für multimodale Anwendungen reduziert.",
+      "url": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Muse Glimmer",
+      "version": "",
+      "anbieter": "Meta",
+      "detail": "Neues multimodales Modell speziell für agentische Anwendungsfälle — also KI-Agenten, die mehrstufige Aufgaben über Text-, Bild- und Werkzeug-Interaktionen hinweg selbstständig ausführen. Ergänzt Metas Open-Weight-Strategie neben der Llama-Reihe.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "Apple M6 / M5 Ultra",
+      "version": "M6",
+      "anbieter": "Apple",
+      "detail": "Apple hat am 25. August die M6- und M5-Ultra-Chips vorgestellt. Der M6 ist Apples erster in 2-Nanometer-Technik gefertigter Chip und bringt laut Apple deutliche Leistungssprünge speziell für On-Device-KI-Workloads wie lokale Sprachmodelle und Bildgenerierung.",
+      "url": "https://www.apple.com/newsroom/",
+      "bild": ""
+    }
+  ]
+}

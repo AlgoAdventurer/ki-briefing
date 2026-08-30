@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google ersetzt Google Assistant ab 4. September vollständig durch Gemini",
+      "quelle": "Tom's Guide",
+      "quelleUrl": "https://www.tomsguide.com/ai/google-gemini/google-assistant-dies-in-september-what-you-need-to-know-and-how-to-switch-to-gemini",
+      "zusammenfassung": "Ab dem 4. September 2026 löst Google Gemini den Google Assistant auf Android-Smartphones, Tablets, Wear-OS-Uhren und verbundenen Kopfhörern schrittweise ab. Die Umstellung läuft über mehrere Wochen und ist nicht rückgängig zu machen — 'Hey Google' und Hardware-Buttons bleiben aber funktionsfähig, nur eben mit Gemini als Antwort-Engine.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "X startet Ads-MCP-Server — soziale Netzwerke öffnen sich für externe KI-Agenten",
+      "quelle": "ppc.land",
+      "quelleUrl": "https://ppc.land/x-ads-mcp-gives-grok-and-claude-code-23-tools-to-run-ad-campaigns/",
+      "zusammenfassung": "X hat am 24. August einen Model-Context-Protocol-Server für sein Werbegeschäft veröffentlicht, der 23 Werbe-Tools für beliebige MCP-fähige KI-Clients wie ChatGPT, Claude Code oder Grok freigibt — zehn davon können direkt in laufende Kampagnen eingreifen. Meta, TikTok, Pinterest und Snapchat haben bereits ähnliche MCP-Integrationen angekündigt, was zeigt, wie schnell Werbeplattformen ihre Systeme für externe KI-Agenten öffnen.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Googles A2A-Protokoll zieht neben Anthropics MCP in die Agentic AI Foundation",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/08/17/a2a-agentic-ai-foundation-open-ai-standards",
+      "zusammenfassung": "Google hat sein Agent2Agent-Protokoll (A2A) offiziell in die von der Linux Foundation getragene Agentic AI Foundation (AAIF) überführt — denselben neutralen Rahmen, in dem bereits Anthropics Model Context Protocol beheimatet ist. Die AAIF ist seit ihrem Start im Dezember 2025 auf über 250 Mitglieder gewachsen, darunter Google, Microsoft, Amazon, Anthropic und OpenAI, was den Trend zu gemeinsamen, herstellerneutralen Standards für Agenten-Kommunikation unterstreicht.",
+      "kategorie": "Standards",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "OpenAI stellt die klassische DALL·E-GPT in ChatGPT ein",
+      "quelle": "Tom's Guide",
+      "quelleUrl": "https://www.tomsguide.com/ai/chatgpt/you-have-until-august-30-to-save-your-chatgpt-dall-e-images-heres-how-to-avoid-losing-them-forever",
+      "zusammenfassung": "Am 30. August entfernt OpenAI den eigenständigen DALL·E-GPT aus ChatGPT, einen der ursprünglichen Custom-GPTs aus der Frühzeit der Plattform. Bildgenerierung verschwindet nicht aus ChatGPT, läuft künftig aber ausschliesslich über ChatGPT Images; eigene GPTs mit Bildgenerierung sind von der Abschaltung nicht betroffen.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic macht Claude for Teachers für ganze Schulbezirke verfügbar",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/claude-for-teachers",
+      "zusammenfassung": "Nach dem Start für einzelne Lehrkräfte im Juli bietet Anthropic Claude for Teachers ab sofort als kostenloses Enterprise-Angebot für ganze US-K-12-Schulen und -Distrikte an, inklusive Claude Code, Cowork, Claude Design sowie neuen Skills für Unterrichtsvorbereitung und Lernstandskontrollen. Ein Pilotprogramm mit dem Detroit Public Schools District soll die Wirkung auf Lehrkräfte untersuchen.",
+      "kategorie": "Bildung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

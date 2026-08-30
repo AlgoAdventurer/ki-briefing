@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Kartenfehler-Analyse aus Foto und GPS-Track",
+      "kontext": "Neue nativ multimodale Open-Source-Modelle wie GLM-5.3-Flash und Metas Muse Glimmer verarbeiten Text, Bild und weitere Eingaben in einem Modell und sind günstig genug für Alltagsanwendungen.",
+      "umsetzung": "Athleten laden ein Foto ihrer OL-Karte samt eingezeichneter Route sowie den GPS-Track hoch. Contoura könnte damit automatisch Streckenabweichungen erkennen, Fehlerstellen mit der Kartenlegende abgleichen und daraus die bestehende Fehlerstatistik anreichern, ohne dass der Athlet die Fehler manuell eintragen muss.",
+      "aufwand": "hoch",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatisch generierte Trainingsberichte per Agenten-Handoff",
+      "kontext": "Claude Cowork ist jetzt auf Web und Mobile verfügbar und kann mehrstufige Aufgaben eigenständig über mehrere Datenquellen hinweg abarbeiten.",
+      "umsetzung": "Contoura könnte nach jedem Training oder Wettkampf automatisch einen Cowork-Auftrag anstossen, der Split-Zeiten, Fehlerstatistik und Performance-Index der letzten Wochen zusammenzieht und daraus einen kurzen, verständlichen Fortschrittsbericht für Athlet und Trainer verfasst — abrufbar auf dem Handy direkt nach dem Lauf.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Live-Gelände- und Wetterkontext vor dem Start",
+      "kontext": "Web Search auf Amazon Bedrock AgentCore ist jetzt allgemein verfügbar und liefert KI-Agenten live recherchierte, mit Quellen belegte Web-Informationen ohne eigene Such-Infrastruktur.",
+      "umsetzung": "Contoura könnte vor einem Wettkampf automatisch aktuelle Wetterlage, Geländebeschaffenheit und bekannte Besonderheiten des Wettkampfgebiets recherchieren lassen und dem Athleten als kurze Vorbereitungsnotiz neben der Trainingsdokumentation anzeigen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Developer Platform: Files & Skills SDK überarbeitet, Compliance API jetzt stabil",
+      "typ": "API / SDK",
+      "detail": "Anthropic hat am 28. August das SDK für Files und Skills überarbeitet — BetaSkill heisst jetzt BetaContainerSkill, und das Löschverhalten von Skills wurde geändert. Neu gibt es persönliche Keys und Service-Account-Keys in der Claude Console für sauberer abgegrenzten, workspace-gebundenen Zugriff, ausserdem verlassen die Compliance-API-Session-Endpunkte für Cowork- und Claude-Code-Sessions den Beta-Status. Die Admin API ist jetzt zudem direkt in der ant-CLI sowie in mehreren offiziellen SDKs nutzbar.",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Enterprise-Managed Auth für MCP-Connectoren jetzt allgemein verfügbar",
+      "typ": "API / SDK",
+      "detail": "Anthropic hat die zentral verwaltete Authentifizierung für sein MCP-Connector-Framework am 24. August aus der Beta genommen. Neu unterstützt werden Datadog, Notion und Slack, zusätzlich zu bereits vorhandenen Connectoren wie Asana, Atlassian, Canva, Figma, Linear und Supabase — Exa, Miro und Zoom sollen folgen. Für Unternehmen bedeutet das, Zugriffsrechte für KI-Agenten auf interne Tools zentral statt pro Nutzer zu verwalten.",
+      "url": "https://cybersecuritynews.com/anthropic-enterprise-managed-mcp-connectors/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Web Search auf Amazon Bedrock AgentCore ist allgemein verfügbar",
+      "typ": "API / Tool",
+      "detail": "AWS hat am 21. August das verwaltete Web-Search-Tool für Bedrock AgentCore final freigegeben. Agenten können damit live recherchierte, mit Quellenangaben versehene Web-Informationen abrufen, ohne selbst eine Such-Infrastruktur oder Scraping-Pipeline betreiben zu müssen — relevant für alle, die eigene Agenten auf aktuelle, verlässliche Fakten stützen wollen.",
+      "url": "https://aws.amazon.com/bedrock/agentcore/",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Fireworks AI",
+      "betrag": "$1,505M",
+      "runde": "Series D",
+      "investoren": "Atreides Management, Index Ventures, TCV, Lightspeed Venture Partners, Nvidia u.a.",
+      "beschreibung": "Fireworks AI betreibt eine Inferenz-Plattform für angepasste und feingetunte Open-Source-Modelle und hat die Runde bei einer Bewertung von 17,5 Milliarden Dollar abgeschlossen. Das Unternehmen überschreitet dabei eine annualisierte Umsatzrate von 1 Milliarde Dollar — eine Verfünffachung seit der letzten Finanzierungsrunde und ein starkes Signal dafür, wie gefragt spezialisierte Inferenz-Infrastruktur abseits der grossen Modell-Labs ist.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Together AI",
+      "betrag": "$800M",
+      "runde": "Series C",
+      "investoren": "nicht vollständig offengelegt",
+      "beschreibung": "Together AI, ebenfalls auf KI-Inferenz- und Trainings-Infrastruktur für Open-Source-Modelle spezialisiert, wurde bei dieser Runde mit 8,3 Milliarden Dollar bewertet und meldet ein jährliches Buchungsvolumen von rund 1,15 Milliarden Dollar. Zusammen mit Fireworks AI zeigt die Runde, dass Kapital zunehmend Richtung Inferenz-Infrastruktur statt reinem Modelltraining fliesst.",
+      "bild": ""
+    }
+  ]
+}

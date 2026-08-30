@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-30",
+  "name": "Claude Cowork",
+  "tagline": "Anthropics KI-Kollege für mehrstufige Aufgaben — jetzt komplett auf Web und Mobile verfügbar.",
+  "beschreibung": "Claude Cowork lässt sich mehrstufige, stundenlange Aufgaben übergeben, die es eigenständig über mehrere Dateien, Apps und Arbeitsschritte hinweg abarbeitet — etwa Recherche zusammenfassen, Tabellen aufbereiten oder Dokumente vorbereiten. Ursprünglich als Desktop-App gestartet, ist Cowork seit dem 18. August auf allen bezahlten Plänen zusätzlich im Browser unter claude.ai sowie als App für iOS und Android verfügbar. Nutzer können eine Aufgabe am Rechner starten und den Fortschritt unterwegs auf dem Handy weiterverfolgen oder von dort aus neue Aufgaben anstossen.",
+  "useCase": "Ein Marketing-Team stösst morgens am Desktop eine Wettbewerbsanalyse über mehrere Quellen an, prüft den Zwischenstand mittags auf dem Handy und lässt Claude Cowork abends die fertige Zusammenfassung als Dokument ablegen.",
+  "url": "https://claude.com/blog/cowork-web-mobile",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Anthropic", "Agenten", "Mobile", "Productivity"]
+}

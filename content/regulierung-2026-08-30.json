@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-30",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act verbietet nun explizit KI-generierte CSAM und nicht-einvernehmliche sexuelle Inhalte",
+      "region": "EU",
+      "detail": "Mit den zum 2. August in Kraft getretenen Änderungen ergänzt der AI Act ein ausdrückliches Verbot von KI-Systemen, die zur Erzeugung von Missbrauchsdarstellungen von Kindern oder nicht-einvernehmlichen intimen Inhalten eingesetzt werden. Verstösse gegen diese verbotenen Praktiken können mit Bussgeldern von bis zu 35 Millionen Euro oder 7 Prozent des weltweiten Jahresumsatzes geahndet werden — deutlich höher als die Strafen für andere Verstösse gegen den AI Act.",
+      "url": "https://www.technology.org/2026/07/17/eu-ai-act-what-actually-applies-on-2-august-2026/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Digital Omnibus verschiebt Fristen für Hochrisiko-KI-Systeme weiter nach hinten",
+      "region": "EU",
+      "detail": "Durch die Digital-Omnibus-Änderungen erhalten eigenständige Hochrisiko-Systeme aus Anhang III (u.a. Recruiting-Tools, Kreditwürdigkeitsprüfung, Bildung, Strafverfolgung) nun bis zum 2. Dezember 2027 Zeit zur vollständigen Umsetzung, KI in bereits regulierten Produkten sogar bis August 2028. Für betroffene Unternehmen verschafft das mehr Vorlaufzeit, verzögert aber auch den vollen Grundrechtsschutz, den der AI Act eigentlich schon 2026 vorsah.",
+      "url": "https://www.aiacto.eu/en/blog/ai-act-what-changes-august-2-2026",
+      "auswirkung": "mittel"
+    }
+  ]
+}
