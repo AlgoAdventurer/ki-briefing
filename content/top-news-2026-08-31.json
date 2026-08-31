@@ -1,0 +1,55 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Sony Music Publishing und Warner Chappell verklagen Anthropic wegen Copyright-Verstössen",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "zusammenfassung": "Sony Music Publishing und Warner Chappell haben Anthropic vor einem Bundesgericht in Nordkalifornien verklagt und werfen dem Unternehmen vor, zehntausende urheberrechtlich geschützte Songtexte illegal getorrentet und gescrapt zu haben, um Claude zu trainieren. Die Kläger fordern eine Jury-Verhandlung und Schadenersatz von bis zu 150'000 US-Dollar pro Werk, was das theoretische Risiko in den Milliardenbereich treibt; auch Anthropic-Mitgründer Dario Amodei und Benjamin Mann werden persönlich genannt.",
+      "kategorie": "Recht & Copyright",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI kappt Cursor den Modellzugang nach SpaceX-Übernahme",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/29/openai-cursor-spacex-model-access.html",
+      "zusammenfassung": "OpenAI beendet zum 12. November 2026 den Vertrag, über den Cursor Zugriff auf OpenAI-Modelle hatte — Grund ist die Übernahme des Coding-Startups durch Elon Musks SpaceX. OpenAI begründet den Schritt mit mangelndem Vertrauen in die Vertragstreue von Musk-Unternehmen und verweist auf frühere Verstösse bei Twitter/X; laut Cursor-CEO Michael Truell machen OpenAI-Modelle aber nur rund 5 Prozent des Cursor-Nutzertraffics aus.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "GLM-5.3-Flash: Neues offenes Modell nähert sich Claude Opus 4.8 beim Coding — zum Zehntel des Preises",
+      "quelle": "Hugging Face / Transformers",
+      "quelleUrl": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "zusammenfassung": "Z.ai hat mit GLM-5.3-Flash das erste nativ multimodale Modell der GLM-5-Serie veröffentlicht, unterstützt seit Transformers v5.16.1. Das Mixture-of-Experts-Modell mit 320 Milliarden Gesamt- und 18 Milliarden aktiven Parametern übertrifft seinen Vorgänger GLM-5.2 in Benchmarks und kommt bei Coding-Aufgaben nahe an Claude Opus 4.8 heran — zu einem Zehntel des Preises.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Model Context Protocol knackt 400 Millionen monatliche SDK-Downloads bei grösstem Spec-Update seit Start",
+      "quelle": "MCP Blog / InfoQ",
+      "quelleUrl": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "zusammenfassung": "Die MCP-Spezifikation vom 28. Juli 2026 ist die tiefgreifendste Überarbeitung seit dem Launch: Das Protokoll wird vollständig zustandslos, verliert Initialize-Handshake und Session-Header und bekommt ein Extensions-Framework samt MCP Apps und Tasks. Laut Anthropic sind die monatlichen SDK-Downloads seit Jahresbeginn auf über 400 Millionen vervierfacht — ein Indikator für das Tempo, mit dem Agenten-Ökosysteme MCP als Standard übernehmen.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Perplexity baut Comet und Computer zu vollwertigem KI-Agenten-Ökosystem aus",
+      "quelle": "Perplexity",
+      "quelleUrl": "https://www.perplexity.ai/hub/blog",
+      "zusammenfassung": "Perplexity hat seinen Browser-Agenten Comet und den Task-Agenten Computer deutlich erweitert: Enterprise-Rollen, Claude-Opus-5-Integration in Suche und Computer, sowie eine 'Portable Computer'-Variante, die dank Nvidia-Hardware komplett lokal auf dem eigenen Gerät läuft und private Daten nur bei Bedarf in die Cloud eskaliert. Computer lässt sich neu sogar per E-Mail an computer@perplexity.com auslösen, um ganze Aufgaben automatisiert abzuwickeln.",
+      "kategorie": "Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

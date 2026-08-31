@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainingskommentare aus Split-Zeiten per Claude-API",
+      "kontext": "MCP hat sich mit über 400 Mio. monatlichen SDK-Downloads als Standard für Agenten-Integrationen etabliert, und Anthropic bietet mit dem Model Context Protocol eine einfache Möglichkeit, Claude direkt an strukturierte Trainingsdaten anzubinden.",
+      "umsetzung": "Ein eigener MCP-Server für Contoura könnte Split-Zeiten, Fehlerstatistiken und den Performance-Index eines Trainings als Kontext bereitstellen. Claude generiert daraus automatisch einen kurzen, verständlichen Trainingskommentar ('Startpassage zu langsam, Zeitverlust vor allem bei technischen Posten 4-7') — direkt in der App abrufbar, ohne dass Athlet:innen die Rohdaten selbst interpretieren müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige KI-Auswertung dank offener Modelle wie GLM-5.3-Flash",
+      "kontext": "GLM-5.3-Flash erreicht bei Coding- und Analyseaufgaben fast das Niveau von Claude Opus 4.8 — zu einem Zehntel der Kosten. Für Volumen-Features, die nicht die absolute Spitzenqualität brauchen, sinkt damit die Kostenschwelle für KI-Funktionen erheblich.",
+      "umsetzung": "Contoura könnte rechenintensive, aber weniger kritische Auswertungen — etwa automatisches Tagging von Trainingseinheiten nach Belastungsart, Gelände oder Fehlermuster über grosse Zeiträume — mit einem günstigen offenen Modell wie GLM-5.3-Flash statt einem teuren Flaggschiff-Modell durchführen und so bei wachsender Nutzerzahl die API-Kosten im Griff behalten.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Gesprochene Wettkampf-Debriefs mit ElevenLabs Flows API",
+      "kontext": "ElevenLabs hat neue asynchrone Flows-APIs veröffentlicht, mit denen sich Video-, Bild- und Sprachgenerierung programmatisch anstossen und abrufen lassen.",
+      "umsetzung": "Nach einem Wettkampf könnte Contoura aus Split-Zeiten-Analyse und Fehlerstatistik automatisch ein kurzes gesprochenes Audio-Debriefing generieren, das Athlet:innen z.B. auf dem Heimweg anhören können — ganz ohne selbst Texte lesen zu müssen. Besonders für jüngere oder weniger geübte Athlet:innen ein niederschwelliger Zugang zur eigenen Leistungsanalyse.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    }
+  ]
+}

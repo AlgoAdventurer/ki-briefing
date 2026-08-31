@@ -1,0 +1,32 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "name": "GLM-5.3-Flash",
+      "version": "5.3",
+      "anbieter": "Z.ai (Zhipu AI)",
+      "detail": "Erstes nativ multimodales Modell der GLM-5-Serie, MoE-Architektur mit 320 Mrd. Gesamt- und 18 Mrd. aktiven Parametern. Übertrifft GLM-5.2 in praktisch allen Benchmarks und erreicht bei Coding-Aufgaben nahezu das Niveau von Claude Opus 4.8 — zu einem Zehntel der Kosten. Seit Transformers v5.16.1 nativ unterstützt und offen als Gewicht verfügbar.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7",
+      "anbieter": "Google",
+      "detail": "Googles neues 'Workhorse'-Modell für Coding, Agenten und Wissensarbeit mit 1 Mio. Token Kontextfenster und Multimodal-Input (Text, Bild, Audio, Video, PDF). Auf Googles eigenen Benchmarks springt der DeepSWE-v1.1-Score von 49,0 % (Vorgänger 3.6 Flash) auf 65,3 %. Verfügbar über die Gemini API, Android Studio, Google Antigravity und die Gemini Enterprise Agent Platform; Einführungspreis 0,75 $ pro Mio. Input-Tokens bis Ende 2026.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Mistral Agentic Search & OCR 4.1",
+      "version": "4.1",
+      "anbieter": "Mistral AI",
+      "detail": "Neue Retrieval-Schicht 'Agentic Search', mit der KI-Systeme komplexe Dokumente gezielter navigieren, lesen und verifizieren können — bei weniger Turns, geringerem Tokenverbrauch und niedrigerer Latenz, verfügbar über Search Toolkit und Libraries. Parallel dazu erscheint OCR 4.1 mit aktualisierten Aliassen und feinerer Granularität bei Konfidenzwerten in der OCR-API.",
+      "url": "https://docs.mistral.ai/getting-started/models/models%5Foverview",
+      "bild": ""
+    }
+  ]
+}

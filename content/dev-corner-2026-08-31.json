@@ -1,0 +1,29 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Protokoll wird vollständig zustandslos",
+      "typ": "Protokoll / SDK",
+      "detail": "Die grösste Überarbeitung des Model Context Protocol seit dem Start entfernt Initialize-Handshake und Session-Header und ersetzt sie durch verpflichtende Method- und Tool-Name-Header, damit Gateways Agenten-Traffic routen können, ohne JSON parsen zu müssen. Damit verhält sich ein Remote-MCP-Server wie ein ganz normaler HTTP-Workload und lässt sich auf jeder bestehenden API-Infrastruktur betreiben. Der MCP Python SDK v2 Beta implementiert die neue Spec bereits inklusive Extensions-Framework, MCP Apps und Tasks.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Okta Open-Source-MCP-Server erzwingt Human-in-the-Loop via Elicitation API",
+      "typ": "Open Source / Security",
+      "detail": "Okta hat seinen Open-Source-MCP-Server um die MCP-Elicitation-API erweitert. Damit können destruktive Aktionen (z.B. Nutzer löschen, Berechtigungen ändern) nicht mehr direkt von einem Agenten ausgeführt werden — der Server fordert stattdessen aktiv eine menschliche Bestätigung an, bevor die Aktion durchläuft. Ein konkretes Muster für Governance in Agenten-Workflows, das sich auch auf eigene MCP-Server übertragen lässt.",
+      "url": "https://developer.okta.com/docs/release-notes/2026-okta-mcp-server/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "AWS Bedrock AgentCore: Web Search jetzt allgemein verfügbar",
+      "typ": "API",
+      "detail": "Amazon hat die Web-Search-Fähigkeit für Bedrock AgentCore am 21. August in die General Availability überführt. Agenten, die auf AgentCore laufen, können damit ohne eigene Suchintegration live auf aktuelle Web-Informationen zugreifen — nützlich für Recherche- und Research-Agenten, die bislang auf Drittanbieter-Suchtools angewiesen waren.",
+      "url": "https://aiagentstore.ai/ai-agent-news/this-week",
+      "codebeispiel": ""
+    }
+  ]
+}

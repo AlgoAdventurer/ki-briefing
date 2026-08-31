@@ -1,0 +1,23 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Emerald AI",
+      "betrag": "$150M",
+      "runde": "Series A",
+      "investoren": "Energize Capital, DCVC (Co-Lead)",
+      "beschreibung": "Emerald AI entwickelt Software, die KI-Rechenzentren in flexible, netzreaktive Lasten verwandelt: Die Plattform 'Emerald Conductor' drosselt bei Netzengpässen gezielt den Stromverbrauch von Rechenzentren, ohne die Rechenleistung spürbar zu beeinträchtigen. Nach fünf erfolgreichen Pilotprojekten ist die Software nun im kommerziellen Einsatz bei mehreren Megawatt-Rechenzentren — die Runde bewertet das Unternehmen mit 1,05 Mrd. US-Dollar.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Gatik",
+      "betrag": "$200M",
+      "runde": "Series D",
+      "investoren": "nicht im Detail bekannt",
+      "beschreibung": "Der Autonomes-Fahren-Spezialist Gatik bringt fahrerlose Güter-Transporte auf der 'letzten Meile' vom Pilotstadium in den kommerziellen Massstab. Die Series-D-Runde soll den Ausbau der operativen Flotte und die Expansion in weitere US-Märkte finanzieren.",
+      "bild": ""
+    }
+  ]
+}

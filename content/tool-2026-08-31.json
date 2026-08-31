@@ -1,0 +1,12 @@
+{
+  "datum": "2026-08-31",
+  "name": "Perplexity Computer (Portable + E-Mail-Trigger)",
+  "tagline": "Ein KI-Agent, der ganze Aufgaben erledigt — jetzt auch komplett lokal auf dem eigenen Gerät und per E-Mail auslösbar",
+  "beschreibung": "Perplexity Computer ist ein Agent, der über den Browser hinaus eigenständig Aufgaben ausführt: recherchieren, Formulare ausfüllen, Buchungen vornehmen, Dokumente zusammenstellen. Mit 'Portable Computer' läuft der Agent dank Nvidia-Hardware direkt auf dem Endgerät, sodass private Daten lokal bleiben und nur bei Bedarf in die Cloud eskaliert werden. Neu lässt sich Computer auch per E-Mail ansteuern — eine Nachricht an oder in Kopie an computer@perplexity.com reicht, damit der Agent eine komplette Aufgabe im Hintergrund abarbeitet und das Ergebnis zurückmailt.",
+  "useCase": "Eine E-Mail mit einer Rechercheaufgabe oder Buchungsanfrage an computer@perplexity.com weiterleiten oder in Kopie setzen — der Agent recherchiert, handelt und antwortet automatisch im selben Thread, ohne dass man die App öffnen muss.",
+  "url": "https://www.perplexity.ai/",
+  "kategorie": "Productivity / Agents",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["KI-Agent", "Automatisierung", "On-Device", "E-Mail-Integration"]
+}

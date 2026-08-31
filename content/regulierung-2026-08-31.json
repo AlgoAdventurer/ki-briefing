@@ -1,0 +1,21 @@
+{
+  "datum": "2026-08-31",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Gesetz wird Realität: Erste Bussgelder drohen jetzt konkret",
+      "region": "EU",
+      "detail": "Seit dem 2. August gelten die Transparenzpflichten aus Artikel 50 des EU AI Act verbindlich, und die EU-Kommission hat mit der aktiven Durchsetzung begonnen. Anbieter und Betreiber bestimmter KI-Systeme müssen Nutzer nun klar informieren, wenn sie mit einer KI interagieren oder Inhalte KI-generiert sind. Bei Verstössen drohen Bussgelder von bis zu 15 Mio. Euro oder 3 % des weltweiten Jahresumsatzes — Google, Meta und OpenAI haben bereits Wasserzeichen- und Herkunftsnachweis-Tools angekündigt bzw. ausgerollt.",
+      "url": "https://www.axios.com/2026/08/28/eu-ai-act-gets-real",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens AI Transparency Act (SB 942) seit August in Kraft",
+      "region": "USA",
+      "detail": "Grosse Anbieter generativer KI mit über einer Million monatlichen Nutzern müssen in Kalifornien seit dem 2. August kostenlose Erkennungstools für KI-generierte Inhalte, Wasserzeichen und Latent-Disclosure-Funktionen bereitstellen. Das Gesetz zieht mit den EU-Transparenzpflichten praktisch gleich und markiert einen weiteren Schritt hin zu verbindlichen KI-Kennzeichnungspflichten auf beiden Seiten des Atlantiks.",
+      "url": "https://en.wikipedia.org/wiki/California_AI_laws",
+      "auswirkung": "mittel"
+    }
+  ]
+}
