@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-01",
+  "name": "Claude in Chrome",
+  "tagline": "Anthropics offizielle Chrome-Erweiterung ist jetzt allgemein verfügbar und kann eigenständig im Browser handeln.",
+  "beschreibung": "Claude in Chrome lässt Claude direkt im Browser mitlesen und handeln: Seiten verstehen, Formulare ausfüllen, Links anklicken, zwischen Tabs navigieren und dabei bestehende Logins nutzen. Seit dem 26. August ist die Erweiterung auf allen bezahlten Claude-Plänen allgemein verfügbar und kann nun auch autonom mehrere Schritte hintereinander ausführen, statt jede einzelne Aktion bestätigen zu lassen. Ein eigener Sicherheits-Klassifikator prüft dabei jede Aktion, bevor sie ausgeführt wird — eine direkte Antwort auf Bedenken rund um Prompt-Injection-Angriffe im Browser.",
+  "useCase": "Ein Nutzer bittet Claude in Chrome, auf mehreren Buchungsportalen Flugpreise für einen bestimmten Reisezeitraum zu vergleichen und automatisch das günstigste Angebot bis zum Zahlungsschritt vorzubereiten, ohne jede Klick-Aktion einzeln freigeben zu müssen.",
+  "url": "https://claude.com/blog/claude-in-chrome-generally-available",
+  "kategorie": "Productivity / Browser",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Anthropic", "Browser-Agent", "Automatisierung", "Chrome"]
+}

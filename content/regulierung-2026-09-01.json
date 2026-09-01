@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Büro verhängt erste Bussgelder nach dem AI Act — insgesamt 47 Millionen Euro",
+      "region": "EU",
+      "detail": "Wenige Tage nach dem Start der vollen Durchsetzungsbefugnisse am 2. August hat das EU-KI-Büro drei Unternehmen sanktioniert: 18 Millionen Euro gegen eine europaweite HR-Plattform ohne Konformitätsbewertung und menschliche Aufsicht für ihre Recruiting-KI, 14 Millionen gegen einen Kreditscoring-Anbieter wegen fehlender Annex-III-Dokumentation und 15 Millionen gegen eine Handelskette für den Einsatz von Echtzeit-Emotionserkennung in vier Mitgliedstaaten — eine nach Artikel 5 verbotene Praxis. Bevorzugtes erstes Mittel des KI-Büros bleiben allerdings 'technische Compliance-Dialoge' vor förmlichen Verfahren.",
+      "url": "https://www.aipolicydesk.com/blog/eu-ai-act-first-fines-47-million-hiring-emotion-recognition-2026",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens AI Transparency Act ist seit 2. August operativ",
+      "region": "USA",
+      "detail": "Das kalifornische Transparenzgesetz für generative KI verpflichtet grosse Anbieter seit dem 2. August dazu, KI-generierte Inhalte klar kennzeichenbar zu machen und entsprechende Erkennungswerkzeuge bereitzustellen. Für international tätige Anbieter bedeutet das faktisch einen zweiten Transparenz-Standard neben den EU-Vorgaben, den sie parallel erfüllen müssen.",
+      "url": "https://www.kelleydrye.com/viewpoints/blogs/ad-law-access/ai-regulatory-roundup-recent-developments-in-colorado-connecticut-and-california",
+      "auswirkung": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Colorado ersetzt sein KI-Gesetz nach Klage von xAI durch engeren ADMT-Ansatz",
+      "region": "USA",
+      "detail": "Nachdem das US-Justizministerium im April eine Klage von xAI gegen das ursprüngliche Colorado AI Act unterstützt hatte und ein Gericht die Durchsetzung aussetzte, hat Colorado das Gesetz im Mai durch die engere SB 26-189 ersetzt. Diese reguliert nur noch automatisierte Entscheidungssysteme mit wesentlichem Einfluss auf folgenreiche Entscheidungen und tritt erst am 1. Januar 2027 in Kraft — ein Beispiel dafür, wie juristischer Druck US-Bundesstaaten zu schlankeren KI-Gesetzen zwingt.",
+      "url": "https://www.jenner.com/en/news-insights/client-alerts/doj-joins-xai-in-lawsuit-challenging-colorado-ai-act",
+      "auswirkung": "mittel"
+    }
+  ]
+}

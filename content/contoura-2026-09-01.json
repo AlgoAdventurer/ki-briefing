@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatischer Rangliste-Import per Browser-Agent",
+      "kontext": "Claude in Chrome ist jetzt allgemein verfügbar und kann eigenständig mehrere Schritte im Browser ausführen — Seiten lesen, Formulare ausfüllen, zwischen Tabs navigieren — statt jede Aktion einzeln bestätigen zu lassen.",
+      "umsetzung": "Contoura könnte einen Browser-Agenten anstossen, der nach jedem Wettkampf automatisch die Resultate und Split-Zeiten von o-l.ch bzw. Livelox ausliest und direkt ins Athletenprofil überträgt, statt dass Athleten Zeiten manuell abtippen oder Screenshots hochladen müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige Flash-Modelle für automatische Trainingsempfehlungen pro Athlet",
+      "kontext": "Neue kosteneffiziente Modelle wie Qwen3.8-Flash-Next und Gemini 3.7 Flash liefern starke Analyseleistung bei einem Bruchteil der bisherigen Kosten pro Anfrage.",
+      "umsetzung": "Contoura könnte für jeden Athleten nach jedem Training automatisch eine kurze, personalisierte Empfehlung generieren lassen — basierend auf Fehlerstatistik und Performance-Index der letzten Wochen —, ohne dass die Kosten pro Nutzer bei wachsender Athletenzahl aus dem Ruder laufen.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Transparenz-Hinweise von Anfang an bei künftigen KI-Auswertungsfeatures einplanen",
+      "kontext": "Das EU-KI-Büro hat gerade erste Bussgelder verhängt, unter anderem für den Einsatz von Emotionserkennung ohne Aufklärung der Betroffenen — ein Warnsignal für alle, die biometrische oder verhaltensbezogene KI-Analysen planen.",
+      "umsetzung": "Sollte Contoura künftig etwa Lauf- oder Kartenverhalten per Video- oder Sensordaten automatisiert auswerten, lohnt es sich, von Beginn an klar zu kommunizieren, welche Daten wie durch KI ausgewertet werden — das schafft Vertrauen bei Athleten und vermeidet regulatorische Nacharbeit, falls Contoura später auch in der EU aktiv wird.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

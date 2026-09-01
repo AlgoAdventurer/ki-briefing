@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "name": "Qwen3.8-Flash-Next",
+      "version": "3.8-Flash-Next",
+      "anbieter": "Alibaba (Qwen-Team)",
+      "detail": "Alibaba hat am 26. August ein 176-Milliarden-Parameter-MoE-Modell als offizielle Vorschau auf die kommende Qwen4-Architektur open-source veröffentlicht, mit nur 6 Milliarden aktiven Parametern pro Token. Eine neue Kombination aus Gated DeltaNet, Sparse Attention und N-Gram-Embeddings soll bei Coding- und Büroaufgaben bessere Ergebnisse liefern als der Vorgänger Qwen3.7-Plus — bei rund einem Neuntel der Trainingskosten.",
+      "url": "https://huggingface.co/Qwen",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.7 Flash",
+      "version": "3.7 Flash",
+      "anbieter": "Google DeepMind",
+      "detail": "Googles neuestes günstiges Flash-Modell ist seit dem 13. August verfügbar und richtet sich an Entwickler, die hohe Volumina zu niedrigen Kosten pro Anfrage verarbeiten müssen. Es reiht sich in eine Rekordserie von elf grossen Modell-Releases innerhalb von 20 Augusttagen ein und unterstreicht den branchenweiten Trend zu kompakteren, effizienteren Modellen statt reiner Grössen-Rennen.",
+      "url": "https://ai.google.dev/gemini-api/docs/changelog",
+      "bild": ""
+    }
+  ]
+}

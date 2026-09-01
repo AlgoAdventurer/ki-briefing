@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Neue MCP-Roadmap setzt auf Agent-Identität und HTTP-natives Hosting",
+      "typ": "Standard / Protokoll",
+      "detail": "Die Maintainer des Model Context Protocol haben am 22. August eine aktualisierte Roadmap veröffentlicht, die auf fünf Prioritäten setzt: agentische Nachrichtenübermittlung zwischen mehreren Agenten, HTTP-native Transportwege, verlässliche Agent-Identität, bessere Grundbausteine für Tool-Definitionen und generell mehr SDK-Politur. In Kombination mit der Spezifikation vom 28. Juli lässt sich ein MCP-Server nun wie jeder gewöhnliche HTTP-Dienst hosten und betreiben, was den Einstieg für Entwickler deutlich vereinfacht.",
+      "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Developer Platform: Workbench wird zu Playground mit vollständiger Messages-API-Unterstützung",
+      "typ": "API / SDK",
+      "detail": "Anthropic hat das bisherige Workbench in der Claude Console durch Playground ersetzt. Neu werden alle Parameter der Messages API unterstützt, dazu kommen ausführbare Vorlagen, die Features wie Code-Ausführung und Web-Suche direkt demonstrieren — praktisch, um neue API-Fähigkeiten auszuprobieren, bevor man sie in eigenen Code integriert.",
+      "url": "https://platform.claude.com/docs/en/release-notes/overview",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI bündelt Agentic-Fähigkeiten in Responses API und Agents SDK",
+      "typ": "API / SDK",
+      "detail": "OpenAI konsolidiert seine Agenten-Bausteine in der Responses API und im neuen Agents SDK. Drei eingebaute Tools stehen direkt zur Verfügung: Websuche (dieselbe Technik wie in der ChatGPT-Suche), Dateisuche für Vektor-Stores sowie Computer Use, mit dem ein Agent eigenständig eine grafische Oberfläche bedienen kann — ein deutlicher Schritt weg von manuell verdrahteten Tool-Aufrufen hin zu vorgefertigten Agenten-Primitiven.",
+      "url": "https://platform.openai.com/docs/guides/agents",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "titel": "John Ternus wird neuer Apple-CEO, Tim Cook wechselt in den Verwaltungsrat",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-08-30/apple-s-new-ceo-john-ternus-takes-reins-from-tim-cook-focusing-on-ai",
+      "zusammenfassung": "Zum 1. September übernimmt Hardware-Chef John Ternus offiziell das Ruder bei Apple, während Tim Cook nach 15 Jahren an der Spitze zum Executive Chairman wird — der erste CEO-Wechsel des Konzerns seit 2011. Ternus tritt sein Amt mit klarem Fokus auf künstliche Intelligenz an und muss sowohl das Apple-Intelligence-Programm neu ausrichten als auch das Führungsteam für die nächste Dekade formen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI peilt Börsengang im September an — Bewertung von bis zu 1 Billion Dollar",
+      "quelle": "CNBC",
+      "quelleUrl": "https://www.cnbc.com/2026/08/19/open-ai-ipo-timing-2027-friar.html",
+      "zusammenfassung": "OpenAI hat bei der US-Börsenaufsicht SEC vertraulich ein S-1-Registrierungsformular eingereicht und könnte damit bereits im September an die Börse gehen — Analysten rechnen mit einer Bewertung von über 1 Billion Dollar, was den grössten Tech-Börsengang der Geschichte bedeuten würde. Gleichzeitig zeigen interne Zahlen einen monatlichen Cashverbrauch von rund 2 Milliarden Dollar, was die Skepsis mancher Investoren nährt.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "EU-KI-Büro verhängt erste Bussgelder nach dem AI Act — 47 Millionen Euro gegen drei Firmen",
+      "quelle": "AI Policy Desk",
+      "quelleUrl": "https://www.aipolicydesk.com/blog/eu-ai-act-first-fines-47-million-hiring-emotion-recognition-2026",
+      "zusammenfassung": "Nur wenige Tage nach dem offiziellen Start der Durchsetzung am 2. August hat das EU-KI-Büro seine ersten Strafen verhängt: 18 Millionen Euro gegen eine Recruiting-Plattform ohne Konformitätsbewertung, 14 Millionen gegen einen Kreditscoring-Anbieter wegen fehlender Dokumentation und 15 Millionen gegen eine Handelskette für den Einsatz verbotener Emotionserkennung. Die Fälle zeigen, dass der AI Act nun tatsächlich mit Zähnen ausgestattet ist.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google bringt Gemini Enterprise erstmals als branchenspezifisches Paket für Anwaltskanzleien",
+      "quelle": "Google Cloud Blog",
+      "quelleUrl": "https://cloud.google.com/blog/products/ai-machine-learning/introducing-gemini-enterprise-for-legal",
+      "zusammenfassung": "Mit Gemini Enterprise for Legal startet Google seine erste branchenspezifische Gemini-Variante, mit vorgefertigten Agenten für Vertragsanalyse, Zitationsprüfung und Regulierungs-Monitoring sowie MCP-Anbindungen an Systeme wie iManage, Harvey und Thomson Reuters. Kanzleien wie Cleary Gottlieb und Freshfields sind bereits als Launch-Partner mit an Bord — eine Finance-Variante folgt parallel, Gesundheitswesen soll als Nächstes kommen.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic kauft SDK-Startup Stainless, das auch OpenAI und Google nutzen",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/news/anthropic-acquires-stainless",
+      "zusammenfassung": "Für über 300 Millionen Dollar übernimmt Anthropic den SDK-Generator Stainless, der aus API-Spezifikationen fertige SDKs für Python, TypeScript, Go, Java und weitere Sprachen erzeugt — Werkzeuge, auf die bislang auch die Konkurrenten OpenAI und Google angewiesen sind. Anthropic stellt die gehosteten Stainless-Produkte künftig ein, bestehende Kunden behalten aber alle Rechte an ihren bereits generierten SDKs.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

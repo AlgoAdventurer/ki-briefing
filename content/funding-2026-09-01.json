@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-01",
+  "items": [
+    {
+      "id": 1,
+      "firma": "DeepSeek",
+      "betrag": "$7,4 Mrd.",
+      "runde": "Erste externe Finanzierungsrunde",
+      "investoren": "Monolith Management, Shixiang, CATL sowie mehrere von chinesischen Lokalregierungen unterstützte Fonds",
+      "beschreibung": "Das chinesische KI-Labor DeepSeek steht kurz vor dem Abschluss seiner allerersten grossen Kapitalrunde bei einer Bewertung von rund 74 Milliarden Dollar. Das Geld soll vor allem in den Ausbau von rund einem Gigawatt zusätzlicher Rechenkapazität fliessen und bereitet einen möglichen Börsengang an der Shanghaier Star-Market-Börse im Jahr 2027 vor — ein Signal, dass auch chinesische Open-Weight-Anbieter jetzt im Wettrüsten um Compute mit den US-Labs mithalten wollen.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Andreessen Horowitz — Machine Age Fund",
+      "betrag": "$1,1 Mrd.",
+      "runde": "Themen-Fonds (geschlossen)",
+      "investoren": "Andreessen Horowitz (a16z)",
+      "beschreibung": "a16z hat seinen neuen 'Machine Age Fund' bei 1,1 Milliarden Dollar geschlossen, der gezielt in physische KI-Infrastruktur investieren soll: Chips, Speicher, Netzwerktechnik, Rechenzentren, Robotik und vernetzte Haushaltsgeräte. Die Runde unterstreicht den branchenweiten Trend, dass Kapital zunehmend von reinem Modelltraining hin zu Hardware und Infrastruktur wandert.",
+      "bild": ""
+    }
+  ]
+}
