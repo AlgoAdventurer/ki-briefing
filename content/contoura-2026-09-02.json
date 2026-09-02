@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige multimodale Modelle für automatische Karten- und Streckenanalyse",
+      "kontext": "Z.ai hat mit GLM-5.3-Flash ein natively multimodales Open-Weight-Modell veröffentlicht, das Bilder direkt versteht statt über einen separaten Vision-Adapter — bei rund 0,15$ pro Million Input-Token deutlich günstiger als bisherige Multimodal-Modelle.",
+      "umsetzung": "Contoura könnte Athlet:innen erlauben, ein Foto ihrer OL-Karte mit eingezeichneter Route hochzuladen, woraufhin ein günstiges multimodales Modell automatisch Routenwahl, Kontrollpunkt-Reihenfolge und mögliche Fehlerquellen erkennt und mit den erfassten Split-Zeiten verknüpft — ohne dass die Kosten pro Auswertung bei wachsender Nutzerzahl zum Problem werden.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Sicherheits-Grundsätze für KI-Agenten von Anfang an mitdenken",
+      "kontext": "Das frisch finanzierte Startup AIR Security zeigt, wie wichtig eine Art Firewall für KI-Agenten wird: Skills und Add-ons von Agenten müssen laufend geprüft werden, weil autonome Systeme sonst unerwünschte Aktionen ausführen können — verstärkt durch die aktuelle Forschung, die zeigt, wie leicht sich Coding-Agenten wie Claude Codes Auto Mode über mehrstufige Prompt-Injection austricksen lassen.",
+      "umsetzung": "Sollte Contoura künftig einen Browser- oder Import-Agenten einsetzen, der eigenständig Resultate von o-l.ch oder Livelox abruft, lohnt es sich, diesen von Beginn an in einer isolierten Umgebung mit engem Berechtigungsrahmen laufen zu lassen und jede automatisierte Aktion (z.B. Schreibzugriffe auf Athletenprofile) explizit zu begrenzen, statt dem Agenten uneingeschränkten Zugriff zu geben.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Altersgerechte Gestaltung von KI-Auswertungsfeatures für Nachwuchsathlet:innen",
+      "kontext": "Mit SB 1119 (\"Adam's Law\") unterstützt OpenAI in Kalifornien ein Gesetz, das Altersverifikation, Transparenz und besondere Schutzmassnahmen für KI-Produkte fordert, die von Minderjährigen genutzt werden.",
+      "umsetzung": "Da Contoura auch von jugendlichen Nachwuchsathlet:innen genutzt wird, sollten künftige KI-Features (automatische Trainingskommentare, Leistungsvergleiche) von Anfang an klar kommunizieren, dass die Auswertung durch KI erfolgt, und auf motivierende statt belastende Formulierungen achten — das schafft Vertrauen bei Athlet:innen und Eltern und vermeidet regulatorischen Nachbesserungsbedarf.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

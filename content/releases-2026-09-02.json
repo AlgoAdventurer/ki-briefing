@@ -1,0 +1,41 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "name": "Solaris",
+      "version": "",
+      "anbieter": "Runway",
+      "detail": "Erstes \"Interface World Model\": generiert Nutzeroberflächen live und Bild für Bild in 720p auf Basis des Video-Modells Gen-4.5, statt Code auszuführen. Jede Interaktion — Klick, Wisch, Spracheingabe — wird zum Steuersignal für den nächsten generierten Frame.",
+      "url": "https://runway.com/news/research/introducing-solaris",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GLM-5.3-Flash",
+      "version": "5.3",
+      "anbieter": "Z.ai",
+      "detail": "320-Milliarden-Parameter-MoE-Modell mit 18 Milliarden aktiven Parametern, erstmals nativ multimodal statt mit aufgesetztem Vision-Adapter. MIT-Lizenz, 1-Million-Token-Kontext, laut Z.ai nahe an Claude Opus 4.8 bei Coding-Benchmarks — zu einem Zehntel des Preises.",
+      "url": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Qwen3.8-Flash",
+      "version": "3.8",
+      "anbieter": "Alibaba",
+      "detail": "Schlankere, kosteneffiziente Variante der Qwen3.8-Modellreihe, ausgelegt auf schnelle Inferenz bei geringeren Kosten pro Anfrage — Teil des Trends zu günstigen, aber leistungsfähigen Flash-Modellen für den produktiven Einsatz in Apps und Agenten.",
+      "url": "https://aireleasetracker.com/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "GenAI.mil Drei-Modell-Toolkit",
+      "version": "",
+      "anbieter": "US-Verteidigungsministerium / OpenAI / xAI",
+      "detail": "ChatGPT Mil und Grok for Government erhalten neben Gemini für Regierungsbehörden die IL5-Zulassung auf dem GenAI.mil-Portal und stehen damit rund 3 Millionen Militär- und Zivilangestellten für sensible, nicht klassifizierte Aufgaben zur Verfügung.",
+      "url": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/",
+      "bild": ""
+    }
+  ]
+}

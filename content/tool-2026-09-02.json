@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-02",
+  "name": "GitFig",
+  "tagline": "Figma-Plugin, das Design-Tokens und Styles per Git-Workflow mit GitHub synchronisiert.",
+  "beschreibung": "GitFig bringt echte Versionskontrolle in den Designprozess: Variablen, Styles und Modes aus Figma landen als JSON direkt im GitHub-Repository, inklusive Branches, Commits und Pull Requests — bidirektional und ohne manuellen Export. Designer:innen und Entwickler:innen arbeiten damit erstmals im selben Git-Workflow statt über Screenshots oder manuell gepflegte Style-Guides. Das Plugin ist frisch auf Product Hunt gestartet und liegt bereits in Version 1.2.1 vor.",
+  "useCase": "Ein Designteam ändert Farb- und Abstands-Tokens in Figma, öffnet direkt aus dem Plugin einen Pull Request gegen das Frontend-Repo, und Entwickler:innen reviewen die Design-Änderungen wie jeden anderen Code-Change, bevor sie gemerged werden.",
+  "url": "https://gitfig.com/",
+  "kategorie": "Design / Developer",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Figma", "GitHub", "Design-Tokens", "DesignOps"]
+}

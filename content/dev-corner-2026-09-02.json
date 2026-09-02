@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Prompt-Injection-Kette bricht Claude Codes Auto Mode — was Entwickler daraus lernen sollten",
+      "typ": "Sicherheit",
+      "detail": "Forscher Johann Rehberger zeigt eine Angriffskette, die über WebFetch, eine präparierte ZIP-Datei und ein manipuliertes Python-Modul (struct.py-Shadowing) in bis zu 80% der Tests Remote-Code-Execution in Claude Codes Auto Mode erreicht. Für Teams, die Auto Mode oder ähnliche autonome Coding-Agenten produktiv einsetzen, heisst das: Sandboxing und Netzwerk-Isolation der Ausführungsumgebung sind Pflicht, ein Prompt-Injection-Klassifikator allein reicht nicht als Sicherheitsgrenze.",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Spezifikation 2026-07-28: zustandsloser Protokollkern und neue Python-SDK v2",
+      "typ": "Protokoll / SDK",
+      "detail": "Das Model Context Protocol wandelt sich mit der Spezifikation 2026-07-28 von einem zustandsbehafteten zu einem zustandslosen Request/Response-Protokoll, das sich über gewöhnliche HTTP-Infrastruktur mit Round-Robin-Load-Balancing skalieren lässt — kein Session-Handshake, kein Sticky-Session-Management mehr nötig. Die Python-SDK v2 (Beta) bringt dafür eine neue MCPServer-API mit Multi-Round-Trip-Requests und standardmässigem OpenTelemetry.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GLM-5.3-Flash: offene Gewichte, MIT-Lizenz, 1M-Token-Kontext",
+      "typ": "Open Source",
+      "detail": "Z.ai veröffentlicht mit GLM-5.3-Flash ein 320B-MoE-Modell (18B aktive Parameter) unter MIT-Lizenz mit nativer Multimodalität und 1-Million-Token-Kontext. Die Gewichte stehen auf Hugging Face bereit, das Modell ist zusätzlich über Z.ai-API, OpenRouter, Cloudflare Workers AI und Vercel AI Gateway nutzbar — bei rund 0,15$ pro Million Input-Token eine günstige Option für eigene Coding- und Agenten-Workflows.",
+      "url": "https://www.testingcatalog.com/z-ai-launches-glm-5-3-flash-under-mit-license/",
+      "codebeispiel": ""
+    }
+  ]
+}

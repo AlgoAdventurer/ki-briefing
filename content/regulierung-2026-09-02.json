@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI unterstützt Kaliforniens Jugendschutz-Gesetz SB 1119 (\"Adam's Law\")",
+      "region": "USA",
+      "detail": "OpenAI ruft Gouverneur Newsom öffentlich dazu auf, das kalifornische Gesetz SB 1119 zu unterzeichnen, das Altersverifikation, unabhängige Audits und Schutzmassnahmen für Companion-Chatbots vorschreibt sowie Minderjährige vor Selbstschädigung und Ausbeutung schützen soll. OpenAI verweist darauf, dass fast 90% der jugendlichen ChatGPT-Nutzer die App wöchentlich zum Lernen einsetzen — Sicherheit und Zugang sollen sich nicht ausschliessen.",
+      "url": "https://openai.com/index/supporting-california-bill-advance-ai-youth-safety/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kontroverse um Grok auf dem Pentagon-Portal GenAI.mil — fehlender CSAM-Schutz",
+      "region": "USA",
+      "detail": "Kurz nach der Freigabe von Grok for Government für 3 Millionen US-Verteidigungsmitarbeiter wird bekannt, dass xAI-eigene Ingenieure keinen zuverlässigen technischen Fix gegen die Erzeugung von Missbrauchsdarstellungen (CSAM) durch Grok gefunden hatten. Das Ministerium äussert sich nicht dazu, welche Risikoprüfung vor der IL5-Zulassung stattfand — ein Fall, der zeigt, wie schnell Beschaffungs- und Sicherheitsprozesse bei Regierungs-KI auseinanderlaufen können.",
+      "url": "https://www.techtimes.com/articles/326133/20260901/pentagon-deployed-grok-genaimil-after-engineers-said-csam-has-no-reliable-fix.htm",
+      "auswirkung": "hoch"
+    }
+  ]
+}

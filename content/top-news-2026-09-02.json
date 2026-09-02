@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Cognition AI vor Mega-Runde: 1 Milliarde Dollar bei 47 Milliarden Bewertung",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-09-02/ai-startup-cognition-set-to-raise-around-1-billion-at-a-47-billion-value",
+      "zusammenfassung": "Der Devin-Entwickler Cognition steht kurz vor dem Abschluss einer neuen Finanzierungsrunde von rund 1 Milliarde Dollar, die das Startup auf etwa 47 Milliarden Dollar bewertet — fast doppelt so viel wie bei der letzten Runde im Mai. Investoren zeigten laut Berichten Interesse von fast 10 Milliarden Dollar, was das ungebrochene Vertrauen in autonome KI-Coding-Agenten unterstreicht.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Pentagon öffnet GenAI.mil für ChatGPT Mil und Grok for Government neben Gemini",
+      "quelle": "DefenseScoop",
+      "quelleUrl": "https://defensescoop.com/2026/08/31/grok-chatgpt-added-to-genai-mil/",
+      "zusammenfassung": "Nach Gemini für Regierungsbehörden stehen nun auch OpenAIs ChatGPT Mil und xAIs Grok for Government auf dem GenAI.mil-Portal des US-Verteidigungsministeriums bereit — insgesamt drei Modelle für rund 3 Millionen Militär- und Zivilangestellte, alle mit IL5-Zulassung für sensible, nicht klassifizierte Daten. Über 1,7 Millionen Nutzer haben die Plattform bereits aktiviert.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Runway stellt Solaris vor — Interfaces werden Bild für Bild generiert statt programmiert",
+      "quelle": "Runway",
+      "quelleUrl": "https://runway.com/news/research/introducing-solaris",
+      "zusammenfassung": "Mit Solaris präsentiert Runway das erste Modell einer neuen Kategorie namens \"Interface World Models\": Statt Code auszuführen, generiert das System Nutzeroberflächen live und Bild für Bild als Reaktion auf Klicks, Wischgesten oder Sprachbefehle. Basis ist Runways Video-Modell Gen-4.5 — die App als feste Einheit könnte damit langfristig durch dynamisch erzeugte Interfaces ersetzt werden.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Sicherheitsforscher hebeln Claude Codes Auto Mode über mehrstufige Prompt-Injection aus",
+      "quelle": "Embrace The Red",
+      "quelleUrl": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "zusammenfassung": "Der Sicherheitsforscher Johann Rehberger zeigt, wie eine Kette aus scheinbar harmlosen Schritten — von WebFetch über eine präparierte ZIP-Datei bis zu einem manipulierten Python-Modul — Claude Codes Opus-5-Auto-Mode in 60 bis 80 Prozent der Tests zur Ausführung von Schadcode bringt. Anthropic betont, Auto Mode sei ein Komfort-Feature mit Best-Effort-Klassifikator und keine Sicherheitsgarantie gegen gezielte, mehrstufige Angriffsketten.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Google ersetzt Google Assistant ab 4. September durch Gemini auf Android",
+      "quelle": "Tom's Guide",
+      "quelleUrl": "https://www.tomsguide.com/ai/google-gemini/google-assistant-dies-in-september-what-you-need-to-know-and-how-to-switch-to-gemini",
+      "zusammenfassung": "Ab dem 4. September übernimmt Gemini offiziell die Rolle des Sprachassistenten auf Android-Geräten und löst den langjährigen Google Assistant endgültig ab. Für Millionen Nutzer bedeutet das gewohnte Sprachbefehle über eine deutlich leistungsfähigere, generative KI statt über die bisherige regelbasierte Assistenten-Technik.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

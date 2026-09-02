@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-02",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Cognition AI",
+      "betrag": "~$1 Milliarde",
+      "runde": "Growth Round",
+      "investoren": "laut Bloomberg Investoreninteresse von fast $10 Milliarden",
+      "beschreibung": "Der Entwickler des autonomen KI-Software-Ingenieurs Devin steht kurz vor dem Closing einer Runde, die das Unternehmen auf rund 47 Milliarden Dollar bewertet — fast doppelt so viel wie bei der letzten Runde vor nur drei Monaten. Zeigt das ungebrochene Investoreninteresse an autonomen Coding-Agenten.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "AIR Security",
+      "betrag": "$50 Millionen",
+      "runde": "Seed (zwei Runden)",
+      "investoren": "Sequoia Capital, Greenoaks Capital Partners, Swish Ventures, Netz Capital",
+      "beschreibung": "Das erst im Februar 2026 gegründete Startup baut eine Art Firewall für KI-Agenten: Die Plattform entdeckt laufende Agenten in Unternehmen, prüft fortlaufend deren Skills und Add-ons und blockiert unerwünschtes Verhalten. Über 20 Firmen nutzen die Lösung bereits, die stärkste Nachfrage kommt aus Finanzdienstleistung und Pharma.",
+      "bild": ""
+    }
+  ]
+}
