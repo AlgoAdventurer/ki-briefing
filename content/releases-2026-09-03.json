@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "name": "Gemini 3.8 Flash",
+      "version": "3.8 Flash",
+      "anbieter": "Google DeepMind",
+      "detail": "Nur drei Wochen nach Gemini 3.7 Flash veröffentlicht Google mit 3.8 Flash bereits das vierte Flash-Modell in vier Monaten. Der Intelligence-Index von Artificial Analysis steigt um 3 Punkte auf 59, das Modell 'arbeitet härter' an komplexen Aufgaben und schlägt dabei teils grössere Modelle — zum gleichen Einstiegspreis von 0,75 Dollar pro Million Input-Tokens wie sein Vorgänger.",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Qwen3.8-27B",
+      "version": "3.8-27B",
+      "anbieter": "Alibaba (Qwen-Team)",
+      "detail": "Das offen verfügbare 27-Milliarden-Parameter-Modell unter Apache-2.0-Lizenz bringt einen nativen Vision-Language-Encoder, ein 262k-Token-Kontextfenster und flexible Denk-Steuerung mit. Mit 61,7 Prozent auf SWE-Bench Pro gehört es zu den stärksten lokal betreibbaren Coding-Modellen und läuft dank kompakter Grösse auf einer einzelnen gemieteten GPU.",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "bild": ""
+    }
+  ]
+}

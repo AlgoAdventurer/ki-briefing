@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-03",
+  "name": "Muse Voice Transcribe",
+  "tagline": "Metas neues Streaming-Transkriptionsmodell erkennt Sprecher in Echtzeit und schlägt dabei OpenAI, Google und ElevenLabs.",
+  "beschreibung": "Muse Voice Transcribe transkribiert Sprache live während sie gesprochen wird, trennt dabei automatisch über 20 verschiedene Stimmen in einer Aufnahme und erkennt selbstständig, wann jemand zu sprechen aufgehört hat — ganz ohne separaten Nachbearbeitungsschritt. Trainiert auf mehr als 70 Sprachen und mit nativem Sprachwechsel innerhalb eines Satzes erreicht es mit einer Wortfehlerrate von 3,1 Prozent den aktuell besten Wert im Streaming-Bereich. Verfügbar ist es über die Meta Model API, Meta AI für Mac und Muse Code, seit dem 1. September für alle Entwickler geöffnet.",
+  "useCase": "Ein Podcast-Team lässt ein zweistündiges Interview mit drei Sprechern live mitschneiden und automatisch sprechergetrennt transkribieren, um direkt im Anschluss ein fertig formatiertes Skript mit klar zugeordneten Redebeiträgen zu erhalten, statt die Aufnahme nachträglich manuell zu sortieren.",
+  "url": "https://developer.meta.com/ai/models/muse-voice-transcribe/",
+  "kategorie": "API / Audio",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["Meta", "Speech-to-Text", "Transkription", "API"]
+}

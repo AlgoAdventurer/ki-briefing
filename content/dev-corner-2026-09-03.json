@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "GitHub Copilot CLI verbessert MCP- und Plugin-Workflows",
+      "typ": "SDK / Tool",
+      "detail": "Das neueste Copilot-CLI-Update bringt smartere Sortierung laufender Sessions, schnellere Autovervollständigung in grossen Repos und besseren Support für Bazel-Sandboxes. Ausserdem werden MCP-Server, die über ein Plugin bereitgestellt werden, im Dashboard nicht mehr fälschlich als 'User'-Server angezeigt, sondern korrekt als eingebaut markiert — ein kleines, aber für Teams mit vielen Plugins spürbares Detail.",
+      "url": "https://github.blog/news-insights/product-news/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Katalog wächst von 2 auf 228 Einträge innerhalb eines Jahres",
+      "typ": "Open Source / Protokoll",
+      "detail": "Der offizielle Model-Context-Protocol-Katalog ist von 2 Listings Ende 2025 auf 228 im August-2026-Katalog gewachsen, praktisch komplett konzentriert auf Entwickler- und KI-Infrastruktur-Tools und überwiegend kostenlos angeboten. Für Entwickler heisst das: Für die meisten gängigen Dienste — von Datenbanken bis Ticketsystemen — existiert inzwischen ein fertiger MCP-Server, statt eine eigene Integration schreiben zu müssen.",
+      "url": "https://blog.modelcontextprotocol.io/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "OpenAI trennt bei Astra defensive Sicherheitsforschung von Exploit-Erstellung",
+      "typ": "Sicherheit / API",
+      "detail": "Weil Astra eigenständig Zero-Day-Schwachstellen findet und zu funktionierenden Exploit-Ketten verbindet, hat OpenAI die Zugriffsrechte gestaffelt: Das Aufspüren von Schwachstellen — die defensive Seite der Sicherheitsarbeit — bleibt breiter zugänglich, während das Schreiben von Exploits und Penetrationstests weiterhin an schärfer kontrollierte Opus-Modelle mit Zugriffsbeschränkung umgeleitet wird. Für Security-Teams, die Astra einsetzen wollen, lohnt sich ein Blick auf die gestaffelten Zugriffsstufen, bevor man produktive Scans plant.",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "codebeispiel": ""
+    }
+  ]
+}

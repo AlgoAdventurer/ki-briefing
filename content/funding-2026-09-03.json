@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Wonderful",
+      "betrag": "$550M",
+      "runde": "Series C",
+      "investoren": "Insight Partners (Lead), Salesforce, Index Ventures, IVP, Vine Ventures, 9Yards, Bessemer Venture Partners",
+      "beschreibung": "Das Amsterdamer Startup baut eine 'KI-Betriebssystem' genannte Plattform, die Agenten, Workflows, KI-native Anwendungen und Integrationen für Unternehmen zentral koordiniert. Seit der Series B im März ist die Bewertung von 2 auf 5 Milliarden Dollar gestiegen, das Team auf 650 Mitarbeitende in über 35 Märkten gewachsen — ein Zeichen dafür, wie schnell sich Kapital von reinen Chat-Assistenten zu unternehmensweiter Agenten-Infrastruktur verschiebt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Enflame Technology",
+      "betrag": "≈$900M (6,1 Mrd. Yuan)",
+      "runde": "Börsengang Shanghai (STAR Market)",
+      "investoren": "Tencent (Bestandsinvestor) und weitere",
+      "beschreibung": "Der von Tencent unterstützte chinesische KI-Chiphersteller Enflame verzeichnete bei seinem Börsengang in Shanghai aussergewöhnlich hohe Nachfrage von Investoren. Die Kapitalflut in heimische Nvidia-Alternativen zeigt, wie stark China aktuell auf den Aufbau eigener Halbleiter-Lieferketten für KI-Training setzt.",
+      "bild": ""
+    }
+  ]
+}

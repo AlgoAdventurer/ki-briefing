@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic veröffentlicht Claude Fable 5.1 und Mythos 5.1 mit deutlich weniger Fehlalarmen",
+      "quelle": "Anthropic",
+      "quelleUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "zusammenfassung": "Anthropic hat am 1. September Claude Fable 5.1 und Claude Mythos 5.1 vorgestellt — technisch dasselbe Modell, aber mit unterschiedlich strengen Sicherheitsvorkehrungen für Coding, Wissensarbeit und lange Problemlösungs-Aufgaben. Fable 5.1 ist für alle verfügbar und rund 25 Prozent günstiger im Betrieb, während der Cybersicherheits-Filter in Claude Code rund 60 Prozent seltener anschlägt; Mythos 5.1 bleibt vertrauenswürdigen Partnern in Cybersicherheit und Life Sciences vorbehalten.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "OpenAI stuft kommendes Modell Astra erstmals als 'Critical' für Cybersicherheit ein",
+      "quelle": "OpenAI",
+      "quelleUrl": "https://openai.com/index/path-to-astra/",
+      "zusammenfassung": "OpenAI hat sein kommendes Modell Astra als erstes überhaupt in die höchste Risikostufe des eigenen Preparedness Frameworks eingeordnet: Im Test erreichte es 100 Prozent auf ExploitBench und fand eigenständig zwei bislang unbekannte Zero-Day-Schwachstellen, inklusive eines vollständigen Sandbox-Escapes in einem gehärteten Browser. Der Zugang zu den fortgeschrittensten Fähigkeiten wird deshalb zunächst auf ausgewählte Tester beschränkt, während OpenAI die Sicherheitsvorkehrungen nachschärft.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Nvidia verhandelt Investment in Perplexity bei einer Bewertung von über 30 Milliarden Dollar",
+      "quelle": "TechFundingNews / Benzinga",
+      "quelleUrl": "https://techfundingnews.com/nvidia-reportedly-eyes-perplexity-at-a-30b-valuation-as-ai-search-becomes-an-agent-business/",
+      "zusammenfassung": "Nvidia befindet sich Berichten zufolge in Gesprächen, sich an einer neuen Finanzierungsrunde von Perplexity zu beteiligen, die den KI-Suchanbieter mit über 30 Milliarden Dollar bewerten würde — mehr als 50 Prozent über der letzten Bewertung von 20 Milliarden. Der Jahresumsatz von Perplexity ist seit Jahresbeginn von unter 250 Millionen auf über 750 Millionen Dollar gestiegen, unter anderem dank des Agenten-Tools 'Perplexity Computer', das Bürotätigkeiten automatisiert.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google führt 'agentisches' Videoverständnis in Gemini ein — bis zu 88 Prozent weniger Tokens",
+      "quelle": "Google",
+      "quelleUrl": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-agentic-video-in-gemini/",
+      "zusammenfassung": "Seit dem 1. September können Gemini 3.5 bis 3.7 Flash Videos aktiv selbst durchsuchen, statt sie starr Frame für Frame zu verarbeiten — das Modell wählt selbst, welche Abschnitte es wie schnell ansieht. Bei langen Aufnahmen wie 90-minütigen Vorlesungen sinkt der Tokenverbrauch dadurch um bis zu 88 Prozent und die Kosten um bis zu 66 Prozent, ganz ohne zusätzliche Gebühr, verfügbar über die Gemini-API in AI Studio und der Gemini Enterprise Agent Platform.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Meta übertrifft OpenAI und Google mit neuem Echtzeit-Transkriptionsmodell Muse Voice Transcribe",
+      "quelle": "The New Stack / Meta",
+      "quelleUrl": "https://developer.meta.com/ai/models/muse-voice-transcribe/",
+      "zusammenfassung": "Metas neues Muse Voice Transcribe kombiniert Streaming-Spracherkennung mit Sprechertrennung für über 20 Stimmen und automatischer Erkennung von Gesprächspausen in einem einzigen Schritt. Trainiert auf über 70 Sprachen erreicht es mit einer Fehlerrate von 3,1 Prozent bessere Werte als Cartesia, ElevenLabs, OpenAI und Google und ist seit dem 1. September für 3 Dollar pro 1.000 Audiominuten über die Meta Model API verfügbar.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI stuft Astra als erstes Modell überhaupt in die höchste Risikostufe für Cybersicherheit ein",
+      "region": "Global",
+      "detail": "Nach eigenem Preparedness Framework erreicht das kommende Modell Astra die Stufe 'Critical' für Cybersicherheit — bislang die höchste je vergebene Einstufung bei OpenAI. Das Unternehmen verzögerte deshalb Teile der Entwicklung, um Sicherheitsvorkehrungen nachzuschärfen, und beschränkt den Zugang zu den fortgeschrittensten Fähigkeiten zunächst auf ausgewählte Tester. Der Fall zeigt, wie freiwillige Selbstverpflichtungen der Labs zunehmend die Rolle eines De-facto-Regulierungsrahmens übernehmen, solange verbindliche Gesetze für offensive KI-Cyberfähigkeiten noch fehlen.",
+      "url": "https://openai.com/index/path-to-astra/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU verschiebt Sandbox-Pflicht im AI Act um ein Jahr, Digital Omnibus bringt erste Lockerungen",
+      "region": "EU",
+      "detail": "Die Pflicht der EU-Mitgliedstaaten, mindestens eine nationale Regulierungs-Sandbox einzurichten, wurde vom 2. August 2026 auf den 2. August 2027 verschoben. Gleichzeitig laufen mit dem 'Digital Omnibus on AI' — im Mai zwischen Rat, Parlament und Kommission vorläufig vereinbart — die ersten Änderungen am AI Act seit seiner Verabschiedung 2024, mit dem Ziel gezielter Vereinfachungen bei gleichzeitig verschärften Verboten in besonders sensiblen Bereichen.",
+      "url": "https://www.insideprivacy.com/artificial-intelligence/eu-ai-act-update-timeline-relief-targeted-simplification-and-new-prohibitions/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

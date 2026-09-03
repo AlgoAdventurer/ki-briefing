@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-03",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Analyse von Trainings- und Wettkampfvideos per agentischem Videoverständnis",
+      "kontext": "Googles neues agentisches Videoverständnis in Gemini lässt das Modell selbst entscheiden, welche Videoabschnitte es wie genau ansieht, und senkt dabei den Tokenverbrauch bei langen Aufnahmen um bis zu 88 Prozent.",
+      "umsetzung": "Contoura könnte Athleten erlauben, GPS-Tracks zusammen mit Helmkamera- oder Handyaufnahmen von Läufen hochzuladen, damit Gemini automatisch kritische Momente wie Fehlentscheidungen an Postenwechseln erkennt und mit den Split-Zeiten verknüpft — bei mehrstündigem Rohmaterial pro Saison bleiben die Kosten dank der Effizienzgewinne beherrschbar.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Transkription von Trainer-Feedback und Rennbesprechungen",
+      "kontext": "Metas neues Muse Voice Transcribe transkribiert Gespräche live, trennt dabei automatisch über 20 Sprecher und kostet nur 3 Dollar pro 1.000 Audiominuten.",
+      "umsetzung": "Nach jedem Training oder Wettkampf könnte ein Coach sein mündliches Feedback einfach aufnehmen lassen — Contoura transkribiert es automatisch sprechergetrennt und ordnet es direkt dem passenden Trainingseintrag im Athletenprofil zu, statt dass Notizen manuell nachgetragen werden müssen.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Automatisierte defensive Sicherheitsprüfung der eigenen Plattform",
+      "kontext": "OpenAIs neues Modell Astra kann eigenständig Schwachstellen in Systemen aufspüren, ohne dass ein Mensch jeden Schritt anleitet — die defensive Seite dieser Fähigkeit bleibt bewusst breiter zugänglich als die exploit-erstellende.",
+      "umsetzung": "Da Contoura sensible Athletendaten wie Gesundheits- und Leistungswerte speichert, könnte ein regelmässiger automatisierter Sicherheitsscan der eigenen Infrastruktur mit einem defensiv ausgerichteten Modell frühzeitig Schwachstellen aufdecken, bevor sie zum Problem werden.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}
