@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Office startet erste Prüfwelle bei Hochrisiko-KI-Systemen",
+      "region": "EU",
+      "detail": "Seit dem 2. August sind die neuen Transparenzregeln des AI Act durchsetzbar. Im September hat das europäische AI Office in Brüssel zusammen mit 24 nationalen Marktaufsichtsbehörden (u.a. CNIL, BfDI, AESIA) technische Audits nach Artikel 11 begonnen — Fokus liegt zunächst auf automatisiertem Lebenslauf-Screening, algorithmischer Kreditprüfung und KI-Triage in privaten Kliniken.",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kalifornien: Newsom muss bis 30. September über Frontier AI Safety Act entscheiden",
+      "region": "USA",
+      "detail": "Gouverneur Gavin Newsom steht vor der Frist Ende September, den Frontier AI Safety Act zu unterschreiben oder mit Veto zu stoppen. Das Gesetz würde Anbieter besonders leistungsfähiger KI-Modelle zu verbindlichen Sicherheitsbewertungen verpflichten und wäre eines der schärfsten bundesstaatlichen KI-Gesetze der USA.",
+      "url": "https://cubbbix.com/blog/ai-regulation-september-2026-global-update",
+      "auswirkung": "hoch"
+    }
+  ]
+}

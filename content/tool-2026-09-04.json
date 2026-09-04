@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-04",
+  "name": "FastMCP 4.0",
+  "tagline": "Das führende Python-Framework, um MCP-Server und -Clients in Minuten statt Tagen zu bauen",
+  "beschreibung": "FastMCP 4.0 ist am 31. August stabil geworden und bringt den kompletten Python-SDK-v2-Rewrite für das neue Model-Context-Protocol mit — inklusive Support für alte Protokoll-Clients per Verbindungs-Aushandlung, sodass nichts bricht. Mit der neuen ClientGroup lassen sich mehrere MCP-Verbindungen jetzt verschachtelt und parallel wiederverwenden, statt sie bei jedem Aufruf neu aufzubauen. Für Teams, die eigene Tools an Claude, GPT oder Gemini anbinden wollen, ist es aktuell der schnellste Weg vom Prototyp zum produktionsreifen MCP-Server.",
+  "useCase": "Ein eigenes Split-Zeiten-Analyse-Tool als MCP-Server bauen, den Claude Code oder ein anderer Agent direkt aufrufen kann, ohne eigene REST-API-Infrastruktur zu schreiben.",
+  "url": "https://gofastmcp.com/",
+  "kategorie": "API / SDK",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["MCP", "Python", "Open Source", "Agents", "SDK"]
+}

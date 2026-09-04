@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-04",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Wonderful",
+      "betrag": "$550M",
+      "runde": "Series C",
+      "investoren": "nicht im Detail öffentlich, Bewertung 5 Mrd. Dollar",
+      "beschreibung": "Enterprise-KI/Software-Anbieter Wonderful hat sich in einer Series-C-Runde 550 Millionen Dollar gesichert und wird damit mit 5 Milliarden Dollar bewertet — eines der größten Enterprise-KI-Fundings der Woche.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "AIR Security",
+      "betrag": "$50M",
+      "runde": "Seed (zwei Runden)",
+      "investoren": "nicht im Detail öffentlich",
+      "beschreibung": "Der Cybersecurity-Spezialist für KI-Agenten AIR Security hat in zwei aufeinanderfolgenden Seed-Runden (10 und 40 Mio. Dollar) insgesamt 50 Millionen Dollar eingesammelt, um Sicherheitswerkzeuge speziell für autonome KI-Agenten zu bauen.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Light",
+      "betrag": "$46M",
+      "runde": "Series A",
+      "investoren": "Matrix (Lead)",
+      "beschreibung": "Light hat eine von Matrix angeführte Series-A-Runde über 46 Millionen Dollar abgeschlossen, ein weiteres Zeichen für die anhaltend hohe Nachfrage nach früher AI-Infrastruktur-Finanzierung im September.",
+      "bild": ""
+    }
+  ]
+}

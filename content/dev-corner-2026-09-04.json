@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP Ruby SDK erreicht Version 1.0.0",
+      "typ": "SDK",
+      "detail": "Das offizielle Ruby-SDK für das Model Context Protocol ist als 'mcp'-Gem jetzt stabil: Die öffentliche API gilt ab sofort als eingefroren, Breaking Changes gibt es künftig nur noch in Major-Releases. Damit haben Python, TypeScript, C# und jetzt auch Ruby stabile Erst-Party-SDKs für eigene MCP-Server.",
+      "url": "https://blog.modelcontextprotocol.io/",
+      "codebeispiel": "gem 'mcp'\n\nserver = MCP::Server.new(name: \"contoura-tools\")\nserver.tool(\"split_analysis\") { |args| analyze_splits(args) }"
+    },
+    {
+      "id": 2,
+      "titel": "GPT-6 Astra landet direkt in Codex und der OpenAI API",
+      "typ": "API",
+      "detail": "Mit dem Rollout von GPT-6 Astra wird das Modell auch in Codex integriert und über die OpenAI API sowie AWS bereitgestellt. Für Entwickler heißt das: state-of-the-art Software-Engineering-Fähigkeiten direkt in bestehenden Codex-Workflows, sobald der eigene Account für den Rollout freigeschaltet ist.",
+      "url": "https://9to5mac.com/2026/09/03/openai-releasing-major-upgrade-to-chatgpt-and-codex-with-gpt-6-astra-details-here/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Gemini 3.8 Flash: gleiche Preise, deutlich mehr Leistung pro Token",
+      "typ": "API",
+      "detail": "Die Modell-ID gemini-3.8-flash ist ab sofort in AI Studio und der Gemini Enterprise Agent Platform verfügbar. Da Google die Preise bis Jahresende einfriert, lohnt sich für bestehende Gemini-Integrationen ein einfacher Modell-Swap ohne Kostenänderung, aber mit besseren Ergebnissen bei mehrstufigen Reasoning-Aufgaben.",
+      "url": "https://www.datacamp.com/blog/gemini-3-8-flash-cyber",
+      "codebeispiel": "model = genai.GenerativeModel(\"gemini-3.8-flash\")\nresponse = model.generate_content(prompt)"
+    }
+  ]
+}

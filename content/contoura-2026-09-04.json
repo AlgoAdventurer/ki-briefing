@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatischer Import von Rangliste- und Split-Zeiten-Daten per Agent",
+      "kontext": "GPT-6 Astra ist state-of-the-art bei Computer-Nutzung und Browsing und kann eigenständig Webseiten navigieren und Daten extrahieren.",
+      "umsetzung": "Ein Astra-basierter Agent könnte automatisch neue Ergebnisse von o-l.ch und Livelox abrufen, den passenden Athleten in Contoura zuordnen und Split-Zeiten direkt in die Trainingsdokumentation importieren — ohne manuelles Copy-Paste nach jedem Wettkampf.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Automatische Trainingskommentare zum Nulltarif",
+      "kontext": "Gemini 3.8 Flash liefert deutlich bessere agentische und mehrstufige Reasoning-Fähigkeiten bei unverändertem Preis gegenüber der Vorversion.",
+      "umsetzung": "Contoura könnte nach jeder erfassten Trainingseinheit automatisch einen kurzen KI-generierten Kommentar zu Fehlerstatistik und Performance-Index-Entwicklung erzeugen lassen, der Athleten sofort Feedback gibt, ohne dass ein Coach jede Session manuell auswerten muss.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Saisonlanger Trainingsplanungs-Agent",
+      "kontext": "Meta Muse Spark 1.3 hält lange, mehrstufige Agenten-Workflows über einen einzigen Thread hinweg durch und stellt aktiv Rückfragen statt falsche Annahmen zu treffen.",
+      "umsetzung": "Ein Spark-1.3-Agent könnte über eine ganze Saison hinweg Trainingsdaten, Wettkampfergebnisse und Performance-Index verfolgen und proaktiv Anpassungsvorschläge für den Trainingsplan machen, statt nur einzelne Sessions isoliert zu analysieren.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

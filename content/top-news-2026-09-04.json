@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-04",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI veröffentlicht GPT-6 Astra — erste Rollout-Welle an Business-Nutzer",
+      "quelle": "CNBC / Bloomberg",
+      "quelleUrl": "https://www.cnbc.com/2026/09/03/open-ai-astra-gpt-6-cyber.html",
+      "zusammenfassung": "OpenAI hat am 3. September GPT-6 Astra vorgestellt, das laut Präsident Greg Brockman ein 'generationeller Sprung' sei. Das Modell sättigt ARC-AGI-3 mit 99,9 Prozent und erreicht 100 Prozent auf ExploitBench; der Zugang startet zunächst über das Daybreak-Programm für geprüfte Business-Tester, bevor GPT-6 Astra in den kommenden Tagen für ChatGPT Plus, Pro, Business, Enterprise sowie über API und AWS ausgerollt wird.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia verhandelt Milliarden-Investment in Perplexity bei über 30 Mrd. Dollar Bewertung",
+      "quelle": "The Information / Benzinga",
+      "quelleUrl": "https://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal",
+      "zusammenfassung": "Nvidia führt Gespräche über eine Beteiligung an einer neuen Perplexity-Finanzierungsrunde, die den KI-Suchanbieter mit mehr als 30 Milliarden Dollar bewerten würde — über 50 Prozent mehr als bei der letzten Runde vor einem Jahr. Der Jahresumsatz von Perplexity ist seit Jahresbeginn von unter 250 auf über 750 Millionen Dollar gestiegen, unter anderem dank des Automatisierungs-Agenten 'Perplexity Computer'.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Apple-Wechsel an der Spitze: John Ternus löst Tim Cook als CEO ab",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/09/01/top-tech-news-today-september-1-2026-amazon-anthropic-honda-openai-sony-warner-z-ai-more/",
+      "zusammenfassung": "Zum 1. September hat Hardware-Chef John Ternus offiziell die Führung von Apple übernommen und beendet damit Tim Cooks 15-jährige Amtszeit. Ternus tritt sein Amt an einem Punkt an, an dem Apple bei generativer KI hinter Microsoft, Google und OpenAI zurückliegt — er kündigte bereits einen 'großen Launch' an, mit einem faltbaren iPhone als möglichem Höhepunkt des Apple-Events am 9. September.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google bringt Gemini 3.8 Flash — drittes Flash-Modell in sechs Wochen",
+      "quelle": "The Register / 9to5Google",
+      "quelleUrl": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/",
+      "zusammenfassung": "Google hat am 2. September Gemini 3.8 Flash veröffentlicht, das bei Terminal-Bench 2.1 von 81,6 auf 90,8 Prozent springt und bei langfristigen Coding-Aufgaben (DeepSWE v1.1) größere Modelle schlägt. Die Preise bleiben bis Jahresende bei 0,75 Dollar Input / 3,75 Dollar Output pro Million Tokens, verfügbar über AI Studio und die Gemini Enterprise Agent Platform.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Meta veröffentlicht Muse Spark 1.3 und rückt näher an OpenAI und Anthropic heran",
+      "quelle": "Bloomberg / Axios",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-09-02/meta-releases-more-powerful-ai-model-edging-closer-to-rivals",
+      "zusammenfassung": "Meta hat am 2. September Muse Spark 1.3 gestartet, das längere Agenten-Workflows in einem einzigen Thread durchhält, aktiv Rückfragen stellt und vor größeren Änderungen um Bestätigung bittet. Der Tool-Verbrauch sinkt um rund 20 Prozent, der Token-Verbrauch um rund 25 Prozent gegenüber Version 1.2 — bei gleichbleibendem Preis, verfügbar über Muse Code und die Meta Model API.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}
