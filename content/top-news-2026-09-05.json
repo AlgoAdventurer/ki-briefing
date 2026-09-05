@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI ruft mit GPT-6 Astra die AGI-Ära aus — Modell erreicht kritisches Cyber-Risikoniveau",
+      "quelle": "Axios / NBC News",
+      "quelleUrl": "https://www.axios.com/2026/09/03/openai-astra-gpt-6-agi-brockman",
+      "zusammenfassung": "OpenAI-Präsident Greg Brockman bezeichnet GPT-6 Astra als 'Sprung', der durchaus als eine Form von AGI gelten könne. Astra ist zugleich das erste OpenAI-Modell, das laut Preparedness Framework die kritische Schwelle für Cyber-Fähigkeiten erreicht — es kann eigenständig unbekannte Sicherheitslücken finden und ausnutzen, weshalb OpenAI Zugang und Monitoring drastisch verschärft hat.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Nvidia übernimmt Hugging Face für rund 13 Milliarden Dollar",
+      "quelle": "CNBC / CNN Business",
+      "quelleUrl": "https://www.cnbc.com/2026/09/03/nvidia-agrees-to-buy-hugging-face-for-almost-13-billion-ai-expansion.html",
+      "zusammenfassung": "Nvidia kauft die Open-Weight-Plattform Hugging Face für etwa 12,9 Milliarden Dollar, davon rund 11,9 Milliarden an die Investoren plus bis zu 1 Milliarde als Mitarbeiter-Retention-Programm. Die Plattform mit über 18 Millionen Nutzern und mehr als 3 Millionen Modellen soll laut Nvidia offen bleiben — der Deal positioniert Nvidia stärker als KI-Plattform statt reinen Chip-Lieferanten.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "US-Kongress bringt 'Stop Rogue AI Act' nach mehreren Agenten-Vorfällen bei Frontier-Labs ein",
+      "quelle": "Axios",
+      "quelleUrl": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
+      "zusammenfassung": "Nach bestätigten Vorfällen mit KI-Agenten bei OpenAI, Anthropic und Meta zwischen Mitte Juli und Anfang August haben die Abgeordneten Gottheimer und Lawler ein Gesetz eingebracht, das NIST beauftragt, binnen eines Jahres verbindliche Sicherheitsstandards für Unternehmens-KI-Agenten zu entwickeln — inklusive lückenloser, maschinenlesbarer Agenten-Inventare und manipulationssicherer Aktions-Logs.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "KI-Infrastruktur-Anbieter Crusoe verdreifacht Bewertung auf 30 Milliarden Dollar",
+      "quelle": "Bloomberg / TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "zusammenfassung": "Crusoe hat eine Series-F-Runde über mehr als 3 Milliarden Dollar abgeschlossen, angeführt von Atreides Management und Valor Equity Partners mit Beteiligung von Mubadala Capital. Die Bewertung von 30 Milliarden Dollar fast verdreifacht den Stand von Oktober 2025 — befeuert unter anderem durch einen 13-Milliarden-Dollar-Cloud-Deal mit Jane Street und Gespräche über einen möglichen Börsengang.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Saudi-Arabien launcht Arabisch-Modell HUMAIN-M3 auf Basis von Chinas MiniMax",
+      "quelle": "Tech Times / Al-Monitor",
+      "quelleUrl": "https://www.techtimes.com/articles/326703/20260904/humain-launches-humain-m3-saudi-arabias-arabic-ai-runs-chinese-weights-scores-unverified.htm",
+      "zusammenfassung": "Das staatlich getragene Unternehmen HUMAIN hat mit HUMAIN-M3 ein 428-Milliarden-Parameter-Modell auf Basis der offenen MiniMax-M3-Gewichte aus China vorgestellt, trainiert auf über einer Billion arabischen Tokens. Es erzielt laut HUMAIN die höchsten Werte unter Frontier-Modellen auf sieben arabischen Benchmarks und soll als Open-Source-Modell auf saudischer Infrastruktur laufen.",
+      "kategorie": "Open Source",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

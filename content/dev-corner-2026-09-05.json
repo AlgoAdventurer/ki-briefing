@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Claude Code: Fable 5.1 als neuer Standard, mehr Sandbox- und Permission-Sicherheit",
+      "typ": "Tool / SDK",
+      "detail": "Das September-Release von Claude Code macht Fable 5.1 zum Standardmodell, bringt erweiterte Zeit- und Modell-Kontrollen sowie stärkere Sandbox- und Permission-Schutzmechanismen mit. Dazu kommen Fixes für Background-Sessions, Remote Control und MCP sowie ein deutlich kleineres, zstd-komprimiertes Binary (rund 75 statt 340 MB unter Linux x64) für schnellere Installation und Auto-Updates.",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "GPT-6 Astra landet direkt in Codex, der OpenAI API und auf AWS",
+      "typ": "API",
+      "detail": "Mit dem gestaffelten Rollout von GPT-6 Astra integriert OpenAI das Modell auch in Codex und stellt es über API sowie AWS bereit. Entwickler mit freigeschaltetem Zugang bekommen damit state-of-the-art Software-Engineering-Fähigkeiten direkt in bestehende Codex-Workflows, allerdings vorerst nur im gestuften Daybreak-Zugang für geprüfte Kunden.",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Grok Bot for Enterprise kostenlos für Grok- und Cursor-Enterprise-Kunden",
+      "typ": "API",
+      "detail": "xAI hat Grok Bot for Enterprise gestartet und macht es für zwei Wochen kostenlos für alle Grok- und Cursor-Enterprise-Kunden verfügbar. Für Entwicklerteams, die bereits im Cursor-Ökosystem arbeiten, ist das ein risikoloser Weg, Grok-basierte Agenten-Workflows im eigenen Stack zu testen, bevor eine Kaufentscheidung ansteht.",
+      "url": "https://www.cryptointegrat.com/p/ai-news-september-4-2026",
+      "codebeispiel": ""
+    }
+  ]
+}

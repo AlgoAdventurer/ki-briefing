@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Crusoe",
+      "betrag": "$3B+",
+      "runde": "Series F",
+      "investoren": "Atreides Management, Valor Equity Partners (Co-Lead), Mubadala Capital",
+      "beschreibung": "Der KI-Infrastruktur-Anbieter Crusoe hat seine Bewertung mit einer Series-F-Runde über mehr als 3 Milliarden Dollar auf 30 Milliarden Dollar fast verdreifacht. Crusoe betreibt Rechenzentren für Meta, Microsoft und OpenAI und hat kürzlich einen 13-Milliarden-Dollar-Cloud-Deal mit Jane Street unterzeichnet.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Gimlet Labs",
+      "betrag": "$300M",
+      "runde": "Series B",
+      "investoren": "Andreessen Horowitz (Lead), Arm Holdings, Microsoft M12",
+      "beschreibung": "Gimlet Labs baut eine Multi-Silicon-Inference-Cloud, die KI-Workloads über GPUs, CPUs und spezialisierte Chips hinweg verteilt, und erreicht mit der neuen Runde eine Bewertung von 3 Milliarden Dollar — nur sechs Monate nach einer 80-Millionen-Dollar-Runde.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "HappyRobot",
+      "betrag": "$150M",
+      "runde": "Series C",
+      "investoren": "Prysm Capital, Eurazeo (Co-Lead), a16z, Base10, Y Combinator",
+      "beschreibung": "HappyRobot, dessen Plattform Unternehmen beim Bau von Voice-, E-Mail- und Dokumenten-Agenten unterstützt, erreicht mit der Runde eine Bewertung von 1,2 Milliarden Dollar. Kunden wie DHL, Uber und Repsol nutzen die Agenten bereits in Logistik, Energie und Telekommunikation.",
+      "bild": ""
+    }
+  ]
+}

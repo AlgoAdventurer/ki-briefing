@@ -1,0 +1,41 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-6 Astra",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "OpenAIs bislang fähigstes breit verfügbares Modell mit stark verbesserter Computer-Nutzung, Browsing und Software-Engineering. Erstes Modell, das laut Preparedness Framework die kritische Cyber-Schwelle erreicht — Zugang läuft daher zunächst gestaffelt über das Daybreak-Programm, bevor ChatGPT Plus/Pro/Business/Enterprise sowie API und AWS folgen. Preise: 10 Dollar Input / 50 Dollar Output pro Million Tokens.",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Claude Fable 5.1 / Mythos 5.1",
+      "version": "5.1",
+      "anbieter": "Anthropic",
+      "detail": "Anthropic hat Fable 5.1 als neuen Standard in Claude Code sowie den vertrauenswürdigen Zwilling Mythos 5.1 veröffentlicht. Verbesserungen bei Coding, wissenschaftlicher Arbeit, Token-Effizienz und Sicherheitsfilterung, dazu 75 Prozent günstigere Cache-Reads. 1-Million-Token-Kontextfenster, gleiche Preise wie Fable 5 (10/50 Dollar pro Million Tokens).",
+      "url": "https://code.claude.com/docs/en/whats-new",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini 3.8 Flash / Flash Cyber",
+      "version": "3.8",
+      "anbieter": "Google",
+      "detail": "Neues Flash-Modell für langfristige Software-Engineering-Aufgaben, autonome Agenten und Enterprise-Workflows mit 1-Millionen-Token-Kontext. Effort-Steuerung über Thinking-Level erlaubt es, Token-Verbrauch gezielt zu drosseln. Eine spezialisierte Cyber-Variante richtet sich an Sicherheitsteams im Fairwind-Programm.",
+      "url": "https://deepmind.google/models/gemini/flash/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "HUMAIN-M3",
+      "version": "",
+      "anbieter": "HUMAIN (Saudi-Arabien, auf MiniMax-Basis)",
+      "detail": "428-Milliarden-Parameter-Mixture-of-Experts-Modell (23 Mrd. aktive Parameter) auf Basis der offenen MiniMax-M3-Gewichte, trainiert auf über einer Billion arabischen Tokens. Erzielt laut HUMAIN Bestwerte unter Frontier-Modellen auf arabischen Benchmarks, Gewichte sollen open-source veröffentlicht werden.",
+      "url": "https://www.unite.ai/pif-backed-humain-launches-humain-m3-arabic-model-at-leap-riyadh/",
+      "bild": ""
+    }
+  ]
+}

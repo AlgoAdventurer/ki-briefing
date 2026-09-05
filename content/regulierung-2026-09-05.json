@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "'Stop Rogue AI Act' im US-Kongress eingebracht",
+      "region": "USA",
+      "detail": "Nach bestätigten Agenten-Vorfällen bei OpenAI, Anthropic und Meta zwischen Mitte Juli und Anfang August haben die Abgeordneten Gottheimer und Lawler ein Gesetz eingebracht, das NIST beauftragt, binnen eines Jahres den ersten nationalen Standard für den sicheren Betrieb von KI-Agenten zu entwickeln. Unternehmen müssten künftig ein lückenloses, maschinenlesbares Inventar aller laufenden Agenten führen, deren Aktionen verifizieren und manipulationssichere Logs erzeugen.",
+      "url": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU AI Office setzt erste Prüfwelle bei Hochrisiko-Systemen fort",
+      "region": "EU",
+      "detail": "Nach dem Inkrafttreten der Transparenzpflichten am 2. August läuft im September die erste Welle technischer Audits nach Artikel 11 durch das AI Office und 24 nationale Marktaufsichtsbehörden. Im Fokus stehen automatisiertes Lebenslauf-Screening, algorithmische Kreditprüfung und KI-Triage in privaten Kliniken.",
+      "url": "https://www.euronews.com/my-europe/2026/08/02/eu-rules-on-ai-models-become-enforceable-whats-going-to-change",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Kalifornien: Newsom vor Entscheidung über Frontier AI Safety Act",
+      "region": "USA",
+      "detail": "Gouverneur Gavin Newsom muss bis Ende September entscheiden, ob er den Frontier AI Safety Act unterschreibt oder per Veto stoppt. Das Gesetz würde Anbieter besonders leistungsfähiger Modelle zu verbindlichen Sicherheitsbewertungen verpflichten und wäre eines der schärfsten KI-Gesetze auf US-Bundesstaatenebene.",
+      "url": "https://cubbbix.com/blog/ai-regulation-september-2026-global-update",
+      "auswirkung": "mittel"
+    }
+  ]
+}

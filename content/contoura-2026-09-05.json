@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-05",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Live-Prototyping neuer Contoura-Features im Team",
+      "kontext": "Google Labs' 'Play with Putty' erlaubt es mehreren Personen, gemeinsam live per natürlicher Sprache an derselben KI-generierten App zu bauen.",
+      "umsetzung": "Das Contoura-Team könnte neue Dashboard-Ideen — etwa eine neue Visualisierung für Fehlerstatistiken — gemeinsam im Call live durchspielen und binnen Minuten einen klickbaren Prototyp erzeugen, bevor überhaupt ein Ticket für die eigentliche Entwicklung geschrieben wird.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Agentengestützter Import von Wettkampfdaten mit Audit-Trail",
+      "kontext": "GPT-6 Astra ist state-of-the-art bei Computer-Nutzung und Browsing; gleichzeitig verlangt der neue 'Stop Rogue AI Act' in den USA künftig lückenlose, nachvollziehbare Logs für automatisierte Agenten.",
+      "umsetzung": "Ein Astra-basierter Agent könnte automatisch neue Ergebnisse von o-l.ch und Livelox abrufen und in die Trainingsdokumentation importieren — und dabei von Anfang an ein sauberes Aktions-Log führen, das später auch regulatorischen Nachvollziehbarkeits-Anforderungen standhält.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstigere Vision-Analyse von Karten und GPS-Tracks",
+      "kontext": "Gemini 3.8 Flash bringt bei gleichbleibendem Preis deutlich mehr Leistung bei bild- und agentenbasierten Aufgaben, inklusive besserer Bildanalyse.",
+      "umsetzung": "Contoura könnte Kartenausschnitte und GPS-Tracks aus Livelox automatisch analysieren lassen, um typische Fehlerstellen (z.B. Kontrollpunkt-Anlauf, Routenwahl) zu erkennen und direkt in die Fehlerstatistik einzuordnen — ohne dass ein Athlet jede Passage manuell markieren muss.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

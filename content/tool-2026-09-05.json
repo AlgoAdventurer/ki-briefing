@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-05",
+  "name": "Play with Putty",
+  "tagline": "Google Labs' Multiplayer-Vibe-Coding-Tool — mehrere Leute bauen live gemeinsam an derselben KI-generierten App",
+  "beschreibung": "Play with Putty ist ein Experiment von Google Labs, bei dem mehrere Personen gleichzeitig im selben virtuellen Raum eine Website oder ein kleines Tool per natürlicher Sprache beschreiben, während die KI den Code live schreibt und für alle sichtbar aktualisiert. Statt allein mit einem Chatbot zu 'vibe-coden', wird das Prototyping zum gemeinsamen Live-Erlebnis: Team-Mitglieder können UI-Elemente gemeinsam bearbeiten und die Projekt-Historie durchsehen. Der Rollout läuft aktuell wellenweise über eine Warteliste.",
+  "useCase": "Ein kleines Contoura-Team könnte gemeinsam am Whiteboard sitzen und live ein Prototyp-Dashboard für eine neue Statistik-Ansicht 'vibe-coden', während alle Beteiligten sofort Feedback zur UI geben — ganz ohne vorherige Design-Spezifikation.",
+  "url": "https://labs.google/playwithputty",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Vibe Coding", "Collaboration", "Google Labs", "Prototyping", "Experimental"]
+}
