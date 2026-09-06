@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic veröffentlicht Claude Fable 5.1 und Mythos 5.1 — 75% günstigere Cache-Reads",
+      "quelle": "Anthropic / VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/anthropics-claude-fable-5-1-and-mythos-5-1-arrive-with-a-75-cost-reduction-for-fable-cache-reads",
+      "zusammenfassung": "Drei Monate nach der Fable-5-Linie bringt Anthropic mit Fable 5.1 ein Modell, das bei niedrigem und mittlerem Denkaufwand ähnliche oder bessere Ergebnisse liefert und bei hohem Aufwand deutlich zulegt. Cache-Reads werden von 1,00 auf 0,25 Dollar pro Million Tokens gesenkt, wodurch typische Workloads rund 25% günstiger werden. Parallel erscheint Mythos 5.1 — dieselben Gewichte mit gelockerten Schutzmechanismen, nur für geprüfte Partner in Cybersicherheit und Life Sciences zugänglich.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Google DeepMind stellt Gemini 3.8 Flash und die auf Cyberabwehr spezialisierte Cyber-Variante vor",
+      "quelle": "The Register / Google DeepMind",
+      "quelleUrl": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/",
+      "zusammenfassung": "Gemini 3.8 Flash bringt laut Google deutliche Fortschritte gegenüber 3.7 Flash bei Softwareentwicklung, agentenbasierten Aufgaben und mehrstufigem Schlussfolgern — bei unveränderter Preisstruktur. Die parallel veröffentlichte Variante Gemini 3.8 Flash Cyber ist speziell auf Verteidiger zugeschnitten und erreicht Spitzenwerte bei Schwachstellenerkennung und automatisiertem Patchen, ist aber über das Fairwind-Programm zugangsbeschränkt.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta holt mit Muse Spark 1.3 bei Agenten-Aufgaben zu OpenAI und Anthropic auf",
+      "quelle": "Bloomberg / SiliconANGLE",
+      "quelleUrl": "https://siliconangle.com/2026/09/02/meta-says-it-has-caught-up-with-anthropic-and-openai-after-releasing-muse-spark-1-3-its-most-powerful-llm-so-far/",
+      "zusammenfassung": "Metas neuestes Modell Muse Spark 1.3 erzielt laut Artificial Analysis Intelligence Index 62 Punkte und liegt damit nur hinter Claude Fable 5.1 und Claude Opus 5. Gegenüber Version 1.2 benötigt es rund 20% weniger Tool-Aufrufe und 25% weniger Tokens bei langlaufenden Agenten-Aufgaben, bei unveränderten Preisen von 1,25 bzw. 4,25 Dollar pro Million Tokens. Der Rollout erfolgt für Entwickler sowie über Meta AI, Instagram und Facebook.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "EU-KI-Büro startet erste Welle von Vor-Ort-Audits bei Hochrisiko-KI-Systemen",
+      "quelle": "Euronews / Al Jazeera",
+      "quelleUrl": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt",
+      "zusammenfassung": "Seit dem 2. August ist der EU AI Act für Hochrisikosysteme durchsetzbar, und im September beginnt das EU-KI-Büro gemeinsam mit 24 nationalen Marktaufsichtsbehörden mit den ersten planmäßigen Compliance-Prüfungen. Im Fokus stehen automatisierte Bewerber-Vorauswahl im HR-Bereich, algorithmische Kreditbewertung im Retail-Banking und KI-Triage in privaten Kliniken — CNIL, BfDI und AESIA leiten die ersten Anfragen.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "OpenAI weitet GPT-6 Astra nach kritischer Cyber-Einstufung auf alle Plus-, Pro- und Business-Nutzer aus",
+      "quelle": "Fortune / CNBC",
+      "quelleUrl": "https://fortune.com/2026/09/03/openai-debuts-gpt-6-astra-computer-use-greg-brockman-says-start-of-agi/",
+      "zusammenfassung": "Nach einer eintägigen Vorschau für ausgewählte Partner rollt OpenAI GPT-6 Astra nun in einer restriktiveren Version an ChatGPT Plus-, Pro-, Business- und Enterprise-Nutzer sowie über API und AWS aus. Das Modell gilt laut OpenAI als bislang bestes für Softwareentwicklung, Computer-Nutzung und Browsing, wird aber wegen der ersten 'kritischen' Einstufung im Cyber-Preparedness-Framework mit schärferen Prompt-Beschränkungen ausgeliefert.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

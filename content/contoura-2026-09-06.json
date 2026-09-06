@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainings- und Wettkampfkommentare mit Claude Fable 5.1",
+      "kontext": "Die 75% günstigeren Cache-Reads von Claude Fable 5.1 machen es erstmals wirtschaftlich sinnvoll, bei jeder hochgeladenen Trainings- oder Wettkampfsession einen langen Kontext (Athletenhistorie, Splits, Fehlerstatistik) im Cache zu halten und darauf aufbauend zu antworten.",
+      "umsetzung": "Contoura könnte nach jedem Training automatisch einen kurzen, sprachlich formulierten Kommentar generieren lassen, der Splits, Fehlerquote und Performance-Index mit den letzten Sessions vergleicht — als Cache-Kontext dient das komplette Athletenprofil, sodass nur die neue Session als variabler Prompt-Teil abgerechnet wird.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kartenanalyse per Computer-Use: automatische Beinvermessung aus gescannten OL-Karten",
+      "kontext": "GPT-6 Astra gilt laut OpenAI als state-of-the-art in Computer-Use und Bildverständnis und kann komplexe visuelle Aufgaben eigenständig in mehreren Schritten lösen.",
+      "umsetzung": "Athleten könnten ein Foto oder einen Scan ihrer gelaufenen OL-Karte hochladen; ein Astra-gestützter Agent könnte Kontrollpunkte, Beinlängen und gewählte Routen automatisch digitalisieren und direkt mit den GPS- und Split-Zeit-Daten in Contoura verknüpfen, statt dass Athleten das manuell nacherfassen.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "GPS-Track- und Video-Auswertung mit dem großen Kontextfenster von Gemini 3.8 Flash",
+      "kontext": "Gemini 3.8 Flash verarbeitet Text, Bild, Audio und Video mit bis zu 1M Tokens Kontext und punktet laut Google besonders bei mehrstufigem Reasoning zu wenig strukturierten Eingaben.",
+      "umsetzung": "Ein komplettes Saisonarchiv aus GPS-Tracks, Helmkamera-Videos und Split-Zeiten eines Athleten könnte in einem einzigen Kontext analysiert werden, um wiederkehrende Fehlermuster (z. B. systematisches Verlaufen an bestimmten Kontrollpunkttypen) über mehrere Wettkämpfe hinweg zu erkennen — heute müsste das stückweise ausgewertet werden.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

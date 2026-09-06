@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-06",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Büro beginnt erste Compliance-Audits bei Hochrisiko-KI-Systemen",
+      "region": "EU",
+      "detail": "Seit dem Inkrafttreten der Hochrisiko-Pflichten am 2. August ist der AI Act durchsetzbar. Im September starten das EU-KI-Büro und 24 nationale Marktaufsichtsbehörden die erste planmäßige Prüfungswelle. Im Fokus: automatisierte Bewerber-Vorauswahl im HR-Bereich, algorithmische Kreditbewertung im Retail-Banking und KI-Triage in privaten Kliniken. CNIL (Frankreich), BfDI (Deutschland) und AESIA (Spanien) leiten die ersten Anfragen an Unternehmen.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt",
+      "auswirkung": "hoch"
+    },
+    {
+      "titel": "OpenAI stuft GPT-6 Astra erstmals als 'kritisches' Cyber-Risiko im eigenen Preparedness-Framework ein",
+      "id": 2,
+      "region": "Global",
+      "detail": "Nach dem Hugging-Face-Sicherheitsvorfall im Juli hat OpenAI die Veröffentlichung von Astra verzögert, um zusätzliche Schutzmaßnahmen einzubauen. Es ist das erste OpenAI-Modell, das laut interner Einstufung die kritische Schwelle für Cyber-Fähigkeiten erreicht — mit Folgen für Zugangskontrollen, Monitoring und abgelehnte Prompt-Kategorien in der öffentlichen API. Ein Vorgriff auf strengere freiwillige Selbstverpflichtungen, wie sie auch Regulierer zunehmend einfordern.",
+      "url": "https://deploymentsafety.openai.com/gpt-6-astra",
+      "auswirkung": "mittel"
+    }
+  ]
+}

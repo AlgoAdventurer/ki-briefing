@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-06",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Axle",
+      "betrag": "$17.5M",
+      "runde": "Series A",
+      "investoren": "Base10 Partners (Lead), Y Combinator, Gradient, Stage 2 Capital",
+      "beschreibung": "Axle betreibt eine KI-native Versicherungs-Clearingstelle: Infrastruktur und Agenten automatisieren Versicherungsprüfung, Monitoring und Policen-Updates für Autohändler, Vermieter und Hypothekengeber. Das Unternehmen wickelt bereits über 100 Milliarden Dollar Versicherungsdeckung jährlich für mehr als 4.000 Kunden ab, darunter Rocket Mortgage und Avis.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Zeit AI",
+      "betrag": "€5M",
+      "runde": "Seed",
+      "investoren": "Y Combinator, Oxford Seed Fund, Sequoia Capital Scout Fund, Hasso Plattner VC, ACE Ventures",
+      "beschreibung": "Das Münchner Startup von zwei Ex-Palantir-Mitarbeitern baut mit ZeitMind einen autonomen KI-Agenten für Unternehmensdaten, der ERP-, CRM- und Tabellenkalkulations-Daten zusammenführt und Analysen automatisiert, die bisher manuell in Excel erledigt wurden. Der Umsatz verdoppelt sich laut eigenen Angaben alle sechs Monate.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "TrustedRouter",
+      "betrag": "$1.25M",
+      "runde": "Seed",
+      "investoren": "Sam Lessin (Slow Ventures), Bill Tai, Linda Avey, George Xing",
+      "beschreibung": "Der heutige Tool-Tipp: TrustedRouter baut ein privates KI-Gateway, das Anfragen über eine einzige API an über 600 Modelle weiterleitet, ohne Prompts oder Antworten selbst einsehen zu können — belegt durch kryptografische Nachweise aus einer Trusted Execution Environment.",
+      "bild": ""
+    }
+  ]
+}

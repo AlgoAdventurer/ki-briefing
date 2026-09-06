@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-06",
+  "name": "TrustedRouter",
+  "tagline": "Eine OpenAI-kompatible API für über 600 KI-Modelle — mit kryptografisch belegbarer Privatsphäre.",
+  "beschreibung": "TrustedRouter ist ein KI-Gateway, das Anfragen über eine einzige, OpenAI-kompatible API an mehr als 600 Modelle von über 80 Anbietern weiterleitet. Der Router läuft in einer Trusted Execution Environment und veröffentlicht Nachweise, dass der laufende Code exakt dem offenen Quellcode entspricht — dadurch kann er selbst die Inhalte der Prompts nicht einsehen. Entwickler bekommen Zero-Data-Retention-Routen, Ende-zu-Ende-Verschlüsselung, Provider-Failover und Bring-your-own-Key, ohne für jeden Anbieter eine eigene Integration pflegen zu müssen. Das Miami-Startup hat dafür kürzlich eine Seed-Runde über 1,25 Mio. Dollar abgeschlossen.",
+  "useCase": "Ein Team kann in einer App zwischen GPT-6 Astra, Claude Fable 5.1 und Gemini 3.8 Flash je nach Kosten, Geschwindigkeit oder Compliance-Anforderung wechseln, ohne dass sensible Kundendaten bei einem Anbieter landen, der kein Zero-Data-Retention garantiert.",
+  "url": "https://trustedrouter.com/",
+  "kategorie": "API / Infrastructure",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["LLM Gateway", "Privacy", "API", "Multi-Model"]
+}
