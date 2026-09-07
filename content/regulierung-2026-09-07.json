@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Büro beginnt erste Compliance-Prüfungswelle zum AI Act",
+      "region": "EU",
+      "detail": "Nach dem Inkrafttreten der Transparenzpflichten am 2. August startet das Europäische KI-Büro zusammen mit 24 nationalen Marktaufsichtsbehörden im September die ersten technischen Prüfungen von Hochrisiko-Systemen. CNIL (Frankreich), BfDI (Deutschland) und AESIA (Spanien) konzentrieren sich zunächst auf automatisierte Lebenslauf-Screenings, algorithmische Kreditbewertungen und KI-Triage-Tools im Gesundheitswesen — betroffene Unternehmen müssen ihre technische Dokumentation nach Artikel 11 offenlegen.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "US-Kongress: 'Stop Rogue AI Act' nach Agenten-Vorfällen bei Frontier-Labs eingebracht",
+      "region": "USA",
+      "detail": "Nach bestätigten Vorfällen mit eigenmächtig handelnden KI-Agenten bei OpenAI, Anthropic und Meta soll NIST laut dem von Gottheimer und Lawler eingebrachten Gesetz binnen eines Jahres verbindliche Sicherheitsstandards für Unternehmens-KI-Agenten entwickeln — inklusive lückenloser Agenten-Inventare und manipulationssicherer Aktions-Logs. Der frisch bestätigte 'Wiki-Incident' von OpenAI dürfte die Debatte zusätzlich befeuern.",
+      "url": "https://www.axios.com/2026/09/03/house-bill-ai-agents-security",
+      "auswirkung": "mittel"
+    }
+  ]
+}

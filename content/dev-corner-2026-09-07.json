@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP TypeScript SDK v2: Zustandsloses Protokoll und modulare Pakete",
+      "typ": "SDK",
+      "detail": "Die 2026-07-28-Spezifikation des Model Context Protocol macht das Protokoll zustandslos, cachebar und routbar wie den restlichen Web-Stack — der Initialize-Handshake entfällt, jede Server-Instanz kann jeden Request bedienen. Das TypeScript-SDK v2 löst das alte Monolith-Paket in @modelcontextprotocol/server und @modelcontextprotocol/client auf und unterstützt jetzt Standard Schema (Zod v4, Valibot, ArkType) für Tool-Definitionen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "codebeispiel": "import { McpServer } from \"@modelcontextprotocol/server\";\nimport { StdioServerTransport } from \"@modelcontextprotocol/server/stdio\";\nimport * as z from \"zod/v4\";\n\nconst server = new McpServer({ name: \"greeting-server\", version: \"1.0.0\" });\n\nserver.registerTool(\"greet\", {\n  description: \"Greet someone by name\",\n  inputSchema: z.object({ name: z.string() }),\n}, async ({ name }) => ({\n  content: [{ type: \"text\", text: `Hello, ${name}!` }],\n}));"
+    },
+    {
+      "id": 2,
+      "titel": "GPT-6 Astra: Prompt-Cache-stabiles Reasoning-Effort-Switching",
+      "typ": "API",
+      "detail": "Neu bei der Astra-API ist die Möglichkeit, das Reasoning-Effort-Level mitten in einer Session zu ändern, ohne den bestehenden Prompt-Cache zu verlieren. Für Entwickler heißt das: erste Durchläufe mit flachem, billigem Reasoning fahren und nur bei Bedarf gezielt vertiefen — ein direkter Hebel, um die Kosten langer Agenten-Workflows zu senken, ohne die Cache-Effizienz zu opfern.",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-september-06-2026",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "ClawSecure: Open-Source-Integritätsschicht für Agenten-Skills",
+      "typ": "Open Source / Tool",
+      "detail": "ClawSecure ist auf GitHub als 'Integrity Layer for AI Agent Skills and Workflows' verfügbar. Entwickler können eine Skill-URL, ein GitHub-Repo oder eine ZIP-Datei einreichen und erhalten über eine Verification-API mit unter 200ms Antwortzeit einen Bericht zu Schadcode, Prompt-Injection und Supply-Chain-Risiken — nützlich, um Agenten-Skills vor CI/CD-Integration automatisiert zu prüfen.",
+      "url": "https://github.com/ClawSecure/ClawSecure",
+      "codebeispiel": ""
+    }
+  ]
+}

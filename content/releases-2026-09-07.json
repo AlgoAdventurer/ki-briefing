@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-07",
+  "items": [
+    {
+      "id": 1,
+      "name": "GPT-6 Astra",
+      "version": "gpt-6-astra",
+      "anbieter": "OpenAI",
+      "detail": "Nach dem Launch am 3. September zeigt sich diese Woche das eigentlich relevante Detail: Astra kann den Reasoning-Aufwand ändern, ohne den Prompt-Cache zu invalidieren, was lange Agenten-Sessions deutlich günstiger macht. Zugleich zeigt das Modell weniger seiner Reasoning-Schritte an — effizienter, aber schwerer zu überwachen. Verfügbar über Amazon Bedrock und Microsoft Foundry, inklusive Fast-Modus zu doppelter Geschwindigkeit und doppeltem Preis.",
+      "url": "https://aitoolsrecap.com/Blog/ai-news-september-06-2026",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Gemini 3.8 Flash",
+      "version": "3.8",
+      "anbieter": "Google",
+      "detail": "Google hat Gemini 3.8 Flash zum bisherigen Einführungspreis von 3.7 Flash veröffentlicht, zusammen mit einer separat freigeschalteten 'Cyber'-Variante für sicherheitsrelevante Anwendungsfälle. Der Release markiert den Abschluss der dichtesten Folge von Frontier-Releases seit der August-Welle.",
+      "url": "https://llm-stats.com/llm-updates",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "MCP TypeScript SDK",
+      "version": "v2 (Beta)",
+      "anbieter": "Model Context Protocol / Anthropic",
+      "detail": "Das monolithische Paket @modelcontextprotocol/sdk wird durch fokussierte Pakete ersetzt: @modelcontextprotocol/server, @modelcontextprotocol/client sowie Adapter für Node.js, Express, Hono und Fastify. Das SDK ist nun ESM-only, benötigt Node.js 20+, Bun oder Deno und unterstützt die neue zustandslose 2026-07-28-Spezifikation ohne Initialize-Handshake — Server-Instanzen können dadurch beliebige Requests beantworten, ganz ohne Sticky Sessions.",
+      "url": "https://blog.modelcontextprotocol.io/posts/sdk-betas-2026-07-28/",
+      "bild": ""
+    }
+  ]
+}

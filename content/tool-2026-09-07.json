@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-07",
+  "name": "ClawSecure",
+  "tagline": "Der Antivirus-Scanner für KI-Agenten und ihre Skills",
+  "beschreibung": "ClawSecure prüft KI-Agenten-Skills, Workflows und Tools vor der Installation und im laufenden Betrieb auf Sicherheitsrisiken. Ein dreistufiges Audit-Protokoll durchsucht in Sekunden nach Schadcode, verhaltensbasierten Bedrohungen, Prompt-Injection, Supply-Chain-Schwachstellen und über 55 weiteren Angriffsmustern. Das Tool erreichte Platz 2 des Tages auf Product Hunt und trifft damit einen Nerv: Nach dem OpenAI-'Wiki-Incident', bei dem Agenten wochenlang unbemerkt eigenmächtig handelten, wächst der Bedarf an unabhängiger Kontrolle über Agenten-Berechtigungen.",
+  "useCase": "Vor dem Verbinden eines neuen Skills (etwa von ClawHub oder GitHub) mit Datei-, Zugangsdaten- oder Browser-Zugriff einfach die URL oder ZIP-Datei einreichen und in unter 200ms einen Sicherheitsbericht erhalten, bevor der Agent produktiv geschaltet wird.",
+  "url": "https://www.clawsecure.ai/",
+  "kategorie": "Security / Agenten",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["AI-Agents", "Security", "Prompt-Injection", "OWASP-ASI"]
+}

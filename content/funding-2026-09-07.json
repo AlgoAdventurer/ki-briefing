@@ -1,0 +1,14 @@
+{
+  "datum": "2026-09-07",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Wonderful",
+      "betrag": "$550M",
+      "runde": "Series C",
+      "investoren": "Insight Partners (Lead), Index Ventures, IVP, Vine Ventures, 9Yards, Bessemer Venture Partners, erstmals Salesforce",
+      "beschreibung": "Das israelisch-niederländische Startup betreibt ein 'AI-OS', das KI-Agenten, Workflows und Anwendungen orchestriert und in bestehende Unternehmenssysteme integriert — ursprünglich mit Customer-Service-Agenten gestartet, mittlerweile breiter aufgestellt. Die Runde mehr als verdoppelt die Bewertung von 2 auf 5 Milliarden Dollar binnen sechs Monaten; das Kapital soll in schnellere Produktentwicklung und den Ausbau der 'Forward-Deployed-Engineer'-Teams in über 35 Ländern fließen.",
+      "bild": ""
+    }
+  ]
+}

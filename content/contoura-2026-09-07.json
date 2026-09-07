@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-07",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisierte Skill-Sicherheitsprüfung für Contoura-Integrationen nach ClawSecure-Vorbild",
+      "kontext": "ClawSecure zeigt, wie sich Agenten-Skills und externe Integrationen mit einem 3-Layer-Audit vor Datei-, Konto- oder API-Zugriff automatisiert prüfen lassen — relevant, sobald Contoura KI-Agenten (z.B. für automatische Trainingsauswertung) mit Zugriff auf Athletendaten koppelt.",
+      "umsetzung": "Bevor Contoura KI-gestützte Automatisierungen (z.B. automatische Split-Zeit-Kommentare) an Athletendaten anbindet, könnte ein leichtgewichtiger Security-Check-Schritt in die CI/CD-Pipeline integriert werden, der neue Integrationen und Skripte auf riskante Datenzugriffe prüft — besonders wichtig, sobald Trainer oder Drittanbieter eigene Auswertungs-Skripte einbinden dürfen.",
+      "aufwand": "niedrig",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 2,
+      "titel": "Reasoning-Effort-Steuerung für günstige automatische Trainingskommentare",
+      "kontext": "GPT-6 Astras neue Fähigkeit, den Reasoning-Aufwand mitten in der Session zu ändern ohne den Prompt-Cache zu verlieren, senkt die Kosten für lange, mehrstufige Agenten-Workflows deutlich.",
+      "umsetzung": "Contoura könnte pro Trainingseinheit einen zweistufigen Auswertungs-Agenten bauen: eine günstige erste Passage mit flachem Reasoning klassifiziert Routine-Läufe automatisch, während nur auffällige Fehlerstatistiken oder Bestleistungen mit vertieftem Reasoning für einen ausführlichen, individuellen Trainingskommentar eskaliert werden — bei gleichbleibendem Cache und damit kalkulierbaren API-Kosten auch bei vielen Athleten.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Server für Contouras Performance-Daten als Grundlage für Trainer-Chat-Assistenten",
+      "kontext": "Das neue, zustandslose MCP-2026-07-28-Protokoll mit modularen SDKs (u.a. TypeScript v2) macht es einfacher, eigene Datenquellen skalierbar und ohne Sticky Sessions für KI-Assistenten bereitzustellen.",
+      "umsetzung": "Ein eigener, leichtgewichtiger MCP-Server für Contouras Split-Zeiten, Fehlerstatistiken und Performance-Index könnte Trainern erlauben, mit Claude oder anderen Assistenten direkt über natürliche Sprache Fragen zur Athletenentwicklung zu stellen ('Wo verliert Athlet X typischerweise Zeit bei Postenwechseln?') — dank Zustandslosigkeit ohne komplexe Session-Infrastruktur betreibbar.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}
