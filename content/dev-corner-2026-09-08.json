@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kritische Lücke in LiteLLMs MCP-Authentifizierung wird aktiv ausgenutzt",
+      "typ": "Security-Advisory",
+      "detail": "CVE-2026-59822 (CVSS 8.8) erlaubt es Angreifern, über den MCP-Streamable-HTTP-Endpunkt von LiteLLM mit einem beliebigen Bearer-Token eine authentifizierte Session zu erhalten — ein fehlerhafter OAuth2-Passthrough-Fallback ersetzte fehlgeschlagene Key-Validierung durch ein leeres Auth-Objekt. CISA hat die Lücke am 2. September in den KEV-Katalog aufgenommen, da sie bereits aktiv ausgenutzt wird. Wer LiteLLM als MCP-Proxy einsetzt, sollte umgehend auf Version 1.84.0 oder neuer patchen.",
+      "url": "https://thehackernews.com/2026/09/cisa-adds-seven-exploited-flaws-as.html",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "ReleasePad bringt MCP-Server für Changelogs",
+      "typ": "MCP-Server",
+      "detail": "Der neue MCP-Server von ReleasePad erlaubt es Claude, Claude Code, Cursor und anderen MCP-fähigen Assistenten, Changelogs direkt zu schreiben, zu veröffentlichen und auszulesen — ohne Umweg über Web-UI oder manuelles Copy-Paste. Für Teams, die Release Notes routinemäßig aus Commit- oder PR-Historie generieren lassen, spart das einen kompletten manuellen Schritt im Deploy-Workflow.",
+      "url": "https://www.releasepad.io/blog/releasepad-mcp-server/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "MCP Tool Search reduziert Kontextverbrauch in Claude Code um bis zu 95 Prozent",
+      "typ": "Feature / Best Practice",
+      "detail": "Bei mittlerweile über 22.000 registrierten MCP-Servern im Ökosystem wird das Vorladen aller Tool-Definitionen beim Sessionstart zum Kontext-Problem. Claude Code lädt Tool-Schemas jetzt bei Bedarf nach ('lazy loading') statt sie alle vorab in den Kontext zu injizieren — für Entwickler mit vielen verbundenen MCP-Servern lohnt sich ein Blick auf die eigene Tool-Konfiguration, um unnötig geladene Server zu deaktivieren.",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification/",
+      "codebeispiel": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-08",
+  "name": "OpenCode",
+  "tagline": "Open-Source Coding-Agent fürs Terminal — kostenlos, modell-unabhängig, mit über 200.000 GitHub-Stars",
+  "beschreibung": "OpenCode ist ein in Go geschriebener Terminal-Coding-Agent (TUI), der den kompletten Agenten-Loop beherrscht: Planen, Dateien bearbeiten, Terminal-Befehle ausführen, Ergebnisse validieren und sich selbst debuggen — nicht nur einzelne Code-Vorschläge. Anders als geschlossene Anbieter bindet OpenCode Entwickler nicht an ein Modell: Es unterstützt Claude, GPT, Gemini und über 200 weitere LLMs, wahlweise über den eigenen API-Key oder lokale Modelle via Ollama. Der Kern ist komplett kostenlos, ein bezahlter Tier für kuratierten Modellzugang startet bei 10 Dollar im Monat.",
+  "useCase": "Ein Entwickler öffnet OpenCode im Terminal seines Projekts, verbindet es per eigenem API-Key mit Claude oder einem lokalen Ollama-Modell und lässt es eigenständig ein Feature implementieren, testen und iterieren — ganz ohne Wechsel zu Browser oder IDE.",
+  "url": "https://opencode.ai",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["Coding-Agent", "Open Source", "Terminal", "Multi-Model"]
+}

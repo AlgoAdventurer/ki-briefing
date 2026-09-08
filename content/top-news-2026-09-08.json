@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Apples neuer CEO John Ternus startet ohne eigenes Frontier-KI-Modell",
+      "quelle": "CNN Business",
+      "quelleUrl": "https://www.cnn.com/2026/09/06/tech/apple-ceo-john-ternus-challenges",
+      "zusammenfassung": "Seit dem 1. September ist John Ternus offiziell CEO von Apple, Tim Cook wechselt als Executive Chairman in den Hintergrund. Ternus, der zuvor Apples Hardware-Sparte leitete, übernimmt damit den einzigen Big-Tech-Konzern ohne eigenes Frontier-KI-Modell — Analysten sehen die fehlende AGI-Strategie als seine größte Baustelle.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Sony Music und Warner Chappell verklagen Anthropic wegen Urheberrechtsverletzung",
+      "quelle": "TechCrunch / Fortune",
+      "quelleUrl": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "zusammenfassung": "Die Musikverlage werfen Anthropic vor, zehntausende urheberrechtlich geschützte Songs — darunter 'Hallelujah' und 'Uptown Funk' — durch großangelegtes Scraping und Torrenting für das Training von Claude verwendet zu haben. Die Klage nennt auch Mitgründer Dario Amodei und Ben Mann persönlich und fordert bis zu 150.000 Dollar pro Song; Anthropic kündigt an, sich vor Gericht zu wehren.",
+      "kategorie": "Recht",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "World Labs stellt Atlas vor — ein 'Omni-World-Modell' für räumliche Intelligenz",
+      "quelle": "SiliconANGLE / World Labs",
+      "quelleUrl": "https://www.worldlabs.ai/blog/atlas",
+      "zusammenfassung": "Fei-Fei Lis Startup World Labs präsentiert mit Atlas ein multimodales Diffusion-Transformer-Modell, das aus wenigen Fotos fotorealistische 3D-Szenen rekonstruiert und Videos mit voller Kamerakontrolle in bis zu 1440p und einer Minute Länge generiert. Das Modell soll insbesondere Real-to-Sim-Workflows für Robotik ermöglichen und baut auf dem im Januar gestarteten World API sowie dem Vorgängermodell Marble auf.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Gimlet Labs erreicht 3 Milliarden Dollar Bewertung mit Multi-Chip-Inferenz-Cloud",
+      "quelle": "Bloomberg",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-09-04/andreessen-backed-ai-startup-gimlet-is-valued-at-3-billion-in-new-round",
+      "zusammenfassung": "Das von Andreessen Horowitz angeführte Series-B-Investment über 300 Millionen Dollar verdreifacht die Bewertung des Chip-agnostischen Inferenz-Startups Gimlet Labs binnen eines Jahres. Die Software verteilt einzelne Phasen der KI-Inferenz automatisch auf die jeweils passende Silizium-Architektur und verspricht damit schnellere, günstigere agentische Workloads unabhängig vom Chip-Hersteller.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "McKinsey-Studie: Ein Drittel der Unternehmen verzichtet auf Softwarekäufe zugunsten von KI-Agenten",
+      "quelle": "McKinsey State of AI 2026",
+      "quelleUrl": "https://www.mckinsey.com.br/capabilities/quantumblack/our-insights/the-state-of-ai",
+      "zusammenfassung": "Laut der McKinsey-Umfrage unter fast 1.720 Unternehmen weltweit haben 32 Prozent bewusst auf den Kauf von Software verzichtet, weil agentische Coding-Tools die benötigte Funktion selbst bauen konnten — bei Top-Performern mit hohem KI-EBIT-Beitrag ist es fast jedes zweite Unternehmen. Besonders stark ist der Trend in Tech (41 %), Gesundheitswesen (39 %) und professionellen Dienstleistungen (38 %).",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Büro startet erste Kontrollwelle zum AI Act",
+      "region": "EU",
+      "detail": "Das Europäische KI-Büro leitet gemeinsam mit 24 nationalen Marktüberwachungsbehörden im September die erste geplante Prüfwelle zum AI Act ein. Im Fokus stehen automatisierte Bewerber-Screening-Tools im HR-Bereich, algorithmische Kreditbewertungen im Retail-Banking und KI-Triage-Systeme in privaten Kliniken. Zusätzlich beginnen technische Audits der nach dem 2. August in Verkehr gebrachten Hochrisiko-Systeme anhand der Artikel-11-Dokumentation.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Kaliforniens Transparenzgesetz für Frontier-KI (SB 53) ist in Kraft",
+      "region": "USA",
+      "detail": "Der Transparency in Frontier Artificial Intelligence Act verpflichtet Anbieter der leistungsfähigsten KI-Modelle, offenzulegen, wie sie ihre Systeme bauen, testen und überwachen, und schwerwiegende Vorfälle zu melden. Zusammen mit über 20 weiteren von Gouverneur Newsom unterzeichneten KI-Gesetzen zu Beschäftigung, Gesundheitswesen und Bildung setzt Kalifornien damit einen De-facto-Standard, an dem sich auch außerhalb des Bundesstaats tätige Anbieter orientieren müssen.",
+      "url": "https://www.brookings.edu/articles/what-is-californias-ai-safety-law/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

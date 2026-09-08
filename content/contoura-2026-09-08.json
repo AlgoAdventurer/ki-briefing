@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-08",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisch generierte Trainingskommentare pro Athlet",
+      "kontext": "Claude Fable 5.1 senkt die Cache-Read-Kosten um 75 Prozent, wodurch sich agentische Auswertungen für sehr viele Nutzer gleichzeitig erstmals wirtschaftlich rechnen.",
+      "umsetzung": "Contoura könnte nach jedem hochgeladenen Training oder Wettkampf automatisch eine kurze, individuelle Kommentierung generieren lassen — z.B. 'Deine Splits im Steilhang waren 8 % langsamer als dein Schnitt, dein Kompasslauf hat sich seit dem letzten Rennen verbessert.' Durch die günstigeren Cache-Reads bleibt das auch bei täglicher Nutzung durch alle Athleten kosteneffizient.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "3D-Rekonstruktion von Streckenabschnitten aus Athleten-Videos",
+      "kontext": "World Labs' neues Modell Atlas rekonstruiert aus wenigen Fotos oder kurzen Videoclips fotorealistische 3D-Szenen mit voller Kamerakontrolle.",
+      "umsetzung": "Läufer könnten kurze Handy-Videos von schwierigen Streckenabschnitten hochladen, aus denen Contoura eine navigierbare 3D-Rekonstruktion erzeugt. Kombiniert mit den Split-Zeiten ließe sich so genau visualisieren, wo im Gelände ein Routenwahl-Fehler oder Zeitverlust entstanden ist — deutlich anschaulicher als eine reine 2D-Kartenansicht.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Performance-Index-Feature selbst bauen statt Analytics-SaaS zu kaufen",
+      "kontext": "Laut McKinsey verzichten mittlerweile 32 % der Unternehmen auf Softwarekäufe, weil agentische Coding-Tools wie das kostenlose, modell-unabhängige OpenCode die benötigte Funktion selbst schnell und günstig umsetzen können.",
+      "umsetzung": "Statt eine externe Analytics-Lösung für erweiterte Statistiken (z.B. Fehlerkategorisierung oder Vergleichsgruppen) zu lizenzieren, könnte Contoura mit einem Coding-Agenten wie OpenCode oder Claude Code das Feature intern prototypisch umsetzen und dabei volle Kontrolle über Datenmodell und Trainingsdaten behalten.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

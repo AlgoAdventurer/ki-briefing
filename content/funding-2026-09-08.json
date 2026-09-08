@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-08",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Resect AI",
+      "betrag": "$25M",
+      "runde": "Stealth-Launch",
+      "investoren": "nicht öffentlich benannt",
+      "beschreibung": "Resect AI verlässt mit 25 Millionen Dollar den Stealth-Modus und baut eine 'Accountability-Layer' für LLMs, die Halluzinationen direkt im Modell statt erst nachträglich beim Output erkennen soll. Geplant sind ein Open-Source-Werkzeug sowie eine Enterprise-Suite zum Beobachten, Erkennen, Interpretieren, Auditieren und Anpassen von Modellverhalten.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Navana.ai",
+      "betrag": "₹40 Cr (~$4.2M)",
+      "runde": "Series A",
+      "investoren": "Ronnie Screwvala, Antler India, Sharad Sanghi (Neysa.ai), Sandeep Singhal (WestBridge Capital)",
+      "beschreibung": "Das indische Voice-AI-Startup unterstützt bereits 12 indische Sprachen und 45 Dialekte und will mit der Finanzierung seine Sprachmodelle für den BFSI-Sektor (Banking, Financial Services, Insurance) sowie sein automatisiertes AI-Contact-Center ausbauen.",
+      "bild": ""
+    }
+  ]
+}
