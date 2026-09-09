@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Google baut EU-Suche um, um Digital-Markets-Act-Strafen zu entgehen",
+      "region": "EU",
+      "detail": "Nach einem Bußgeld von rund 890 Millionen Euro wegen Verstößen gegen den Digital Markets Act hat Google seine Suchergebnisse für 450 Millionen Europäer umgebaut: Bei kommerziellen Anfragen zu Hotels, Flügen oder Restaurants erscheinen Angebote von Konkurrenzdiensten wie Booking.com nun vor Googles eigenen. Google warnt, dies sei die größte Qualitätsverschlechterung in der fast 30-jährigen Geschichte seiner Suche; die Umsetzungsfrist der EU-Kommission läuft bis zum 21. September, andernfalls drohen Strafzahlungen von bis zu 5 % des weltweiten Google-Umsatzes pro Tag.",
+      "url": "https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-KI-Büro startet erste Compliance-Prüfwelle zum AI Act",
+      "region": "EU",
+      "detail": "Seit dem 2. August 2026 setzen das europäische KI-Büro und nationale Marktaufsichtsbehörden den AI Act aktiv durch, unter anderem neue Transparenzpflichten für Chatbots und gekennzeichnete Deepfakes. Im September startet das KI-Büro gemeinsam mit 24 nationalen Behörden — darunter die französische CNIL, die deutsche BfDI und die spanische AESIA — die erste geplante Prüfwelle und konzentriert sich zunächst auf automatisiertes CV-Screening im HR-Bereich, algorithmische Kreditwürdigkeitsprüfungen bei Banken und KI-Triage-Systeme in privaten Kliniken.",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
+      "auswirkung": "hoch"
+    }
+  ]
+}

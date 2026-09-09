@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-09",
+  "name": "ChatGPT Work — Writing Style",
+  "tagline": "ChatGPT schreibt E-Mails und Nachrichten künftig im eigenen Ton",
+  "beschreibung": "OpenAI hat ChatGPT Work um eine Personalisierungsfunktion erweitert, die den individuellen Schreibstil eines Nutzers erkennt. Dazu verbindet sich ChatGPT Work mit Gmail, Google Drive, Slack und SharePoint und liest vorhandene E-Mails, Nachrichten und Dokumente aus, um wiederkehrende Formulierungen, Grußformeln, Anredeformen und Formatierungsgewohnheiten zu lernen. Neue Texte — von E-Mail-Entwürfen bis zu Slack-Nachrichten — klingen dadurch deutlich weniger nach generischem KI-Output und mehr nach der jeweiligen Person.",
+  "useCase": "Ein Vertriebsmitarbeiter verbindet sein Gmail- und Slack-Konto mit ChatGPT Work; danach generiert ChatGPT Follow-up-Mails an Kunden automatisch in seinem gewohnten, leicht informellen Ton inklusive seiner typischen Sign-off-Formel, statt einer generischen Standardantwort.",
+  "url": "https://alternativeto.net/news/2026/9/chatgpt-work-learns-writing-style-from-connected-work-apps/",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["ChatGPT", "OpenAI", "Personalisierung", "Produktivität", "Enterprise"]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenHands erreicht Version 1.0",
+      "typ": "Open Source",
+      "detail": "Der Open-Source-Coding-Agent OpenHands ist in Version 1.0 erschienen und bringt produktionsreifes Docker-Sandboxing, eingebaute Sicherheitsrichtlinien, Ressourcenlimits und ein Plugin-System mit. Eine 'ConfirmRisky'-Policy pausiert den Agenten bei riskanten Aktionen wie destruktiven Bash-Befehlen oder Zugriffen auf Zugangsdaten, bis ein Mensch zustimmt. Auf SWE-bench Verified löst OpenHands autonom rund 68 % der Aufgaben — ein Niveau, das bisher kommerziellen, kostenpflichtigen Agenten vorbehalten war.",
+      "url": "https://www.openhands.dev/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Ökosystem wächst weiter: über 83.000 Server, Umstieg auf Streamable HTTP",
+      "typ": "API / SDK",
+      "detail": "Die Glama-Registry listet inzwischen mehr als 83.897 Open-Source-MCP-Server. Ein zentraler Trend 2026 ist der Umstieg von der bisherigen SSE-Transportschicht auf Streamable HTTP, wodurch MCP-Server nicht mehr zwingend als lokaler Subprozess laufen müssen, sondern als eigenständige Remote-Services betrieben werden können — relevant für Entwickler, die MCP-Server produktiv und mehrmandantenfähig hosten wollen.",
+      "url": "https://glama.ai/mcp/servers",
+      "codebeispiel": ""
+    }
+  ]
+}

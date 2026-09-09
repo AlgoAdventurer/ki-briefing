@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Mistral AI",
+      "betrag": "€3 Mrd. (~$3,5 Mrd.)",
+      "runde": "Series D",
+      "investoren": "Samsung Electronics (Lead), Scaleup Europe Fund (EQT), PSG Equity, Advent, BlackRock, Luxemburg; bestehend: a16z, ASML, General Catalyst, Lightspeed, NVIDIA, Salesforce Ventures",
+      "beschreibung": "Die größte Eigenkapitalrunde eines europäischen Tech-Unternehmens überhaupt bewertet das Pariser KI-Startup mit über 21 Milliarden Euro — fast doppelt so viel wie vor einem Jahr. Mistral will mit dem Kapital eigene Rechenzentren aufbauen und zusätzliche Cloud-Kapazität mieten, um im globalen KI-Rennen mitzuhalten.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Nscale",
+      "betrag": "bis zu $3,5 Mrd.",
+      "runde": "Pre-IPO-Finanzierung",
+      "investoren": "u.a. Nvidia (~$2 Mrd.), Wandelanleihen-Investoren ($1,5 Mrd.)",
+      "beschreibung": "Der britische KI-Cloud-Anbieter Nscale sucht vor einem geplanten Börsengang in New York weiteres Kapital. Der Vertragsbestand ist dank eines rund 45 Milliarden Dollar schweren Compute-Deals mit Anthropic auf etwa 103 Milliarden Dollar angewachsen; zuletzt war Nscale mit 14,6 Milliarden Dollar bewertet.",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "firma": "Forus",
+      "betrag": "$150 Mio.",
+      "runde": "Series C",
+      "investoren": "Bain Capital Ventures (Lead), Thrive Capital, General Catalyst, Accel",
+      "beschreibung": "Das früher als Tandem bekannte Startup setzt KI-Agenten ein, um die operativen Schritte zwischen Rezeptausstellung und Patientenbehandlung im US-Gesundheitswesen zu automatisieren. Die Runde bewertet Forus mit 3 Milliarden Dollar.",
+      "bild": ""
+    }
+  ]
+}

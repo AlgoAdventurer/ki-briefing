@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Apple enthüllt auf 'Surprise and Shine'-Event faltbares iPhone und neue KI-Siri",
+      "quelle": "TechCrunch / ukrmedia",
+      "quelleUrl": "https://techcrunch.com/2026/08/26/apple-is-holding-its-iphone-launch-event-on-september-9/",
+      "zusammenfassung": "Auf dem Event 'Surprise and Shine' zeigt Apple heute das erste faltbare iPhone sowie das iPhone 18 Pro und eine grundlegend überarbeitete, KI-gestützte Siri. Es ist zugleich die erste große Keynote unter dem neuen CEO John Ternus, der seit dem 1. September offiziell die Nachfolge von Tim Cook angetreten hat.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Mistral AI sammelt 3 Milliarden Euro ein — größte Finanzierungsrunde eines europäischen Tech-Unternehmens",
+      "quelle": "Bloomberg / TechCrunch",
+      "quelleUrl": "https://www.bloomberg.com/news/articles/2026-09-08/mistral-ai-raises-at-21-billion-valuation-in-samsung-led-round",
+      "zusammenfassung": "Angeführt von Samsung Electronics sowie Scaleup Europe Fund (EQT) und PSG Equity sammelt das Pariser KI-Startup 3 Milliarden Euro (rund 3,5 Milliarden Dollar) ein und wird mit über 21 Milliarden Euro bewertet — fast eine Verdopplung gegenüber der letzten Runde vor einem Jahr. Mistral will das Kapital vor allem in eigene Rechenzentren und zusätzliche Rechenkapazität investieren.",
+      "kategorie": "Business",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Sicherheitsforscher bauen mit KI in weniger als zwei Wochen einen selbstverbreitenden WeChat-Wurm",
+      "quelle": "The Hacker News / Help Net Security",
+      "quelleUrl": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "zusammenfassung": "Die Offensive-Security-Firma Calif nutzte KI, um eine Speicherfehler-Schwachstelle im VoIP-Stack von WeChat zu finden, daraus in nur zwei Tagen einen Remote-Code-Execution-Exploit zu bauen und innerhalb einer weiteren Woche den 'Zero-Click'-Wurm WeWorm zu entwickeln — Accounts konnten allein durch einen eingehenden Anruf übernommen werden, ohne dass das Opfer abhebt. Tencent schloss die Lücke bereits am 21. August, doch der Fall zeigt, wie stark KI die Einstiegshürde für hochentwickelte Cyberangriffe senkt.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Google verschlechtert Suchergebnisse für 450 Millionen Europäer, um EU-Strafen zu vermeiden",
+      "quelle": "Engadget / Investing.com",
+      "quelleUrl": "https://www.engadget.com/2253229/google-will-degrade-search-in-europe-to-avoid-eu-fines/",
+      "zusammenfassung": "Um Vertragsstrafen nach dem Digital Markets Act zu entgehen, hat Google ab dem 8. September seine Suchergebnisse in Europa umgebaut: Ergebnisse von Konkurrenzdiensten wie Booking.com oder Expedia erscheinen bei kommerziellen Suchanfragen nun vor eigenen Google-Diensten. Google selbst spricht von der 'größten Qualitätsverschlechterung' in der fast 30-jährigen Geschichte der Suche — zuvor hatte die EU-Kommission Google mit rund 890 Millionen Euro Bußgeld belegt.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Microsoft AI stellt Spracherkennungsmodell MAI-Transcribe-2 vor",
+      "quelle": "Microsoft AI",
+      "quelleUrl": "https://techstartups.com/2026/09/08/top-tech-news-today-september-8-2026-asml-google-intel-mistral-openai-xiaomi-more/",
+      "zusammenfassung": "Microsoft AI veröffentlicht mit MAI-Transcribe-2 ein neues Speech-to-Text-Modell, das nach Unternehmensangaben schneller, genauer und günstiger arbeitet als vergleichbare Angebote von OpenAI, Google und ElevenLabs. Das Modell reiht sich in Microsofts wachsende Riege eigener MAI-Modelle ein, mit denen der Konzern unabhängiger von externen KI-Anbietern werden will.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

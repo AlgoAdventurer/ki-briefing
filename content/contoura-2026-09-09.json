@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Trainings-Audioprotokolle per Spracherkennung",
+      "kontext": "Microsoft AI hat mit MAI-Transcribe-2 ein Speech-to-Text-Modell vorgestellt, das nach Firmenangaben schneller, günstiger und genauer transkribiert als bisherige Angebote von OpenAI, Google und ElevenLabs.",
+      "umsetzung": "Athleten könnten nach dem Training kurze Sprachmemos aufnehmen ('Steilhang links verlaufen, Kompass zu spät gesetzt') statt Notizen zu tippen. Contoura transkribiert diese automatisch günstig in strukturierte Trainingsnotizen und verknüpft sie mit den passenden Split-Zeiten — praktisch für die Nutzung direkt nach dem Lauf im Wald, ohne Tippen am Handy.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Persönlicher Schreibstil für automatische Trainingsberichte",
+      "kontext": "ChatGPT Work lernt aus verbundenen Apps wie Gmail oder Slack den individuellen Schreibstil eines Nutzers und formuliert damit Texte, die weniger generisch klingen.",
+      "umsetzung": "Ein ähnliches Prinzip könnte Contouras automatisch generierte Trainingskommentare persönlicher machen: Statt eines einheitlichen KI-Tons lernt das System aus früheren, vom Athleten oder Trainer selbst geschriebenen Notizen Ton und Wortwahl und passt automatische Zusammenfassungen entsprechend an.",
+      "aufwand": "mittel",
+      "prioritaet": "niedrig"
+    },
+    {
+      "id": 3,
+      "titel": "Selbst entwickelte Analyse-Features statt SaaS-Zukauf mit lokalen Coding-Agenten",
+      "kontext": "Der frisch auf Version 1.0 aktualisierte Open-Source-Coding-Agent OpenHands löst inzwischen rund 68 % der SWE-bench-Verified-Aufgaben autonom und bringt produktionsreifes Sandboxing für den sicheren Selbstbetrieb mit.",
+      "umsetzung": "Contoura könnte OpenHands selbst hosten, um neue Auswertungs-Features (z. B. saisonale Trendvergleiche oder automatische Fehlerkategorisierung) intern und kosteneffizient bauen zu lassen, statt für eine externe Analytics-Lösung zu zahlen — bei voller Kontrolle über sensible Athletendaten, da der Agent lokal statt in fremder Cloud läuft.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}

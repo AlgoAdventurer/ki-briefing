@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-09",
+  "items": [
+    {
+      "id": 1,
+      "name": "Sol-H3",
+      "version": "",
+      "anbieter": "MiniMax",
+      "detail": "MiniMax stellt mit Sol-H3 einen neuen Inferenz-Stack für Video-Generierung vor, der 5 Sekunden Video in 1344×768 Auflösung inklusive Stereo-Audio in nur 1,653 Sekunden auf einem 8x-Nvidia-B300-System erzeugt. Die Geschwindigkeit macht Echtzeit-nahe Anwendungsfälle für generative Videos deutlich praktikabler.",
+      "url": "https://aiweekly.co/ai-news-today",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Super Xiaodu Gerätefamilie",
+      "version": "2. Generation",
+      "anbieter": "Baidu",
+      "detail": "Baidus Smart-Device-Sparte Xiaodu präsentiert neue Smart Displays und Kameras mit einer aktualisierten Super-Xiaodu-KI-Assistentin sowie einem KI-Überwachungsagenten der zweiten Generation, der direkt in die Kameras integriert ist und Ereignisse eigenständig einordnen soll.",
+      "url": "https://aiweekly.co/ai-news-today",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "GitHub Copilot Workspace",
+      "version": "Multi-Agent-Modus",
+      "anbieter": "GitHub / Microsoft",
+      "detail": "GitHub Copilot Workspace unterstützt jetzt mehrere spezialisierte KI-Agenten, die gleichzeitig an unterschiedlichen Teilen einer Codebase arbeiten — mit eigenen Agenten für Implementierung, Tests und Dokumentation. Das soll parallele agentische Softwareentwicklung praxistauglicher machen.",
+      "url": "https://aiweekly.co/ai-news-today",
+      "bild": ""
+    }
+  ]
+}
