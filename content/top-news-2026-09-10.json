@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI meldet Lösung eines Millennium-Problems der Mathematik — Streit um Anerkennung folgt sofort",
+      "quelle": "CNN / Axios",
+      "quelleUrl": "https://www.cnn.com/2026/09/09/business/openai-millennium-problems-navier-stokes-hnk",
+      "zusammenfassung": "Ein unveröffentlichtes internes OpenAI-Modell hat mit rund 10.000 KI-Agenten in 88 Stunden einen Lean-formalisierten Beweis für das Navier-Stokes-Problem erarbeitet, eines der sieben mit je 1 Million Dollar dotierten Millennium-Probleme des Clay Mathematics Institute. OpenAI will das Preisgeld nicht beanspruchen, doch Mathematiker Tristan Buckmaster (NYU) wirft dem Unternehmen vor, seinen Co-Autor und Anthropic-Forscher Levent Alpöge nach fast einjähriger eigener Vorarbeit bewusst aus der Autorenschaft gedrängt zu haben — OpenAI bestreitet dies.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "NSA, CISA und FBI werfen sechs chinesischen KI-Firmen systematisches Kopieren US-amerikanischer Modelle vor",
+      "quelle": "CISA / The Register",
+      "quelleUrl": "https://www.cisa.gov/news-events/news/cisa-nsa-and-fbi-warn-china-based-ai-companies-targeting-us-ai-models-industrial-scale-knowledge",
+      "zusammenfassung": "In einer gemeinsamen Warnung beschuldigen die drei US-Sicherheitsbehörden DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun und Z.AI, seit Ende 2024 in industriellem Maßstab Fähigkeiten aus Claude, GPT, Gemini und Grok per 'Distillation' abzuschöpfen — über Fake-Accounts, gebündelte Premium-Abos und Proxy-Dienste. Die Behörden gehen von Wissen der chinesischen Regierung aus und empfehlen US-Anbietern, erkannte Accounts künftig unauffällig zu drosseln statt sie zu sperren.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Meta startet persönlichen KI-Agenten 'Muse' für E-Mails, Einkäufe und Reiseplanung",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+      "zusammenfassung": "Metas neuer Agent Muse, angetrieben vom Modell Muse Spark, erledigt eigenständig Aufgaben wie E-Mails schreiben, Reisen buchen, Rechnungen senken oder Einkäufe abschließen — inklusive Einmal-Zahlkarten über Link by Stripe — und fragt vor sensiblen Aktionen aktiv um Bestätigung. Verfügbar als App für iOS/Android, im Web und über WhatsApp, mit kostenlosem Einstieg sowie Abos für 20 und 100 Dollar im Monat für mehr Kapazität.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "DeepSeek öffnet Test-Endpoint für V4.1 Flash — läuft heute automatisch ab",
+      "quelle": "BigGo / CellCog",
+      "quelleUrl": "https://finance.biggo.com/news/7b620419-2be7-4cee-b1c9-972a80342d89",
+      "zusammenfassung": "Über die Modell-ID 'deepseek-v4.1-flash-expires-on-0910' können Entwickler mit bestehendem API-Key ohne Warteliste eine neue Architektur mit nativer Multimodalität testen, die laut DeepSeek V4 Pro übertrifft. Der zweitägige Beta-Zugang ist auf 20 gleichzeitige Anfragen pro Account begrenzt und schaltet sich am 10. September automatisch ab — ein reiner Funktionstest vor einem möglichen regulären Release.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "Google patcht siebte aktiv ausgenutzte Chrome-Zero-Day-Lücke des Jahres 2026",
+      "quelle": "SecurityWeek / Help Net Security",
+      "quelleUrl": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
+      "zusammenfassung": "Die als CVE-2026-87491 geführte Out-of-Bounds-Write-Schwachstelle in der V8-JavaScript-Engine wird bereits aktiv ausgenutzt und wurde mit Chrome 153.0.8010.36/.37 für Windows, macOS und Linux geschlossen. Es ist bereits die siebte in diesem Jahr aktiv ausgenutzte Chrome-Lücke — Nutzer sollten umgehend aktualisieren.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

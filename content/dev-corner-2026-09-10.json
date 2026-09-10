@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Kimi K2.6 als selbst hostbares Open-Weight-Coding-Modell",
+      "typ": "Open Source",
+      "detail": "Moonshot AIs Kimi K2.6 ist ein 1-Billion-Parameter-MoE-Modell (32B aktive Parameter pro Token) mit 262K Kontextfenster, das auf SWE-Bench Pro mit 58,6 Punkten vor GPT-5.4, Claude Opus 4.6 und Gemini 3.1 Pro liegt. Unter modifizierter MIT-Lizenz lässt es sich per vLLM oder SGLang selbst hosten — relevant für Teams, die volle Kontrolle über Coding-Agenten und Trainingsdaten behalten wollen, statt auf eine geschlossene API angewiesen zu sein.",
+      "url": "https://deepinfra.com/blog/kimi-k2-6-model-overview",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Chrome V8-Zero-Day CVE-2026-87491 umgehend patchen",
+      "typ": "Sicherheit",
+      "detail": "Google hat mit Chrome 153.0.8010.36/.37 eine bereits aktiv ausgenutzte Out-of-Bounds-Write-Lücke in der V8-Engine geschlossen — die siebte aktiv ausgenutzte Chrome-Zero-Day-Lücke 2026. Wer Chromium-basierte Browser in CI-Pipelines, Electron-Apps oder für automatisiertes Browser-Testing einsetzt, sollte die Version umgehend pinnen bzw. aktualisieren, da Exploits für V8-Bugs oft schnell öffentlich werden.",
+      "url": "https://www.securityweek.com/chrome-153-patches-seventh-zero-day-of-2026/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "MCP-Spezifikation wird zustandslos — Bedeutung für Agenten-Entwickler",
+      "typ": "API/SDK",
+      "detail": "Die MCP-Spezifikation vom 28. Juli 2026 wandelt das Model Context Protocol von einem bidirektional-zustandsbehafteten in ein zustandsloses Request/Response-Protokoll um — eine der meistgeforderten Änderungen aus der Community. Für Entwickler bedeutet das bessere horizontale Skalierbarkeit von MCP-Servern hinter Load-Balancern und einfacheres Deployment in Serverless-Umgebungen, ohne Sessions über mehrere Instanzen hinweg halten zu müssen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    }
+  ]
+}

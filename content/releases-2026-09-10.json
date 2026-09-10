@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "name": "Muse",
+      "version": "",
+      "anbieter": "Meta",
+      "detail": "Meta launcht seinen ersten voll agentischen Consumer-Assistenten: Muse führt mehrstufige, länger laufende Aufgaben eigenständig aus, verbindet sich mit E-Mail, Kalender, Gesundheits- und Shopping-Diensten und wickelt Zahlungen über Link by Stripe mit Einmal-Kartennummern ab. Zugänglich per App, Web (muse.ai) und WhatsApp, mit kostenlosem Einstieg sowie Abos für 20 und 100 Dollar monatlich für mehr Kapazität.",
+      "url": "https://about.fb.com/news/2026/07/meta-ai-muse-spark-doesnt-just-think-it-acts/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "V4.1 Flash",
+      "version": "4.1",
+      "anbieter": "DeepSeek",
+      "detail": "Neue Modellarchitektur mit nativ integrierter Multimodalität statt nachträglich angeflanschter Bildverarbeitung, laut DeepSeek schneller und leistungsfähiger als V4 Pro bei gleichem Preis wie das bisherige V4 Flash. Aktuell nur als zweitägiger, auf 20 gleichzeitige Anfragen begrenzter Test-Endpoint über die bestehende API verfügbar — ein regulärer Release könnte folgen.",
+      "url": "https://finance.biggo.com/news/7b620419-2be7-4cee-b1c9-972a80342d89",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Harvey",
+      "version": "",
+      "anbieter": "Harvey (Legal AI)",
+      "detail": "Der Legal-AI-Anbieter Harvey übernimmt Guardrails AI, seine bereits vierte Akquisition 2026, um Sicherheits- und Kontrollmechanismen direkt in seine Plattform für Kanzleien und Rechtsabteilungen zu integrieren. Die Übernahme folgt auf eine 550-Millionen-Dollar-Finanzierungsrunde bei 15,5 Milliarden Dollar Bewertung und unterstreicht den Trend, KI-Agenten in regulierten Branchen mit eigenen Guardrail-Schichten abzusichern.",
+      "url": "https://www.artificiallawyer.com/2026/09/09/harvey-raises-550m-at-15-5bn-val-buys-guardrails-ai/",
+      "bild": ""
+    }
+  ]
+}

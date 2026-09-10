@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Harvey",
+      "betrag": "$550M",
+      "runde": "Growth-Runde",
+      "investoren": "Diffusion und Lightspeed Venture Partners (Co-Lead), u.a. Sequoia, Kleiner Perkins, a16z, Coatue, GIC, Goldman Sachs Alternatives",
+      "beschreibung": "Der Legal-AI-Anbieter Harvey erreicht mit der neuen Runde eine Bewertung von 15,5 Milliarden Dollar — fast eine Verdopplung innerhalb von neun Monaten seit der 11-Milliarden-Bewertung im März. Der Jahresumsatz liegt inzwischen über 400 Millionen Dollar; mit dem frischen Kapital finanziert Harvey unter anderem die Übernahme von Guardrails AI, seine vierte Akquisition 2026.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Gimlet Labs",
+      "betrag": "$300M",
+      "runde": "Series B",
+      "investoren": "Andreessen Horowitz (Lead), Arm, M12, Sapphire Ventures, Menlo Ventures, Factory",
+      "beschreibung": "Gimlet Labs baut eine 'Multi-Silicon Inference Cloud' für agentische KI, die Inferenz-Workloads dynamisch auf die jeweils passende Hardware verteilt — GPUs, CPUs und spezialisierte KI-Chips von Nvidia, AMD, Intel, Arm, Cerebras und d-Matrix inklusive. Die Runde bewertet das Unternehmen nur sechs Monate nach der 80-Millionen-Series-A mit 3 Milliarden Dollar, nachdem sich die Kundenbasis verdreifacht hat.",
+      "bild": ""
+    }
+  ]
+}

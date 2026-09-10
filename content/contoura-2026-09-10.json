@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige automatische Kartenanalyse mit nativ multimodalen Flash-Modellen",
+      "kontext": "DeepSeek hat mit V4.1 Flash eine neue Modellarchitektur mit nativer Multimodalität vorgestellt, die Bild- und Textverständnis von Grund auf statt nachträglich kombiniert und dabei auf Flash-Preisniveau bleibt.",
+      "umsetzung": "Contoura könnte gescannte OL-Karten und GPS-Tracks über ein günstiges, nativ multimodales Flash-Modell automatisch analysieren lassen — etwa um Geländetyp an Fehlerstellen zu erkennen (Steilhang, Dickicht, Wegnetz) und diese Information automatisch mit den Split-Zeiten und der Fehlerstatistik zu verknüpfen, ohne die Kosten teurer Flaggschiff-Modelle.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Selbst gehostetes Coding-Modell für interne Feature-Entwicklung",
+      "kontext": "Kimi K2.6 ist ein offenes 1-Billion-Parameter-Coding-Modell, das auf SWE-Bench Pro aktuelle Flaggschiff-Modelle schlägt und sich per vLLM oder SGLang selbst hosten lässt.",
+      "umsetzung": "Statt für externe Analytics-Zukäufe zu zahlen, könnte Contoura ein selbst gehostetes Kimi-K2.6-Setup nutzen, um neue Auswertungs-Features (z. B. automatische Erkennung wiederkehrender Navigationsfehler über mehrere Läufe hinweg) intern zu entwickeln — bei voller Datenkontrolle, da sensible Athletendaten nie eine fremde API verlassen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Automatische Saisonberichte mit Freigabe-Checkpoint statt Blindversand",
+      "kontext": "Metas neuer Agent Muse führt mehrstufige Aufgaben eigenständig aus, holt sich aber vor sensiblen Schritten wie dem Versand einer Nachricht aktiv eine Bestätigung ein, statt einfach zu handeln.",
+      "umsetzung": "Contoura könnte nach diesem Muster automatisch generierte Saison- oder Monatsberichte für Athleten erstellen (Performance-Index-Verlauf, häufigste Fehlerarten, Trainingsumfang), die dem Trainer vor dem Versand an den Athleten zur kurzen Freigabe vorgelegt werden — so bleibt die Kontrolle beim Menschen, während die eigentliche Textarbeit automatisiert wird.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}

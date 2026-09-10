@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-10",
+  "items": [
+    {
+      "id": 1,
+      "titel": "US-Sicherheitsbehörden warnen offiziell vor chinesischer KI-Modell-'Distillation'",
+      "region": "USA / Global",
+      "detail": "NSA, CISA und FBI haben in einer gemeinsamen Warnung sechs chinesische KI-Firmen (DeepSeek, Moonshot AI, Alibaba, MiniMax, StepFun, Z.AI) beschuldigt, seit Ende 2024 im industriellen Maßstab Fähigkeiten aus US-Modellen wie Claude, GPT, Gemini und Grok abzuschöpfen. Betroffen sind vor allem US-Anbieter von Frontier-Modellen, die nun aufgefordert werden, verdächtige Accounts gezielt zu drosseln statt offen zu sperren — ein Vorgehen mit direkten Folgen für API-Zugangsregeln und Exportkontrolldebatten.",
+      "url": "https://www.cisa.gov/news-events/news/cisa-nsa-and-fbi-warn-china-based-ai-companies-targeting-us-ai-models-industrial-scale-knowledge",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "EU-KI-Büro startet erste Kontrollwelle unter dem AI Act",
+      "region": "EU",
+      "detail": "Das Europäische KI-Büro in Brüssel beginnt gemeinsam mit 24 nationalen Marktüberwachungsbehörden — angeführt von Frankreichs CNIL, Deutschlands BfDI und Spaniens AESIA — die erste geplante Prüfungswelle seit Inkrafttreten der Transparenzpflichten am 2. August. Im Fokus stehen automatisierte Bewerber-Screenings im HR-Bereich, algorithmische Kreditbewertung im Retail-Banking und KI-Triage in privaten Kliniken; geprüft werden Technikdokumentation, versionierte Modellgewichte und menschliche Override-Mechanismen aller seit dem 2. August eingeführten Systeme.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/ai-office",
+      "auswirkung": "hoch"
+    }
+  ]
+}

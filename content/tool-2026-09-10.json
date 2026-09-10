@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-10",
+  "name": "Muse",
+  "tagline": "Metas persönlicher KI-Agent erledigt E-Mails, Buchungen und Einkäufe eigenständig",
+  "beschreibung": "Muse ist Metas neuer KI-Agent, der über einfache Chat-Antworten hinausgeht und reale Aufgaben selbstständig ausführt: E-Mails formulieren und versenden, Reisen buchen, Abos kündigen oder Rechnungen aushandeln, Rezept-Reels in Einkaufslisten verwandeln oder Partyeinladungen verschicken. Der Agent verbindet sich mit E-Mail, Kalender, Instagram, Gesundheits-, Shopping- und Smart-Home-Diensten und arbeitet auch weiter, wenn die App geschlossen ist. Vor sensiblen Schritten wie dem Versand einer Nachricht oder einer Zahlung fragt Muse aktiv um Bestätigung nach.",
+  "useCase": "Ein Nutzer schickt Muse ein Kochvideo aus Instagram — der Agent erkennt die Zutaten, erstellt automatisch eine Einkaufsliste, bestellt sie über einen verbundenen Lieferdienst und meldet sich erst zur finalen Bestätigung der Zahlung zurück, bevor der Kauf abgeschlossen wird.",
+  "url": "https://muse.ai",
+  "kategorie": "Productivity",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["ki-agent", "automatisierung", "meta", "productivity"]
+}
