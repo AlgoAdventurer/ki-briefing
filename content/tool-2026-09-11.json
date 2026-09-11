@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-11",
+  "name": "OpenAI Agents API",
+  "tagline": "Der komplette Codex-Agenten-Unterbau hinter einem einzigen API-Aufruf",
+  "beschreibung": "Die Agents API bündelt das, was bisher OpenAIs eigenen Codex-Agenten antreibt: Kontextverwaltung, Tool-Orchestrierung, Subagenten-Koordination und tagelang laufende, wiederherstellbare Sessions. Statt eine eigene Orchestrierungsschicht zu bauen, definieren Entwickler nur noch einen Agent (Modell, Instruktionen, Tools, MCP-Server) und eine optionale Sandbox-Umgebung — den Rest übernimmt OpenAI. Innerhalb einer Session kann der Agent Code ausführen, Dateien bearbeiten, im Web recherchieren, Artefakte erzeugen und Arbeit auf Subagenten mit begrenzter Parallelität verteilen.",
+  "useCase": "Ein Entwickler baut einen Recherche-Agenten, der über mehrere Tage hinweg Dokumente sammelt, Code zur Datenauswertung schreibt und ausführt und am Ende einen fertigen Bericht als Artefakt abliefert — ohne eigene Infrastruktur für Session-Wiederherstellung, Sandboxing oder Subagenten-Koordination aufzubauen.",
+  "url": "https://openai.com/index/introducing-the-agents-api/",
+  "kategorie": "API / Developer Tools",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["agents", "api", "openai", "codex", "orchestrierung"]
+}

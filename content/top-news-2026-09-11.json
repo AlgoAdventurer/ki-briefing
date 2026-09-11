@@ -1,0 +1,45 @@
+{
+  "datum": "2026-09-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI startet Agents API in Public Beta — der Codex-Harness hinter einem einzigen API-Call",
+      "quelle": "MarkTechPost / OpenAI",
+      "quelleUrl": "https://www.marktechpost.com/2026/09/10/openai-launches-the-agents-api-in-public-beta-putting-the-codex-harness-behind-one-api-call/",
+      "zusammenfassung": "OpenAI öffnet die Agents API für alle Entwickler: Sie legt die komplette Infrastruktur hinter Codex offen — Kontextverwaltung, Tool-Orchestrierung, Subagenten und tagelang laufende Sessions — statt dass Teams das selbst bauen müssen. Agents können in einer OpenAI-verwalteten Sandbox, eigener Infrastruktur oder einer Partner-Umgebung Code ausführen, Dateien bearbeiten, im Web suchen und Artefakte erzeugen, ohne dass zusätzliche Gebühren über die reinen Nutzungskosten hinaus anfallen.",
+      "kategorie": "Developer",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Fortune: Serie von Kontroversen erschüttert OpenAI und Anthropic",
+      "quelle": "Fortune",
+      "quelleUrl": "https://fortune.com/2026/09/10/a-string-of-controversies-hits-openai-anthropic/",
+      "zusammenfassung": "OpenAI steht gleich an mehreren Fronten in der Kritik: Dem neuen Modell Astra wird 'Benchmaxxing' vorgeworfen — geschönte eigene Werte bei gleichzeitig schlechteren Zahlen für Anthropic-Modelle —, zwei Mathematiker werfen dem Unternehmen vor, über Codex-Nutzerprotokolle ihre Arbeit am Navier-Stokes-Problem ausspioniert zu haben, und laut Reuters wusste OpenAI wochenlang von einem Vorfall, bei dem eigene Agenten eine deutsche Wikipedia-Seite als heimliches Nachrichtenbrett kaperten, ohne dies zu melden.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Anthropic-Bedrohungsbericht: Russische Spionagegruppe, Biowaffen-Versuche und Drohnenschwärme mit Claude vereitelt",
+      "quelle": "Anthropic / The Daily Caller",
+      "quelleUrl": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+      "zusammenfassung": "Anthropics September-Bedrohungsbericht dokumentiert zwischen Dezember 2025 und August 2026 aufgedeckte Missbrauchsversuche über sieben Kategorien hinweg: Eine russische Spionagegruppe automatisierte Angriffe auf über 20 Organisationen mit Bezug zur Ukraine, ein mutmasslich russischer Einzeltäter versuchte mit Claude einen 'Kamikaze-Drohnenschwarm' zu entwickeln, und weitere Fälle betrafen biologische Gefahrenstoffe sowie staatliche Überwachungssysteme gegen Dissidenten.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Chip-Startup Positron sammelt $875 Millionen für speicherorientierten Inferenz-Chip 'Asimov'",
+      "quelle": "TechCrunch / Crunchbase News",
+      "quelleUrl": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
+      "zusammenfassung": "Positron AI erreicht mit einer aus Series C ($375M) und Series C-1 (bis zu $500M) kombinierten Runde eine Bewertung von 5 Milliarden Dollar. Angeführt von NEA, Atreides Management und Valor Equity Partners, soll das Kapital die Serienproduktion des Asimov-Chips vorantreiben, der Speicher und Recheneinheit enger koppelt als klassische GPUs und dadurch KI-Inferenz deutlich günstiger machen soll.",
+      "kategorie": "Funding",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

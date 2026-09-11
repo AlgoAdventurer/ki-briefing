@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI Agents API: Agent, Environment, Session als neue Grundbausteine",
+      "typ": "API/SDK",
+      "detail": "Die neue Agents API strukturiert agentische Workloads in vier Objekte: ein Agent (Modell, System-Instruktionen, Tools inkl. MCP-Server), eine optionale Environment-Sandbox, eine durable Session sowie die Events, die diese Session zurückstreamt. Für Entwickler bedeutet das, dass Kontext-Kompaktierung, Fehlerwiederherstellung und Subagenten-Koordination mit begrenzter Parallelität nicht mehr selbst implementiert werden müssen — relevant für alle, die bisher eigene Orchestrierungs-Layer über der Chat-Completions- oder Responses-API gebaut haben.",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Claude Developer Platform: Tools live nachladen ohne Cache-Verlust",
+      "typ": "API/SDK",
+      "detail": "Bisher musste eine Anthropic-Konversation bei einer Änderung des Tool-Sets neu an das Modell übergeben werden, was den Prompt-Cache invalidierte. Die neue Beta-Funktion für Claude Fable 5, Mythos 5, Opus 4.8 und Opus 5 erlaubt es, Tools zwischen einzelnen Turns hinzuzufügen oder zu entfernen, während der Cache erhalten bleibt — praktisch für Agenten, die erst bei Bedarf spezialisierte Tools laden sollen, statt von Anfang an das gesamte Tool-Set im Kontext vorzuhalten.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "codebeispiel": ""
+    }
+  ]
+}

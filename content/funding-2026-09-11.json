@@ -1,0 +1,14 @@
+{
+  "datum": "2026-09-11",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Positron AI",
+      "betrag": "$875M",
+      "runde": "Series C + C-1",
+      "investoren": "NEA, Atreides Management, Valor Equity Partners, Andra Capital, SemiAnalysis Capital, Jim Clark (Co-Lead)",
+      "beschreibung": "Positron entwickelt mit 'Asimov' einen speicherorientierten Inferenz-Chip als Alternative zu klassischen GPUs für den Betrieb grosser Sprachmodelle. Die kombinierte Runde aus 375 Millionen Dollar Series C und bis zu 500 Millionen Dollar Series C-1 bewertet das Unternehmen mit 5 Milliarden Dollar und soll den für Ende 2026 geplanten Tapeout auf TSMCs N3P-Prozess sowie die Serienproduktion ab 2027 finanzieren.",
+      "bild": ""
+    }
+  ]
+}

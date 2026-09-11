@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-11",
+  "items": [
+    {
+      "id": 1,
+      "name": "Asimov",
+      "version": "",
+      "anbieter": "Positron AI",
+      "detail": "Speicherorientierter Inferenz-Chip, der Speicher und Recheneinheit enger koppelt als klassische GPU-Architekturen, um Large-Language-Model-Inferenz mit deutlich weniger Energie- und Hardwarekosten zu betreiben. Der Tapeout auf TSMCs N3P-Prozess ist für Ende 2026 geplant, Serienproduktion soll in der zweiten Jahreshälfte 2027 starten — finanziert durch eine frische 875-Millionen-Dollar-Runde bei 5 Milliarden Dollar Bewertung.",
+      "url": "https://news.crunchbase.com/venture/biggest-funding-rounds-ai-energy-biotech-joulent/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "Agents API",
+      "version": "Public Beta",
+      "anbieter": "OpenAI",
+      "detail": "Der interne Codex-Agenten-Unterbau wird als eigenständige API veröffentlicht: Ein Agent-Objekt (Modell, Instruktionen, Tools, MCP-Server), eine optionale Sandbox-Umgebung und eine durable Session, die Events zurückstreamt. Entwickler können damit Agenten bauen, die tagelang laufen, Code ausführen, Dateien bearbeiten und Arbeit auf Subagenten verteilen — wahlweise in OpenAIs eigener Sandbox, eigener Infrastruktur oder bei einem Partner gehostet.",
+      "url": "https://openai.com/index/introducing-the-agents-api/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Claude Developer Platform: Mid-Conversation Tool Changes",
+      "version": "Beta",
+      "anbieter": "Anthropic",
+      "detail": "Für Claude Fable 5, Claude Mythos 5, Claude Opus 4.8 und Claude Opus 5 lassen sich Tools jetzt mitten in einem laufenden Gespräch hinzufügen oder entfernen, ohne den Prompt-Cache zu verlieren — bisher musste dafür der komplette Kontext neu aufgebaut werden. Zusätzlich unterstützt der fallbacks-Parameter neu einen 'default'-Modus, der automatisch Anthropics empfohlene Fallback-Modelle je nach Ablehnungsgrund anwendet.",
+      "url": "https://releasebot.io/updates/anthropic/claude-developer-platform",
+      "bild": ""
+    }
+  ]
+}

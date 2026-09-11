@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-11",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisierte Multi-Schritt-Saisonauswertung per Agent statt eigener Pipeline",
+      "kontext": "OpenAIs neue Agents API bündelt Sandbox, Sessions und Subagenten-Koordination hinter einem einzigen API-Aufruf, sodass mehrstufige Aufgaben wie Datei einlesen, Code ausführen und Ergebnis zusammenfassen ohne eigene Orchestrierungs-Infrastruktur möglich sind.",
+      "umsetzung": "Contoura könnte einen 'Season-Review-Agent' bauen, der eigenständig GPS-Tracks und Split-Zeiten mehrerer Wettkämpfe eines Athleten einliest, in einer Sandbox eine Trendanalyse der Fehlerquote und des Performance-Index über die Saison rechnet und daraus automatisch einen fertigen Bericht erzeugt — ohne dass Contoura selbst eine komplexe Agenten-Infrastruktur betreiben und warten muss.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Analyse-Tools erst bei Bedarf in den Athleten-Chat nachladen",
+      "kontext": "Anthropics neue Beta-Funktion erlaubt es, einem laufenden Claude-Gespräch mitten im Dialog Tools hinzuzufügen oder zu entfernen, ohne den Prompt-Cache und damit Antwortgeschwindigkeit und Kosten zu verlieren.",
+      "umsetzung": "Ein Contoura-Chat-Assistent könnte ein Gespräch mit einem Athleten allgemein beginnen und erst bei einer konkreten Nachfrage — etwa zu Splitzeiten eines bestimmten Laufs — die passenden Analyse-Tools (Fehlerstatistik, Performance-Index-Berechnung) nachladen, statt von Beginn an alle Tools im Kontext vorzuhalten.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "KI-generierte Trainingskommentare frühzeitig als solche kennzeichnen",
+      "kontext": "Die seit dem 2. August 2026 geltende EU-AI-Act-Transparenzpflicht verlangt, dass Systeme mit direkter Nutzerinteraktion offenlegen, wenn KI beteiligt ist — die laufende Kontrollwelle der EU prüft gezielt Systeme mit direktem Nutzerkontakt.",
+      "umsetzung": "Sollte Contoura künftig automatisch generierte Trainingskommentare oder Saisonberichte einsetzen, lohnt sich eine klare 'KI-generiert'-Kennzeichnung von Anfang an im UI-Design, statt diese nachträglich für den Schweizer respektive EU-Markt nachrüsten zu müssen.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    }
+  ]
+}
