@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatisierte Kartenanalyse und Routenwahl-Feedback per Vision-Modell",
+      "kontext": "GPT-6 Astra und Gemini 3.8 Flash bringen deutlich stärkere agentische und multimodale Fähigkeiten speziell für komplexe, mehrstufige Analyseaufgaben mit.",
+      "umsetzung": "Contoura könnte hochgeladene OL-Kartenausschnitte und GPS-Tracks automatisch analysieren lassen: Das Modell erkennt Routenwahlfehler an bestimmten Kontrollpunkten, ordnet sie Geländetypen zu (Steilhang, Dickicht, Wegnetz) und generiert dazu automatisch verständliches Feedback in natürlicher Sprache — als Ergänzung zur bestehenden Split-Zeit- und Fehlerstatistik.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Günstige automatische Trainingskommentare dank 75% billigerer Cache-Reads",
+      "kontext": "Anthropic hat die Cache-Read-Preise für Claude Fable 5.1 um 75% gesenkt, was wiederkehrende, kontextreiche Auswertungen deutlich günstiger macht.",
+      "umsetzung": "Contoura könnte Athletenprofil, Trainingshistorie und bisherige Wettkämpfe im Cache halten und darauf aufbauend automatisiert Trainingskommentare und Saisonrückblicke generieren lassen — ohne dass die laufenden API-Kosten bei täglicher Nutzung durch viele Athleten explodieren.",
+      "aufwand": "niedrig",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Eigener MCP-Server für direkten KI-Zugriff auf Athletendaten",
+      "kontext": "Die neue MCP-Spezifikation 2026-07-28 führt 'Tasks' als offizielle Extension für lang laufende, asynchrone Agenten-Aufgaben ein.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bereitstellen, über den KI-Assistenten wie Claude direkt auf Trainingsdaten, Split-Zeiten und Fehlerstatistiken eines Athleten zugreifen, um im Hintergrund automatisiert wöchentliche Trainingsanalysen als Task zu erstellen, die der Athlet dann einfach abrufen kann.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

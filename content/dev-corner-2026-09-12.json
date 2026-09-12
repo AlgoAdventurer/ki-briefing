@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Tasks, MCP Apps und gehärtete Authorization",
+      "typ": "Protokoll / SDK",
+      "detail": "Die neue MCP-Spezifikation ist die größte Revision seit dem Launch des Protokolls: ein zustandsloser Core, ein First-Class-Extensions-Framework, MCP Apps für UI-fähige Server sowie 'Tasks' als Extension für lang laufende, asynchrone Agenten-Aufgaben. Parallel ist die Python-SDK-v2-Linie jetzt allgemein verfügbar (GA), mit strengerer Protokollvalidierung und einem überarbeiteten, dispatcher-basierten ClientSession.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28-release-candidate/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Kimi K2.6: starkes offenes Modell für Coding und Agenten-Workflows",
+      "typ": "Open Source",
+      "detail": "Kimi K2.6 gehört laut aktuellen Vergleichen zu den stärksten frei verfügbaren Modellen für Coding, Tool-Use, visuelle Aufgaben und lang laufende Agenten-Workflows und lässt sich selbst hosten (z.B. über vLLM oder SGLang). Für Teams mit sensiblen Daten ist das ein relevanter Baustein, um agentische Features zu bauen, ohne Rohdaten an externe APIs zu senden.",
+      "url": "https://www.techaimag.com/top-10-hugging-face-models/trending-hugging-face-models-for-september-2026",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Gemini 3.8 Flash API: 1M Kontext und einstellbare Denk-Level für Agenten",
+      "typ": "API",
+      "detail": "Die Gemini API erlaubt bei 3.8 Flash das gezielte Einstellen des 'Thinking Levels' (low/medium/high), um Latenz und Kosten je nach Aufgabe zu steuern — praktisch für Agenten, die einfache Zwischenschritte schnell und nur komplexe Reasoning-Schritte mit hohem Denkaufwand ausführen sollen.",
+      "url": "https://ai.google.dev/gemini-api/docs/models/gemini-3.8-flash",
+      "codebeispiel": "curl https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent \\\n  -H \"x-goog-api-key: $GEMINI_API_KEY\" \\\n  -H 'Content-Type: application/json' \\\n  -d '{\"contents\":[{\"parts\":[{\"text\":\"Analysiere diesen Trainingsplan\"}]}],\"generationConfig\":{\"thinkingConfig\":{\"thinkingLevel\":\"high\"}}}'"
+    }
+  ]
+}

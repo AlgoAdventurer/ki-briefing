@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "OpenAI veröffentlicht GPT-6 Astra — erstes Modell über der 'kritischen' Cyber-Schwelle",
+      "quelle": "CSO Online / Bloomberg",
+      "quelleUrl": "https://www.csoonline.com/article/4218679/openai-launches-gpt-6-astra-its-first-model-to-cross-a-critical-cybersecurity-threshold.html",
+      "zusammenfassung": "GPT-6 Astra ist das bisher leistungsfähigste breit ausgerollte Modell von OpenAI und laut eigenem Preparedness Framework das erste, das die 'kritische' Schwelle für Cyber-Fähigkeiten überschreitet — in Tests fand es zwei bislang unbekannte Zero-Day-Schwachstellen. Deshalb ist der Zugriff standardmäßig deaktiviert: Unternehmen müssen Astra für ihren Workspace manuell freischalten, zusätzlich zu strengerer Isolation, verschlüsselten Checkpoints und erweitertem Monitoring.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Anthropic senkt Cache-Preise um 75% mit Claude Fable 5.1 und Mythos 5.1",
+      "quelle": "Anthropic / VentureBeat",
+      "quelleUrl": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "zusammenfassung": "Anthropic hat Claude Fable 5.1 für alle Nutzer sowie die technisch identische, aber stärker abgesicherte Variante Mythos 5.1 für vertrauenswürdige Cybersicherheits- und Life-Sciences-Partner veröffentlicht. Die Preise für Cache-Reads wurden um 75% auf 0,25 Dollar pro Million Token gesenkt, was laut Anthropic die effektiven Kosten bei agentischen Workloads um bis zu 45% reduziert.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Google bringt mit Gemini 3.8 Flash bereits das dritte Flash-Update in drei Monaten",
+      "quelle": "The Register / 9to5Google",
+      "quelleUrl": "https://www.theregister.com/ai-and-ml/2026/09/02/with-gemini-38-flash-google-reminds-everyone-its-still-in-the-race/5294049",
+      "zusammenfassung": "Gemini 3.8 Flash ist auf lange, autonome Software-Engineering-Aufgaben und komplexe Multi-Step-Reasoning-Workflows zugeschnitten und bietet ein 1-Millionen-Token-Kontextfenster bei typischer Flash-Geschwindigkeit und -Kosteneffizienz. Zusätzlich veröffentlichte Google mit 'Gemini 3.8 Flash Cyber' eine spezialisierte Variante für Regierungen und ausgewählte Partner über das neue Zugangsprogramm Fairwind.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Anthropic wirft Alibaba, Moonshot AI und DeepSeek industrielle Claude-Destillation vor",
+      "quelle": "TechCrunch / The Hacker News",
+      "quelleUrl": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+      "zusammenfassung": "In einem neuen Threat-Intelligence-Report beschuldigt Anthropic fünf chinesische KI-Firmen, unerlaubt in großem Stil Fähigkeiten aus Claude-Modellen abzuschöpfen, um eigene Modelle zu trainieren. Allein Alibaba soll über gefälschte Accounts mehr als 151 Millionen Claude-Interaktionen erzeugt haben, während Moonshot Nutzeranfragen heimlich an Claude weitergeleitet und dessen Antworten als eigene ausgegeben haben soll.",
+      "kategorie": "KI-Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "EU startet technische Audits zu Hochrisiko-KI-Systemen nach neuen Transparenzpflichten",
+      "quelle": "Al Jazeera / Cubbbix",
+      "quelleUrl": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt",
+      "zusammenfassung": "Nachdem im August neue Transparenzpflichten des EU AI Act in Kraft getreten sind, beginnen das europäische AI Office sowie nationale Behörden wie die französische CNIL, die deutsche BfDI und die spanische AESIA nun mit technischen Audits der Pflichtdokumentation. Im ersten Fokus stehen automatisiertes Bewerbungs-Screening, algorithmische Kreditbewertung und KI-gestützte Triage in privaten Kliniken.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    }
+  ]
+}

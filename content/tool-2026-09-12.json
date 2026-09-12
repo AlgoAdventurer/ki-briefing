@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-12",
+  "name": "Kilo Code",
+  "tagline": "Quelloffener KI-Coding-Agent für VS Code, JetBrains und die Kommandozeile",
+  "beschreibung": "Kilo Code ist ein Open-Source-Coding-Agent, der sich in VS Code, alle gängigen JetBrains-IDEs sowie als CLI einbinden lässt. Nutzer wählen aus über 500 Modellen und zahlen per BYO-API-Key ohne Aufschlag exakt den Listenpreis des jeweiligen Anbieters. Fünf eingebaute Agenten-Modi — Orchestrator, Architect, Coder, Debugger und Ask — erlauben mehrstufige Planung, parallele Ausführung mehrerer Teilaufgaben und autonomes Debugging über größere Codebasen hinweg. Werkzeug und Plugins sind komplett kostenlos, nur die tatsächliche Modell-Inferenz wird separat berechnet.",
+  "useCase": "Ein Entwicklerteam lässt den Orchestrator-Modus ein neues Feature über mehrere Dateien und Services hinweg planen und umsetzen, während parallel der Debugger-Modus fehlgeschlagene Tests analysiert und automatisch behebt — ganz ohne eigenes API-Preis-Markup.",
+  "url": "https://kilo.ai/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["coding-agent", "open-source", "jetbrains", "vs-code"]
+}

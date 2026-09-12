@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-12",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Kinetix AI",
+      "betrag": "$75M",
+      "runde": "Angel+",
+      "investoren": "Vertex Ventures (Temasek), Fangguang Capital, Wanshi Capital",
+      "beschreibung": "Kinetix AI baut einen Embodied-AI-Stack für Robotik-Hardware und hat über eine Serie von Angel+-Finanzierungen insgesamt umgerechnet über 500 Millionen RMB eingesammelt — ein weiteres Zeichen dafür, wie viel Kapital aktuell in physische KI und Robotik-Trainingsdaten fließt.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "AIDIN Robotics",
+      "betrag": "$12,1M",
+      "runde": "Strategische Finanzierung",
+      "investoren": "HD Hyundai Robotics, Samsung Venture Investment",
+      "beschreibung": "AIDIN Robotics entwickelt vertikal integrierte Sensor-Intelligenz für Roboter — von Kraft-Drehmoment-Sensoren bis zur Kraftregelungs-Software. Die Beteiligung zweier großer koreanischer Industriekonzerne zeigt das wachsende strategische Interesse etablierter Hersteller an KI-gestützter Robotik-Sensorik.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-12",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Office und nationale Behörden starten technische Audits zu Hochrisiko-KI-Systemen",
+      "region": "EU",
+      "detail": "Nach Inkrafttreten neuer Transparenzpflichten im August 2026 prüfen das europäische AI Office sowie CNIL (Frankreich), BfDI (Deutschland) und AESIA (Spanien) nun die technische Pflichtdokumentation (Art. 11) für nach dem 2. August eingeführte Hochrisiko-Systeme. Im ersten Fokus stehen automatisiertes Bewerbungs-Screening im HR-Bereich, algorithmische Kreditbewertung im Retail-Banking und KI-Triage in privaten Kliniken — betroffene Anbieter und Betreiber müssen Nachweise zu Risikomanagement und Modellverhalten vorlegen können.",
+      "url": "https://www.aljazeera.com/news/2026/8/6/what-came-into-force-with-the-eus-ai-act-this-week-and-what-didnt",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Colorado plant überarbeitete ADMT- und Chatbot-Sicherheitsregeln inmitten von US-Bundesstaats-Streit",
+      "region": "USA",
+      "detail": "Colorados überarbeitete Entwürfe zu automatisierten Entscheidungssystemen (ADMT) und Chatbot-Sicherheit werden bis zum 23. September erwartet, mit Kommentarfrist bis 26. Oktober 2026. Das reiht sich ein in die wachsende Spannung zwischen US-Bundesstaaten wie Colorado, Kalifornien und Texas, die eigene KI-Gesetze erlassen haben, und einer Executive Order der Trump-Administration, die uneinheitliche Einzelstaaten-Regulierung zurückdrängen will.",
+      "url": "https://vorplabs.com/ai-regulatory-updates/united-states/2026-09/colorado-admt-rules-california-ai-bills-ftc-cmg-order",
+      "auswirkung": "mittel"
+    }
+  ]
+}
