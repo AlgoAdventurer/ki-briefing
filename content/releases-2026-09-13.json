@@ -1,0 +1,41 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek V4.1 Flash",
+      "version": "V4.1",
+      "anbieter": "DeepSeek",
+      "detail": "Sparse-Mixture-of-Experts-Modell mit 552 Milliarden Parametern (8B aktiv bei Input, 16B bei Output) auf neuer Causal-Encoder-Decoder-Architektur. Bildverständnis ist nativ ins Modell trainiert, die Gewichte stehen unter permissiver MIT-Lizenz offen auf Hugging Face zur Verfügung. Kontextfenster von über 1 Million Token bei bis zu 384.000 Token Ausgabe.",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GPT-6 Astra",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "Seit 3. September zunächst für ausgewählte Organisationen, seit 8. September allgemein verfügbar. Bietet 1,05 Millionen Token Kontext und 128.000 Token Ausgabe; die Preisstruktur mit separaten Sätzen für Cache-Lese- und Schreibzugriffe (10 / 1 / 12,50 / 50 Dollar pro Million Token) unterstreicht den Fokus auf lange, agentenbasierte Arbeitsabläufe.",
+      "url": "https://llm-stats.com/llm-updates",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini 3.8 Flash",
+      "version": "3.8",
+      "anbieter": "Google",
+      "detail": "Googles neues Alltagsmodell verbessert Softwareentwicklung, Agenten-Workflows und mehrstufiges Schlussfolgern gegenüber dem Vorgänger, bei gleichzeitig niedrigeren Kosten als die Frontier-Modelle. Ein einstellbarer Reasoning-Effort-Regler erlaubt gestaffelte Preise zwischen 0,24 und 0,58 Dollar je Aufgabe.",
+      "url": "https://llmgateway.io/timeline",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "GLM-5.2",
+      "version": "5.2",
+      "anbieter": "Zhipu AI",
+      "detail": "Eines der meistdiskutierten offenen Sprachmodelle im September, das in Reasoning- und Coding-Benchmarks mit den führenden proprietären Modellen mithält. Zusammen mit Kimi-K3 und Solar Open2-250B zeigt es, dass offene Gewichte inzwischen für produktive Coding- und Agenten-Workloads ausreichen.",
+      "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+      "bild": ""
+    }
+  ]
+}

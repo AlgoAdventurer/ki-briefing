@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU AI Act: Aufsichtsbehörden starten technische Audits bei Hochrisiko-Systemen",
+      "region": "EU",
+      "detail": "Nach Inkrafttreten der Transparenzpflichten am 2. August beginnen nationale Behörden wie die französische CNIL, die deutsche BfDI und die spanische AESIA mit Artikel-11-Audits der technischen Dokumentation von Hochrisiko-KI-Systemen. Erste Schwerpunkte sind automatisierte Bewerber-Vorauswahl, algorithmische Kreditbewertung und KI-Triage in Kliniken — betroffene Unternehmen müssen jetzt Nachweise über Nutzung, Auswirkungen und menschliche Kontrolle ihrer Systeme liefern.",
+      "url": "https://artificialintelligenceact.eu/",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "New York City verbietet KI-Nutzung an Schulen bis zur achten Klasse",
+      "region": "USA",
+      "detail": "Die New Yorker Schulbehörde untersagt für das Schuljahr 2026/2027 den Einsatz von KI-Tools im Unterricht bis einschließlich der achten Klasse. Die Entscheidung fällt in eine Phase wachsender öffentlicher Debatte über Sicherheits- und Entwicklungsrisiken von KI-Agenten, befeuert auch durch Warnungen führender KI-Anbieter selbst.",
+      "url": "https://malpass.co/top-ai-stories-2026-09-12/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

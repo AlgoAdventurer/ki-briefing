@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation 2026-07-28: Model Context Protocol wird zustandslos",
+      "typ": "Protokoll / SDK",
+      "detail": "Die aktuelle MCP-Spezifikation wandelt das Protokoll von einer bidirektional-zustandsbehafteten Verbindung in einen zustandslosen Request/Response-Kern um. Ein Remote-MCP-Server unterscheidet sich dadurch kaum noch von einer gewöhnlichen HTTP-API und lässt sich auf jeder Standard-Infrastruktur betreiben — relevant für alle, die eigene MCP-Server für Tools oder Datenquellen bauen wollen.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "MCP Python SDK v2 ist jetzt stabil (GA)",
+      "typ": "SDK",
+      "detail": "Nach der Beta-Phase ist die zweite Generation des Python-SDKs für das Model Context Protocol jetzt der stabile Release-Zweig. Kernstück ist ein neu geschriebener, dispatcher-basierter ClientSession sowie striktere Protokoll-Validierung mit getrennten Typ-Sets für die Spec-Versionen 2025-11-25 und 2026-07-28.",
+      "url": "https://pydantic.dev/articles/mcp-python-sdk-v2-beta",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "GitHub Copilot Workspace: mehrere spezialisierte Agenten arbeiten parallel",
+      "typ": "Tool / API",
+      "detail": "Copilot Workspace unterstützt jetzt mehrere spezialisierte KI-Agenten gleichzeitig an unterschiedlichen Teilen einer Codebasis — getrennte Agenten für Implementierung, Tests und Dokumentation koordinieren sich automatisch. Zusätzlich orchestriert das Research-Preview-Feature 'HydraFusion' in der Copilot CLI mehrere Modelle je nach Aufgabentyp.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "codebeispiel": ""
+    }
+  ]
+}

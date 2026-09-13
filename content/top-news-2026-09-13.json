@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Nvidia bestätigt Übernahme von Hugging Face für 12,9 Milliarden Dollar",
+      "quelle": "TechCrunch / CNBC",
+      "quelleUrl": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion/",
+      "zusammenfassung": "Nvidia übernimmt die Open-Source-Plattform Hugging Face, über die mehr als 18 Millionen Entwickler und 200.000 Unternehmen über 3 Millionen Modelle teilen und einsetzen. Hugging Face soll laut Nvidia-Chef Jensen Huang seine Marke und Offenheit gegenüber allen Clouds, Frameworks und Inferenz-Anbietern behalten — es ist nach der 20-Milliarden-Dollar-Groq-Übernahme Nvidias zweitgrößter Deal.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Staatsnaher Hacker nutzt hunderte KI-Agenten für Massenangriff auf PaperCut-Server",
+      "quelle": "Malpass / Sicherheitsforscher",
+      "quelleUrl": "https://malpass.co/top-ai-stories-2026-09-12/",
+      "zusammenfassung": "Ein vermutlich russischsprachiger Angreifer setzte hunderte auf OpenAIs Codex und einem DeepSeek-Modell basierende KI-Agenten ein, um die Schwachstellen CVE-2026-81578 und CVE-2026-82078 in PaperCut NG/MF auszunutzen. Mindestens 440 Instanzen bei 395 Organisationen in 48 Ländern wurden kompromittiert, der erste Remote-Code-Execution-Erfolg gelang in unter vier Stunden — Bildungseinrichtungen waren mit 204 Opfern am stärksten betroffen.",
+      "kategorie": "Sicherheit",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "DeepSeek V4.1 Flash schlägt GPT-5.6 Sol und Claude Opus 5 bei Agenten-Benchmarks",
+      "quelle": "VentureBeat",
+      "quelleUrl": "https://venturebeat.com/technology/deepseek-v4-1-flash-debuts-with-0-003-1m-off-peak-cached-input-rate-and-benchmarks-eclipsing-gpt-5-6-sol-claude-opus-5",
+      "zusammenfassung": "Das neue Open-Weight-Modell basiert auf einer Causal-Encoder-Decoder-Architektur mit 552 Milliarden Parametern und nativer Bild-Text-Verarbeitung. Bei vier von fünf harten Agenten-Benchmarks wie DeepSWE und CyberGym übertrifft es die Konkurrenz von OpenAI und Anthropic, während die Preise mit 0,003 Dollar pro Million Cache-Hit-Token in Nebenzeiten extrem niedrig bleiben.",
+      "kategorie": "KI-Modelle",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "EU AI Act: Aufsichtsbehörden starten aktive Audits bei Hochrisiko-KI-Systemen",
+      "quelle": "artificialintelligenceact.eu",
+      "quelleUrl": "https://artificialintelligenceact.eu/",
+      "zusammenfassung": "Nach Inkrafttreten der Transparenzpflichten im August beginnen CNIL (Frankreich), BfDI (Deutschland) und AESIA (Spanien) nun technische Audits nach Artikel 11 bei Hochrisiko-Systemen, die seit dem 2. August im Einsatz sind. Im Fokus stehen zunächst automatisierte Bewerber-Vorauswahl im HR-Bereich, algorithmische Kreditbewertung bei Banken und KI-Triage in privaten Kliniken.",
+      "kategorie": "Regulierung",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 5,
+      "titel": "Anthropic-Chef Dario Amodei fordert langsamere, vorsichtigere KI-Entwicklung",
+      "quelle": "AI Weekly",
+      "quelleUrl": "https://aiweekly.co/ai-news-today",
+      "zusammenfassung": "Angesichts wachsender Sicherheitsvorfälle rund um KI-Agenten mahnt Amodei die gesamte Branche, Risikoprävention über Entwicklungstempo zu stellen. Die Äußerung fällt zusammen mit der Entscheidung der New Yorker Schulbehörde, KI-Nutzung bis zur achten Klasse im Schuljahr 2026/27 komplett zu untersagen.",
+      "kategorie": "KI-Politik",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Günstige native Bildanalyse für automatische Kartenfehler-Erkennung",
+      "kontext": "DeepSeek V4.1 Flash bringt native, sehr günstige Bild-Text-Verarbeitung (ab 0,003 Dollar pro Million Cache-Token) und schlägt bei Agenten-Benchmarks etablierte Modelle.",
+      "umsetzung": "Contoura könnte hochgeladene Kartenausschnitte und GPS-Tracks automatisch gegenseitig abgleichen lassen, um Streckenwahl-Fehler und Zeitverluste an Kontrollpunkten direkt aus dem Kartenbild zu erkennen und zu kommentieren — bei minimalen API-Kosten pro Athlet und Lauf.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "MCP-Server für Contoura-Trainingsdaten",
+      "kontext": "Die neue MCP-Spezifikation macht Remote-MCP-Server zustandslos und so einfach zu betreiben wie eine normale HTTP-API, was die Anbindung an Claude, ChatGPT & Co. deutlich vereinfacht.",
+      "umsetzung": "Contoura könnte einen eigenen MCP-Server bereitstellen, über den Athleten und Trainer ihre Split-Zeiten, Fehlerstatistiken und den Performance-Index direkt aus Claude oder Claude Code heraus abfragen und analysieren lassen, ohne die Plattform zu verlassen.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 3,
+      "titel": "Multi-Agenten-Team für automatische Trainingsberichte",
+      "kontext": "Open-Source-Tools wie MagiCrew zeigen, wie sich spezialisierte KI-Agenten (Recherche, Analyse, Reporting) zu einer koordinierten Crew zusammenschalten lassen.",
+      "umsetzung": "Contoura könnte nach jedem Wettkampf automatisch eine kleine Agenten-Crew anstoßen: ein Agent liest Split-Zeiten und Fehlerstatistik aus, ein zweiter vergleicht sie mit früheren Läufen, ein dritter verfasst daraus einen kurzen, verständlichen Trainingskommentar für den Athleten.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-13",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Wyre AI",
+      "betrag": "$5M",
+      "runde": "Pre-Seed / Seed",
+      "investoren": "Ironspring Ventures (Lead)",
+      "beschreibung": "Frühphasen-Startup im AI-Infrastruktur-Umfeld, das mit der kombinierten Pre-Seed- und Seed-Runde seinen Produktaufbau beschleunigt. Die Runde reiht sich in den September-Trend ein, dass frühe Checks zunehmend an klare Kundennachfrage und belastbare Produktdaten gebunden sind.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "HeyDiga",
+      "betrag": "€5.5M",
+      "runde": "Seed",
+      "investoren": "nicht näher genannt",
+      "beschreibung": "Europäisches Startup, das mit frischem Seed-Kapital seine KI-gestützte Plattform ausbaut. Die Runde zeigt, dass auch außerhalb der US-Frontier-Labs weiterhin relevantes Kapital in spezialisierte, anwendungsnahe KI-Produkte fließt.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-13",
+  "name": "MagiCrew",
+  "tagline": "Open-Source-Plattform, um Teams spezialisierter KI-Agenten für Recherche und Reporting zusammenzustellen",
+  "beschreibung": "MagiCrew, am 3. September auf Product Hunt gestartet, lässt Nutzer mehrere spezialisierte KI-Agenten — etwa für Recherche, Analyse, Reporting und Präsentation — als koordiniertes 'Crew'-Team konfigurieren, das gemeinsam an einer komplexen Aufgabe arbeitet. Statt einen einzelnen Agenten mit einem riesigen Prompt zu überladen, übernimmt jeder Agent eine klar abgegrenzte Rolle und reicht Zwischenergebnisse an den nächsten weiter. Der Quellcode ist offen einsehbar, wodurch sich das System selbst hosten und mit eigenen Modellen (z. B. lokalen Open-Weight-Modellen) kombinieren lässt.",
+  "useCase": "Ein Team stellt eine Crew aus 'Recherche-Agent' (durchsucht Quellen), 'Analyse-Agent' (fasst Zahlen und Trends zusammen) und 'Report-Agent' (baut daraus eine fertige Präsentation) zusammen und lässt sie über Nacht einen vollständigen Marktreport erstellen.",
+  "url": "https://www.producthunt.com/",
+  "kategorie": "Productivity / Multi-Agent",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["open-source", "multi-agent", "automatisierung", "reporting"]
+}
