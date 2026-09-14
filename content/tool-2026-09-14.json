@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-14",
+  "name": "Devin (Cognition)",
+  "tagline": "Der autonome KI-Softwareingenieur, der eigenständig ganze Coding-Aufgaben übernimmt",
+  "beschreibung": "Devin ist ein KI-Agent von Cognition, der als 'erster KI-Softwareingenieur' eigenständig Code schreibt, testet und Pull Requests erstellt — nicht nur als Autocomplete, sondern als vollwertiger, delegierbarer Teamkollege. Nach der jüngsten Finanzierungsrunde mit 48-Milliarden-Dollar-Bewertung setzen Großkunden wie Citi, Mercedes-Benz und Goldman Sachs bereits produktiv auf Devin. Mit 'Devin Outposts' kann eine Cloud-Session sogar auf eigener Hardware außerhalb der Cognition-Infrastruktur laufen, was Kontrolle über Daten und Compliance erlaubt.",
+  "useCase": "Ein Entwicklerteam delegiert ein mehrtägiges Refactoring über mehrere Dateien und Services an Devin, das selbstständig Branches anlegt, Tests schreibt und am Ende einen reviewbaren Pull Request liefert, während die menschlichen Entwickler sich auf Architektur-Entscheidungen konzentrieren.",
+  "url": "https://cognition.ai",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": false,
+  "tags": ["ai-agent", "coding", "autonomous-engineer", "devops"]
+}

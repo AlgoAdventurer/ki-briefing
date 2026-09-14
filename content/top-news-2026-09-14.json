@@ -1,0 +1,45 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Anthropic-CEO Dario Amodei fordert Tempo-Drosselung bei KI-Fähigkeiten",
+      "quelle": "CNN Business",
+      "quelleUrl": "https://www.cnn.com/2026/09/12/tech/anthropic-ceo-essay-ai",
+      "zusammenfassung": "In einem rund 3800 Wörter langen Essay schreibt Amodei, die Branche müsse das Tempo beim Ausbau von KI-Fähigkeiten drosseln, da autonome Agenten-Schwärme sonst innerhalb von 6-12 Monaten großen Schaden anrichten könnten. Der Essay erschien nur wenige Tage nachdem ein Anthropic-Mitarbeiter aus Sorge um die KI-Sicherheit öffentlich gekündigt hatte. Auch OpenAI-Chef Sam Altman äußerte sich zurückhaltender zum Entwicklungstempo.",
+      "kategorie": "KI-Sicherheit & Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Cognition erreicht 48-Milliarden-Dollar-Bewertung für KI-Coder Devin",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market/",
+      "zusammenfassung": "Cognition, Entwickler des autonomen KI-Softwareingenieurs Devin, hat in einer Series-E-Runde über 2 Milliarden Dollar eingesammelt und wird nun mit 48 Milliarden Dollar bewertet — fast doppelt so viel wie vier Monate zuvor. Angeführt wurde die Runde von Andreessen Horowitz und Accel, der jährliche Umsatz stieg seit Mai auf fast 900 Millionen Dollar. Kunden sind unter anderem Citi, Mercedes-Benz und Goldman Sachs.",
+      "kategorie": "Funding & KI-Coding",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Salesforce startet sieben benannte Agentforce-KI-Agenten",
+      "quelle": "Salesforce",
+      "quelleUrl": "https://www.salesforce.com/",
+      "zusammenfassung": "Salesforce hat sieben eigenständige Agentforce-Agenten mit Namen wie Casey, Paige und Fin vorgestellt, die jeweils für einen konkreten Geschäftsbereich zuständig sind — von Vertrieb über Customer Service bis IT/HR und Supply Chain. Der Schritt zeigt den Trend weg von einem generischen Chat-Agenten hin zu spezialisierten, klar abgegrenzten KI-Rollen in Unternehmen.",
+      "kategorie": "Business-KI",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 4,
+      "titel": "Sakana AI veröffentlicht offenes Modell Fugu Ultra v2.0",
+      "quelle": "Sakana AI",
+      "quelleUrl": "https://sakana.ai/",
+      "zusammenfassung": "Das japanische KI-Labor Sakana AI hat mit Fugu Ultra v2.0 ein neues offenes Modell veröffentlicht — eines von mittlerweile elf neuen Modell-Releases im September 2026 von sieben verschiedenen Anbietern. Die Veröffentlichung unterstreicht den anhaltenden Wettlauf um offene, frei nutzbare KI-Modelle abseits der großen US-Anbieter.",
+      "kategorie": "Open Source KI",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

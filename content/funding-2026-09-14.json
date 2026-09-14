@@ -1,0 +1,23 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Cognition (Devin)",
+      "betrag": "$2 Mrd.+",
+      "runde": "Series E",
+      "investoren": "Andreessen Horowitz, Accel (mit Founders Fund, General Catalyst, Avenir)",
+      "beschreibung": "Cognition, Hersteller des autonomen KI-Softwareingenieurs Devin, erreicht mit der neuen Runde eine Bewertung von 48 Milliarden Dollar — fast doppelt so viel wie bei der Series D vier Monate zuvor. Der Jahresumsatz wuchs im gleichen Zeitraum von 492 Millionen auf fast 900 Millionen Dollar; Kunden sind u.a. Citi, Mercedes-Benz, Goldman Sachs und die US Army.",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "firma": "Crusoe",
+      "betrag": "$3 Mrd.+",
+      "runde": "Series F",
+      "investoren": "Atreides Management, Valor Equity Partners, Mubadala Capital",
+      "beschreibung": "Der KI-Cloud- und Rechenzentrumsbetreiber Crusoe sammelt über 3 Milliarden Dollar ein und wird mit rund 30 Milliarden Dollar bewertet — dreimal so viel wie bei der Series E im Oktober 2025. Crusoe beliefert unter anderem Meta, Microsoft und OpenAI mit KI-Infrastruktur und hat kürzlich einen 13-Milliarden-Dollar-Fünfjahresvertrag mit der Handelsfirma Jane Street abgeschlossen.",
+      "bild": ""
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP-Spezifikation wird stateless: neue Architektur für Produktionsbetrieb",
+      "typ": "Protokoll / SDK",
+      "detail": "Die Model-Context-Protocol-Spezifikation vom 28.07.2026 macht MCP auf Protokollebene zustandslos: Jede Anfrage trägt alle nötigen Informationen selbst und muss keine dauerhaft offene Verbindung mehr voraussetzen. Ein Remote-MCP-Server, der bisher Sticky Sessions, einen geteilten Session-Store und Deep Packet Inspection am Gateway brauchte, kann jetzt hinter einem einfachen Round-Robin-Loadbalancer laufen, per Mcp-Method-Header routen und tools/list-Antworten cachen. Dazu kommen Multi-Round-Trip-Requests, härtere Autorisierung und ein formales Extensions-Framework — relevant für alle, die eigene MCP-Server produktiv betreiben.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 2,
+      "titel": "Yodeck baut MCP-Agent für Digital-Signage-Management über Claude Code & Co.",
+      "typ": "MCP-Server",
+      "detail": "Yodeck hat einen KI-Agenten veröffentlicht, mit dem sich Digital-Signage-Displays direkt über Assistenten wie ChatGPT, Claude, Cursor, VS Code, Windsurf oder die Claude Code CLI verwalten lassen. Der Agent basiert auf MCP und verbindet den jeweiligen Chat-Client mit echten Management-Aktionen im Yodeck-Backend — ein weiteres Beispiel dafür, wie Fachanwendungen MCP nutzen, um sich in bestehende Entwickler-Workflows einzuklinken statt eigene Chat-UIs zu bauen.",
+      "url": "https://www.yodeck.com/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Claude Code übernimmt Spitzenplatz im AI-Dev-Tool-Ranking dank Fable 5.1",
+      "typ": "Tool / SDK",
+      "detail": "Mit dem Zugriff auf Fable 5.1 hat Claude Code die WebDev-Arena-Rangliste unter den Nicht-Astra-Modellen mit einem Elo-Wert von 1762 angeführt. Für Entwickler bedeutet das spürbar bessere Ergebnisse bei mehrstufigen Refactorings und lang laufenden Debugging-Sessions direkt in der gewohnten CLI- bzw. IDE-Umgebung, ohne dass sich am Workflow etwas ändert.",
+      "url": "https://claude.com/claude-code",
+      "codebeispiel": ""
+    }
+  ]
+}

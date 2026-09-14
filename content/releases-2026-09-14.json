@@ -1,0 +1,41 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "name": "Claude Fable 5.1 & Claude Mythos 5.1",
+      "version": "5.1",
+      "anbieter": "Anthropic",
+      "detail": "Anthropic hat Fable 5.1 als neues Spitzenmodell für Coding, Wissensarbeit und lang laufende Agenten-Aufgaben veröffentlicht. Die Verbesserungen konzentrieren sich auf agentisches Coding über Stunden hinweg — Multi-File-Features, große Refactorings, Migrationen und Debugging über mehrere Sessions. Cache-Reads kosten mit 0,25 Dollar pro Million Tokens nur noch ein Viertel des Vorgängerpreises. Mythos 5.1 ist das gleiche Modell mit angepassten Sicherheitsvorkehrungen für Cybersecurity- und Life-Sciences-Anwendungen und nur über vertrauenswürdige Zugangsprogramme verfügbar.",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GPT-6 Astra",
+      "version": "",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat GPT-6 Astra veröffentlicht und erreicht damit auf dem GPQA-Diamond-Benchmark für Graduate-Level-Wissenschaftsfragen mit 96% einen neuen Spitzenwert. Das Modell positioniert sich als neues Flaggschiff im Wettbewerb um komplexe Reasoning-Aufgaben.",
+      "url": "https://openai.com/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Gemini 3.8 Flash & Flash Cyber",
+      "version": "3.8",
+      "anbieter": "Google",
+      "detail": "Google hat mit Gemini 3.8 Flash nur drei Wochen nach 3.7 Flash ein neues Alltagsmodell veröffentlicht, das bei Software-Engineering, Agenten-Workflows und mehrstufigem Reasoning zulegt und dabei günstiger ist. Die parallele Cyber-Variante erreicht laut Google Frontier-Niveau bei der autonomen Aufdeckung von Sicherheitslücken und übertrifft dabei Konkurrenzmodelle von Anthropic und OpenAI in diesem Bereich.",
+      "url": "https://deepmind.google/",
+      "bild": ""
+    },
+    {
+      "id": 4,
+      "name": "MAI-Transcribe-2",
+      "version": "2",
+      "anbieter": "Microsoft AI",
+      "detail": "Microsoft AI hat ein neues Spracherkennungsmodell veröffentlicht, das schneller, genauer und günstiger als vergleichbare Angebote von OpenAI und Google sein soll. Es führt den mehrsprachigen FLEURS-Benchmark an und läuft laut Microsoft zehnmal schneller als GPT-Transcribe, bei einem Einführungspreis von 0,10 Dollar pro Audiostunde bis Ende 2026.",
+      "url": "https://www.microsoft.com/en-us/ai",
+      "bild": ""
+    }
+  ]
+}

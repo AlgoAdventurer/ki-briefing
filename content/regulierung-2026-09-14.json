@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Amt startet erste Compliance-Prüfungswelle nach Ende der Übergangsfrist",
+      "region": "EU",
+      "detail": "Die Übergangsfrist für allgemeine Hochrisiko-Systeme unter dem EU AI Act endete am 2. August 2026. Im September beginnt das Europäische KI-Amt in Brüssel gemeinsam mit 24 nationalen Marktüberwachungsbehörden die erste geplante Prüfungswelle. Regulatoren wie die französische CNIL, die deutsche BfDI und die spanische AESIA konzentrieren sich zunächst auf automatisiertes Bewerber-Screening im HR-Bereich, algorithmische Kreditbewertung im Retail-Banking sowie KI-Triage-Systeme in privaten Gesundheitskliniken. Unternehmen müssen nun konkret nachweisen können, welche KI sie einsetzen, wie sie Menschen betrifft und wer Ergebnisse überprüft.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Globale Regulierungswelle: Kalifornien, Brasilien und Indien ziehen nach",
+      "region": "Global",
+      "detail": "Parallel zu den EU-Prüfungen rückt in Kalifornien die Unterschrifts-Frist für das KI-Sicherheitsgesetz SB 1047 näher, Brasilien stimmt über den KI-Regulierungsentwurf Bill 2338 ab, und Indien stellt sein neues Rahmenwerk zur KI-Haftung vor. Der zeitliche Zusammenfall zeigt, dass verbindliche KI-Regulierung 2026 von einer europäischen Ausnahme zu einem globalen Trend wird.",
+      "url": "https://www.regulation-ai.eu/en/ai-act/",
+      "auswirkung": "mittel"
+    }
+  ]
+}

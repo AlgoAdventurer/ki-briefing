@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-14",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Automatische Sprach-zu-Text-Trainingsprotokolle nach dem Lauf",
+      "kontext": "Microsofts neues MAI-Transcribe-2 transkribiert Audio deutlich schneller und günstiger (ab $0,10 pro Audiostunde) als bisherige Modelle und führt den mehrsprachigen FLEURS-Benchmark an.",
+      "umsetzung": "Athleten könnten direkt nach dem Zieleinlauf eine Sprachnotiz zu Streckenwahl, Fehlern und Gefühlszustand aufnehmen, die Contoura automatisch transkribiert und den passenden Split-Zeiten und Fehlerstatistiken im Trainingstagebuch zuordnet — ganz ohne manuelles Tippen direkt nach dem Wettkampf.",
+      "aufwand": "niedrig",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "KI-gestützte Saisonanalyse über mehrere Wettkämpfe hinweg",
+      "kontext": "Claude Fable 5.1 ist speziell für lang laufende Agenten-Aufgaben über mehrere Sessions optimiert und kann komplexe, mehrstufige Analysen zu deutlich geringeren Kosten durchführen als der Vorgänger.",
+      "umsetzung": "Contoura könnte einen Agenten einsetzen, der die Performance-Index-, Split-Zeit- und Fehlerdaten eines ganzen Saisonverlaufs eigenständig durchgeht und automatisch einen Fortschrittsbericht mit konkreten Trainingsempfehlungen generiert, statt dass Trainer das manuell auswerten müssen.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Günstige Agenten-Erkennung von Split-Zeit-Auffälligkeiten in Echtzeit",
+      "kontext": "Gemini 3.8 Flash bietet laut Google bessere Ergebnisse bei Agenten-Workflows und mehrstufigem Reasoning zu niedrigeren Kosten als der Vorgänger — ideal für häufige, kleinteilige Auswertungs-Calls.",
+      "umsetzung": "Ein leichtgewichtiger Agent könnte bei jedem neu importierten Split direkt prüfen, ob eine Zeit im Vergleich zur Athletenhistorie und zu Konkurrenten auffällig ist, und Trainer bei potenziellen Navigationsfehlern proaktiv benachrichtigen — bei Kosten, die durch das günstige Flash-Modell auch bei sehr vielen Athleten tragbar bleiben.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    }
+  ]
+}
