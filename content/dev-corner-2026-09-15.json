@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "MCP wird stateless: Python-SDK v2 Alpha mit End-to-End-Support",
+      "typ": "SDK / Protokoll",
+      "detail": "Das Model Context Protocol entwickelt sich mit der Spezifikation vom 28. Juli 2026 von einem bidirektional-zustandsbehafteten zu einem Request/Response-Protokoll. Die dritte Alpha-Version des Python-SDKs bringt dafür durchgängigen Stateless-Support, ein eigenständiges mcp-types-Paket, Multi-Round-Tool-Calls sowie überarbeitete Middleware und OpenTelemetry-Integration. Für Entwickler von MCP-Servern bedeutet das: einfachere Skalierung über mehrere Prozesse hinweg, da kein Server-Zustand mehr zwischen Anfragen gehalten werden muss.",
+      "url": "https://blog.modelcontextprotocol.io/posts/2026-07-28/",
+      "codebeispiel": "# stdio_server() reserviert jetzt private Kopien von stdin/stdout,\n# damit print()-Aufrufe im Server-Code nicht mehr den Wire-Kanal stoeren\nfrom mcp.server.stdio import stdio_server\n\nasync with stdio_server() as (read_stream, write_stream):\n    await server.run(read_stream, write_stream, init_options)"
+    },
+    {
+      "id": 2,
+      "titel": "GitHub Copilot CLI testet adaptives Modell-Routing (Project HydraFusion)",
+      "typ": "Tool / API",
+      "detail": "Im experimentellen Kanal der Copilot CLI routet 'Project HydraFusion' Anfragen automatisch zwischen lokalen, Cloud- und Compound-Modellen — je nach Aufgabe wird zwischen Performance, Kosten und Latenz abgewogen, ohne dass Entwickler das Modell manuell wählen müssen. Ergänzend ist Claude Fable 5.1 für Copilot Pro+, Max, Business und Enterprise verfügbar, Gemini 3.8 Flash für alle bezahlten Copilot-Stufen.",
+      "url": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/",
+      "codebeispiel": ""
+    },
+    {
+      "id": 3,
+      "titel": "Muse Code: Multi-Agent-Coding in isolierten Worktrees",
+      "typ": "Open Source / Tool",
+      "detail": "Metas Muse Code teilt große Coding-Aufgaben automatisch in Sub-Agenten auf, die jeweils in eigenen Git-Worktrees arbeiten, sodass parallele Änderungen sich nicht gegenseitig stören und die Hauptarbeitskopie unangetastet bleibt. Für Entwickler, die mehrere unabhängige Features gleichzeitig vorantreiben wollen, ist das Worktree-Isolationsmuster auch außerhalb von Muse Code als Best Practice für eigene Multi-Agent-Setups interessant.",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+      "codebeispiel": ""
+    }
+  ]
+}

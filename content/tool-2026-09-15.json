@@ -1,0 +1,12 @@
+{
+  "datum": "2026-09-15",
+  "name": "Muse Code (Meta)",
+  "tagline": "Metas Terminal-KI-Agent für Coding-Aufgaben über riesige Codebasen hinweg",
+  "beschreibung": "Muse Code ist Metas neuer KI-Coding-Agent, der über ein einziges Terminal-Kommando installiert wird und komplette Software-Engineering-Aufgaben übernimmt — von Planung über Implementierung bis zur Validierung. Läuft ein Projekt groß genug, teilt sich Muse Code selbstständig in mehrere Sub-Agenten auf, die parallel in isolierten Arbeitskopien (Worktrees) arbeiten, ohne die eigentliche Arbeitskopie zu verändern. Meta positioniert das Tool, das auf dem hauseigenen Muse-Spark-Modell läuft, explizit als kostengünstigere Alternative zu OpenAIs Codex und Anthropics Claude Code.",
+  "useCase": "Ein Entwickler lässt Muse Code parallel an sechs unabhängigen Feature-Branches eines großen Spiele-Repos arbeiten — jede Sub-Agent-Instanz plant, schreibt und testet ihren Teil isoliert, während am Ende nur die geprüften Ergebnisse zusammengeführt werden.",
+  "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
+  "kategorie": "Coding",
+  "bild": "",
+  "kostenlos": true,
+  "tags": ["ai-agent", "coding", "terminal", "multi-agent", "meta"]
+}

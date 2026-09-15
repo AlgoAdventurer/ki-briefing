@@ -1,0 +1,32 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "name": "DeepSeek",
+      "version": "V4.1 Flash",
+      "anbieter": "DeepSeek",
+      "detail": "DeepSeek hat mit V4.1 Flash das kleinste Modell seiner neuen Architektur-Familie veröffentlicht — ein Mixture-of-Experts-Modell mit 552 Milliarden Parametern, von denen nur 8 bzw. 16 Milliarden je Anfrage aktiv sind. Es bietet native visuelle Verarbeitung, schlägt den Vorgänger V4 Pro bei Leistung, Kosten und Geschwindigkeit und steht unter MIT-Lizenz offen auf Hugging Face zur Verfügung.",
+      "url": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/",
+      "bild": ""
+    },
+    {
+      "id": 2,
+      "name": "GPT Image",
+      "version": "2.5 Flare",
+      "anbieter": "OpenAI",
+      "detail": "OpenAI hat mit GPT Image 2.5 Flare die schnellere, leichtere Variante seiner neuen Bildmodell-Generation veröffentlicht. Sie liefert schärfere Details und präzisere Bildbearbeitung bei rund 50 % geringerer Latenz als GPT-Image-2 und ist als Standardoption in der API für die meisten Anwendungsfälle wie Produktbilder, Social-Content und schnelles Prototyping gedacht.",
+      "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+      "bild": ""
+    },
+    {
+      "id": 3,
+      "name": "Grok",
+      "version": "4.5",
+      "anbieter": "xAI",
+      "detail": "xAI positioniert Grok 4.5 als sein bislang fähigstes Modell für Coding, Agenten-Workflows und wissensintensive Aufgaben. Basis ist ein 1,5-Billionen-Parameter-Modell, ergänzt um Entwicklerdaten aus der Cursor-Partnerschaft. Elon Musk beschreibt es als 'in etwa vergleichbar mit Opus 4.7, aber deutlich schneller und günstiger' — verfügbar über die xAI-API, Grok Build und in Cursor.",
+      "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
+      "bild": ""
+    }
+  ]
+}

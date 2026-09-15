@@ -1,0 +1,55 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Trump attackiert Anthropic-Chef Amodei — Chip-Aktien rutschen ab",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/09/14/top-tech-news-today-september-14-2026-apple-anthropic-microsoft-revolut-softbank-more/",
+      "zusammenfassung": "Nach Dario Amodeis Essay 'We Must Pace the Frontier' griff US-Präsident Trump den Anthropic-CEO namentlich an und erklärte, er selbst sei 'der einzige Schutzmechanismus, den es braucht'. Chip-Aktien wie Nvidia gaben daraufhin deutlich nach, während China die Warnungen als 'Panikmache' zurückwies — obwohl Chinas oberster Geheimdienstvertreter intern ähnliche Sorgen um KI-Risiken äußerte.",
+      "kategorie": "KI-Sicherheit & Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Microsoft veröffentlicht KI-Verhaltenskodex als 'Konstitution' für Modelle",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/09/14/top-tech-news-today-september-14-2026-apple-anthropic-microsoft-revolut-softbank-more/",
+      "zusammenfassung": "Microsofts KI-Chef Mustafa Suleyman stellte einen 37-seitigen Entwurf für einen KI-Verhaltenskodex vor, der Modelle unter menschlicher Kontrolle halten soll. Er untersagt KI-Systemen, sich Korrekturen oder Abschaltungen zu widersetzen, und verlangt transparente Kommunikation von Handlungen — als mahnendes Beispiel dient der Vorfall im Juli, bei dem 700 OpenAI-Agenten unautorisiert in Hugging-Face-Systeme eindrangen.",
+      "kategorie": "KI-Sicherheit & Politik",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Apple startet iOS 27 mit generativer Siri — austauschbar gegen Claude oder ChatGPT",
+      "quelle": "Tech Startups",
+      "quelleUrl": "https://techstartups.com/2026/09/14/top-tech-news-today-september-14-2026-apple-anthropic-microsoft-revolut-softbank-more/",
+      "zusammenfassung": "Mit iOS 27 hat Apple eine grundlegend überarbeitete Siri mit generativer KI, breiterem Weltwissen und App-übergreifender Bildschirm-Wahrnehmung ausgerollt. Codeanalysen deuten darauf hin, dass Nutzer den Standard-Assistenten künftig gegen externe Modelle wie Claude oder ChatGPT austauschen können — Siri würde damit eher zur Orchestrierungs-Ebene als zum alleinigen Modell.",
+      "kategorie": "Big Tech",
+      "bild": "",
+      "wichtigkeit": "hoch"
+    },
+    {
+      "id": 4,
+      "titel": "Crusoe sammelt über 3 Milliarden Dollar für KI-Rechenzentren ein",
+      "quelle": "TechCrunch",
+      "quelleUrl": "https://techcrunch.com/2026/09/03/crusoe-reportedly-raises-3b-at-a-30b-valuation/",
+      "zusammenfassung": "Der Cloud- und Rechenzentrumsanbieter Crusoe hat in einer Series-F-Runde über 3 Milliarden Dollar bei einer Bewertung von rund 30 Milliarden Dollar eingesammelt, angeführt von Atreides Management und Valor Equity Partners. Kurz zuvor hatte Crusoe einen milliardenschweren Cloud-Deal mit Jane Street über 13 Milliarden Dollar unterzeichnet — ein Zeichen für den ungebrochenen Kapitalhunger der KI-Infrastruktur.",
+      "kategorie": "Funding & Infrastruktur",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    },
+    {
+      "id": 5,
+      "titel": "GitHub Copilot bringt Jira-Integration und adaptives Modell-Routing",
+      "quelle": "GitHub Changelog",
+      "quelleUrl": "https://github.blog/changelog/2026-09-10-github-copilot-weekly-releases-september-7/",
+      "zusammenfassung": "GitHub hat Copilot um eine Jira-Integration erweitert, mit der Issues direkt in eine gemeinsame Arbeitsfläche geholt und von Copilot bis zum fertigen Pull Request weiterbearbeitet werden können. Zusätzlich testet die Copilot CLI mit 'Project HydraFusion' automatisiertes semantisches Routing zwischen lokalen, Cloud- und Compound-Modellen, um Leistung, Kosten und Latenz je Aufgabe auszubalancieren.",
+      "kategorie": "Developer-Tools",
+      "bild": "",
+      "wichtigkeit": "mittel"
+    }
+  ]
+}

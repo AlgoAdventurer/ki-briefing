@@ -1,0 +1,29 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "Adaptives Modell-Routing für Contouras KI-Auswertungs-Calls",
+      "kontext": "GitHub Copilots 'Project HydraFusion' zeigt, wie automatisiertes Routing zwischen kleinen, schnellen und großen, teureren Modellen je nach Aufgabe Kosten und Latenz balanciert, ohne dass jemand das Modell manuell auswählen muss.",
+      "umsetzung": "Contoura könnte einfache, häufige Auswertungen (z. B. Plausibilitätschecks einzelner Splits) automatisch an ein günstiges Flash-Modell routen und nur komplexe Saisonanalysen oder Trainerkommentare an ein leistungsstärkeres Modell wie Claude Opus 5 weiterleiten — das hält die API-Kosten bei wachsender Nutzerzahl kontrollierbar.",
+      "aufwand": "mittel",
+      "prioritaet": "mittel"
+    },
+    {
+      "id": 2,
+      "titel": "Multi-Agent-Auswertung nach dem Worktree-Prinzip",
+      "kontext": "Metas Muse Code teilt große Aufgaben in parallele Sub-Agenten auf, die jeweils isoliert arbeiten und erst am Ende zusammengeführt werden — ein Muster, das sich auf Datenanalyse statt Coding übertragen lässt.",
+      "umsetzung": "Bei einem großen Saison-Review könnte Contoura mehrere spezialisierte Agenten parallel laufen lassen — einer analysiert Split-Zeiten, einer Fehlerstatistiken, einer den Performance-Index-Verlauf — und die Ergebnisse anschließend zu einem gemeinsamen Trainerbericht zusammenführen, statt alles sequenziell in einem einzigen Prompt abzuarbeiten.",
+      "aufwand": "mittel",
+      "prioritaet": "hoch"
+    },
+    {
+      "id": 3,
+      "titel": "Schnellere, günstigere Bildanalyse von Kartenausschnitten",
+      "kontext": "OpenAIs neues GPT Image 2.5 Flare liefert schärfere Detailerkennung bei rund 50 % geringerer Latenz als der Vorgänger und ist explizit für hochvolumige, schnelle Bildverarbeitung ausgelegt.",
+      "umsetzung": "Contoura könnte hochgeladene Kartenausschnitte und Routenwahl-Fotos künftig in nahezu Echtzeit automatisch analysieren lassen, um Streckenabschnitte automatisch zu markieren und mit den passenden Split-Zeiten zu verknüpfen — bei Kosten, die auch bei vielen gleichzeitigen Uploads tragbar bleiben.",
+      "aufwand": "hoch",
+      "prioritaet": "mittel"
+    }
+  ]
+}

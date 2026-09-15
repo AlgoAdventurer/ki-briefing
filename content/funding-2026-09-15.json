@@ -1,0 +1,14 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "firma": "Crusoe",
+      "betrag": "$3+ Mrd.",
+      "runde": "Series F",
+      "investoren": "Atreides Management, Valor Equity Partners (Co-Lead), Mubadala Capital",
+      "beschreibung": "Der Cloud- und Rechenzentrumsanbieter Crusoe baut spezialisierte, teils netzunabhängige KI-Rechenzentren und beliefert Großkunden wie OpenAI, Microsoft und Meta mit GPU-Kapazität. Die Runde bewertet Crusoe mit rund 30 Milliarden Dollar und folgt kurz auf einen 13-Milliarden-Dollar-Cloud-Vertrag mit der Handelsfirma Jane Street.",
+      "bild": ""
+    }
+  ]
+}

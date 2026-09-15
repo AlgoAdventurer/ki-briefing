@@ -1,0 +1,21 @@
+{
+  "datum": "2026-09-15",
+  "items": [
+    {
+      "id": 1,
+      "titel": "EU-KI-Gesetz: Erste Kontrollwelle bei Hochrisiko-Systemen läuft an",
+      "region": "EU",
+      "detail": "Nach Ende der Übergangsfrist für allgemeine Hochrisiko-Systeme am 2. August 2026 hat das Europäische KI-Büro zusammen mit 24 nationalen Marktaufsichtsbehörden im September die erste geplante Welle an Compliance-Prüfungen gestartet. Behörden wie die französische CNIL, die deutsche BfDI und die spanische AESIA konzentrieren sich zunächst auf automatisiertes CV-Screening im Personalwesen, algorithmische Kreditbewertung im Retail-Banking und KI-Triage-Systeme in privaten Gesundheitskliniken. Unternehmen müssen nun nachweisen, welche KI sie einsetzen, wie sie Menschen betrifft, wer die Ausgaben prüft und was bei Fehlern passiert.",
+      "url": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "auswirkung": "hoch"
+    },
+    {
+      "id": 2,
+      "titel": "Microsoft veröffentlicht eigenen KI-Verhaltenskodex vor schärferer Regulierung",
+      "region": "Global",
+      "detail": "Mit einem 37-seitigen Entwurf für einen KI-Verhaltenskodex positioniert sich Microsoft selbst als Vorreiter freiwilliger Selbstregulierung: Modelle sollen sich Abschaltungen oder Korrekturen nicht widersetzen dürfen, KI-Rechtspersönlichkeit wird explizit abgelehnt. Der Schritt fällt zusammen mit wachsendem politischem Druck durch Amodeis 'Pace the Frontier'-Essay und könnte regulatorischen Vorgaben in den USA und der EU vorgreifen.",
+      "url": "https://techstartups.com/2026/09/14/top-tech-news-today-september-14-2026-apple-anthropic-microsoft-revolut-softbank-more/",
+      "auswirkung": "mittel"
+    }
+  ]
+}
